@@ -1,6 +1,9 @@
 # HDT-Localization
 This is the localization repo for [HearthSim/Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker)
 
+## Status
+- [Status Project](https://github.com/HearthSim/HDT-Localization/projects/1)
+
 ## Missing language
 - Create a PR here with the new Strings file
   - Make sure to use the correct language name for the the `Strings.{lang}.resx` file. See [National Language Support (NLS) API Reference
