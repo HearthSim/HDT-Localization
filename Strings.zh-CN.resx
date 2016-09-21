@@ -688,13 +688,13 @@
     <value>显示克苏恩计数器:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>显示尤格萨隆计数器:</value>
+    <value>显示法术计数器:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>卡组水平居中</value>
+    <value>卡组垂直居中</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>包括额外创建的卡牌</value>
@@ -715,13 +715,13 @@
     <value>显示克苏恩计数器:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>显示尤格萨隆计数器:</value>
+    <value>显示法术计数器:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>卡组水平居中</value>
+    <value>卡组垂直居中</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
     <value>绿色标记手牌</value>
@@ -730,7 +730,7 @@
     <value>橙色标记抽牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>如果卡牌用过，不显示在卡组中</value>
+    <value>如果卡牌用光，不显示在卡组中</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>包括手牌创建的卡牌 (例如硬币)</value>
@@ -1930,6 +1930,9 @@
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
     <value>经典</value>
   </data>
+  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
+    <value>可选</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>默认</value>
   </data>
@@ -2661,5 +2664,32 @@
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
     <value>包括狂野模式的标准卡组</value>
+  </data>
+  <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
+    <value>胜率</value>
+  </data>
+  <data name="Enum_DeckPanel_Cards" xml:space="preserve">
+    <value>卡牌</value>
+  </data>
+  <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
+    <value>卡牌计数器</value>
+  </data>
+  <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
+    <value>抽牌概率</value>
+  </data>
+  <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
+    <value>疲劳计数器</value>
+  </data>
+  <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
+    <value>卡组名</value>
+  </data>
+  <data name="Enum_DeckPanel_Wins" xml:space="preserve">
+    <value>胜</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
+    <value>许多翻译仍然缺少或者进行中。如果你想要帮忙，你可以点这里</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
+    <value>浏览器打开本地化repo</value>
   </data>
 </root>
