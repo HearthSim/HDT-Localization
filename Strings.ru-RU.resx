@@ -117,4 +117,220 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MainWindow_Menu_New" xml:space="preserve">
+    <value>Новая</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
+    <value>Друид</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
+    <value>Охотник</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
+    <value>Маг</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
+    <value>Жрец</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
+    <value>Паладин</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
+    <value>Разбойник</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
+    <value>Шаман</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
+    <value>Чернокнижник</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
+    <value>Воин</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
+    <value>Ред. колоду</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
+    <value>Ред. имя</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
+    <value>Ред. заметку</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
+    <value>Ред. тэг</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
+    <value>Быстрая смена тэга</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
+    <value>Переместить на арену</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
+    <value> Открыть HeathStats</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
+    <value>Клонировать</value>
+  </data>
+  <data name="MainWindow_Menu_Deck" xml:space="preserve">
+    <value>Колода</value>
+  </data>
+  <data name="MainWindow_Menu_Import" xml:space="preserve">
+    <value>Импорт</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
+    <value>С сайта</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
+    <value>Из Арены</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
+    <value>Из Потасовки</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
+    <value>Прочее</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
+    <value>Из файла</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
+    <value>Из буфера обмена</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
+    <value>С прошлой игры</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
+    <value>С IDs</value>
+  </data>
+  <data name="MainWindow_Menu_Export" xml:space="preserve">
+    <value>Экспорт</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
+    <value>В Hearthstone</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
+    <value>В Hearthstone с Сайта</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
+    <value>Сохранить как XML</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
+    <value>Копировать IDs</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
+    <value>Копировать имя</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
+    <value>Скриншот</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
+    <value>Скриншот (с информ.)</value>
+  </data>
+  <data name="MainWindow_Menu_Stats" xml:space="preserve">
+    <value>Статистика</value>
+  </data>
+  <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
+    <value>Арена</value>
+  </data>
+  <data name="MainWindow_Menu_Replays" xml:space="preserve">
+    <value>Повторы</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
+    <value>Посл. повтор</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
+    <value>Мой аккаунт</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
+    <value>Вход</value>
+  </data>
+  <data name="MainWindow_Menu_Plugins" xml:space="preserve">
+    <value>Плагины</value>
+  </data>
+  <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
+    <value>Пусто...</value>
+  </data>
+  <data name="MainWindow_TitleBar_Options" xml:space="preserve">
+    <value>Опции</value>
+  </data>
+  <data name="MainWindow_TitleBar_Help" xml:space="preserve">
+    <value>Помощь</value>
+  </data>
+  <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
+    <value>Донат</value>
+  </data>
+  <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
+    <value>Опции</value>
+  </data>
+  <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
+    <value>Помощь</value>
+  </data>
+  <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
+    <value>Колода Противника</value>
+  </data>
+  <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
+    <value>Заметки</value>
+  </data>
+  <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
+    <value>Выбрать Тэг</value>
+  </data>
+  <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
+    <value>Ошибки</value>
+  </data>
+  <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
+    <value>Статистика</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
+    <value>Доступно обновление</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
+    <value>Нажмите для обновления</value>
+  </data>
+  <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
+    <value>Запуск Launcher / Hearthstone</value>
+  </data>
+  <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
+    <value>Выбранная версия:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
+    <value>Карты:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
+    <value>(текущая)</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
+    <value>Стоимость</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
+    <value>Только класс</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
+    <value>Только нейтрал.</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Filter" xml:space="preserve">
+    <value>Фильттр</value>
+  </data>
 </root>
