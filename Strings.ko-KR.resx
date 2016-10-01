@@ -1327,7 +1327,7 @@
     <value>설정</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>상대 덱 보이기</value>
+    <value>상대 덱 보기</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>엔터 키로 저장</value>
@@ -1477,7 +1477,7 @@
     <value>활성화</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>전장 공격 카운터 보이기</value>
+    <value>전장 공격 카운터 보기</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>덱을 수직 방향으로 가운데 정렬</value>
@@ -1495,7 +1495,7 @@
     <value>상대</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>크툰 카운터 보이기</value>
+    <value>크툰 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
     <value>불투명도:</value>
@@ -1507,13 +1507,13 @@
     <value>비밀 크기:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>주문 카운터 보이기:</value>
+    <value>주문 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>비밀 불투명도:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>전장 공격 카운터 보이기</value>
+    <value>전장 공격 카운터 보기</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>덱을 수직 방향으로 가운데 정렬</value>
@@ -1537,7 +1537,7 @@
     <value>플레이어</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>크툰 카운터 보이기</value>
+    <value>크툰 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>불투명도:</value>
@@ -1546,13 +1546,13 @@
     <value>크기:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>주문 카운터 보이기:</value>
+    <value>주문 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>카드 불투명도 전환 비활성화 (권장)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>캡쳐 가능한 오버레이 창 보이기</value>
+    <value>캡쳐 가능한 오버레이 창 보기</value>
   </data>
   <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
     <value>스트리밍</value>
@@ -2242,7 +2242,7 @@
     <value>자동으로 덱을 "사용". (덱에 있는 버튼을 없앰)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>카드 툴팁을 보임</value>
+    <value>카드 툴팁 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
     <value>내 턴이 시작할 때 작업표시줄의 하스스톤 아이콘 깜빡임</value>
@@ -2251,10 +2251,10 @@
     <value>라틴 문자가 아닌 언어에 대해 기본 폰트 사용</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>덱의 마지막 플레이 날짜 보이기</value>
+    <value>덱의 마지막 플레이 날짜 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
-    <value>마나 커브 보이기</value>
+    <value>마나 커브 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
     <value>턴의 시작에 하스스톤 창 띄우기</value>
@@ -2398,7 +2398,7 @@
     <value>메뉴로 돌아갈 때까지 대기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ShowNotifications" xml:space="preserve">
-    <value>알림 보이기</value>
+    <value>알림 보기</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
     <value>사용 가능한 플러그인</value>
@@ -2443,7 +2443,7 @@
     <value>등급전</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>공유 알림 보이기</value>
+    <value>공유 알림 보기</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>관전</value>
@@ -2482,7 +2482,7 @@
     <value>하스스톤과 함께 닫기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>로그 보이기</value>
+    <value>로그 보기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
     <value>트레이로 최소화</value>
