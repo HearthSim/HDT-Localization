@@ -139,10 +139,10 @@
     <value>Abrir HearthStats</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
-    <value>_Eliminar</value>
+    <value>Elimina_r</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
-    <value>Clonar</value>
+    <value>_Clonar</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
     <value>_Importar</value>
@@ -163,7 +163,7 @@
     <value>_Exportar</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>para Hearthstone</value>
+    <value>para _Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
     <value>_Plugins</value>
@@ -229,7 +229,7 @@
     <value>Adversário</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Editar _deck</value>
+    <value>Editar _baralho</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>Novidades:</value>
@@ -268,22 +268,22 @@
     <value>Geral:</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>Deck completo</value>
+    <value>Baralho completo</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
     <value>Versão selecionada</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
-    <value>_Deck</value>
+    <value>_Baralho</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>Cartas:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
-    <value>Gravar</value>
+    <value>Guardar</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Gravar como novo</value>
+    <value>Guardar como novo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Filter" xml:space="preserve">
     <value>Filtrar</value>
@@ -313,22 +313,22 @@
     <value>Mostrar histórico das versões</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Ocultar decks</value>
+    <value>Ocultar baralhos</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
-    <value>Definir nome do deck</value>
+    <value>Definir nome do baralho</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Usar maiúsculas nos nomes de decks</value>
+    <value>Usar maiúsculas nos nomes de baralhos</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Procurar...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>_Usar deck</value>
+    <value>_Usar baralho</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Editar _deck</value>
+    <value>Editar _baralho</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>Editar _nome</value>
@@ -343,7 +343,7 @@
     <value>Mostrar cartas em _falta</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Gravar como _XML</value>
+    <value>Guardar como _XML</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
     <value>_Arena</value>
@@ -406,10 +406,10 @@
     <value>Sumário</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>Nenhum</value>
+    <value>Nenhuma</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
-    <value>Gravar</value>
+    <value>Guardar</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>Cartas</value>
@@ -523,7 +523,7 @@
     <value>E_statísticas</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
-    <value>Sincronizar agora</value>
+    <value>_Sincronizar agora</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
     <value>Sincronizar no início</value>
@@ -550,13 +550,13 @@
     <value>Desde:</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Manter as estatísticas quando apagar um deck*</value>
+    <value>Manter as estatísticas quando apagar um baralho*</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
     <value>Abrir HearthStats</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>Deck:</value>
+    <value>Baralho:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
     <value>Tempo jogado:</value>
@@ -577,7 +577,7 @@
     <value>Eliminar selecionados</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Baralho</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>Classe</value>
@@ -640,7 +640,7 @@
     <value>Total</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
-    <value>Melhor deck</value>
+    <value>Melhor baralho</value>
   </data>
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
     <value>Mostrar como percentagem</value>
@@ -715,7 +715,7 @@
     <value>Ordenar por classe</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>Da Taverna</value>
+    <value>da _Taverna</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
     <value>Taverna</value>
@@ -730,7 +730,7 @@
     <value>Taverna</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
-    <value>Deck ativo:</value>
+    <value>Baralho ativo:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
     <value>Nenhum</value>
@@ -739,31 +739,31 @@
     <value>Ativo</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
-    <value>Apenas deck ativo</value>
+    <value>Apenas baralho ativo</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Aventura / Treino</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>Clique "USAR" no deck para ativar</value>
+    <value>Clique "USAR" no baralho para ativar</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
     <value>Usar</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>Automaticamente "USAR" decks. (desativa o botão nos decks)</value>
+    <value>Automaticamente "USAR" baralhos. (desativa o botão nos baralhos)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Centrar deck verticalmente</value>
+    <value>Centrar baralho verticalmente</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Centrar deck verticalmente</value>
+    <value>Centrar baralho verticalmente</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
     <value>Todos</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
-    <value>Todos</value>
+    <value>Tudo</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Todos</value>
@@ -853,16 +853,16 @@
     <value>Mecânicas</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>Modo sem deck</value>
+    <value>Modo sem baralho</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Isto moverá as stats para o 'deck por defeito da classe' (também se usado modo sem deck). Isto quer dizer, estatísticas de séries de arena serão perdidos quando apagar decks de arena!</value>
+    <value>Isto moverá as stats para o 'baralho por defeito da classe' (também se usado modo sem baralho). Isto quer dizer, estatísticas de séries de arena serão perdidos quando apagar baralhos de arena!</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
     <value>Ocultar</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Ocultar deck do adversário</value>
+    <value>Ocultar baralho do adversário</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
     <value>Ocultar antiguidade das cartas</value>
@@ -895,7 +895,7 @@
     <value>Contador</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>_Definir etiquetas</value>
+    <value>De_finir etiquetas</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>Ligar UR_L</value>
@@ -940,7 +940,7 @@
     <value>Clique aqui para atualizar agora</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Auto atualizar decks modificados</value>
+    <value>Auto atualizar baralhos modificados</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Procurar atualizações</value>
@@ -982,10 +982,10 @@
     <value>Incluir séries arquivadas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Incluir decks arquivados</value>
+    <value>Incluir baralhos arquivados</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Arquivar decks de arena quando a série terminar</value>
+    <value>Arquivar baralhos de arena quando a série terminar</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
     <value>Séries de Arena</value>
@@ -1006,13 +1006,13 @@
     <value>Mostrar quadro de recompensas quando a série de arena termina</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Modelo para nomes de decks Arena</value>
+    <value>Modelo para nomes de baralhos Arena</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
     <value>Iniciar o Hearthstone e entrar no menu 'Jogar'.</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Importar &amp; gravar automaticamente</value>
+    <value>Importar &amp; guardar automaticamente</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
     <value>Perguntar automaticamente para importar</value>
@@ -1024,7 +1024,7 @@
     <value>Iniciar o Hearthstone e entrear no menu 'Taverna'.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
-    <value>Não foram encontrados novos decks.</value>
+    <value>Não foram encontrados novos baralhos.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
     <value>Entrar no menu 'Jogar'.</value>
@@ -1033,13 +1033,13 @@
     <value>Entrar no menu 'Taverna'.</value>
   </data>
   <data name="Importing_Constructed_Label_Title" xml:space="preserve">
-    <value>Selecione decks para importar:</value>
+    <value>Selecione baralhos para importar:</value>
   </data>
   <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
-    <value>Gravar para</value>
+    <value>Guardar para</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Baralho</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>Esperando por Hearthstone...</value>
@@ -1054,31 +1054,31 @@
     <value>Ativar importação automática</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>Importação de Deck</value>
+    <value>Importação de baralho</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
     <value>de IDs</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Outro</value>
+    <value>_Outros</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
     <value>da Área de transferência</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>De Construído</value>
+    <value>de _Construído</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>Importar automaticamente novos decks</value>
+    <value>Importar automaticamente novos baralhos</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Gravar automaticamente o deck ao importar</value>
+    <value>Guardar automaticamente o baralho ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
     <value>Importando</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>Isto vai verificar por decks novos ou modificados cada vez que entrar no menu 'jogar'.</value>
+    <value>Isto vai verificar por baralhos novos ou modificados cada vez que entrar no menu 'jogar'.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
     <value>Comportamento de importação:</value>
@@ -1087,13 +1087,13 @@
     <value>Download NetDeck (extensão Chrome)</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Etiquetar decks ao importar</value>
+    <value>Etiquetar baralhos ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
     <value>Importar automaticamente via NetDeck</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Gravar deck automaticamente ao importar</value>
+    <value>Guardar baralho automaticamente ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
@@ -1108,22 +1108,22 @@
     <value>Construído</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copiar _nomes para a área de transferência</value>
+    <value>Copiar _nomes para área de transferência</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>Screenshot (com informação)</value>
+    <value>S_creenshot (com informação)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>_Screenshot</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Copiar IDs para Area _Transferência</value>
+    <value>Copiar _IDs para Área de Transferência</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>Para Hearthstone da _Web</value>
+    <value>para Hearthstone via _Web</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>_Escolha das estatísticas</value>
+    <value>_Ver estatísticas</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>Minha conta</value>
@@ -1135,7 +1135,7 @@
     <value>Carregar de _ficheiro</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>Reivindicar conta</value>
+    <value>_Reivindicar conta</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
     <value>_Repetições</value>
@@ -1150,7 +1150,7 @@
     <value>Casual</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>Aventura/Treino</value>
+    <value>Aventura / Treino</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
     <value>Repetição</value>
@@ -1174,7 +1174,7 @@
     <value>Upload automático de jogos</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Upload automático de novos decks</value>
+    <value>Upload automático de novos baralhos</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
     <value>Sincronizar automaticamente em segundo plano</value>
@@ -1186,28 +1186,28 @@
     <value>Entrar</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
-    <value>Forçar sincronização completa</value>
+    <value>_Forçar sincronização completa</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
-    <value>Eliminar decks selecionados</value>
+    <value>Eliminar baralhos selecionados</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
     <value>Eliminar jogos automaticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
-    <value>Eliminar decks automaticamente</value>
+    <value>Eliminar baralhos automaticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
-    <value>Painel de controle (web)</value>
+    <value>_Painel de controle (web)</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>Vazio...</value>
   </data>
   <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
-    <value>Deck do adversário</value>
+    <value>Baralho do adversário</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Ordenar / Filtrar decks</value>
+    <value>Ordenar / Filtrar baralhos</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
     <value>Mover para nova janela</value>
@@ -1219,7 +1219,7 @@
     <value>Iniciar Cliente / Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>Mover para construído</value>
+    <value>_Mover para construído</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
     <value>_Construído</value>
@@ -1243,22 +1243,22 @@
     <value>Limite de cartas Construído</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Histórico do deck:</value>
+    <value>Histórico do baralho:</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Mover para janela principal</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>_Definir etiquetas</value>
+    <value>De_finir etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>Aplicar filtros de etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar decks' (botão dupla seta)</value>
+    <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar baralhos' (botão dupla seta)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Não limpar decks depois de um jogo</value>
+    <value>Não limpar baralhos depois de um jogo</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Limpar</value>
@@ -1288,13 +1288,13 @@
     <value>Padrão</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>Este deck pode ser usado no modo 'Padrão'.</value>
+    <value>Este baralho pode ser usado no modo 'Padrão'.</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
     <value>Padrão</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Incluir decks 'Padrão' em 'Selvagem'</value>
+    <value>Incluir baralhos 'Padrão' em 'Selvagem'</value>
   </data>
   <data name="Enum_Format_Wild" xml:space="preserve">
     <value>Selvagem</value>
@@ -1432,7 +1432,7 @@
     <value>Principal:</value>
   </data>
   <data name="Options_Tracker_General_Label_Secondary" xml:space="preserve">
-    <value>Secundário:</value>
+    <value>Secundária:</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostrar a curva de mana</value>
@@ -1507,7 +1507,7 @@
     <value>Clonar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>Deck inteiro</value>
+    <value>Baralho inteiro</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
     <value>Índice de vitórias:</value>
@@ -1631,5 +1631,791 @@
   </data>
   <data name="AddGameDialog_Label_Player" xml:space="preserve">
     <value>Jogador:</value>
+  </data>
+  <data name="ArenaRewardsDialog_Title" xml:space="preserve">
+    <value>Recompensas da Arena</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Rewards" xml:space="preserve">
+    <value>Recompensas</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
+    <value>Editar recompensas</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
+    <value>Pacotes</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
+    <value>Pacotes</value>
+  </data>
+  <data name="ArenaRewards_Label_Packs" xml:space="preserve">
+    <value>Pacotes</value>
+  </data>
+  <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
+    <value>Pagamento usado</value>
+  </data>
+  <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
+    <value>Mostrar automaticamente</value>
+  </data>
+  <data name="Enum_GameMode_All" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
+    <value>nome ou descrição</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
+    <value>Mostrar estado da bateria</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
+    <value>Interatividade</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
+    <value>Funcionalidades:</value>
+  </data>
+  <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
+    <value>ou</value>
+  </data>
+  <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
+    <value>Idioma das cartas</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
+    <value>Reiniciar para aplicar mudanças de idioma.</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
+    <value>Minimizar para a bandeja</value>
+  </data>
+  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
+    <value>Registos</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
+    <value>Mostrar diálogo antes de exportar</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
+    <value>Mostrar notas depois do jogo</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
+    <value>Mostrar registo</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
+    <value>Existiu um problema ao atualizar log.config</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
+    <value>Abrir pasta AppData</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
+    <value>Guardar configurações em AppData</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_SaveDataAppData" xml:space="preserve">
+    <value>Guardar dados em AppData</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
+    <value>Esperar por voltar ao menu</value>
+  </data>
+  <data name="MoveGameDialog_Title" xml:space="preserve">
+    <value>Escolha o baralho</value>
+  </data>
+  <data name="MoveGameDialog_Button_Move" xml:space="preserve">
+    <value>Mover para selecionado</value>
+  </data>
+  <data name="AddGameDialog_Label_Result" xml:space="preserve">
+    <value>Resultado:</value>
+  </data>
+  <data name="AddGameDialog_Label_Vs" xml:space="preserve">
+    <value>VS:</value>
+  </data>
+  <data name="AddGameDialog_Label_Mode" xml:space="preserve">
+    <value>Modo:</value>
+  </data>
+  <data name="AddGameDialog_Label_Format" xml:space="preserve">
+    <value>Formato:</value>
+  </data>
+  <data name="AddGameDialog_Label_Region" xml:space="preserve">
+    <value>Região:</value>
+  </data>
+  <data name="AddGameDialog_Label_Rank" xml:space="preserve">
+    <value>Nível:</value>
+  </data>
+  <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
+    <value>Nível Lendário:</value>
+  </data>
+  <data name="AddGameDialog_Label_Coin" xml:space="preserve">
+    <value>Moeda:</value>
+  </data>
+  <data name="AddGameDialog_Label_Turns" xml:space="preserve">
+    <value>Turnos:</value>
+  </data>
+  <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
+    <value>Concedido:</value>
+  </data>
+  <data name="AddGameDialog_Label_Duration" xml:space="preserve">
+    <value>Duração (min):</value>
+  </data>
+  <data name="AddGameDialog_Label_Note" xml:space="preserve">
+    <value>Nota:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
+    <value>Nome do adversáio...</value>
+  </data>
+  <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
+    <value>Baralho do adversário</value>
+  </data>
+  <data name="OpponentWindow_Title" xml:space="preserve">
+    <value>Adversário</value>
+  </data>
+  <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
+    <value>Adversário:</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
+    <value>Nível</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_HighestRank" xml:space="preserve">
+    <value>Nível mais alto:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Rank" xml:space="preserve">
+    <value>Nível:</value>
+  </data>
+  <data name="Enum_GameMode_Ranked" xml:space="preserve">
+    <value>Classificado</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
+    <value>Tónica:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
+    <value>Tema das cartas:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
+    <value>layout do baralho:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
+    <value>Caixilhos coloridos pela raridade da carta</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_RarityGems" xml:space="preserve">
+    <value>Joia colorida pela raridade da carta</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
+    <value>Usar animações metro</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
+    <value>Restaurar selecionados</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
+    <value>Mostrar a pasta de Backup</value>
+  </data>
+  <data name="Options_Tracker_Backups_Header" xml:space="preserve">
+    <value>Backups</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Header" xml:space="preserve">
+    <value>Teclas de Atalho</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
+    <value>Pressione a tecla</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
+    <value>Plugins disponíveis</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
+    <value>Abrir pasta</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
+    <value>Pasta de Plugins</value>
+  </data>
+  <data name="Options_Tracker_Header" xml:space="preserve">
+    <value>Rastreador</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
+    <value>Transmissão</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
+    <value>Apenas se HS em primeiro plano</value>
+  </data>
+  <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
+    <value>Hex personalizado:</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
+    <value>Dicas de contexto das marcas das cartas</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
+    <value>Desabilitar segredos automaticamente</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
+    <value>Clique no segredo para desabilitar</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
+    <value>NOTA: Pode não funcionar corretamente se &amp;quot;opções &gt; sobreposição &gt; geral &gt; desabilitar segredos automaticamente&amp;quot; estiver ativado.</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
+    <value>Mostrar texto extra das cartas ao sobrepor o rato (mesa/mão)</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
+    <value>Mover para outro baralho</value>
+  </data>
+  <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
+    <value>Quase tudo na sobreposição pode ser desativado, movido ou redimensionado.</value>
+  </data>
+  <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
+    <value>Mover/Redimensionar objetos:</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
+    <value>Mostrar baralho próprio</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
+    <value>Mostrar baralho do adversário</value>
+  </data>
+  <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
+    <value>Adicionar novo jogo no baralho ativo</value>
+  </data>
+  <data name="CrashDialog_Label_Crashed" xml:space="preserve">
+    <value>Hearthstone Deck Tracker falhou :(</value>
+  </data>
+  <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
+    <value>Escolhe o baralho</value>
+  </data>
+  <data name="DeckSelectedDialog_Title" xml:space="preserve">
+    <value>Baralho errado detetado</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Blackrock Mountain.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Goblins vs Gnomes.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
+    <value>Baralho contém cartas da expansão One Night in Karazhan.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
+    <value>Baralho contém cartas da expansão League of Explorers.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Curse of Naxxramas.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
+    <value>Baralho contém cartas da expansão The Grand Tournament.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Whispers of the Old Gods.</value>
+  </data>
+  <data name="DeckTypeDialog_Button_Create" xml:space="preserve">
+    <value>Criar baralho</value>
+  </data>
+  <data name="DeckTypeDialog_Title" xml:space="preserve">
+    <value>Escolher tipo de baralho</value>
+  </data>
+  <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
+    <value>cartas usadas não correspondem ao baralho selecionado</value>
+  </data>
+  <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
+    <value>Título do baralho</value>
+  </data>
+  <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
+    <value>2) Enviar email para support@hsdecktracker.net (apenas em inglês)</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
+    <value>A probabilidade de sacar uma carta com X cópias restantes no baralho.</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
+    <value>O número de cópias restantes no baralho para uma certa carta.</value>
+  </data>
+  <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
+    <value>Mostrar baralho do adversário</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
+    <value>Esconder baralho quando a lista de amigos estiver aberta</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
+    <value>Destacar descartadas do baralho</value>
+  </data>
+  <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
+    <value>Cópias de segurança são criadas automaticamente no início de cada dia. Elas contém baralhos, jogos e configurações. Se existirem mais de 7 (geradas automaticamente) cópias, a mais antiga é removida.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
+    <value>Procura de texto completo no editor de baralhos</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
+    <value>Mostrar nos baralhos a última data jogada</value>
+  </data>
+  <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
+    <value>Cartas não encontradas no baralho:</value>
+  </data>
+  <data name="SortFilter_Label_Constructed" xml:space="preserve">
+    <value>Ordenação de baralho: Todos/Construído</value>
+  </data>
+  <data name="SortFilter_Label_Arena" xml:space="preserve">
+    <value>Ordenação de baralho: Arena</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
+    <value>Mostrar as estatísticas do baralho numa janela separada</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
+    <value>(nos baralhos e na sobreposição)</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
+    <value>Descartar jogo se o baralho não corresponder às cartas</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_FastestDeck" xml:space="preserve">
+    <value>Baralho mais rápido</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_MostPlayedDeck" xml:space="preserve">
+    <value>Baralho mais usado</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
+    <value>Baralho do adv.</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_SelectDeck" xml:space="preserve">
+    <value>Escolher baralho</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_SlowestDeck" xml:space="preserve">
+    <value>Baralho mais lento</value>
+  </data>
+  <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
+    <value>Adicionar jogo</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
+    <value>Jogo em média:</value>
+  </data>
+  <data name="DiscardGameDialog_Title" xml:space="preserve">
+    <value>Descartar jogo?</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
+    <value>Descartar jogos sem turnos</value>
+  </data>
+  <data name="AddGameDialog_Title_Edit" xml:space="preserve">
+    <value>Editar jogo</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
+    <value>Resultado do jogo</value>
+  </data>
+  <data name="NoteWindow_Title" xml:space="preserve">
+    <value>Notas para este jogo</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
+    <value>Vitó/Derr vs classe</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch" xml:space="preserve">
+    <value>Pesquisa avançada de janela</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
+    <value>Distribuição de classes por vitórias</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
+    <value>Mostrar a janela de sobreposição possível de capturar</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
+    <value>Isto vai adicionar uma cópia da sobreposição em chroma por trás da janela Hearthstone.</value>
+  </data>
+  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
+    <value>1) Repara em</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
+    <value>"upload" irá enviar automaticamente a imagem para imgur.com</value>
+  </data>
+  <data name="SplashScreen_Text_Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
+    <value>Guardar &amp; upload</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
+    <value>Mostrar o ecrã de carregamento</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
+    <value>Upload automático de repetições</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
+    <value>Upload para</value>
+  </data>
+  <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
+    <value>(botão no fundo)</value>
+  </data>
+  <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
+    <value>Informação adicional (opcional)</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
+    <value>Gráficos avançados</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
+    <value>Alternativo</value>
+  </data>
+  <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
+    <value>Alternativo</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture" xml:space="preserve">
+    <value>Captura de ecrã alternativa</value>
+  </data>
+  <data name="Enum_DisplayMode_Always" xml:space="preserve">
+    <value>Sempre</value>
+  </data>
+  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
+    <value>Analítica</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
+    <value>Tem a certeza?</value>
+  </data>
+  <data name="Enum_Region_Asia" xml:space="preserve">
+    <value>Asia</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
+    <value>Perguntar antes de descartar</value>
+  </data>
+  <data name="Enum_DisplayMode_Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="DeckPicker_Button_Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Stats_Overview_Filters_CheckBox_AutoRefresh" xml:space="preserve">
+    <value>Atualizar automaticamente</value>
+  </data>
+  <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
+    <value>Guardar automaticamente quando o diálogo é fechado</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
+    <value>Melhor correspondência:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_BestMatchup" xml:space="preserve">
+    <value>Melhor correspondência:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
+    <value>Pior correspondência:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
+    <value>Pior correspondência:</value>
+  </data>
+  <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
+    <value>Marcas das cartas</value>
+  </data>
+  <data name="Enum_GameMode_Casual" xml:space="preserve">
+    <value>Casual</value>
+  </data>
+  <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
+    <value>Tu \ VS</value>
+  </data>
+  <data name="Enum_TimeFrame_Yesterday" xml:space="preserve">
+    <value>Ontem</value>
+  </data>
+  <data name="Enum_YesNo_Yes" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
+    <value>Armas</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
+    <value>Usar a mesma escalação para jogador/adversário</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
+    <value>Usar a mesma escalação para jogador/adversário</value>
+  </data>
+  <data name="Enum_Region_US" xml:space="preserve">
+    <value>EUA</value>
+  </data>
+  <data name="SplashScreen_Text_Updating" xml:space="preserve">
+    <value>Atualizando...</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
+    <value>Usar visualizador de repetições local</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
+    <value>Usar tipo de letra por defeito para linguagens não latinas</value>
+  </data>
+  <data name="Enum_Region_Unknown" xml:space="preserve">
+    <value>Desconhecido</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Turns" xml:space="preserve">
+    <value>Turnos:</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Turns" xml:space="preserve">
+    <value>Turnos</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Turns" xml:space="preserve">
+    <value>Turnos</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
+    <value>Tente iniciar o HDT como administrador.</value>
+  </data>
+  <data name="Enum_TimeFrame_Today" xml:space="preserve">
+    <value>Hoje</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
+    <value>Hoje</value>
+  </data>
+  <data name="CrashDialog_Text" xml:space="preserve">
+    <value>Para nos ajudar a encontrar uma solução para este problema, por favor anexe uma descrição do que estava a fazer antes da falha acontecer, bem como qualquer outra informação que ache necessária.</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
+    <value>para</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
+    <value>para</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
+    <value>para</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
+    <value>Espaço de tempo:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
+    <value>Tempo;</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Time" xml:space="preserve">
+    <value>Tempo</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
+    <value>Este ano</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
+    <value>Esta semana</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
+    <value>Esta semana</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
+    <value>Este mês</value>
+  </data>
+  <data name="Help_Github_Text1" xml:space="preserve">
+    <value>O projeto pode ser encontrado</value>
+  </data>
+  <data name="Help_Github_Text2" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
+    <value>Enviar dados anónimos</value>
+  </data>
+  <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
+    <value>estatísticas</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
+    <value>Iniciado</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
+    <value>Iniciado</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Started" xml:space="preserve">
+    <value>Iniciado</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Start" xml:space="preserve">
+    <value>Início:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Start" xml:space="preserve">
+    <value>Início:</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
+    <value>Iniciar o Hearthstone com o HDT</value>
+  </data>
+  <data name="Enum_IconStyle_Square" xml:space="preserve">
+    <value>Quadrado</value>
+  </data>
+  <data name="Enum_GameMode_Spectator" xml:space="preserve">
+    <value>Espectador</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Spells" xml:space="preserve">
+    <value>Feitiços</value>
+  </data>
+  <data name="CrashDialog_Button_Send" xml:space="preserve">
+    <value>Enviar relatório</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
+    <value>Temporadas:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
+    <value>Temporadas:</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
+    <value>Guardado em</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
+    <value>Guardado em</value>
+  </data>
+  <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
+    <value>Guardar com ENTER</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="DeckNotes_Button_Save" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="Enum_IconStyle_Round" xml:space="preserve">
+    <value>Redondo</value>
+  </data>
+  <data name="MessageDialogs_Restart_Title" xml:space="preserve">
+    <value>Reinicio necessário</value>
+  </data>
+  <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
+    <value>Reiniciar agora</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
+    <value>Gravar</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
+    <value>Ano anterior</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
+    <value>Semana anterior</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
+    <value>Mês anterior</value>
+  </data>
+  <data name="Enum_GameMode_Practice" xml:space="preserve">
+    <value>Treino</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
+    <value>Gráficos</value>
+  </data>
+  <data name="Enum_Region_China" xml:space="preserve">
+    <value>China</value>
+  </data>
+  <data name="CrashDialog_Button_Close" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
+    <value>fechar</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
+    <value>Clássico</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
+    <value>Clássico</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Classic" xml:space="preserve">
+    <value>Clássico:</value>
+  </data>
+  <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
+    <value>Construído</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
+    <value>Construído</value>
+  </data>
+  <data name="UpdateNotes_Label_Continue" xml:space="preserve">
+    <value>Continuar...</value>
+  </data>
+  <data name="CrashDialog_Title" xml:space="preserve">
+    <value>Relatório de falhas</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
+    <value>Escuro</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
+    <value>Última temporada</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
+    <value>Temporada específica</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
+    <value>Temporada atual</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Played" xml:space="preserve">
+    <value>Jogado</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
+    <value>Jogado</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
+    <value>Abrir no navegador</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Enum_GameMode_None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="Enum_GameResult_None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="Enum_YesNo_No" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="Enum_DisplayMode_Never" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+  <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
+    <value>Movendo/Redimensionando:</value>
+  </data>
+  <data name="ArenaRewards_Payment_Label_Money" xml:space="preserve">
+    <value>Dinheiro</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
+    <value>Claro</value>
+  </data>
+  <data name="Enum_DisplayedStats_Latest" xml:space="preserve">
+    <value>Último</value>
+  </data>
+  <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
+    <value>Depois</value>
+  </data>
+  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
+    <value>Última vez jogada</value>
+  </data>
+  <data name="Enum_TimeFrame_Last7Days" xml:space="preserve">
+    <value>Últimos 7 dias</value>
+  </data>
+  <data name="Enum_TimeFrame_Last24Hours" xml:space="preserve">
+    <value>Últimas 24 horas</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
+    <value>Manter</value>
+  </data>
+  <data name="Help_Label_Github" xml:space="preserve">
+    <value>Projeto GitHub</value>
+  </data>
+  <data name="Enum_GameMode_Friendly" xml:space="preserve">
+    <value>Amigável</value>
+  </data>
+  <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
+    <value>Contador de fadiga</value>
+  </data>
+  <data name="Help_Label_Faq" xml:space="preserve">
+    <value>FAQ</value>
+  </data>
+  <data name="Enum_Region_EU" xml:space="preserve">
+    <value>EU</value>
+  </data>
+  <data name="CrashDialog_Label_Error" xml:space="preserve">
+    <value>Erro:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_End" xml:space="preserve">
+    <value>Fim:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_End" xml:space="preserve">
+    <value>Fim:</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
+    <value>Mostrar</value>
+  </data>
+  <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
+    <value>Predefinido</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
+    <value>Destacar última carta sacada</value>
+  </data>
+  <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
+    <value>Probabilidades de sacar</value>
+  </data>
+  <data name="Enum_GameResult_Draw" xml:space="preserve">
+    <value>Sacar</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
+    <value>Isto inclui o próximo sacanço mas nada para além disso.</value>
+  </data>
+  <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
+    <value>Próximo sacanço terá fadiga de:</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
+    <value>Probabilidade de sacar:</value>
   </data>
 </root>
