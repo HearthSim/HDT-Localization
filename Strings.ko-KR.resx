@@ -262,7 +262,7 @@
     <value>덱 없음 모드</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
-    <value>보관</value>
+    <value>보관(_A)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
     <value>복제</value>
@@ -274,37 +274,37 @@
     <value>선택된 버전</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>덱 편집</value>
+    <value>덱 편집(_D)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
     <value>삭제</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
-    <value>URL로 링크</value>
+    <value>URL로 링크(_L)</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>투기장 덱으로 이동</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
-    <value>이름 편집</value>
+    <value>이름 편집(_M)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>메모 편집</value>
+    <value>메모 편집(_N)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
     <value>HearthStats 열기</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>빠른 태그 설정</value>
+    <value>빠른 태그 설정(_Q)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>태그 수정</value>
+    <value>태그 수정(_T)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
     <value>보관 취소</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>덱 사용</value>
+    <value>덱 사용(_U)</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>보관됨</value>
@@ -376,16 +376,16 @@
     <value>덱의 종류를 선택하세요</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>새 URL로 링크</value>
+    <value>새 URL로 링크(_L)</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>빠진 카드 보기</value>
+    <value>빠진 카드 보기(_M)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>웹사이트 열기</value>
+    <value>웹사이트 열기(_W)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>업데이트 (웹)</value>
+    <value>업데이트 (웹)(_U)</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
     <value>제거</value>
@@ -976,37 +976,37 @@
     <value>선택된 버전:</value>
   </data>
   <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
-    <value>드루이드</value>
+    <value>드루이드(_D)</value>
   </data>
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
-    <value>사냥꾼</value>
+    <value>사냥꾼(_H)</value>
   </data>
   <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
-    <value>마법사</value>
+    <value>마법사(_M)</value>
   </data>
   <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>성기사</value>
+    <value>성기사(_A)</value>
   </data>
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
-    <value>사제</value>
+    <value>사제(_P)</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
-    <value>도적</value>
+    <value>도적(_R)</value>
   </data>
   <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
-    <value>주술사</value>
+    <value>주술사(_S)</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
-    <value>흑마법사</value>
+    <value>흑마법사(_W)</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
-    <value>전사</value>
+    <value>전사(_R)</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
     <value>덱</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
-    <value>보관</value>
+    <value>보관(_A)</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
     <value>복제</value>
@@ -1018,34 +1018,34 @@
     <value>선택된 버전</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
-    <value>삭제</value>
+    <value>삭제(_D)</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>덱 편집</value>
+    <value>덱 편집(_D)</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
-    <value>이름 편집</value>
+    <value>이름 편집(_M)</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>메모 편집</value>
+    <value>메모 편집(_N)</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>태그 편집</value>
+    <value>태그 편집(_T)</value>
   </data>
   <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>새 URL로 링크</value>
+    <value>새 URL로 링크(_L)</value>
   </data>
   <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>URL로 링크</value>
+    <value>URL로 링크(_L)</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>빠진 카드 보기</value>
+    <value>빠진 카드 보기(_M)</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>투기장</value>
+    <value>투기장(_A)</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>구성된 덱</value>
+    <value>구성된 덱(_C)</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>투기장 덱으로 이동</value>
@@ -1057,40 +1057,40 @@
     <value>HearthStats 열기</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
-    <value>웹사이트 열기</value>
+    <value>웹사이트 열기(_W)</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>빠른 태그 설정</value>
+    <value>빠른 태그 설정(_Q)</value>
   </data>
   <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
     <value>보관 취소</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
-    <value>업데이트 (웹)</value>
+    <value>업데이트 (웹)(_U)</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>내보내기</value>
+    <value>내보내기(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>클립보드로 카드 이름 복사</value>
+    <value>클립보드로 카드 이름 복사(_N)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>하스스톤으로</value>
+    <value>하스스톤으로(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>웹에서 하스스톤으로</value>
+    <value>웹에서 하스스톤으로(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>클립보드로 카드 ID 복사</value>
+    <value>클립보드로 카드 ID 복사(_C)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>스크린샷</value>
+    <value>스크린샷(_S)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>스크린샷 (정보와 함께)</value>
+    <value>스크린샷 (정보와 함께)(_I)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Xml로 저장</value>
+    <value>Xml로 저장(_X)</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>대시보드 (웹)</value>
@@ -1129,16 +1129,16 @@
     <value>자동으로 게임 업로드</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>불러오기(_I)</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>투기장으로부터</value>
+    <value>투기장으로부터(_A)</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>선술집 난투로부터</value>
+    <value>선술집 난투로부터(_T)</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>구성된 덱으로부터</value>
+    <value>구성된 덱으로부터(_C)</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>기타</value>
@@ -1156,37 +1156,37 @@
     <value>최근 게임으로부터</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>웹으로부터</value>
+    <value>웹으로부터(_W)</value>
   </data>
   <data name="MainWindow_Menu_New" xml:space="preserve">
-    <value>새로 만들기</value>
+    <value>새로 만들기(_N)</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>플러그인</value>
+    <value>플러그인(_P)</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>없음...</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>리플레이</value>
+    <value>리플레이(_R)</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>계정 요청</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>파일로부터 로드</value>
+    <value>파일로부터 로드(_F)</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>최근 리플레이</value>
+    <value>최근 리플레이(_L)</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>내 계정</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>통계에서 선택</value>
+    <value>통계에서 선택(_S)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>통계</value>
+    <value>통계(_S)</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>새 소식:</value>
