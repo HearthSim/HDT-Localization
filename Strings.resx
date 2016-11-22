@@ -2694,4 +2694,40 @@
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>Show HearthStats menu</value>
   </data>
+  <data name="ImportingChoiceDialog_Title" xml:space="preserve">
+    <value>Deck found!</value>
+  </data>
+  <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
+    <value>Choose an action</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
+    <value>Create in Hearthstone</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
+    <value>Save only</value>
+  </data>
+  <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
+    <value>No deck found</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
+    <value>Clipboard contains no supported url or deck data.</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
+    <value>Paste behavior</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
+    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+  </data>
+  <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
+    <value>Save only</value>
+  </data>
+  <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
+    <value>Create in Hearthstone</value>
+  </data>
 </root>
