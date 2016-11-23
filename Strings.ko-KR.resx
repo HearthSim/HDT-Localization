@@ -1558,7 +1558,7 @@
     <value>스트리밍</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>시작하기에 관한 안내 보기 (위키로 연결)</value>
+    <value>시작하는 법에 관한 안내 보기 (위키로 연결)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>배경:</value>
@@ -2245,7 +2245,7 @@
     <value>카드 툴팁 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>내 턴이 시작할 때 작업표시줄의 하스스톤 아이콘 깜빡임</value>
+    <value>내 턴이 시작할 때 하스스톤 아이콘 깜빡이기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
     <value>라틴 문자가 아닌 언어에 대해 기본 폰트 사용</value>
@@ -2437,7 +2437,7 @@
     <value>친선전</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>기본값으로 로컬 리플레이 뷰어 이용 (유지되지 않음)</value>
+    <value>기본값으로 로컬 리플레이 뷰어 이용 (유지보수 종료됨)</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>등급전</value>
@@ -2527,7 +2527,7 @@
     <value>투기장</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
-    <value>버리기 전에 묻기</value>
+    <value>기록을 제거하기 전에 묻기</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
     <value>난투</value>
@@ -2536,10 +2536,10 @@
     <value>친선전</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
-    <value>덱과 카드가 맞지 않는 경우 게임 버리기</value>
+    <value>덱과 카드가 맞지 않는 경우 게임 기록 제거</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>0턴 게임 버리기</value>
+    <value>0턴 게임 기록 제거</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
     <value>친선전</value>
