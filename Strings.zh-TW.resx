@@ -1,0 +1,2733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MainWindow_Menu_New" xml:space="preserve">
+    <value>新套牌(_N)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
+    <value>德魯伊(_D)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
+    <value>獵人(_H)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
+    <value>法師(_M)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
+    <value>牧師(_P)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
+    <value>聖騎士(_A)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
+    <value>盜賊(_R)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
+    <value>薩滿(_S)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
+    <value>術士(_W)</value>
+  </data>
+  <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
+    <value>戰士(_R)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
+    <value>編輯套牌(_D)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
+    <value>編輯名稱(_M)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
+    <value>編輯標籤(_T)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
+    <value>快速設定標籤(_Q)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
+    <value>編輯註解(_N)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
+    <value>移動到競技場</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
+    <value>移動到我的套牌</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
+    <value>顯示遺失的卡片(_M)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
+    <value>更新(網頁)(_U)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
+    <value>開啟網頁(_W)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
+    <value>開啟HearthStats</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
+    <value>建檔(_A)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
+    <value>不建檔</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
+    <value>刪除(_D)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
+    <value>複製</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
+    <value>完整套牌</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
+    <value>已選擇版本</value>
+  </data>
+  <data name="MainWindow_Menu_Deck" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="MainWindow_Menu_Import" xml:space="preserve">
+    <value>匯入(_I)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
+    <value>從 網頁(_W)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
+    <value>從 競技場(_A)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
+    <value>從 我的套牌(_C)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
+    <value>從 英雄大亂鬥(_T)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
+    <value>從檔案</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
+    <value>從ID文字</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
+    <value>儲存至爐石戰記(_H)</value>
+  </data>
+  <data name="MainWindow_Menu_Export" xml:space="preserve">
+    <value>匯出(_X)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
+    <value>從剪貼簿</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
+    <value>從上一場遊戲</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
+    <value>儲存為XML檔案(_X)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
+    <value>儲存到網站(_W)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
+    <value>複製ID到剪貼簿(_C)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
+    <value>複製名稱到剪貼簿(_N)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
+    <value>套牌圖片(S)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
+    <value>套牌圖片(包含資訊)(_I)</value>
+  </data>
+  <data name="MainWindow_Menu_Stats" xml:space="preserve">
+    <value>統計</value>
+  </data>
+  <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
+    <value>競技場(_A)</value>
+  </data>
+  <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
+    <value>我的套牌(_C)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays" xml:space="preserve">
+    <value>對戰重播(_R)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
+    <value>上次的重播(L)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
+    <value>從檔案中讀取(_F)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
+    <value>從統計中選擇(_S)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
+    <value>我的帳號</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
+    <value>登入</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
+    <value>儀錶板(網頁)</value>
+  </data>
+  <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
+    <value>連結帳號:</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
+    <value>現在同步</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
+    <value>全部強制同步</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
+    <value>開始同步</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
+    <value>自動上傳新套牌</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
+    <value>自動上傳遊戲</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
+    <value>自動刪除套牌</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
+    <value>自動刪除紀錄</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
+    <value>背景管理自動同步</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
+    <value>刪除已選套牌</value>
+  </data>
+  <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
+    <value>登出</value>
+  </data>
+  <data name="MainWindow_Menu_Plugins" xml:space="preserve">
+    <value>插件(_P)</value>
+  </data>
+  <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
+    <value>空...</value>
+  </data>
+  <data name="MainWindow_TitleBar_Options" xml:space="preserve">
+    <value>選項</value>
+  </data>
+  <data name="MainWindow_TitleBar_Help" xml:space="preserve">
+    <value>幫助</value>
+  </data>
+  <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
+    <value>贊助</value>
+  </data>
+  <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
+    <value>選項</value>
+  </data>
+  <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
+    <value>幫助</value>
+  </data>
+  <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
+    <value>對手套牌</value>
+  </data>
+  <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
+    <value>分類/過濾套牌</value>
+  </data>
+  <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
+    <value>設定標籤</value>
+  </data>
+  <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
+    <value>錯誤</value>
+  </data>
+  <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
+    <value>更新註解</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
+    <value>套牌匯入</value>
+  </data>
+  <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
+    <value>移動到新視窗</value>
+  </data>
+  <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
+    <value>狀態</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
+    <value>發現新版本</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
+    <value>點及這裡更新</value>
+  </data>
+  <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
+    <value>啟動平台/爐石戰記</value>
+  </data>
+  <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
+    <value>已選擇版本:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
+    <value>卡片:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
+    <value>(當前)</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
+    <value>另存為</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_Filter" xml:space="preserve">
+    <value>過濾</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
+    <value>費用</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
+    <value>種類</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
+    <value>只有職業卡</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
+    <value>只有中立卡</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
+    <value>資料片</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Basic" xml:space="preserve">
+    <value>基本</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Classic" xml:space="preserve">
+    <value>經典</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Promo" xml:space="preserve">
+    <value>活動</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
+    <value>納克薩瑪斯</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
+    <value>夜夜卡拉贊</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
+    <value>古神碎碎念</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
+    <value>探險者協會</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
+    <value>銀白聯賽</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
+    <value>勇闖黑石山</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
+    <value>哥哥打地地</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
+    <value>名稱...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
+    <value>重複的名稱</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
+    <value>包含開放卡片</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
+    <value>編輯卡片上限</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
+    <value>顯示版本紀錄</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
+    <value>套牌紀錄:</value>
+  </data>
+  <data name="MainWindow_NewsBar_Header" xml:space="preserve">
+    <value>新聞:</value>
+  </data>
+  <data name="Options_Search_Header" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="Options_CheckBoxAdvanced" xml:space="preserve">
+    <value>進階設定</value>
+  </data>
+  <data name="Options_Overlay_Header" xml:space="preserve">
+    <value>內嵌</value>
+  </data>
+  <data name="Options_Overlay_General_Header" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="Options_Overlay_Windows_Header" xml:space="preserve">
+    <value>視窗</value>
+  </data>
+  <data name="Options_Overlay_Player_Header" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Header" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
+    <value>互動性</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
+    <value>直播</value>
+  </data>
+  <data name="Options_Tracker_Header" xml:space="preserve">
+    <value>記牌器</value>
+  </data>
+  <data name="Options_Tracker_General_Header" xml:space="preserve">
+    <value>通用</value>
+  </data>
+  <data name="Options_Tracker_Stats_Header" xml:space="preserve">
+    <value>統計</value>
+  </data>
+  <data name="Options_Tracker_Replays_Header" xml:space="preserve">
+    <value>重播</value>
+  </data>
+  <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
+    <value>匯出</value>
+  </data>
+  <data name="Options_Tracker_Importing_Header" xml:space="preserve">
+    <value>匯入</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
+    <value>通知</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Header" xml:space="preserve">
+    <value>插件</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Header" xml:space="preserve">
+    <value>熱鍵</value>
+  </data>
+  <data name="Options_Tracker_Backups_Header" xml:space="preserve">
+    <value>備份</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
+    <value>外觀</value>
+  </data>
+  <data name="Options_Tracker_Settings_Header" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
+    <value>日誌</value>
+  </data>
+  <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
+    <value>輸入名稱/敘述</value>
+  </data>
+  <data name="Options_Search_SearchButton" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
+    <value>最上方顯示</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
+    <value>當爐石在當前畫面時</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
+    <value>卡片提示</value>
+  </data>
+  <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
+    <value>計時器</value>
+  </data>
+  <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
+    <value>背景:</value>
+  </data>
+  <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
+    <value>自訂顏色代碼:</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
+    <value>隱藏(全部)</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
+    <value>選單介面時隱藏</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
+    <value>觀戰模式時隱藏</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
+    <value>爐石最小化時隱藏</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
+    <value>隱藏計牌器</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
+    <value>隱藏計時器</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
+    <value>隱藏牌的順序</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
+    <value>隱藏牌的標記</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
+    <value>隱藏秘密</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
+    <value>卡片提示</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
+    <value>只對秘密有效</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
+    <value>使用卡片動畫</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
+    <value>附加卡片提示</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
+    <value>卡片標記工具</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
+    <value>秘密自動變灰</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
+    <value>遊戲後不重製卡組</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
+    <value>永遠顯示金幣收入(於選單)</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
+    <value>滑鼠停留在卡片時顯示敘述文字(場上/手上)</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
+    <value>顯示電池狀態</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
+    <value>顯示百分比</value>
+  </data>
+  <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
+    <value>不透明度:</value>
+  </data>
+  <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
+    <value>移動/調整大小目標</value>
+  </data>
+  <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
+    <value>回到原位</value>
+  </data>
+  <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
+    <value>原始位置:</value>
+  </data>
+  <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
+    <value>解鎖內嵌</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
+    <value>警告:</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
+    <value>強制開啟(盡量不用，除非無法開啟)</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
+    <value>效果:</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
+    <value>啟用</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
+    <value>已關閉</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
+    <value>偶而會導致游標凍結</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
+    <value>好友列表開啟時，隱藏套牌</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
+    <value>點擊時祕密變灰</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
+    <value>注意:有時無效，如果"選項 &gt; 內嵌 &gt; 通用 &gt; 秘密自動變灰" 啟用時。</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
+    <value>對玩家/對手使用相同的縮放</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
+    <value>縮放:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
+    <value>秘密縮放:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
+    <value>秘密不透明度:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
+    <value>不透明度:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
+    <value>顯示克蘇恩計算器:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
+    <value>顯示法術計算器:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
+    <value>顯示場攻計算器:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
+    <value>套牌垂直置中</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
+    <value>包括額外建立的套牌</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
+    <value>對玩家/對手使用相同的縮放</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
+    <value>紅色標記丟棄的牌</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
+    <value>縮放:</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
+    <value>不透明度:</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
+    <value>顯示克蘇恩計算器:</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
+    <value>顯示法術計算器:</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
+    <value>顯示場攻計算器:</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
+    <value>套牌垂直置中</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
+    <value>綠色標記手牌</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
+    <value>橙色標記抽牌</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
+    <value>如果卡片用光，不顯示在套牌中</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
+    <value>包括卡片變出的卡(例如幸運幣)</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
+    <value>顯示可捕捉的內嵌視窗</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
+    <value>關閉卡片透明度轉換(推薦)</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
+    <value>背景:</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
+    <value>增加一個顏色按鈕可複製你的爐石中的內嵌</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
+    <value>注意:內嵌複製版本可能出現在爐石畫面前，點擊後將隱藏其餘部分</value>
+  </data>
+  <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
+    <value>使用說明(開啟維基)</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
+    <value>語言:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
+    <value>主題:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
+    <value>顏色:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
+    <value>職業圖示:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
+    <value>套牌主題:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
+    <value>套牌配置:</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
+    <value>卡片稀有度(邊框顏色)</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_RarityGems" xml:space="preserve">
+    <value>卡片稀有度(水晶顏色)</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
+    <value>統計摘要中使用 紅/綠 顏色字體</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
+    <value>使用METRO動畫</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
+    <value>還原已選擇</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
+    <value>建立新的</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_Delete" xml:space="preserve">
+    <value>刪除已選擇</value>
+  </data>
+  <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
+    <value>每天你啟動時自動建立備份檔。包含套牌、遊戲與設定。如果有7個以上的備份檔（自動建立），最舊的會被刪除，確保你有一週的備份檔。</value>
+  </data>
+  <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
+    <value>顯示備份路徑</value>
+  </data>
+  <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
+    <value>速度:</value>
+  </data>
+  <data name="Options_Tracker_Exporting_Label_Wait" xml:space="preserve">
+    <value>等待</value>
+  </data>
+  <data name="Options_Tracker_Exporting_Label_Wait2" xml:space="preserve">
+    <value>秒開啟前</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Golden" xml:space="preserve">
+    <value>金色卡片順序優先</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
+    <value>設定套牌名稱</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
+    <value>名字中包含版本編號</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
+    <value>自動清除套牌</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_ClearFilters" xml:space="preserve">
+    <value>自動清除過濾器</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
+    <value>強制清除搜索列的卡片</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
+    <value>從剪貼簿複製名稱</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
+    <value>在匯出前顯示對話框</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
+    <value>警示</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
+    <value>你的回合開始時(內建顯示)</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
+    <value>你的回合開始時(視窗彈出)</value>
+  </data>
+  <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
+    <value>卡片語言</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Primary" xml:space="preserve">
+    <value>主要語言:</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Secondary" xml:space="preserve">
+    <value>次要語言:</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
+    <value>(工具提示)</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
+    <value>對非拉丁語系的語言使用預設字體</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
+    <value>重啟後以應用語言修改</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
+    <value>自動"使用"套牌 (可禁用)</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
+    <value>卡片順序:職業卡優先</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
+    <value>顯示卡片工具提示</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
+    <value>顯示水晶消耗曲線</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
+    <value>編輯套牌時全文字搜索</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
+    <value>使用大寫套牌名稱</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
+    <value>顯示套牌最後使用日期</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
+    <value>每當競技場打完時存檔</value>
+  </data>
+  <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
+    <value>格式:</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
+    <value>特殊鍵</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
+    <value>按鍵</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Table_Action" xml:space="preserve">
+    <value>動作</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
+    <value>刪除已選擇</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
+    <value>新的</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
+    <value>特殊鍵:</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
+    <value>按鍵:</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Label_Action" xml:space="preserve">
+    <value>動作:</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Button_AddNew" xml:space="preserve">
+    <value>新增</value>
+  </data>
+  <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
+    <value>按下 按鍵</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
+    <value>建立</value>
+  </data>
+  <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
+    <value>每當你進入遊戲選單時，會檢查新修改後的套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
+    <value>自動匯入新套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
+    <value>自動更新修改後的套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
+    <value>競技場(_A)</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
+    <value>匯入方式:</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
+    <value>臨時競技場套牌名稱</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
+    <value>樣板:</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
+    <value>預覽:</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>匯入時自動儲存套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
+    <value>網頁</value>
+  </data>
+  <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
+    <value>匯入時標記套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
+    <value>匯入時自動儲存套牌</value>
+  </data>
+  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
+    <value>透過NetDeck匯入</value>
+  </data>
+  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
+    <value>下載NetDeck(Chrome擴充功能)</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
+    <value>遊戲結果</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_ShowNotifications" xml:space="preserve">
+    <value>顯示通知</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Duration" xml:space="preserve">
+    <value>顯示</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Duration2" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
+    <value>啟用時顯示競技場獎勵對話欄</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
+    <value>遊戲結束時顯示註解欄</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
+    <value>等到回到選單上</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
+    <value>可用插件</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
+    <value>插件資料夾</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
+    <value>開啟</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
+    <value>已關閉</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
+    <value>作者</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
+    <value>顯示分享通知</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
+    <value>自動上傳重播</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
+    <value>休閒</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
+    <value>競技場</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
+    <value>好友對戰</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
+    <value>冒險篇章/練習模式</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
+    <value>觀戰模式</value>
+  </data>
+  <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
+    <value>帳號狀態:</value>
+  </data>
+  <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
+    <value>連結帳號:</value>
+  </data>
+  <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
+    <value>可以使用Battle.net帳號連結HSReplay.net，會開啟瀏覽器</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
+    <value>預設值中使用內部重播觀看(不儲存)</value>
+  </data>
+  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
+    <value>傳送匿名資料</value>
+  </data>
+  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
+    <value>這只會追蹤基本資料幫忙改善HDT，像是APP或是遊戲配對</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
+    <value>儲存設定到AppData</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_SaveDataAppData" xml:space="preserve">
+    <value>儲存資料到AppData</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
+    <value>開機時啟動</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
+    <value>自動後最小化</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
+    <value>最小化到小圖示</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
+    <value>顯示啟動讀取畫面</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
+    <value>爐石關閉時一起關閉</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
+    <value>啟動HDT時自動開啟爐石</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
+    <value>檢查更新</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
+    <value>檢查BETA版更新</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch" xml:space="preserve">
+    <value>進階視窗搜尋</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture" xml:space="preserve">
+    <value>可用螢幕抓取</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
+    <value>顯示新聞欄</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
+    <value>顯示Log</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
+    <value>設定爐石路徑</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
+    <value>開啟AppData資料夾</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
+    <value>設定資料路徑</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_LogDirectory" xml:space="preserve">
+    <value>設定爐石Log路徑</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
+    <value>紀錄</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Ranked" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Arena" xml:space="preserve">
+    <value>競技場</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
+    <value>休閒</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
+    <value>好友對戰</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
+    <value>冒險者篇章/練習模式</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Spectator" xml:space="preserve">
+    <value>觀戰模式</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
+    <value>顯示</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
+    <value>(在套牌與內嵌)</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
+    <value>版本:</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Mode" xml:space="preserve">
+    <value>模式:</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
+    <value>時間格:</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_Timeframe_Since" xml:space="preserve">
+    <value>從:</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
+    <value>停止紀錄，如果套牌與卡片不同步時</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
+    <value>記錄前詢問</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
+    <value>停止紀錄，0回合時</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
+    <value>紀錄內部重播</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
+    <value>當刪除套牌時持續統計*</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
+    <value>這會移動資料至預設職業套牌(相對應的資料會以無套牌狀態儲存)。競技場的數據會同時被刪除。</value>
+  </data>
+  <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
+    <value>險套牌統計在獨立視窗中</value>
+  </data>
+  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
+    <value>分析</value>
+  </data>
+  <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
+    <value>搜尋…</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
+    <value>使用套牌(_U)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
+    <value>編輯套牌(_D)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
+    <value>編輯名稱(_M)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
+    <value>編輯註解(_N)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
+    <value>編輯標籤(_T)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
+    <value>快速設定標籤(_Q)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
+    <value>移動到競技場</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
+    <value>移動到我的套牌</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
+    <value>顯示遺失卡片(_M)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
+    <value>更新(網頁)(_U)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
+    <value>開啟網頁(_W)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
+    <value>開啟HearthStats</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
+    <value>建檔(_A)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
+    <value>不建檔</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
+    <value>刪除已選擇</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
+    <value>複製</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
+    <value>完整套牌</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
+    <value>已選版本</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
+    <value>連結到網頁(_L)</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
+    <value>連結到新網頁(_L)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
+    <value>連結到網頁(_L)</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
+    <value>連結到新網頁(_L)</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
+    <value>這些圖表顯示速度有點慢，點選重新整理刷新。</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
+    <value>職業勝場分佈</value>
+  </data>
+  <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
+    <value>勝/敗 VS 職業</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
+    <value>次數：</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
+    <value>% 總數</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_TotalGames" xml:space="preserve">
+    <value>總計遊戲:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_HoursPlayed" xml:space="preserve">
+    <value>遊戲時間:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_AverageWins" xml:space="preserve">
+    <value>平均勝場:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
+    <value>勝率:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
+    <value>最佳場次:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_BestRunFallback" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_BestMatchup" xml:space="preserve">
+    <value>最佳對戰:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_BestMatchupFallback" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
+    <value>最慘對戰:</value>
+  </data>
+  <data name="Stats_Arena_ClassStats_Label_WorstMatchupFallback" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Gold" xml:space="preserve">
+    <value>金幣</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Gold_Total" xml:space="preserve">
+    <value>總計;</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
+    <value>平均:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
+    <value>花費:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
+    <value>粉塵:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
+    <value>總計:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
+    <value>平均:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
+    <value>卡包</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Total" xml:space="preserve">
+    <value>總計:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Average" xml:space="preserve">
+    <value>平均</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Classic" xml:space="preserve">
+    <value>經典:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
+    <value>哥哥打地地</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
+    <value>銀白聯賽</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
+    <value>古神碎碎念</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Cards" xml:space="preserve">
+    <value>卡片</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Cards_Total" xml:space="preserve">
+    <value>總計:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Cards_Average" xml:space="preserve">
+    <value>平均:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Cards_Golden" xml:space="preserve">
+    <value>金卡:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Cards_Golden_Average" xml:space="preserve">
+    <value>平均:</value>
+  </data>
+  <data name="Stats_Arena_Runs_Label" xml:space="preserve">
+    <value>競技場次數</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
+    <value>職業</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Started" xml:space="preserve">
+    <value>開始日期</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Wins" xml:space="preserve">
+    <value>勝</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Losses" xml:space="preserve">
+    <value>敗</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Gold" xml:space="preserve">
+    <value>金幣</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
+    <value>魔塵</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
+    <value>卡包</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Cards" xml:space="preserve">
+    <value>卡片</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Duration" xml:space="preserve">
+    <value>持續時間</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Region" xml:space="preserve">
+    <value>伺服器</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
+    <value>編輯獎勵</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
+    <value>顯示自己的套牌</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
+    <value>顯示對手的套牌</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
+    <value>顯示重播</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
+    <value>增加場次</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
+    <value>編輯場次</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
+    <value>刪除場次</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
+    <value>VS</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
+    <value>開始日期</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Result" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Name" xml:space="preserve">
+    <value>名字</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Turns" xml:space="preserve">
+    <value>回合數</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Coin" xml:space="preserve">
+    <value>硬幣</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Time" xml:space="preserve">
+    <value>時間</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
+    <value>重播</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
+    <value>圖表</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Played" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Opponents" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_AverageWinsClass" xml:space="preserve">
+    <value>各職業平均勝場</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Wins" xml:space="preserve">
+    <value>勝場</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
+    <value>精彩重播</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Classes" xml:space="preserve">
+    <value>職業</value>
+  </data>
+  <data name="Stats_Arena_Summary_Label_Rewards" xml:space="preserve">
+    <value>獎勵</value>
+  </data>
+  <data name="Stats_Arena_Summary_Highlights_Total" xml:space="preserve">
+    <value>總計</value>
+  </data>
+  <data name="Stats_Arena_Summary_Highlights_Best" xml:space="preserve">
+    <value>最佳</value>
+  </data>
+  <data name="Stats_Arena_Summary_Highlights_Worst" xml:space="preserve">
+    <value>最糟</value>
+  </data>
+  <data name="Stats_Arena_Summary_Highlights_MostPicked" xml:space="preserve">
+    <value>最多使用</value>
+  </data>
+  <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
+    <value>最少使用</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
+    <value>德魯伊</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
+    <value>獵人</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
+    <value>法師</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
+    <value>聖騎士</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
+    <value>牧師</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
+    <value>盜賊</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
+    <value>薩滿</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
+    <value>術士</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
+    <value>戰士</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
+    <value>依照職業</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
+    <value>我方職業勝率</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
+    <value>敵方職業勝綠</value>
+  </data>
+  <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
+    <value>版本:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
+    <value>套牌:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
+    <value>勝率:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
+    <value>遊戲時間:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
+    <value>場次平均:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
+    <value>最佳對戰:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
+    <value>最慘對戰:</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Constructed_Games_Label_Matches" xml:space="preserve">
+    <value>配對</value>
+  </data>
+  <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
+    <value>增加新遊戲到可用套牌</value>
+  </data>
+  <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
+    <value>移動所選取</value>
+  </data>
+  <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
+    <value>刪除已選擇</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
+    <value>職業</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
+    <value>VS</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
+    <value>名字</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Result" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Mode" xml:space="preserve">
+    <value>模式:</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Format" xml:space="preserve">
+    <value>格式</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Turns" xml:space="preserve">
+    <value>回合數</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Coin" xml:space="preserve">
+    <value>硬幣</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
+    <value>開始時間</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
+    <value>持續時間</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
+    <value>伺服器</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
+    <value>重播</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
+    <value>重播</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
+    <value>對手套牌</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_SelectDeck" xml:space="preserve">
+    <value>選擇套牌</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
+    <value>編輯</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
+    <value>移動</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
+    <value>刪除</value>
+  </data>
+  <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
+    <value>你 \ VS</value>
+  </data>
+  <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
+    <value>總計</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Charts" xml:space="preserve">
+    <value>圖表</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
+    <value>玩家 (%)</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Opponents" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Stats_Constructed_Summary_ChartTitle_Opponents" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
+    <value>精彩重播</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
+    <value>總計</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_HighestRank" xml:space="preserve">
+    <value>最高排名:</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_MostPlayedDeck" xml:space="preserve">
+    <value>最多使用</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
+    <value>最佳套牌</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_FastestDeck" xml:space="preserve">
+    <value>最速套牌</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_SlowestDeck" xml:space="preserve">
+    <value>最慢套牌</value>
+  </data>
+  <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
+    <value>顯示百分比</value>
+  </data>
+  <data name="Stats_Constructed_Summary_CheckBox_ShowLegends" xml:space="preserve">
+    <value>顯示圖示</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
+    <value>時間:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Start" xml:space="preserve">
+    <value>開始:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_End" xml:space="preserve">
+    <value>結束:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
+    <value>賽季:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
+    <value>職業:</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Region" xml:space="preserve">
+    <value>伺服器:</value>
+  </data>
+  <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
+    <value>包含刪除的場次</value>
+  </data>
+  <data name="ArenaRewards_Label_Gold" xml:space="preserve">
+    <value>金幣</value>
+  </data>
+  <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
+    <value>可輸入值 例如50+125</value>
+  </data>
+  <data name="ArenaRewards_Label_Dust" xml:space="preserve">
+    <value>魔塵</value>
+  </data>
+  <data name="ArenaRewards_Label_Packs" xml:space="preserve">
+    <value>卡包</value>
+  </data>
+  <data name="ArenaRewards_Label_Cards" xml:space="preserve">
+    <value>卡片</value>
+  </data>
+  <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
+    <value>付款方式</value>
+  </data>
+  <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
+    <value>金幣</value>
+  </data>
+  <data name="ArenaRewards_Payment_Label_Money" xml:space="preserve">
+    <value>戰網幣</value>
+  </data>
+  <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
+    <value>自動顯示</value>
+  </data>
+  <data name="ArenaRewards_Label_Save" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="ArenaRewards_Card_Label_Golden" xml:space="preserve">
+    <value>金卡</value>
+  </data>
+  <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
+    <value>只顯示當前套牌</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
+    <value>時間:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Start" xml:space="preserve">
+    <value>開始:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_End" xml:space="preserve">
+    <value>結束:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
+    <value>賽季:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
+    <value>到</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
+    <value>職業:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
+    <value>VS:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
+    <value>模式:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Rank" xml:space="preserve">
+    <value>排名:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
+    <value>到</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
+    <value>格式:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
+    <value>結果:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Turns" xml:space="preserve">
+    <value>回合數:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
+    <value>到</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
+    <value>硬幣:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_Region" xml:space="preserve">
+    <value>伺服器:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
+    <value>敵人名字…</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
+    <value>註解…</value>
+  </data>
+  <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
+    <value>包含刪除套牌</value>
+  </data>
+  <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
+    <value>使用標籤過濾器</value>
+  </data>
+  <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
+    <value>使用標籤過濾器 目前設置在"套牌選擇器"-&gt;"分類過濾套牌"(雙箭頭)</value>
+  </data>
+  <data name="Stats_Overview_Label_Menu" xml:space="preserve">
+    <value>選單</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
+    <value>競技場場次</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
+    <value>總結</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
+    <value>場次&amp;配對</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
+    <value>進階圖表</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
+    <value>我的套牌</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
+    <value>總結</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Constructed_Matches" xml:space="preserve">
+    <value>配對</value>
+  </data>
+  <data name="Stats_Overview_Tree_Label_Constructed_Charts" xml:space="preserve">
+    <value>圖表</value>
+  </data>
+  <data name="Stats_Overview_Filters_CheckBox_AutoRefresh" xml:space="preserve">
+    <value>自動刷新</value>
+  </data>
+  <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
+    <value>復原</value>
+  </data>
+  <data name="Stats_Overview_Label_Filters" xml:space="preserve">
+    <value>過濾</value>
+  </data>
+  <data name="Importing_Constructed_Label_Title" xml:space="preserve">
+    <value>選擇套牌匯入:</value>
+  </data>
+  <data name="Importing_Constructed_Button_Import" xml:space="preserve">
+    <value>匯入</value>
+  </data>
+  <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
+    <value>開啟後自動匯入:</value>
+  </data>
+  <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
+    <value>另存為</value>
+  </data>
+  <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
+    <value>打開爐石並進入對戰模式</value>
+  </data>
+  <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
+    <value>進入對戰模式</value>
+  </data>
+  <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
+    <value>打開爐石並進入英雄大亂鬥</value>
+  </data>
+  <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
+    <value>進入英雄大亂鬥</value>
+  </data>
+  <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
+    <value>沒有發現新套牌</value>
+  </data>
+  <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
+    <value>啟動平台/爐石戰記</value>
+  </data>
+  <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
+    <value>等待爐石戰記…</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
+    <value>套牌包含納克薩瑪斯的卡片</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
+    <value>套牌包含哥哥打地地的卡片</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
+    <value>套牌包含勇闖黑石山的卡片</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
+    <value>套牌包含探險者協會的卡片</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
+    <value>套牌包含古神碎碎念的卡片</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
+    <value>套牌包含夜夜卡拉贊的卡片</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
+    <value>武器</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Spells" xml:space="preserve">
+    <value>法術</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
+    <value>生物</value>
+  </data>
+  <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
+    <value>組成</value>
+  </data>
+  <data name="ManaCurve_Button_Hide" xml:space="preserve">
+    <value>隱藏</value>
+  </data>
+  <data name="Enum_StatType_Mana" xml:space="preserve">
+    <value>水晶</value>
+  </data>
+  <data name="Enum_StatType_Health" xml:space="preserve">
+    <value>生命</value>
+  </data>
+  <data name="Enum_StatType_Attack" xml:space="preserve">
+    <value>攻擊</value>
+  </data>
+  <data name="Enum_StatType_Overload" xml:space="preserve">
+    <value>超載</value>
+  </data>
+  <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
+    <value>自動 匯入/儲存</value>
+  </data>
+  <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
+    <value>提醒匯入</value>
+  </data>
+  <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
+    <value>手動</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
+    <value>經典</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
+    <value>哥哥打地地</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
+    <value>銀白聯賽</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
+    <value>古神碎碎念</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
+    <value>經典</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
+    <value>可選</value>
+  </data>
+  <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
+    <value>預設</value>
+  </data>
+  <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
+    <value>可選</value>
+  </data>
+  <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
+    <value>傳統</value>
+  </data>
+  <data name="Enum_DisplayedStats_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
+    <value>已選</value>
+  </data>
+  <data name="Enum_DisplayedStats_Latest" xml:space="preserve">
+    <value>最新</value>
+  </data>
+  <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
+    <value>主要選擇</value>
+  </data>
+  <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
+    <value>最後選擇</value>
+  </data>
+  <data name="Enum_DisplayMode_Always" xml:space="preserve">
+    <value>總是</value>
+  </data>
+  <data name="Enum_DisplayMode_Auto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="Enum_DisplayMode_Never" xml:space="preserve">
+    <value>從不</value>
+  </data>
+  <data name="Enum_Format_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_Format_Standard" xml:space="preserve">
+    <value>標準</value>
+  </data>
+  <data name="Enum_Format_Wild" xml:space="preserve">
+    <value>開放</value>
+  </data>
+  <data name="Enum_GameMode_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_GameMode_Ranked" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="Enum_GameMode_Casual" xml:space="preserve">
+    <value>休閒</value>
+  </data>
+  <data name="Enum_GameMode_Arena" xml:space="preserve">
+    <value>競技場</value>
+  </data>
+  <data name="Enum_GameMode_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
+  </data>
+  <data name="Enum_GameMode_Friendly" xml:space="preserve">
+    <value>好友對戰</value>
+  </data>
+  <data name="Enum_GameMode_Practice" xml:space="preserve">
+    <value>練習模式</value>
+  </data>
+  <data name="Enum_GameMode_Spectator" xml:space="preserve">
+    <value>觀戰模式</value>
+  </data>
+  <data name="Enum_GameMode_None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Enum_GameResult_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_GameResult_Win" xml:space="preserve">
+    <value>勝利</value>
+  </data>
+  <data name="Enum_GameResult_Loss" xml:space="preserve">
+    <value>失敗</value>
+  </data>
+  <data name="Enum_GameResult_Draw" xml:space="preserve">
+    <value>抽牌</value>
+  </data>
+  <data name="Enum_GameResult_None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="Enum_HeroClass_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_HeroClass_Druid" xml:space="preserve">
+    <value>德魯伊</value>
+  </data>
+  <data name="Enum_HeroClass_Hunter" xml:space="preserve">
+    <value>獵人</value>
+  </data>
+  <data name="Enum_HeroClass_Mage" xml:space="preserve">
+    <value>法師</value>
+  </data>
+  <data name="Enum_HeroClass_Paladin" xml:space="preserve">
+    <value>聖騎士</value>
+  </data>
+  <data name="Enum_HeroClass_Priest" xml:space="preserve">
+    <value>牧師</value>
+  </data>
+  <data name="Enum_HeroClass_Rogue" xml:space="preserve">
+    <value>盜賊</value>
+  </data>
+  <data name="Enum_HeroClass_Shaman" xml:space="preserve">
+    <value>薩滿</value>
+  </data>
+  <data name="Enum_HeroClass_Warlock" xml:space="preserve">
+    <value>術士</value>
+  </data>
+  <data name="Enum_HeroClass_Warrior" xml:space="preserve">
+    <value>戰士</value>
+  </data>
+  <data name="Enum_HeroClass_Archived" xml:space="preserve">
+    <value>建檔</value>
+  </data>
+  <data name="Enum_IconStyle_Round" xml:space="preserve">
+    <value>圓形</value>
+  </data>
+  <data name="Enum_IconStyle_Square" xml:space="preserve">
+    <value>正方形</value>
+  </data>
+  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
+    <value>HearthStats</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
+    <value>明亮</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
+    <value>黑暗</value>
+  </data>
+  <data name="Enum_Region_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_Region_Unknown" xml:space="preserve">
+    <value>未知</value>
+  </data>
+  <data name="Enum_Region_US" xml:space="preserve">
+    <value>北美</value>
+  </data>
+  <data name="Enum_Region_EU" xml:space="preserve">
+    <value>歐洲</value>
+  </data>
+  <data name="Enum_Region_Asia" xml:space="preserve">
+    <value>亞洲</value>
+  </data>
+  <data name="Enum_Region_China" xml:space="preserve">
+    <value>中國</value>
+  </data>
+  <data name="Enum_TagFilterOperation_And" xml:space="preserve">
+    <value>和</value>
+  </data>
+  <data name="Enum_TagFilterOperation_Or" xml:space="preserve">
+    <value>或</value>
+  </data>
+  <data name="Enum_TimeFrame_Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+  <data name="Enum_TimeFrame_Yesterday" xml:space="preserve">
+    <value>昨天</value>
+  </data>
+  <data name="Enum_TimeFrame_Last24Hours" xml:space="preserve">
+    <value>過去24小時</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
+    <value>這週</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
+    <value>上週</value>
+  </data>
+  <data name="Enum_TimeFrame_Last7Days" xml:space="preserve">
+    <value>過去這週</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
+    <value>當月</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
+    <value>上個月</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
+    <value>今年</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
+    <value>去年</value>
+  </data>
+  <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
+    <value>全部時間</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
+    <value>這週</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
+    <value>當前賽季</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
+    <value>上個賽季</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
+    <value>自訂賽季</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
+    <value>全部時間</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
+    <value>自訂</value>
+  </data>
+  <data name="Enum_YesNo_Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="Enum_YesNo_No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="Enum_YesNoAll_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
+    <value>職業顏色:</value>
+  </data>
+  <data name="DeckNotes_Button_Save" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
+    <value>對話框關閉時自動儲存</value>
+  </data>
+  <data name="DeckPanel_Button_Import" xml:space="preserve">
+    <value>匯入</value>
+  </data>
+  <data name="Help_Label_Faq" xml:space="preserve">
+    <value>FAQ</value>
+  </data>
+  <data name="Help_Faq_Hyperlink" xml:space="preserve">
+    <value>前往FAQ</value>
+  </data>
+  <data name="Help_Label_Overlay" xml:space="preserve">
+    <value>內嵌</value>
+  </data>
+  <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
+    <value>卡片標記</value>
+  </data>
+  <data name="Help_Overlay_CardMarks_Label_Coin" xml:space="preserve">
+    <value>硬幣</value>
+  </data>
+  <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
+    <value>換牌</value>
+  </data>
+  <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
+    <value>回手上的牌</value>
+  </data>
+  <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
+    <value>額外建立的牌</value>
+  </data>
+  <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
+    <value>百分比</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
+    <value>通用:</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
+    <value>抽1/2卡片的機率顯示在套牌旁</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
+    <value>抽牌機率</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
+    <value>這個數字是當牌庫剩餘X張時，抽到某張牌的機率</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
+    <value>獲得機率;</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
+    <value>這個數字是當手牌數是X張的狀況下，對手下回合開始時某張牌在手中的機率。</value>
+  </data>
+  <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
+    <value>包括下一張抽牌，但只有這樣</value>
+  </data>
+  <data name="Help_Overlay_Label_Customization" xml:space="preserve">
+    <value>個人化</value>
+  </data>
+  <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
+    <value>幾乎所有東西都可在內嵌選項中開啟或關閉，移動與調整</value>
+  </data>
+  <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
+    <value>開/關:</value>
+  </data>
+  <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
+    <value>此選項可以在下方找到</value>
+  </data>
+  <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
+    <value>選項&gt;內嵌&gt;通用/玩家/對手</value>
+  </data>
+  <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
+    <value>移動/縮放:</value>
+  </data>
+  <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
+    <value>內嵌可解除鎖定</value>
+  </data>
+  <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
+    <value>選項&gt;內嵌&gt;通用&gt;解鎖</value>
+  </data>
+  <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
+    <value>(按鈕在底部)</value>
+  </data>
+  <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
+    <value>更多訊息可到這裡尋找</value>
+  </data>
+  <data name="Help_Label_BugsFeatures" xml:space="preserve">
+    <value>回饋BUG/需要的功能</value>
+  </data>
+  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
+    <value>1)回饋</value>
+  </data>
+  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
+    <value>在GitHub上的問題</value>
+  </data>
+  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
+    <value>如果你沒有任何問題，你可以建立一個新的請求或錯誤修復。包含你想知道更進一步的資訊。</value>
+  </data>
+  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
+    <value>點擊這裡</value>
+  </data>
+  <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
+    <value>或</value>
+  </data>
+  <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
+    <value>2)發送郵件到 support@hsdecktracker.net (限定英文)</value>
+  </data>
+  <data name="Help_Label_Github" xml:space="preserve">
+    <value>GitHub計畫</value>
+  </data>
+  <data name="Help_Github_Text1" xml:space="preserve">
+    <value>可點此找到此計畫</value>
+  </data>
+  <data name="Help_Github_Hyperlink1" xml:space="preserve">
+    <value>這裡</value>
+  </data>
+  <data name="Help_Github_Text2" xml:space="preserve">
+    <value>那個</value>
+  </data>
+  <data name="Help_Github_Hyperlink2" xml:space="preserve">
+    <value>說明</value>
+  </data>
+  <data name="Help_Github_Text3" xml:space="preserve">
+    <value>包含所有功能的簡單敘述</value>
+  </data>
+  <data name="Help_Label_Version" xml:space="preserve">
+    <value>版本:</value>
+  </data>
+  <data name="Help_Button_Updatenotes" xml:space="preserve">
+    <value>顯示更新日誌:</value>
+  </data>
+  <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
+    <value>可用套牌:</value>
+  </data>
+  <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
+    <value>點擊"使用"來啟用套牌</value>
+  </data>
+  <data name="DeckPicker_Button_Auto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
+    <value>無套牌模式</value>
+  </data>
+  <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
+    <value>使用</value>
+  </data>
+  <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
+    <value>啟用中</value>
+  </data>
+  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
+    <value>上次使用時間</value>
+  </data>
+  <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
+    <value>建檔</value>
+  </data>
+  <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
+    <value>這個套牌可在標準模式下使用</value>
+  </data>
+  <data name="Deck_StatsString_NoStats" xml:space="preserve">
+    <value>無紀錄</value>
+  </data>
+  <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
+    <value>統計</value>
+  </data>
+  <data name="Enum_DeckType_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Enum_DeckType_Arena" xml:space="preserve">
+    <value>競技場</value>
+  </data>
+  <data name="Enum_DeckType_Standard" xml:space="preserve">
+    <value>標準</value>
+  </data>
+  <data name="Enum_DeckType_Wild" xml:space="preserve">
+    <value>開放</value>
+  </data>
+  <data name="SplashScreen_Button_Skip" xml:space="preserve">
+    <value>略過</value>
+  </data>
+  <data name="SplashScreen_Text_Loading" xml:space="preserve">
+    <value>讀取中…</value>
+  </data>
+  <data name="SplashScreen_Text_Updating" xml:space="preserve">
+    <value>更新中…</value>
+  </data>
+  <data name="SplashScreen_Text_Installing" xml:space="preserve">
+    <value>安裝中…</value>
+  </data>
+  <data name="TimerWindow_Title" xml:space="preserve">
+    <value>計時器</value>
+  </data>
+  <data name="StatsWindow_Title" xml:space="preserve">
+    <value>統計</value>
+  </data>
+  <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
+    <value>對手套牌</value>
+  </data>
+  <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
+    <value>移動到主畫面</value>
+  </data>
+  <data name="PlayerWindow_Title" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
+    <value>下一次抽牌疲勞值:</value>
+  </data>
+  <data name="OpponentWindow_Title" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="Overlay_Label_Warning" xml:space="preserve">
+    <value>警告!</value>
+  </data>
+  <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
+    <value>卡片在此套牌中找不到</value>
+  </data>
+  <data name="Overlay_Label_Restart" xml:space="preserve">
+    <value>爐石戰記需要重新啟動</value>
+  </data>
+  <data name="NoteWindow_Title" xml:space="preserve">
+    <value>註解這場遊戲</value>
+  </data>
+  <data name="NoteWindow_Button_Set" xml:space="preserve">
+    <value>資料片</value>
+  </data>
+  <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
+    <value>ENTER儲存</value>
+  </data>
+  <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
+    <value>顯示對方套牌</value>
+  </data>
+  <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
+    <value>隱藏對手套牌</value>
+  </data>
+  <data name="MoveGameDialog_Title" xml:space="preserve">
+    <value>選擇目標套牌</value>
+  </data>
+  <data name="MoveGameDialog_Button_Move" xml:space="preserve">
+    <value>移動到所選擇的地方</value>
+  </data>
+  <data name="MoveGameDialog_Label_Version" xml:space="preserve">
+    <value>版本:</value>
+  </data>
+  <data name="AddGameDialog_Label_Result" xml:space="preserve">
+    <value>結果:</value>
+  </data>
+  <data name="AddGameDialog_Label_Vs" xml:space="preserve">
+    <value>VS:</value>
+  </data>
+  <data name="AddGameDialog_Label_Mode" xml:space="preserve">
+    <value>模式:</value>
+  </data>
+  <data name="AddGameDialog_Label_Format" xml:space="preserve">
+    <value>格式:</value>
+  </data>
+  <data name="AddGameDialog_Label_Region" xml:space="preserve">
+    <value>伺服器:</value>
+  </data>
+  <data name="AddGameDialog_Label_Rank" xml:space="preserve">
+    <value>排名</value>
+  </data>
+  <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
+    <value>傳說排名:</value>
+  </data>
+  <data name="AddGameDialog_Label_Coin" xml:space="preserve">
+    <value>硬幣:</value>
+  </data>
+  <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
+    <value>投降:</value>
+  </data>
+  <data name="AddGameDialog_Label_Turns" xml:space="preserve">
+    <value>回合數:</value>
+  </data>
+  <data name="AddGameDialog_Label_Duration" xml:space="preserve">
+    <value>經過時間(分):</value>
+  </data>
+  <data name="AddGameDialog_Label_Note" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
+    <value>對手</value>
+  </data>
+  <data name="AddGameDialog_Label_Player" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
+    <value>增加場次</value>
+  </data>
+  <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
+    <value>新增場次</value>
+  </data>
+  <data name="AddGameDialog_Title_Edit" xml:space="preserve">
+    <value>編輯場次</value>
+  </data>
+  <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="ArenaRewardsDialog_Title" xml:space="preserve">
+    <value>競技場紀錄</value>
+  </data>
+  <data name="CrashDialog_Title" xml:space="preserve">
+    <value>錯誤報告</value>
+  </data>
+  <data name="CrashDialog_Label_Crashed" xml:space="preserve">
+    <value>HDT崩潰啦 :(.</value>
+  </data>
+  <data name="CrashDialog_Label_Error" xml:space="preserve">
+    <value>錯誤:</value>
+  </data>
+  <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
+    <value>顯示堆疊跟蹤</value>
+  </data>
+  <data name="CrashDialog_Text" xml:space="preserve">
+    <value>幫助我發現到並解決這個問題，並請附上你遇見這個事件時的經過，以及所有你能想到的相關資訊。</value>
+  </data>
+  <data name="CrashDialog_Button_Send" xml:space="preserve">
+    <value>傳送報告</value>
+  </data>
+  <data name="CrashDialog_Button_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
+    <value>附加資訊(可選)</value>
+  </data>
+  <data name="DeckSelectedDialog_Title" xml:space="preserve">
+    <value>選擇錯誤的套牌</value>
+  </data>
+  <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
+    <value>選擇你的套牌</value>
+  </data>
+  <data name="DeckTypeDialog_Title" xml:space="preserve">
+    <value>選擇套牌種類</value>
+  </data>
+  <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
+    <value>我的套牌</value>
+  </data>
+  <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
+    <value>競技場</value>
+  </data>
+  <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
+  </data>
+  <data name="DeckTypeDialog_Button_Create" xml:space="preserve">
+    <value>建立套牌</value>
+  </data>
+  <data name="DeckTypeDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="DiscardGameDialog_Title" xml:space="preserve">
+    <value>放棄遊戲紀錄?</value>
+  </data>
+  <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
+    <value>卡片與所選紀錄的套牌不符</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
+    <value>換牌</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
+    <value>繼續</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
+    <value>移動到其他套牌</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
+    <value>刪除場次</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
+    <value>你確定?</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
+    <value>刪除</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
+    <value>刪除場次</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
+    <value>這將會刪除所選遊戲場次</value>
+  </data>
+  <data name="MessageDialogs_Restart_Title" xml:space="preserve">
+    <value>需要重新啟動</value>
+  </data>
+  <data name="MessageDialogs_Restart_Text" xml:space="preserve">
+    <value>HDT需要重新啟動來更改設定</value>
+  </data>
+  <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
+    <value>現在重啟</value>
+  </data>
+  <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
+    <value>稍後</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
+    <value>另存為</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
+    <value>打開資料夾</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
+    <value>玲文為</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
+    <value>上傳到</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
+    <value>開啟瀏覽器</value>
+  </data>
+  <data name="MessageDialogs_SaveUpload_Button_Clipboard" xml:space="preserve">
+    <value>複製網址到剪貼簿</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Title" xml:space="preserve">
+    <value>選擇方式</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
+    <value>可自動上傳到imgur.com網站</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
+    <value>儲存&amp;上傳</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
+    <value>上傳到</value>
+  </data>
+  <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
+    <value>更新log.config出了問題</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
+    <value>HDT需要設定新的log.config</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Button_Instructions" xml:space="preserve">
+    <value>顯示說明</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
+    <value>請益系統管理員啟動HDT</value>
+  </data>
+  <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
+    <value>如果這無法幫助你，請點擊"顯示說明"並教你如何手動更新</value>
+  </data>
+  <data name="UpdateNotes_Label_Continue" xml:space="preserve">
+    <value>繼續…</value>
+  </data>
+  <data name="SortFilter_Label_Constructed" xml:space="preserve">
+    <value>牌組順序: 全部/我的套牌</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
+    <value>過濾方式</value>
+  </data>
+  <data name="SortFilter_Label_Arena" xml:space="preserve">
+    <value>牌組順序: 競技場</value>
+  </data>
+  <data name="SortFilter_Label_Filter" xml:space="preserve">
+    <value>過濾</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
+    <value>上移</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Down" xml:space="preserve">
+    <value>下移</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Top" xml:space="preserve">
+    <value>移至頂部</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Bottom" xml:space="preserve">
+    <value>移至底部</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Delete" xml:space="preserve">
+    <value>刪除所選擇</value>
+  </data>
+  <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
+    <value>新標籤</value>
+  </data>
+  <data name="SortFilter_Filter_Button_Add" xml:space="preserve">
+    <value>增加</value>
+  </data>
+  <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
+    <value>過濾方式:</value>
+  </data>
+  <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
+    <value>和</value>
+  </data>
+  <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
+    <value>或</value>
+  </data>
+  <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
+    <value>包含開放套牌的標準套牌</value>
+  </data>
+  <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="Enum_DeckPanel_Cards" xml:space="preserve">
+    <value>卡片</value>
+  </data>
+  <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
+    <value>卡片計數器</value>
+  </data>
+  <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
+    <value>抽牌機率</value>
+  </data>
+  <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
+    <value>疲勞計數器</value>
+  </data>
+  <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
+    <value>套牌名稱</value>
+  </data>
+  <data name="Enum_DeckPanel_Wins" xml:space="preserve">
+    <value>勝利</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
+    <value>有許多翻譯仍缺少或正在進行中，如果你想幫忙的話可以點擊這裡</value>
+  </data>
+  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
+    <value>用瀏覽器開啟本地化repo</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
+    <value>開啟HearthStats選單</value>
+  </data>
+  <data name="ImportingChoiceDialog_Title" xml:space="preserve">
+    <value>發現套牌!</value>
+  </data>
+  <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
+    <value>選擇一個動作</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
+    <value>建立於爐石戰記</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
+    <value>僅此儲存</value>
+  </data>
+  <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
+    <value>找不到套牌</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
+    <value>剪貼簿包含不正確的網址或是套牌資料</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
+    <value>剪貼行為</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
+    <value>貼上一個套牌或網址在HDT時</value>
+  </data>
+  <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
+    <value>手冊</value>
+  </data>
+  <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
+    <value>僅此儲存</value>
+  </data>
+  <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
+    <value>建立於爐石戰記</value>
+  </data>
+</root>
