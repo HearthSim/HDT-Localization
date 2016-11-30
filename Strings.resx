@@ -2730,4 +2730,16 @@
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>Create in Hearthstone</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
+    <value>Deck contains cards from the Mean Streets of Gadgetzan expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
+    <value>Mean Streets of Gadgetzan:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
+    <value>Mean Streets of Gadgetzan</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
+    <value>Mean Streets of Gadgetzan</value>
+  </data>
 </root>
