@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_Menu_New" xml:space="preserve">
-    <value>_Novo</value>
+    <value>_Nuevo</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
     <value>Editar no_mbre</value>
@@ -130,7 +130,7 @@
     <value>Mover para Arena</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Mostrar cartas em _falta</value>
+    <value>Mostrar cartas _faltantes</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
     <value>Abrir _Website</value>
@@ -151,31 +151,31 @@
     <value>de _Arena</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>da _Web</value>
+    <value>De la _Web</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
-    <value>de Ficheiro</value>
+    <value>De archivo</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
-    <value>de Último jogo</value>
+    <value>Del último juego</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
     <value>_Exportar</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>para _Hearthstone</value>
+    <value>hacia _Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
     <value>_Plugins</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Opções</value>
+    <value>Opciones</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
-    <value>Ajuda</value>
+    <value>Ayuda</value>
   </data>
   <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
-    <value>Doar</value>
+    <value>Donar</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
     <value>Opciones</value>
@@ -190,7 +190,7 @@
     <value>Errores</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Uma nova actualização está disponível</value>
+    <value>Una nueva actualización está disponible</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -202,7 +202,7 @@
     <value>Procurar</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Opções avançadas</value>
+    <value>Opciones avanzadas</value>
   </data>
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
     <value>Jogador</value>
@@ -223,16 +223,16 @@
     <value>Procurar</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
-    <value>Jogador</value>
+    <value>Jugador</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Adversario</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
     <value>Editar _baraja</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
-    <value>Novidades:</value>
+    <value>Novedades:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>Novo</value>
@@ -313,7 +313,7 @@
     <value>Mostrar histórico de las versiones</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Ocultar baralhos</value>
+    <value>Ocultar barajas</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
     <value>Definir nome do baralho</value>
@@ -520,13 +520,13 @@
     <value>Nombre...</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>E_statísticas</value>
+    <value>E_stadísticas</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
-    <value>_Sincronizar agora</value>
+    <value>_Sincronizar ahora</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
-    <value>Sincronizar no início</value>
+    <value>Sincronizar al iniciar</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
     <value>Estadísticas</value>
@@ -796,7 +796,7 @@
     <value>Versión Seleccionada</value>
   </data>
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
-    <value>Versão:</value>
+    <value>Versión:</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
     <value>Incluir número da versão no nome</value>
@@ -820,7 +820,7 @@
     <value>Oro</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Progresso do ouro sempre visível (no menu)</value>
+    <value>Progreso de oro sempre visíble (en el menu)</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Golden" xml:space="preserve">
     <value>Prioritizar cartas douradas</value>
@@ -850,7 +850,7 @@
     <value>Mostrar contador de ataque da mesa</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>Mecânicas</value>
+    <value>Mecánicas</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
     <value>Modo sin baraja</value>
@@ -862,28 +862,28 @@
     <value>Ocultar</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Ocultar baralho do adversário</value>
+    <value>Ocultar la baraja del adversario</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Ocultar antiguidade das cartas</value>
+    <value>Ocultar antiguidad de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Ocultar marcas das cartas</value>
+    <value>Ocultar marcas de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
     <value>Ocultar por completo</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>Ocultar se HS estiver em segundo plano</value>
+    <value>Ocultar si HS está en segundo plano</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>Ocultar no menu</value>
+    <value>Ocultar en el menu</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>Ocultar em espectador</value>
+    <value>Ocultar en espectador</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
-    <value>Ocultar segredos</value>
+    <value>Ocultar secretos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
     <value>Ocultar contadores</value>
@@ -904,10 +904,10 @@
     <value>Enlace a la nueva UR_L</value>
   </data>
   <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Ligar UR_L</value>
+    <value>Enlace a UR_L</value>
   </data>
   <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>Ligar a novo UR_L</value>
+    <value>Enlace a nueva UR_L</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>Ir al FAQ.</value>
@@ -934,10 +934,10 @@
     <value>Actualizar notas</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
-    <value>_Atualizar (web)</value>
+    <value>_Actualizar (web)</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>Clique aqui para atualizar agora</value>
+    <value>Haz click aquí para actualizar ahora</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
     <value>Auto atualizar baralhos modificados</value>
@@ -958,7 +958,7 @@
     <value>Mostrar notas sobre actualización</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>Se isso não ajudar, clique 'mostrar instruções' para ver como atualizar manualmente.</value>
+    <value>Si eso no funciona, haz click en "mostrar instrucciones" para ver cómo actualizar manualmente.</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
     <value>_Archivar</value>
@@ -1057,13 +1057,13 @@
     <value>Importación de Baraja</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>de IDs</value>
+    <value>De IDs</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>_Outros</value>
+    <value>_Otros</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>da Área de transferência</value>
+    <value>Del portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
     <value>de _Construído</value>
@@ -1108,37 +1108,37 @@
     <value>Construído</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copiar _nomes para área de transferência</value>
+    <value>Copiar _nombres al portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>S_creenshot (com informação)</value>
+    <value>S_creenshot (com información)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>_Screenshot</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Copiar _IDs para Área de Transferência</value>
+    <value>Copiar _IDs al portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>para Hearthstone via _Web</value>
+    <value>hacia Hearthstone v[ia _Web</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>_Ver estatísticas</value>
+    <value>_Ver estadísticas</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
-    <value>Minha conta</value>
+    <value>Mi cuenta</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>Ú_ltimas repetições</value>
+    <value>Ú_ltimas repeticiones</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>Carregar de _ficheiro</value>
+    <value>Cargar de _archivo</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>_Reivindicar conta</value>
+    <value>_Reclamar cuenta</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>_Repetições</value>
+    <value>_Repeticiones</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
     <value>Reivindicar conta</value>
@@ -1171,37 +1171,37 @@
     <value>Espectador</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>Upload automático de jogos</value>
+    <value>Upload automático de juegos</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Upload automático de novos baralhos</value>
+    <value>Upload automático de barajas nuevas</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Sincronizar automaticamente em segundo plano</value>
+    <value>Sincronizar automáticamente en segundo plano</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
-    <value>Sair</value>
+    <value>Salir</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
     <value>Entrar</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
-    <value>_Forçar sincronização completa</value>
+    <value>_Forzar sincronización completa</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
-    <value>Eliminar baralhos selecionados</value>
+    <value>Eliminar las barajas seleccionadas</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
-    <value>Eliminar jogos automaticamente</value>
+    <value>Eliminar juegos automáticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
-    <value>Eliminar baralhos automaticamente</value>
+    <value>Eliminar barajas automáticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
-    <value>_Painel de controle (web)</value>
+    <value>_Panel de Control (web)</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
-    <value>Vazio...</value>
+    <value>Vacío...</value>
   </data>
   <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
     <value>Baraja del Adversario</value>
@@ -1258,10 +1258,10 @@
     <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar baralhos' (botão dupla seta)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Não limpar baralhos depois de um jogo</value>
+    <value>No reiniciar barajas despues de un juego</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
-    <value>Limpar</value>
+    <value>Limpiar</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
     <value>Limpar posições:</value>
@@ -1282,7 +1282,7 @@
     <value>Definir</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
-    <value>Novas definições são necessárias para que o HDT funcione corretamente.</value>
+    <value>Nuevos ajustes en log.config son requeridos para que HDT funcione correctamente.</value>
   </data>
   <data name="Enum_Format_Standard" xml:space="preserve">
     <value>Estándar</value>
@@ -1315,7 +1315,7 @@
     <value>Apenas para segredos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Usar animações nas cartas</value>
+    <value>Usar animaciones de cartas</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
     <value>Opacidade:</value>
@@ -1348,7 +1348,7 @@
     <value>Aviso!</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Desbloquear sobreposição</value>
+    <value>Desbloquear capa sobrepuesta</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
     <value>La capa sobrepuesta puede ser desbloqueada vía</value>
@@ -1369,7 +1369,7 @@
     <value>Segundo plano:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>Mostrar percentagem</value>
+    <value>Mostrar percentaje</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>Escalamento:</value>
@@ -1567,13 +1567,13 @@
     <value>Mostrar dicas de contexto das cartas</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Dicas de contexto das cartas</value>
+    <value>Descripciones emergentes</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Dicas de contexto das cartas</value>
+    <value>Descripciones emergentes de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Dicas de contexto adicionais das cartas</value>
+    <value>Descripciones emergentes de cartas adicionales</value>
   </data>
   <data name="SortFilter_Filter_Button_Add" xml:space="preserve">
     <value>Adicionar</value>
@@ -1603,16 +1603,16 @@
     <value>Apagar selecionado</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Eliminar jogo</value>
+    <value>Eliminar juego</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
     <value>Eliminar</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Emilinar jogos</value>
+    <value>Eliminar juegos</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>Isto irá apagar os jogos selecionados</value>
+    <value>Esto eliminará los juegos seleccionados.</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -1663,7 +1663,7 @@
     <value>nome ou descrição</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>Mostrar estado da bateria</value>
+    <value>Mostrar estado de la batería</value>
   </data>
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
     <value>Interatividade</value>
@@ -1696,7 +1696,7 @@
     <value>Mostrar registo</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
-    <value>Existiu um problema ao atualizar log.config</value>
+    <value>Ocurrió un problema al actualizar log.config</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
     <value>Abrir pasta AppData</value>
@@ -1711,10 +1711,10 @@
     <value>Esperar por voltar ao menu</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
-    <value>Escolha o baralho</value>
+    <value>Escoja la baraja objetivo</value>
   </data>
   <data name="MoveGameDialog_Button_Move" xml:space="preserve">
-    <value>Mover para selecionado</value>
+    <value>Mover a selecionado</value>
   </data>
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
     <value>Resultado:</value>
@@ -1759,7 +1759,7 @@
     <value>Baralho do adversário</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Adversario</value>
   </data>
   <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
     <value>Adversario:</value>
@@ -1819,7 +1819,7 @@
     <value>Plugins disponíveis</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
-    <value>Abrir pasta</value>
+    <value>Abrir carpeta</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
     <value>Pasta de Plugins</value>
@@ -1834,16 +1834,16 @@
     <value>Principal</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>Apenas se HS em primeiro plano</value>
+    <value>Solo si HS está en segundo plano</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
     <value>Hex personalizado:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Dicas de contexto das marcas das cartas</value>
+    <value>Descripciones emergentes de marcas de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Desabilitar segredos automaticamente</value>
+    <value>Desabilitar secretos automáticamente</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
     <value>Clique no segredo para desabilitar</value>
@@ -1852,7 +1852,7 @@
     <value>NOTA: Pode não funcionar corretamente se &amp;quot;opções &gt; sobreposição &gt; geral &gt; desabilitar segredos automaticamente&amp;quot; estiver ativado.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Mostrar texto extra das cartas ao sobrepor o rato (mesa/mão)</value>
+    <value>Mostrar texto de ambientación de cartas al sobreponer ratón (mesa/mano)</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
     <value>Mover hacia otra baraja</value>
@@ -1924,7 +1924,7 @@
     <value>El número de copias restantes en la baraja para una carta específica.</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>Mostrar baralho do adversário</value>
+    <value>Mostrar la baraja del adversario</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
     <value>Esconder baralho quando a lista de amigos estiver aberta</value>
@@ -1993,7 +1993,7 @@
     <value>Resultado do jogo</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
-    <value>Notas para este jogo</value>
+    <value>Notas para este juego</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
     <value>Vitó/Derr vs classe</value>
@@ -2014,25 +2014,25 @@
     <value>1) Revisa el</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>"upload" irá enviar automaticamente a imagem para imgur.com</value>
+    <value>"subir" enviará la imagen automáticamente a imgur.com</value>
   </data>
   <data name="SplashScreen_Text_Loading" xml:space="preserve">
     <value>Carregando...</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Guardar &amp; upload</value>
+    <value>Guardar &amp; subir</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>Mostrar o ecrã de carregamento</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Subir</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Upload automático de repetições</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
-    <value>Upload para</value>
+    <value>Subido en</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(botón al fondo).</value>
@@ -2059,7 +2059,7 @@
     <value>Analítica</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
-    <value>Tem a certeza?</value>
+    <value>¿Estás seguro?</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
     <value>Asia</value>
@@ -2140,7 +2140,7 @@
     <value>Turnos</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>Tente iniciar o HDT como administrador.</value>
+    <value>Intenta ejecutar HDT como administrador.</value>
   </data>
   <data name="Enum_TimeFrame_Today" xml:space="preserve">
     <value>Hoy</value>
@@ -2218,7 +2218,7 @@
     <value>Espectador</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Spells" xml:space="preserve">
-    <value>Feitiços</value>
+    <value>Hechizos</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
     <value>Enviar Reporte</value>
@@ -2230,13 +2230,13 @@
     <value>Temporadas:</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
-    <value>Guardado em</value>
+    <value>Guardado en</value>
   </data>
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
-    <value>Guardado em</value>
+    <value>Guardado en</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
-    <value>Guardar com ENTER</value>
+    <value>Guardar con ENTER</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
     <value>Guardar</value>
@@ -2251,10 +2251,10 @@
     <value>Redondo</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
-    <value>Reinicio necessário</value>
+    <value>Reinicio necesario</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
-    <value>Reiniciar agora</value>
+    <value>Reiniciar ahora</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
     <value>Gravar</value>
@@ -2281,7 +2281,7 @@
     <value>Cerrar</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
-    <value>fechar</value>
+    <value>cerrar</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
     <value>Clásico</value>
@@ -2323,7 +2323,7 @@
     <value>Jogado</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
-    <value>Abrir no navegador</value>
+    <value>Abrir en el navegador</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
     <value>OK</value>
@@ -2356,7 +2356,7 @@
     <value>Último</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
-    <value>Depois</value>
+    <value>Después</value>
   </data>
   <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
     <value>Última vez jugado</value>
