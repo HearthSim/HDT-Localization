@@ -205,10 +205,10 @@
     <value>Opciones avanzadas</value>
   </data>
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
-    <value>Jogador</value>
+    <value>Jugador</value>
   </data>
   <data name="Options_Overlay_Opponent_Header" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Adversario</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
     <value>Notificações</value>
@@ -754,10 +754,10 @@
     <value>Automaticamente "USAR" baralhos. (desativa o botão nos baralhos)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Centrar baralho verticalmente</value>
+    <value>Centrar baraja verticalmente</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Centrar baralho verticalmente</value>
+    <value>Centrar baraja verticalmente</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
     <value>Todos</value>
@@ -844,10 +844,10 @@
     <value>Ataque</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Mostrar contador de ataque da mesa</value>
+    <value>Mostrar contador de ataque en la mesa</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Mostrar contador de ataque da mesa</value>
+    <value>Mostrar contador de ataque en la mesa</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Mecánicas</value>
@@ -1258,13 +1258,13 @@
     <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar baralhos' (botão dupla seta)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>No reiniciar barajas despues de un juego</value>
+    <value>No reiniciar barajas después de un juego</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Limpiar</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Limpar posições:</value>
+    <value>Limpar posiciones:</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Definir localização do Hearthstone</value>
@@ -1303,37 +1303,37 @@
     <value>Salvaje</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
-    <value>Geral</value>
+    <value>General</value>
   </data>
   <data name="Options_Overlay_Windows_Header" xml:space="preserve">
     <value>Janelas</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>Sobreposição</value>
+    <value>Capa sobrepuesta</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>Apenas para segredos</value>
+    <value>Para secretos únicamente</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
     <value>Usar animaciones de cartas</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
-    <value>Opacidade:</value>
+    <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
-    <value>Aviso:</value>
+    <value>Advertencia:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
-    <value>Ligado</value>
+    <value>Habilitado</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
-    <value>Desligado</value>
+    <value>Deshabilitado</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
-    <value>Opacidade:</value>
+    <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
-    <value>Opacidade:</value>
+    <value>Escala:</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
     <value>La capa sobrepuesta</value>
@@ -1372,31 +1372,31 @@
     <value>Mostrar percentaje</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
-    <value>Escalamento:</value>
+    <value>Escala:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
-    <value>Escalamento dos segredos:</value>
+    <value>Escala de secretos:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
-    <value>Opacidade dos segredos:</value>
+    <value>Opacidad de secretos:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Mostrar contador de feitiços</value>
+    <value>Mostrar contador de hechizos</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contador do C'Thun</value>
+    <value>Mostrar contador de C'Thun</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
-    <value>Incluir cartas criadas</value>
+    <value>Incluir cartas creadas</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>Escalamento:</value>
+    <value>Escala de secretos:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contador do C'Thun</value>
+    <value>Mostrar contador de C'Thun</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Mostrar contador de feitiços</value>
+    <value>Mostrar contador de hechizos</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>Tema:</value>
@@ -1666,10 +1666,10 @@
     <value>Mostrar estado de la batería</value>
   </data>
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
-    <value>Interatividade</value>
+    <value>Interactividad</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
-    <value>Funcionalidades:</value>
+    <value>Funcionalidades</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>o</value>
@@ -1846,10 +1846,10 @@
     <value>Desabilitar secretos automáticamente</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
-    <value>Clique no segredo para desabilitar</value>
+    <value>Haz click en secretos para deshabilitar</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTA: Pode não funcionar corretamente se &amp;quot;opções &gt; sobreposição &gt; geral &gt; desabilitar segredos automaticamente&amp;quot; estiver ativado.</value>
+    <value>NOTA: Puede que no funcione corretacmente si &amp;quot;opciones &gt; capa sobrepuesta &gt; general &gt; deshabilitar secretos automáticamente&amp;quot; está activado.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Mostrar texto de ambientación de cartas al sobreponer ratón (mesa/mano)</value>
@@ -1927,10 +1927,10 @@
     <value>Mostrar la baraja del adversario</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>Esconder baralho quando a lista de amigos estiver aberta</value>
+    <value>Ocultar baraja cuando la lista de amigos está abierta</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
-    <value>Destacar descartadas do baralho</value>
+    <value>Destacar descartadas de la baraja</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
     <value>Cópias de segurança são criadas automaticamente no início de cada dia. Elas contém baralhos, jogos e configurações. Se existirem mais de 7 (geradas automaticamente) cópias, a mais antiga é removida.</value>
@@ -2110,10 +2110,10 @@
     <value>Armas</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Usar a mesma escalação para jogador/adversário</value>
+    <value>Usar la misma escala para jugador/adversario</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Usar a mesma escalação para jogador/adversário</value>
+    <value>Usar la misma escala para jugador/adversario</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
     <value>EEUU</value>
