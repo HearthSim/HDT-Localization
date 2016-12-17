@@ -802,10 +802,10 @@
     <value>速度:</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Wait" xml:space="preserve">
-    <value>等待</value>
+    <value>启动前等待</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Wait2" xml:space="preserve">
-    <value>秒（在启动前）</value>
+    <value>秒</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Golden" xml:space="preserve">
     <value>金色卡牌次序优先</value>
@@ -826,7 +826,7 @@
     <value>强制清空卡牌间的搜索内容</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
-    <value>从剪贴板粘贴名称</value>
+    <value>从剪贴板复制名称</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>在导出前显示对话框</value>
