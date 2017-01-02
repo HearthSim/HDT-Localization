@@ -604,7 +604,7 @@
     <value>Добавочные подсказки карт</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Исп-ать анимацию карт</value>
+    <value>Исп. анимацию карт</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>Подсказки метки карт</value>
@@ -670,7 +670,7 @@
     <value>Отключено</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Исп-ть тот же размер для игрока/соперника</value>
+    <value>Исп. тот же размер для игрока/соперника</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>Размер:</value>
@@ -703,7 +703,7 @@
     <value>Выделять сброшенные карты</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Исп-ть тот же размер для игрока/соперника</value>
+    <value>Исп. тот же размер для игрока/соперника</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
     <value>Размер:</value>
@@ -853,7 +853,7 @@
     <value>(подсказки)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Исп-ать базовый шрифт для нелатниских языков</value>
+    <value>Исп. базовый шрифт для нелатниских языков</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
     <value>Перезапуск для применения настроек языка.</value>
@@ -874,7 +874,7 @@
     <value>Полностроковый поиск при составлении</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Исп-те прописные имена колод</value>
+    <value>Только прописные имена колод</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
     <value>Показ последней даты игры колодой</value>
@@ -1033,7 +1033,7 @@
     <value>Войти через Battle.net на HSReplay.net, чтобы запросить повторы. Запустится браузер.</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Исп-ть локальный просмотр по умолчанию (не поддерживается)</value>
+    <value>Исп. локальный просмотр по умолчанию (не поддерживается)</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Отправить анонимные данные</value>
@@ -1165,7 +1165,7 @@
     <value>Поиск...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>Исп-ть колоду</value>
+    <value>Исп. колоду</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
     <value>Изменить колоду</value>
@@ -1882,7 +1882,7 @@
     <value>Существа</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>Механизмы</value>
+    <value>Механики</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
     <value>Скрыть</value>
@@ -2287,7 +2287,7 @@
     <value>Нет</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>Тык "Исп-ть" для выбора</value>
+    <value>Тык "Выбрать" для выбора</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>Авто</value>
@@ -2296,7 +2296,7 @@
     <value>Без колоды</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
-    <value>Исп-ть</value>
+    <value>Выбрать</value>
   </data>
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>Выбрано</value>
@@ -2690,5 +2690,62 @@
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
     <value>Шанс взятия</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
+    <value>Колода не найдена</value>
+  </data>
+  <data name="ImportingChoiceDialog_Title" xml:space="preserve">
+    <value>Колода найдена!</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
+    <value>Только сохр.</value>
+  </data>
+  <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
+    <value>Создать в HS</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
+    <value>Показ HearthStats меню</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
+    <value>Буфер не содержит поддерживаемые URL-адресы или данные колоды.</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
+    <value>Вставить режим</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
+    <value>Поведение при вставке (Ctrl-V) URL-адреса или колоды в HDT</value>
+  </data>
+  <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
+    <value>Ручное</value>
+  </data>
+  <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
+    <value>Только сохр.</value>
+  </data>
+  <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
+    <value>Создать в HS</value>
+  </data>
+  <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
+    <value>Выберите действие</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
+    <value>Злачный город Прибамбасск:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
+    <value>Злачный город Прибамбасск</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
+    <value>Злачный город Прибамбасск</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
+    <value>Колода содержит карты Прибамбасска</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
+    <value>Показ размера голема:</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
+    <value>Показ размера голема:</value>
   </data>
 </root>
