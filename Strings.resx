@@ -2748,4 +2748,7 @@
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
     <value>Show Jade Golem counter:</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
+    <value>Remove grayed out secrets</value>
+  </data>
 </root>
