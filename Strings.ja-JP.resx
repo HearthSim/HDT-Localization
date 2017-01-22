@@ -169,7 +169,7 @@
     <value>構築に移動</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>ないのカードを見る</value>
+    <value>ないカードを見る</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
     <value>アップデート(ウェブ)</value>
@@ -256,13 +256,13 @@
     <value>(情報) でスクリーン ショット</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>_Stats</value>
+    <value>統計</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>_Arena</value>
+    <value>闘技場</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>_Constructed</value>
+    <value>構築</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
     <value>リプレイ</value>
@@ -1192,7 +1192,7 @@
     <value>構築に移動</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>ないのカードを見る</value>
+    <value>ないカードを見る</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
     <value>アップデート(ウェブ)</value>
