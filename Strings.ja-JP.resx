@@ -481,7 +481,7 @@
     <value>オーバーレイ</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
-    <value>一般的</value>
+    <value>一般</value>
   </data>
   <data name="Options_Overlay_Windows_Header" xml:space="preserve">
     <value>Windows</value>
@@ -502,7 +502,7 @@
     <value>トラッカー</value>
   </data>
   <data name="Options_Tracker_General_Header" xml:space="preserve">
-    <value>一般的</value>
+    <value>一般</value>
   </data>
   <data name="Options_Tracker_Stats_Header" xml:space="preserve">
     <value>統計情報</value>
@@ -1672,7 +1672,7 @@
     <value>地域:</value>
   </data>
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
-    <value>アーカイブの実行を含む</value>
+    <value>アーカイブされた戦績を含む</value>
   </data>
   <data name="ArenaRewards_Label_Gold" xml:space="preserve">
     <value>ゴールド</value>
@@ -1690,13 +1690,13 @@
     <value>カード</value>
   </data>
   <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>お支払方法</value>
+    <value>支払方法</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>ゴールド</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Money" xml:space="preserve">
-    <value>お金</value>
+    <value>現金</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
     <value>自動的に表示</value>
@@ -1708,7 +1708,7 @@
     <value>ゴールデン</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>どれも</value>
+    <value>なし</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
     <value>アクティブなデッキのみ</value>
@@ -1990,7 +1990,7 @@
     <value>観客</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
-    <value>どれも</value>
+    <value>なし</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
     <value>すべて</value>
@@ -2191,16 +2191,16 @@
     <value>ドロー確率</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
-    <value>X枚残っているカード引く確率</value>
+    <value>X枚残っているカードを引く確率</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>cardを持っている可能性</value>
+    <value>カードを持っている確率</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>対戦相手が次の最初のターンにX枚残っているカード引く確率</value>
+    <value>対戦相手が次の最初のターンにX枚残っているカードを手札に持っている確率</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
-    <value>次のドローは含まれるがそれ以前は含まない</value>
+    <value>次のドローは含まれますがそれ以外のことは考慮しません。</value>
   </data>
   <data name="Help_Overlay_Label_Customization" xml:space="preserve">
     <value>カスタマイズ</value>
@@ -2754,7 +2754,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
   </data>
-  <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
+  <data name="DeckPicker_ContextMenu_Clone_Duplicate[1]" xml:space="preserve">
     <value>複製</value>
   </data>
 </root>
