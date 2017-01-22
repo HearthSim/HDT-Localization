@@ -175,7 +175,7 @@
     <value>アップデート(ウェブ)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
-    <value>_websiteを開く</value>
+    <value>ウェブサイトを開く</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
     <value>HearthStatsを開く</value>
@@ -241,7 +241,7 @@
     <value>ウェブからハースストーンに</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>_Xml として保存します。</value>
+    <value>XMLとして保存</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Id を クリップボード にコピー</value>
@@ -250,10 +250,10 @@
     <value>名前をクリップボードにコピー</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>_Screenshot</value>
+    <value>スクリーンショット</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>(情報) でスクリーン ショット</value>
+    <value>スクリーン ショット(詳細付き)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>統計</value>
@@ -274,7 +274,7 @@
     <value>統計から選択</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>ファイルから読み込む</value>
+    <value>ファイルを読み込む</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>アカウント追加</value>
@@ -358,10 +358,10 @@
     <value>バージョンアップ時の注意</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>デッキをインポートします。</value>
+    <value>デッキをインポート</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>新しいウィンドウに移動します。</value>
+    <value>新しいウィンドウに移動</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
     <value>統計情報</value>
@@ -451,7 +451,7 @@
     <value>ワン・ナイト・イン・カラザン</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>名前.</value>
+    <value>名前...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>名前が既に存在します。</value>
@@ -538,7 +538,7 @@
     <value>ログ</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>チェック ボックスの名前/説明.</value>
+    <value>チェック ボックスの名前/説明...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>検索</value>
@@ -646,7 +646,7 @@
     <value>警告:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>時折フリーズするカーソルを引き起こす可能性があります。</value>
+    <value>たまにカーソルがフリーズする原因となることがあります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>強制時にオンにする (必要なければ使わないでください)</value>
@@ -670,7 +670,7 @@
     <value>無効</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>プレーヤー/相手に同じスケールを使用してください。</value>
+    <value>プレーヤー/相手に同じスケールを使用</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>拡大/縮小。</value>
@@ -703,7 +703,7 @@
     <value>デッキからハイライト</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>プレーヤー/相手に同じスケールを使用してください。</value>
+    <value>プレーヤー/相手に同じスケールを使用</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
     <value>拡大/縮小</value>
@@ -748,7 +748,7 @@
     <value>あなたのハースストーンのウィンドウの背後にオーバーレイのchroma-key-able copyがコピーが追加されます。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>メモ: オーバーレイ コピー可能性があります表示前にハースストーン一度。セッションの残りの部分のそれを隠すそれをクリックします。</value>
+    <value>メモ: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>チュートリアルを表示(wikiを開く)</value>
@@ -793,7 +793,7 @@
     <value>選択項目の削除</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>バックアップは、その日最初の起動時に自動的に作成されます。これらにはデッキ、ゲームと設定が含まれます。 7つ以上 (自動生成) のバックアップが存在する場合、最も古いものが自動的に削除されます、バックアップは少なくとも過去 1 週間帆損されます。ホソン</value>
+    <value>バックアップは、その日最初の起動時に自動的に作成されます。これらにはデッキ、ゲームと設定が含まれます。 7つ以上 (自動生成) のバックアップが存在する場合、最も古いものが自動的に削除されます、バックアップは少なくとも過去 1 週間保存されます。</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>バックアップ ディレクトリを表示</value>
@@ -1291,7 +1291,7 @@
     <value>平均:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
-    <value>使用時間:</value>
+    <value>使用ゴールド:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
     <value>魔素</value>
@@ -1768,7 +1768,7 @@
     <value>メモ</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>アーカイブされたデッキが含まれます</value>
+    <value>アーカイブされたデッキを含む</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>タグ フィルターを適用</value>
@@ -2425,7 +2425,7 @@
     <value>ターン:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
-    <value>機関(分):</value>
+    <value>期間(分):</value>
   </data>
   <data name="AddGameDialog_Label_Note" xml:space="preserve">
     <value>メモ:</value>
