@@ -184,7 +184,7 @@
     <value>アーカイブ</value>
   </data>
   <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
-    <value>解凍</value>
+    <value>アンアーカイブ</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
     <value>削除</value>
@@ -1207,7 +1207,7 @@
     <value>アーカイブ</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
-    <value>解凍</value>
+    <value>アンアーカイブ</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
     <value>削除</value>
@@ -1249,7 +1249,7 @@
     <value>結果:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
-    <value>合計%</value>
+    <value>% (合計)</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_TotalGames" xml:space="preserve">
     <value>合計ゲーム:</value>
@@ -1453,10 +1453,10 @@
     <value>ワースト</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_MostPicked" xml:space="preserve">
-    <value>最もピックした</value>
+    <value>最多使用ヒーロー</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>最もピックしていない</value>
+    <value>最小使用ヒーロー</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
     <value>ドルイド</value>
@@ -1600,7 +1600,7 @@
     <value>削除</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
-    <value>あなた \ 対</value>
+    <value>自分＼相手</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
     <value>合計</value>
@@ -1636,7 +1636,7 @@
     <value>最高ランク:</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_MostPlayedDeck" xml:space="preserve">
-    <value>最も使用したデッキ</value>
+    <value>最多使用デッキ</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
     <value>最高のデッキ</value>
@@ -1645,7 +1645,7 @@
     <value>最速デッキ</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_SlowestDeck" xml:space="preserve">
-    <value>最も遅いデッキ</value>
+    <value>最遅デッキ</value>
   </data>
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
     <value>パーセントとして表示</value>
@@ -1780,13 +1780,13 @@
     <value>メニュー</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>闘技場の結果</value>
+    <value>闘技場の戦績</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>概要</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>実行・ マッチ</value>
+    <value>戦績&amp;試合</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>高度なチャート</value>
@@ -2575,7 +2575,7 @@
     <value>操作を選択</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>imgur.com に画像が自動的にアップロードされます「アップロード」</value>
+    <value>「upload」でimgur.com に画像が自動的にアップロードされます</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
     <value>保存</value>
@@ -2593,7 +2593,7 @@
     <value>Log.config の更新に問題があった</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
-    <value>新しい log.config 設定 HDT 正しく機能するために必要です。</value>
+    <value>新しい log.config 設定 HDTが正しく動作するために必要です。</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Instructions" xml:space="preserve">
     <value>説明を表示</value>
@@ -2753,5 +2753,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
+    <value>複製</value>
   </data>
 </root>
