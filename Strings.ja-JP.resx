@@ -460,7 +460,7 @@
     <value>ワイルド専用カードを含む</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>カード制限を構築</value>
+    <value>カード枚数制限</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
     <value>バージョン履歴を表示</value>
@@ -1156,7 +1156,7 @@
     <value>デッキを削除するときに統計情報を維持</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>これは (デッキなしモードで同じ試合に保存されます) 'クラス デフォルト デッキ' に統計情報を移動します。つまり、闘技場 デッキを削除するときに闘技場の統計情報の実行は失われます!</value>
+    <value>これは (デッキなしモードで同じ試合に保存されます) 'クラス デフォルト デッキ' に統計情報を移動します。つまり、闘技場 デッキを削除するときに闘技場結果の統計情報は失われます!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>デッキ統計情報が別ウィンドウで表示します。</value>
@@ -1246,7 +1246,7 @@
     <value>勝利/損失 vs クラス</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
-    <value>実行:</value>
+    <value>結果:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
     <value>合計%</value>
@@ -1753,7 +1753,7 @@
     <value>ターン:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
-    <value>宛先</value>
+    <value>から</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
     <value>コイン:</value>
@@ -1780,7 +1780,7 @@
     <value>メニュー</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>闘技場の実行</value>
+    <value>闘技場の結果</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>概要</value>
@@ -2035,7 +2035,7 @@
     <value>ウォーロック</value>
   </data>
   <data name="Enum_HeroClass_Warrior" xml:space="preserve">
-    <value>戦士</value>
+    <value>ウォーリア</value>
   </data>
   <data name="Enum_HeroClass_Archived" xml:space="preserve">
     <value>アーカイブ</value>
@@ -2044,7 +2044,7 @@
     <value>ラウンド</value>
   </data>
   <data name="Enum_IconStyle_Square" xml:space="preserve">
-    <value>広場</value>
+    <value>四角</value>
   </data>
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
