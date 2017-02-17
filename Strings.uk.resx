@@ -367,7 +367,7 @@
     <value>Статистика</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>З\'явилося оновлення</value>
+    <value>З'явилося оновлення</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Натисніть щоб почати оновлення</value>
@@ -574,7 +574,7 @@
     <value>Сховати до меню</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>Сховати у режимі стеженя</value>
+    <value>Сховати у режимі Спостерігача</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
     <value>Сховати коли HS у фоновому режимі</value>
@@ -2750,5 +2750,71 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Видаляти виключені секрети</value>
+  </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>Увага</value>
+  </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>Увімкнути знову</value>
+  </data>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>Усе добре, не показвувати попередження знову</value>
+  </data>
+  <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
+    <value>Автоматичне застосування колоди наразі вимкнене.\n\nМи рекомендуємо увімкнути це налаштування для кращої роботи HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
+    <value>Автоматичний імпорт збираних колод наразі вимкнений.\n\nМи рекомендуємо увімкнути це налаштування для кращої роботи HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
+    <value>Автоматичний імпорт змін до збираних колод наразі вимкнений.\n\nМи рекомендуємо увімкнути це налаштування для кращої роботи HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
+    <value>Автоматичний імпорт колод Арени наразі вимкнений.\n\nМи рекомендуємо увімкнути це налаштування для кращої роботи HDT.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>Автоматично застосовувати колоди (рекомендовано)</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
+    <value>Відібражає створені чи повернуті до руки карти, якщо така інформація наявна.</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
+    <value>Буде показана лише, якщо курсор зупиниться на карті на деякий час.</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
+    <value>Працюватиме лише для мобільних пристроїв (ноутбук, планшет, тощо...).</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>Зміщує карти до центру, а інформаційні панелі - вертикально - у рамцях обраної області для колод. Область може бути змінено через 'Накладення > Загальні > Зрушити накладення'.</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>Зміщує карти до центру, а інформаційні панелі - вертикально - у рамцях обраної області для колод. Область може бути змінено через 'Накладення > Загальні > Зрушити накладення'.</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
+    <value>Зніміть пташку, щоб вимкнути більшість анімацій для спливаючих вікон та сповіщень</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
+    <value>Спробуйте це налаштування, якщо у вас є проблеми з експортом певних імен карт/колод - Може спрацювати не з усіма розкладинками клавіатури</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
+    <value>Сповіщати за</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>секунд.</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>Сповістити звуковим сигналом та блиманням вікна, крли у вас залишилося &quot;X&quot; секунд до кінця ходу</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
+    <value>Зніміть пташку, щоб назви колод у режимі 'Вибору колод' більше не скаладалися лише з великих літер.</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>Це налаштування можна вимкнути, якщо Накладення з'являється на вікнах, що не належать Hearthstone.</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
+    <value>Для додаткової інформації спробуйте пошукати &quot;C# date format&quot; у пошуковику Google.</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
+    <value>Спробуйте увімкнути це налаштування, якщо у вас є проблеми з виявленням рангу/рангових ігор.</value>
   </data>
 </root>
