@@ -1039,7 +1039,7 @@
     <value>Додати анонімні дані</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>Це зберігає лише найважливышу інформацію, яка допоможе нам покращити HDT, наприклад виміри часу завантаження програми та матчів.</value>
+    <value>Це налаштування зберігтиме лише найважливышу інформацію, яка допоможе нам покращити HDT, наприклад виміри часу завантаження програми та матчів.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Зберігати налаштування у AppData</value>
@@ -2803,7 +2803,7 @@
     <value>секунд.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Сповістити звуковим сигналом та блиманням вікна, крли у вас залишилося &quot;X&quot; секунд до кінця ходу</value>
+    <value>Сповістити звуковим сигналом та блиманням вікна, коли у вас залишилося &quot;X&quot; секунд до кінця ходу</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Зніміть пташку, щоб назви колод у режимі 'Вибору колод' більше не скаладалися лише з великих літер.</value>
