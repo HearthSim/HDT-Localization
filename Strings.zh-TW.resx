@@ -1285,7 +1285,7 @@
     <value>金幣</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Total" xml:space="preserve">
-    <value>總計;</value>
+    <value>總計:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
     <value>平均:</value>
@@ -2611,7 +2611,7 @@
     <value>關閉</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>請益系統管理員啟動HDT</value>
+    <value>請嘗試用系統管理員啟動HDT</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
     <value>如果這無法幫助你，請點擊"顯示說明"並教你如何手動更新</value>
@@ -2729,5 +2729,23 @@
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>建立於爐石戰記</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
+    <value>翠玉魔像計數器:</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
+    <value>翠玉魔像計數器:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
+    <value>套牌包含黑街英雄之加基森風雲的卡片</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
+    <value>黑街英雄之加基森風雲:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
+    <value>黑街英雄之加基森風雲:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
+    <value>黑街英雄之加基森風雲:</value>
   </data>
 </root>
