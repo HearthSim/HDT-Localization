@@ -1339,7 +1339,7 @@
     <value>У середньому:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Спроб на Арені</value>
+    <value>Ігри на Арені</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Клас</value>
@@ -1792,7 +1792,7 @@
     <value>Підсумок</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Спроби та ігри</value>
+    <value>Ігри на Арені</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Складні діаграми</value>
@@ -1834,16 +1834,16 @@
     <value>Зберегти до</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Завантажити Hearthstone та перейти до меню 'Играть'.</value>
+    <value>Завантажте Hearthstone та перейдіть до меню 'Играть'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
-    <value>Перейти до меню 'Играть'.</value>
+    <value>Перейдіть до меню 'Играть'.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Завантажити Hearthstone та перейти до меню 'Потасовка'.</value>
+    <value>Завантажте Hearthstone та перейдіть до меню 'Потасовка'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>Перейти до меню 'Потасовка'.</value>
+    <value>Перейдіть до меню 'Потасовка'.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>Немає нових колод.</value>
@@ -1900,7 +1900,7 @@
     <value>Атака</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
-    <value>Перенавантаження</value>
+    <value>Перевантаження</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
     <value>Імпортувати та зберегти</value>
@@ -2422,19 +2422,19 @@
     <value>Ранг:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
-    <value>Легендарний ранг:</value>
+    <value>Легенд. ранг:</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
     <value>Копійка:</value>
   </data>
   <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
-    <value>Завершені здачею:</value>
+    <value>Гравець здався:</value>
   </data>
   <data name="AddGameDialog_Label_Turns" xml:space="preserve">
     <value>Ходів:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
-    <value>Тривалість (хв.):</value>
+    <value>Тривалість (хв):</value>
   </data>
   <data name="AddGameDialog_Label_Note" xml:space="preserve">
     <value>Нотаток:</value>
@@ -2629,7 +2629,7 @@
     <value>колоди Арени</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Фільтрування</value>
+    <value>Фільтрувати</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Догори</value>
@@ -2653,7 +2653,7 @@
     <value>Додати</value>
   </data>
   <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
-    <value>Спосіб фільтрування:</value>
+    <value>Застосувати фільтр:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
     <value>Та</value>
