@@ -2751,4 +2751,28 @@
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Убрать серые секреты</value>
   </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>Предупреждение</value>
+  </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>Вернуться к</value>
+  </data>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>Всё хорошо, не показывать снова</value>
+  </data>
+  <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
+    <value>Автовыбор колоды отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
+    <value>Автоимпорт новых собираемых колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
+    <value>Автоимпорт изменённых собираемых колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+  </data>
+  <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
+    <value>Автоимпорт аренных колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>Автовыбор колоды (советуем)</value>
+  </data>
 </root>
