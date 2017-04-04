@@ -405,9 +405,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>セット</value>
   </data>
-  <data name="すべて" xml:space="preserve">
-    <value>すべて</value>
-  </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
     <value>すべて</value>
   </data>
@@ -2753,8 +2750,5 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Clone_Duplicate[1]" xml:space="preserve">
-    <value>複製</value>
   </data>
 </root>
