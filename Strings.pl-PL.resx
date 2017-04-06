@@ -241,10 +241,10 @@
     <value>Do Hearthstone z _Internetu</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Zapisz jako _Xml</value>
+    <value>Zapisz jako _XML</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Skopiuj IDs to _clipboard</value>
+    <value>Skopiuj IDs do _schowka</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
     <value>Skopiuj _nazwy do schowka</value>
@@ -577,7 +577,7 @@
     <value>Ukryj jako widz</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>Ukryj jeżeli HS jest w tle</value>
+    <value>Ukryj jeżeli Hearthstone jest w tle</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
     <value>Ukryj talie</value>
@@ -586,7 +586,7 @@
     <value>Ukryj zegary</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Ukryj wiek karty**</value>
+    <value>Ukryj wiek karty</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
     <value>Ukryj znaczniki kart</value>
@@ -595,34 +595,34 @@
     <value>Ukryj sekrety</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Opis kart</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>For secrets only</value>
+    <value>Tylko dla sekretów</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Additional card tooltips</value>
+    <value>Dodatkowy opis kart</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Use card animations</value>
+    <value>Używaj animacji kart</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>Card mark tooltips</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Automatically gray out secrets</value>
+    <value>Automatycznie oznacz użyte sekrety</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Don't reset decks after a game</value>
+    <value>Nie resetuj talii po grze</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Gold progress always visible (in menu)</value>
+    <value>Dzienny postęp złota widoczny (w menu)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Show card flavor text on mouseover (board/hand)</value>
+    <value>Pokaż opis karty po najechaniu na nią (na planszy/w ręce)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>Show battery status</value>
+    <value>Pokaż stan baterii</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
     <value>Show percent</value>
@@ -940,7 +940,7 @@
     <value>Templates:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
-    <value>Preview:</value>
+    <value>Podgląd:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Auto save deck on import</value>
@@ -952,34 +952,34 @@
     <value>Tag decks on import</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Auto save deck on import</value>
+    <value>Autozapis talii po zaimportowaniu</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
+    <value>Automatyczne importowanie z NetDeck</value>
   </data>
   <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
+    <value>Pobierz NetDeck (dodatek do Google Chrome)</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
-    <value>Game result</value>
+    <value>Wynik gry</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ShowNotifications" xml:space="preserve">
-    <value>Show notifications</value>
+    <value>Pokaż powiadomienia</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration" xml:space="preserve">
-    <value>Show for</value>
+    <value>Pokaż na</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration2" xml:space="preserve">
-    <value>seconds</value>
+    <value>sekund</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Show arena reward dialog when run is over</value>
+    <value>Pokaż nagrody po zakończeniu areny</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>Show note dialog after game</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
-    <value>Wait until back in menu</value>
+    <value>Poczekaj na powrót do menu</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
     <value>Available Plugins</value>
@@ -1003,7 +1003,7 @@
     <value>Upload replays automatically</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
-    <value>Ranked</value>
+    <value>Ranking</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
     <value>Casual</value>
@@ -1012,7 +1012,7 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Bójka</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
     <value>Friendly</value>
@@ -2785,10 +2785,10 @@
     <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay > general > unlock'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay > general > unlock'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
@@ -2803,7 +2803,7 @@
     <value>seconds.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have &quot;X&quot; seconds remaining</value>
+    <value>Powiadomienie dzwiękowe i wizualne gdy pozostało "X" sekund na ruch.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Uncheck to use normal case in Deck Picker.</value>
@@ -2812,22 +2812,22 @@
     <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google &quot;C# date format&quot;.</value>
+    <value>Po więcej informacji o formacie daty wpisz w google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Try enabling this if you are having trouble with rank(ed) detection.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck contains cards from the Journey to Un'Goro expansion.</value>
+    <value>Talia zawiera karty z dodatku Podróż do Un'Goro.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro:</value>
+    <value>Podróż do Un'Goro:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Podróż do Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Podróż do Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
     <value>Hall of Fame</value>
