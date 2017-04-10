@@ -442,7 +442,7 @@
     <value>Wielki Turniej</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>Liga odkrywców</value>
+    <value>Liga Odkrywców</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
     <value>Przedwieczni Bogowie</value>
@@ -1855,25 +1855,25 @@
     <value>Czekanie na Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Deck contains cards from the Curse of Naxxramas expansion.</value>
+    <value>Talia zawiera karty z dodatku "Klątwa Naxxramas".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Deck contains cards from the Goblins vs Gnomes expansion.</value>
+    <value>Talia zawiera karty z dodatku "Gobliny vs Gnomy"</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Deck contains cards from the Blackrock Mountain expansion.</value>
+    <value>Talia zawiera karty z dodatku "Czarna Góra".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Deck contains cards from The Grand Tournament expansion.</value>
+    <value>Talia zawiera karty z dodatku "Wielki Turniej".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Deck contains cards from the League of Explorers expansion.</value>
+    <value>Talia zawiera karty z dodatku "Liga Odkrywców".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Deck contains cards from the Whispers of the Old Gods expansion.</value>
+    <value>Talia zawiera karty z dodatku "Przedwieczni Bogowie".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Deck contains cards from the One Night in Karazhan expansion.</value>
+    <value>Talia zawiera karty z dodatku "Przewnej nocy w Karazhanie".</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Bronie</value>
@@ -1903,31 +1903,31 @@
     <value>Przeciążenia</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Auto import&amp;save</value>
+    <value>Automatyczny Import i Zapis</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>Auto ask to import</value>
+    <value>Zapytaj czy zaimportować</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>Ręczny</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>None</value>
+    <value>Brak</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Klsyczny</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Gobliny vs Gnomy</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>Wielki Turniej</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Przedwieczni Bogowie</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Klasyczny</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternative</value>
@@ -2464,40 +2464,40 @@
     <value>Arena Rewards</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
-    <value>Crash Report</value>
+    <value>Raport błędu</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
     <value>Hearthstone Deck Tracker się rozjebał :(.</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
-    <value>Error:</value>
+    <value>Błąd:</value>
   </data>
   <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
     <value>Show Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>To help us find a solution for this issue, please attach a description of what you were doing just before this crash occoured, as well as any other helpful information you can think of.</value>
+    <value>Aby pomóc nam naprawić błąd, prosimy napisać co zrobiłeś/zrobiłaś tuż przed wystąpieniem błędu. Wszelkie pomysły co mogło pójść nie tak mile widziane. :)</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Send Report</value>
+    <value>Wyślij raport</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Zamknij</value>
   </data>
   <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
-    <value>Additional information (optional)</value>
+    <value>Dodatkowe informacje (opcjonalne)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
-    <value>Wrong deck detected</value>
+    <value>Wykryto błędną talię</value>
   </data>
   <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
-    <value>Select your deck</value>
+    <value>Wybierz swoją talię</value>
   </data>
   <data name="DeckTypeDialog_Title" xml:space="preserve">
-    <value>Select Deck Type</value>
+    <value>Wybierz typ talii</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Stworzona talia</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -2539,82 +2539,82 @@
     <value>Anuluj</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Delete games</value>
+    <value>Usuń wybrane gry</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>This will delete the selected games</value>
+    <value>Spowoduje to usunięcie zaznaczonych gier.</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
-    <value>Restart required</value>
+    <value>Wymagany restart aplikacji</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT needs to be restarted for the changes to take effect.</value>
+    <value>Program musi zostać uruchomiony ponownie aby mogły zostać wprowadzone wybrane zmiany.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
-    <value>Restart Now</value>
+    <value>Zrestartuj teraz</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
-    <value>Later</value>
+    <value>Później</value>
   </data>
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
-    <value>Saved to</value>
+    <value>Zapisano do</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>OK</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
-    <value>Open folder</value>
+    <value>Otwórz folder</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
-    <value>Saved to</value>
+    <value>Zapisano do</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
-    <value>Uploaded to</value>
+    <value>Wysłano do</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>OK</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
-    <value>Open in browser</value>
+    <value>Otwórz w przeglądarce</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Clipboard" xml:space="preserve">
-    <value>Copy url to clipboard</value>
+    <value>Skopiuj link do schowka</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Title" xml:space="preserve">
-    <value>Select Operation</value>
+    <value>Wybierz operację</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>"upload" will automatically upload the image to imgur.com</value>
+    <value>"Wyślij" automatycznie wyśle obraz na imgur.com</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Zapisz</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Save &amp; upload</value>
+    <value>Zapisz i Wyślij</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Wyślij</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
-    <value>There was a problem updating the log.config</value>
+    <value>Wystąpił problem z zaktualizowaniem pliku log.config</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
-    <value>New log.config settings are required for HDT to function correctly.</value>
+    <value>Nowy plik log.config jest wymagany aby program działał poprawnie.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Instructions" xml:space="preserve">
-    <value>Show instructions</value>
+    <value>Pokaż instrukcję</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
-    <value>close</value>
+    <value>Zamknij</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>Try starting HDT as administrator.</value>
+    <value>Spróbuj uruchomić program jako Administrator.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>If that does not help, click "show instructions" to see how to update it manually.</value>
+    <value>Jeśli to nie pomoże, kliknij "Pokaż instrukcję" aby zobaczyć jak zaktualizować program manualnie.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Kontynuuj...</value>
@@ -2653,19 +2653,19 @@
     <value>Dodaj</value>
   </data>
   <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
-    <value>Filter operation:</value>
+    <value>Filtry:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>And</value>
+    <value>I</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
-    <value>Or</value>
+    <value>Albo</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Include 'Standard' decks in 'Wild'</value>
+    <value>Uwzględnij Standardowe talie w Dziczy</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
-    <value>Win rate</value>
+    <value>Współczynnik zwycięstw</value>
   </data>
   <data name="Enum_DeckPanel_Cards" xml:space="preserve">
     <value>Karty</value>
@@ -2674,7 +2674,7 @@
     <value>Licznik kart</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Draw chances</value>
+    <value>Szansa na dobranie</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
     <value>Licznik obrażeń przy braku kart</value>
@@ -2716,13 +2716,13 @@
     <value>W schowku nie ma odpowiedniego linku do talii.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Paste behavior</value>
+    <value>Zachowanie przy wklejaniu</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+    <value>Zasady zachowania progamu podczas wklejania (ctrl-v) linku albo talii do programu.</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>Ręcznie</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>Save only</value>
