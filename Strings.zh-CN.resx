@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -649,13 +649,13 @@
     <value>偶尔可能会导致光标冻结</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>强制开启(最好不用，除非开不了)</value>
+    <value>强制开启（最好不用，除非开不了）</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>效果:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>-当好友列表打开时，隐藏卡组</value>
+    <value>- 当好友列表打开时，隐藏卡组</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
     <value>- 手动点击排除奥秘</value>
@@ -733,13 +733,13 @@
     <value>如果卡牌用光，不显示在卡组中</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
-    <value>包括手牌创建的卡牌 (例如硬币)</value>
+    <value>包括手牌创建的卡牌 （例如硬币）</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>显示可捕捉的内嵌窗口</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>关闭卡牌透明度渐变(推荐)</value>
+    <value>关闭卡牌透明度渐变（推荐）</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>背景:</value>
@@ -2272,7 +2272,7 @@
     <value>这里。</value>
   </data>
   <data name="Help_Github_Text2" xml:space="preserve">
-    <value></value>
+    <value>那个</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
     <value>说明文件</value>
@@ -2747,5 +2747,89 @@
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
     <value>青玉魔像计数器:</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
+    <value>隐藏被排除的奥秘</value>
+  </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>不再显示</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
+    <value>勇闯安戈洛：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
+    <value>勇闯安戈洛</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
+    <value>勇闯安戈洛</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>卡组包含来自勇闯安戈洛的扩展卡。</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
+    <value>仅对移动设备（笔记本，平板, ...）有效。</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
+    <value>更多信息请搜索 “C#数据格式”</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>自动选择卡组（推荐）</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
+    <value>显示被创建/回到手牌的卡（可知情况）</value>
+  </data>
+  <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
+    <value>自动选择卡组已被禁用，推荐开启此此功能。</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
+    <value>自动导入新构建卡组已被禁用，推荐开启此此功能。</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
+    <value>自动导入卡组更新已被禁用，推荐开启此此功能。</value>
+  </data>
+  <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
+    <value>自动导入竞技场卡组已被禁用，推荐开启此此功能。</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
+    <value>鼠标指针在静止一段时间后将会隐藏</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
+    <value>尝试开启此项当你在导出卡组/卡牌名字时遇到问题（可能在键盘布局下无效）</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
+    <value>取消勾选此项以禁用弹出窗口的动画</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>在所选区域垂直居中卡牌和信息面板。区域可以在 “选项 &gt; 内嵌 &gt; 通用&gt; 解锁” 中更改。</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>在所选区域垂直居中卡牌和信息面板。区域可以在 “选项 &gt; 内嵌 &gt; 通用&gt; 解锁” 中更改。</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
+    <value>在卡牌选择器中使用小写字母（大概没有什么用）</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>当你剩余“X”秒时，播放嘀声并闪烁屏幕</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
+    <value>嘀声于</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
+    <value>尝试勾选此项当你在排名检测遇到问题。</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
+    <value>名人堂</value>
+  </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>重新开启</value>
   </data>
 </root>
