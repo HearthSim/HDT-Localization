@@ -133,7 +133,7 @@
     <value>_Kapłan</value>
   </data>
   <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>P_aladyn</value>
+    <value>_Paladyn</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
     <value>_Łotr</value>
@@ -145,7 +145,7 @@
     <value>_Czarnoksiężnik</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
-    <value>Wo_jownik</value>
+    <value>_Wojownik</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
     <value>Edytuj _talię</value>
@@ -232,7 +232,7 @@
     <value>Z ostatniej gry</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>E_ksport</value>
+    <value>_Eksport</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
     <value>Do _Hearthstone</value>
@@ -244,7 +244,7 @@
     <value>Zapisz jako _XML</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Skopiuj IDs do _schowka</value>
+    <value>Skopiuj _IDs do schowka</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
     <value>Skopiuj _nazwy do schowka</value>
@@ -274,10 +274,10 @@
     <value>_Wybierz z statystyk</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>Załaduj z _pliku</value>
+    <value>_Załaduj z pliku</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>Zdobądź konto**</value>
+    <value>Podtwierdź konto</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>Moje konto</value>
@@ -751,7 +751,7 @@
     <value>Uwaga: Kolor może się raz wyświetlić na pierwszym planie Hearthstona. Kliknięcie na niego ukryje go do końca sesji.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Pokaż dokładną instrukcję aby rozpocząć streamowanie! (Otwiera przeglądarkę)</value>
+    <value>Pokaż dokładną instrukcję aby rozpocząć streamowanie!</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Język:</value>
@@ -1012,7 +1012,7 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
-    <value>Bójka</value>
+    <value>Karczemna Bójka</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
     <value>Wyzwij przyjaciela</value>
@@ -1087,7 +1087,7 @@
     <value>Ustaw ścieżkę dostępu do Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
-    <value>Otwórz folder %APPDATA%</value>
+    <value>Otwórz folder APPDATA</value>
   </data>
   <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
     <value>Ustaw ścieżkę do zapisu danych</value>
@@ -1096,7 +1096,7 @@
     <value>Ustaw ścieżkę do zapisu Dziennika Zdarzeń</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
-    <value>Rekord</value>
+    <value>Zapisuj</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Ranked" xml:space="preserve">
     <value>Ranking</value>
@@ -1105,7 +1105,7 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
-    <value>Bójka</value>
+    <value>Karczemna Bójka</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
     <value>Gra nierankingowa</value>
@@ -2164,16 +2164,16 @@
     <value>Import</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>Najczęściej zadawane pytania - FAQ</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
-    <value>Idź do FAQ.</value>
+    <value>Idź do FAQ (Otwiera przeglądarkę).</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
-    <value>The Overlay</value>
+    <value>Interfejs</value>
   </data>
   <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
-    <value>Card marks</value>
+    <value>Oznaczenia kart</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Coin" xml:space="preserve">
     <value>Moneta</value>
@@ -2188,97 +2188,97 @@
     <value>Stworzona</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>Procentów</value>
+    <value>Oznaczenia na talii</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
     <value>Ogólne:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
-    <value>The number of copies left in the deck for a specific card.</value>
+    <value> Liczba pozostałych kopii danej karty.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
     <value>Szansa na dobranie:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
-    <value>The chance of drawing a card with X copies left in the deck.</value>
+    <value>Szansa na dobranie karty przy posiadaniu jej X kopii w talii.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>Holding chance:</value>
+    <value>Szansa na posiadanie karty przez przeciwnika:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>The chance of your opponent holding a card at the start of the next turn with X copies left in play.</value>
+    <value>Szansa na posiadanie karty przez przeciwnika przy posiadaniu jej X kopii w talii.</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
-    <value>This includes the next draw but nothing beyond that.</value>
+    <value>Szanse są wyliczone z uwzględnieniem następnego dobrania.</value>
   </data>
   <data name="Help_Overlay_Label_Customization" xml:space="preserve">
-    <value>Customization</value>
+    <value>Wygląd</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
-    <value>Almost everything in the overlay can be turn on or off, moved and resized.</value>
+    <value>Prawie każdy element interfejsu może zostać wyłączony lub włączony, przesunięty lub zmieniony (w tym rozmiar).</value>
   </data>
   <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
-    <value>On/off:</value>
+    <value>Włącz/Wyłącz:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Options for this can be found under</value>
+    <value>Te opcje mogą zostać znalezione w</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general / player / opponent</value>
+    <value>"Ustawienia &gt; Wygląd &gt; Ogólne / Gracz / Przeciwnik"</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
-    <value>Moving/resizing:</value>
+    <value>Przesuwanie i Zmiana rozmiaru:</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
-    <value>The overlay can be unlocked via</value>
+    <value>Interfejs może zostać odblokowany w</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general &gt; unlock</value>
+    <value>"Ustawienia &gt; Wygląd &gt; Ogólne &gt; Odblokuj Interfejs"</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
-    <value>(button at the bottom).</value>
+    <value>(przycisk na dole).</value>
   </data>
   <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
-    <value>Additional information can be found here.</value>
+    <value>Dodatkowe informacje znajdują się tutaj.</value>
   </data>
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
-    <value>Reporting bugs / requesting features</value>
+    <value>Zgłaszanie błędów / propozycje zmian</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Check out the</value>
+    <value>1) Sprawdź</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>issues on GitHub.</value>
+    <value>zgłoszenia na GitHubie.</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some futher information on what you might want to include in the issue</value>
+    <value>Jeżeli nie ma podobnego zgłoszenia to czuj się swobodnie stworząc nowe, a nawet jeśli potrafisz to z własną poprawką. Prosimy dołączać logi do zgłoszeń błędów. Więcej informacji</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>click here.</value>
+    <value>tutaj.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
-    <value>or</value>
+    <value>ALBO</value>
   </data>
   <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
-    <value>2) Send an email to support@hsdecktracker.net (english only)</value>
+    <value>2) Wyślij email do support@hsdecktracker.net (TYLKO PO ANGIELSKU)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
-    <value>GitHub Project</value>
+    <value>Projekt na GitHubie</value>
   </data>
   <data name="Help_Github_Text1" xml:space="preserve">
-    <value>The project can be found</value>
+    <value>Cały projekt znajduje się</value>
   </data>
   <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>here.</value>
+    <value>tutaj.</value>
   </data>
   <data name="Help_Github_Text2" xml:space="preserve">
-    <value>The</value>
+    <value>Tu</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
+    <value>znajduje się opis</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
-    <value>contains a brief overview of all the features.</value>
+    <value>wszystkich podstawowych funkcji programu.</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>Wersja:</value>
@@ -2287,22 +2287,22 @@
     <value>Show update notes</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
-    <value>Active deck:</value>
+    <value>Aktywna Talia:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
-    <value>None</value>
+    <value>Żaden</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>click "USE" on deck to activate</value>
+    <value>Kliknij "Używaj" na talii aby aktywować</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>Auto</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>Tryb bez talii</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
-    <value>Use</value>
+    <value>Używaj</value>
   </data>
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>Active</value>
