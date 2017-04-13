@@ -2284,7 +2284,7 @@
     <value>Wersja:</value>
   </data>
   <data name="Help_Button_Updatenotes" xml:space="preserve">
-    <value>Show update notes</value>
+    <value>Pokaż historię aktualizacji</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
     <value>Aktywna Talia:</value>
@@ -2296,7 +2296,7 @@
     <value>Kliknij "Używaj" na talii aby aktywować</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automatycznie</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
     <value>Tryb bez talii</value>
@@ -2305,7 +2305,7 @@
     <value>Używaj</value>
   </data>
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Aktywna</value>
   </data>
   <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
     <value>Ostatnio grano</value>
@@ -2476,7 +2476,7 @@
     <value>Show Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>Aby pomóc nam naprawić błąd, prosimy napisać co zrobiłeś/zrobiłaś tuż przed wystąpieniem błędu. Wszelkie pomysły co mogło pójść nie tak mile widziane. :)</value>
+    <value>Aby pomóc nam naprawić błąd, prosimy napisać co zrobiłeś/zrobiłaś tuż przed wystąpieniem błędu. Wszelkie pomysły co mogło pójść nie tak są mile widziane. :)</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
     <value>Wyślij raport</value>
@@ -2512,28 +2512,28 @@
     <value>Anuluj</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Discard game?</value>
+    <value>Odrzucić grę?</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>cards played do not match the selected deck</value>
+    <value>Zagrane karty nie pasują do wybranej talii</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>Discard</value>
+    <value>Odrzuć</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
-    <value>Keep</value>
+    <value>Zostaw</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
-    <value>Move to other deck</value>
+    <value>Przenieś do innej talii</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Delete game</value>
+    <value>Usuń grę</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Jesteś pewien?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Usuń</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
@@ -2692,7 +2692,7 @@
     <value>Otwórz repozytorium w przeglądarce</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Show HearthStats menu</value>
+    <value>Pokaż menu HearthStats*</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Znaleziono talię!</value>
@@ -2701,10 +2701,10 @@
     <value>Wybierz czynność</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Stwórz w Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Tylko zapisz</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
@@ -2755,7 +2755,7 @@
     <value>Uwaga</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>Turn back on</value>
+    <value>Włącz ponownie</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
     <value>Rozumiem, nie pokazuj tego ponownie.</value>
@@ -2809,7 +2809,7 @@
     <value>Odznacz aby nie używać tylko wielkich liter w nazwach talii.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
+    <value>Ta opcja może zostać wyłączona, jeżeli interfejs pokazuje się w osobnym oknie niż Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>Po więcej informacji o formacie daty wyszukaj w google "C# date format".</value>
