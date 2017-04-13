@@ -799,37 +799,37 @@
     <value>Pokaż folder kopii zapasowych</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
-    <value>Speed:</value>
+    <value>Prędkość:</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Wait" xml:space="preserve">
-    <value>Wait</value>
+    <value>Czekaj</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Wait2" xml:space="preserve">
-    <value>seconds before starting</value>
+    <value>sekund przed rozpoczęciem</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Golden" xml:space="preserve">
-    <value>Prioritize golden cards</value>
+    <value>Najpierw złote karty</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
     <value>Ustaw nazwę talii</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
-    <value>Include version number in name</value>
+    <value>Uwzględnij wersję w nazwie talii</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
-    <value>Auto clear cards</value>
+    <value>Automatycznie wyczyść talię z kart</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearFilters" xml:space="preserve">
-    <value>Auto clear filters</value>
+    <value>Automatycznie wyczyść filtry</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
-    <value>Force clear searchbox between cards</value>
+    <value>Wymuś wyczyszczenie pola wyszukiwania kart pomiędzy dodawaniem</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
-    <value>Paste names from clipboard</value>
+    <value>Wklejaj nazwy kart z schowka</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
-    <value>Show dialog before exporting</value>
+    <value>Pokaż ostrzeżenie przed eksportowaniem</value>
   </data>
   <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
     <value>Powiadomienia</value>
@@ -886,13 +886,13 @@
     <value>Format:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>Mod</value>
+    <value>Modyfikator</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
-    <value>Key</value>
+    <value>Klawisz</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Czynność</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
     <value>Usuń zaznaczony</value>
@@ -901,10 +901,10 @@
     <value>Nowy</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>Mod:</value>
+    <value>Modyfikator:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
-    <value>Key:</value>
+    <value>Klawisz:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Action" xml:space="preserve">
     <value>Czynność:</value>
@@ -913,43 +913,43 @@
     <value>Dodaj nowy</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
-    <value>Press key</value>
+    <value>Naciśnij klawisz..</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Stworzone talie</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>This will check for new and/or modified decks each time you enter the 'Play' menu.</value>
+    <value>Ta opcja sprawdza za każdy wejściem do menu Pojedynku czy znajdują się tam nowe lub zmodyfikowane talie.</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>Auto import new decks</value>
+    <value>Automatyczny import nowych talii</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Auto update modified decks</value>
+    <value>Automatyczny import zmodyfikowanych talii</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>Importing Behavior:</value>
+    <value>Zasady importowania:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Arena deck name template</value>
+    <value>Format nazwy talii Arenowej</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>Templates:</value>
+    <value>Schemat:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>Podgląd:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Auto save deck on import</value>
-  <comment>Auto save deck on import</comment></data>
+    <value>Automatyczny zapis talii przy imporcie</value>
+  <comment>Automatyczny zapis talii przy imporcie</comment></data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Tag decks on import</value>
+    <value>Dodaj etykiety do talii podczas importowania</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Autozapis talii po zaimportowaniu</value>
@@ -1033,7 +1033,7 @@
     <value>Zaloguj się poprzez konto Battle.net na HSReplay.net aby podtwierdzić swoje konto. Ta opcja otworzy stronę w przeglądarce internetowej.</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Use local replay viewer by default (nie wspierane)**</value>
+    <value>Użyj wbudowanej przeglądarki powtórek (nie wspierane)*</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Wysyłaj anonimowe dane</value>
@@ -1501,10 +1501,10 @@
     <value>Współczynnik zwycięstw przeciwko</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>Ver.</value>
+    <value>Wer.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>Deck:</value>
+    <value>Talia:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
     <value>Współczynnik zwycięstw:</value>
@@ -1660,7 +1660,7 @@
     <value>pokaż legendy wykresów</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
-    <value>Czas gry:</value>
+    <value>Kiedy:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Start" xml:space="preserve">
     <value>Początek:</value>
@@ -2359,7 +2359,7 @@
     <value>Talia przeciwnika</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
-    <value>Move to main window</value>
+    <value>Przenieś do głównego okna</value>
   </data>
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>Gracz</value>
@@ -2368,49 +2368,49 @@
     <value>Następne dobranie karty zada:</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
-    <value>Opponent</value>
+    <value>Przeciwnik</value>
   </data>
   <data name="Overlay_Label_Warning" xml:space="preserve">
-    <value>Warning!</value>
+    <value>Uwaga!</value>
   </data>
   <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
-    <value>Cards not found in deck:</value>
+    <value>Karty nie znalezione w talii:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Hearthstone restart required!</value>
+    <value>Wymagany restart Hearthstona!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
-    <value>Note for this game</value>
+    <value>Notatka dla tej gry</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
     <value>Zmień</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
-    <value>Save with ENTER</value>
+    <value>Wciśnij ENTER aby zapisać</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>Show opp. deck</value>
+    <value>Pokaż talię przeciwnika</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Hide opp. deck</value>
+    <value>Ukryj talię przeciwnika</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
-    <value>Select target deck</value>
+    <value>Wybierz talię</value>
   </data>
   <data name="MoveGameDialog_Button_Move" xml:space="preserve">
-    <value>Move to selected</value>
+    <value>Przenieś do wybranych</value>
   </data>
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
-    <value>Version:</value>
+    <value>Wersja:</value>
   </data>
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
-    <value>Result:</value>
+    <value>Wynik:</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
     <value>VS:</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Typ:</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -2419,49 +2419,49 @@
     <value>Region:</value>
   </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
-    <value>Rank:</value>
+    <value>Ranga:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
-    <value>Legend Rank:</value>
+    <value>Ranga Legendy:</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
-    <value>Coin:</value>
+    <value>Moneta:</value>
   </data>
   <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
-    <value>Conceded:</value>
+    <value>Poddanie się:</value>
   </data>
   <data name="AddGameDialog_Label_Turns" xml:space="preserve">
-    <value>Turns:</value>
+    <value>Tury:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
-    <value>Duration (min):</value>
+    <value>Czas gry (min):</value>
   </data>
   <data name="AddGameDialog_Label_Note" xml:space="preserve">
-    <value>Note:</value>
+    <value>Notatka:</value>
   </data>
   <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
-    <value>Opponent:</value>
+    <value>Przeciwnik:</value>
   </data>
   <data name="AddGameDialog_Label_Player" xml:space="preserve">
-    <value>Player:</value>
+    <value>Gracz:</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>Add game</value>
+    <value>Dodaj grę</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
-    <value>Add new game</value>
+    <value>Dodaj nową grę</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>Edit game</value>
+    <value>Edytuj grę</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
     <value>Zapisz</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>Arena Rewards</value>
+    <value>Nagrody za Arenę</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>Raport błędu</value>
