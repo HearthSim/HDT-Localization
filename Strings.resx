@@ -2835,4 +2835,10 @@
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
     <value>This deck can only be used in 'Wild' mode</value>
   </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>This deck has global statistics and mulligan information available on HSReplay.net</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplay Mulligan Guide</value>
+  </data>
 </root>
