@@ -2835,4 +2835,25 @@
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
     <value>Эта колода только для вольного режима</value>
   </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>Эта колода имеет общую статистику и инфу о начальной руке на HSReplay.net</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>Руководство по начальной руке от HSReplay.net</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>Экспорт</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>Фото</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>Только карты</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>С инфой</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>Включая имя колоды, класс, наборы и цену по пыли</value>
+  </data>
 </root>
