@@ -2841,4 +2841,19 @@
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
     <value>HSReplay Mulligan Guide</value>
   </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>Screenshot</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>Cards only</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>With info</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>Includes deck name, class, sets and dust cost</value>
+  </data>
 </root>
