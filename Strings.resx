@@ -2907,4 +2907,13 @@
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Open folder</value>
   </data>
+  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
+    <value>Version history</value>
+  </data>
+  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
+    <value>Version history</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
+    <value>Version history</value>
+  </data>
 </root>
