@@ -2916,4 +2916,31 @@
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
     <value>Version history</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>Deck</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>Card database</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>Search...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>Search card text</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>Filters</value>
+  </data>
+  <data name="Enum_DeckEditoWarnings_LessThan30" xml:space="preserve">
+    <value>Deck has less than 30 cards.</value>
+  </data>
+  <data name="Enum_DeckEditoWarnings_MoreThan30" xml:space="preserve">
+    <value>Deck has more than 30 cards.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>Name already exists.</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>Name is required.</value>
+  </data>
 </root>
