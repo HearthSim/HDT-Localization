@@ -319,7 +319,7 @@
     <value>Definir nome do baralho</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Usar maiúsculas nos nomes de decks</value>
+    <value>Usar maiúscula no nome dos baralhos</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Procurar...</value>
@@ -550,7 +550,7 @@
     <value>Desde:</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Manter as estatísticas quando apagar um deck*</value>
+    <value>Manter as estatísticas quando apagar um baralho*</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
     <value>Abrir HearthStats</value>
@@ -745,7 +745,7 @@
     <value>da _Taverna</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>do_Construido</value>
+    <value>do _Construido</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
     <value>_Arquivado</value>
@@ -1003,7 +1003,7 @@
     <value>Opacidade dos segredos:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contator do C`Thun</value>
+    <value>Mostrar contador do C'Thun</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
     <value>Mostar contador de feitiços</value>
@@ -1030,7 +1030,7 @@
     <value>Opacidade:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contator do C`Thun</value>
+    <value>Mostrar contador do C'Thun</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
     <value>Mostar contador de feitiços</value>
@@ -1120,7 +1120,7 @@
     <value>Chance de comprar</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Contador de fatiga</value>
+    <value>Contador de fadiga</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
     <value>Nome do baralho</value>
@@ -1510,7 +1510,7 @@
     <value>Não reinicie o baralho após um jogo</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Mostrar data da ultima partida no baralho</value>
+    <value>Mostrar data da última partida no baralho</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
     <value>Clonar</value>
@@ -2425,7 +2425,7 @@
     <value>Este baralho pode ser usado no modo 'Padrão'.</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
-    <value>Sem estatísticas</value>
+    <value>Sem Dados</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
     <value>estatísticas</value>
@@ -2671,10 +2671,10 @@
     <value>Nota: A cópia de sobreposição pode aparecer na frente do Hearthstone. Clicar nele irá ocultá-lo para o resto da sessão.</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Mostrar contator de Jade:</value>
+    <value>Mostrar contador de Jade:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Mostrar contator de Jade:</value>
+    <value>Mostrar contador de Jade:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Remover segredos cinza</value>
@@ -2834,5 +2834,86 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de 'sobreposição&gt;geral&gt;desbloquear'.</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>Exportar</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>Somente cartas</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>Com informações</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>Inclui nome do baralho, classe, conjunto e custo de pó</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplay Mulligan Guia</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>Screenshot</value>
+  </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>Este baralho contém estatísticas globais e informações de mulligan disponíveis no HSReplay.net</value>
+  </data>
+  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
+    <value>Importar</value>
+  </data>
+  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
+    <value>URL do baralho:</value>
+  </data>
+  <data name="WebImportingDialog_Title" xml:space="preserve">
+    <value>Importar da web</value>
+  </data>
+  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
+    <value>Buscar todos os sites suportados</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
+    <value>Screenshot</value>
+  </data>
+  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
+    <value>Somente cartas</value>
+  </data>
+  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
+    <value>Titulo:</value>
+  </data>
+  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
+    <value>Guardar no disco</value>
+  </data>
+  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
+    <value>Erro ao enviar. Tente novamente mais tarde e/ou faça upload manualmente</value>
+  </data>
+  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
+    <value>Visualizar</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
+    <value>Copiar para área de transferência</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
+    <value>Copiado!</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
+    <value>Enviar para Imgur</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
+    <value>Enviando...</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
+    <value>Envio completado</value>
+  </data>
+  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
+    <value>Abrir pasta</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
+    <value>Histórico de versões</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
+    <value>Histórico de versões</value>
+  </data>
+  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
+    <value>Histórico de versões</value>
   </data>
 </root>
