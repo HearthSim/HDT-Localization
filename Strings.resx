@@ -2946,4 +2946,34 @@
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
     <value>Save as</value>
   </data>
+  <data name="DeckExport_Label_Instructions" xml:space="preserve">
+    <value>Instructions:</value>
+  </data>
+  <data name="DeckExport_Label_Step1" xml:space="preserve">
+    <value>Click the copy button below</value>
+  </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>Create a new deck in Hearthstone</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>Only the code is required for importing to Hearthstone. Any line starting with a '#' is ignored.</value>
+  </data>
+  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
+    <value>Copy all</value>
+  </data>
+  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
+    <value>Copy code only</value>
+  </data>
+  <data name="DeckExport_Button_Copied" xml:space="preserve">
+    <value>Copied!</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>Deck editor</value>
+  </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>From deck code</value>
+  </data>
 </root>
