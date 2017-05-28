@@ -2976,4 +2976,109 @@
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>From deck code</value>
   </data>
+  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>Decks / My Games / Overlay</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0} day ago</value>
+  </data>
+  <data name="GameStats_Age_Days" xml:space="preserve">
+    <value>{0} days ago</value>
+  </data>
+  <data name="GameStats_Age_Hour" xml:space="preserve">
+    <value>{0} hour ago</value>
+  </data>
+  <data name="GameStats_Age_Hours" xml:space="preserve">
+    <value>{0} hours ago</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0} minute ago</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0} minutes ago</value>
+  </data>
+  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
+    <value>Global statistics - HSReplay.net</value>
+  </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>My games</value>
+  </data>
+  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
+    <value>Has active filters</value>
+  </data>
+  <data name="DeckCharts_Label_Wins" xml:space="preserve">
+    <value>Wins:</value>
+  </data>
+  <data name="DeckCharts_Label_Losses" xml:space="preserve">
+    <value>Losses:</value>
+  </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>Winrate</value>
+  </data>
+  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
+    <value>vs.</value>
+  </data>
+  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
+    <value>Uploaded</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>No data.</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>Play some games!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>Matchups</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>Deck Statistics / Mulligan Guide</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>We don't have enough data for the selected deck.</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Select a deck with HSReplay.net icon to see global data here!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>Want to try something new?</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>Check out our trending decks!</value>
+  </data>
+  <data name="Druid" xml:space="preserve">
+    <value>Druid</value>
+  </data>
+  <data name="Hunter" xml:space="preserve">
+    <value>Hunter</value>
+  </data>
+  <data name="Mage" xml:space="preserve">
+    <value>Mage</value>
+  </data>
+  <data name="Paladin" xml:space="preserve">
+    <value>Paladin</value>
+  </data>
+  <data name="Priest" xml:space="preserve">
+    <value>Priest</value>
+  </data>
+  <data name="Shaman" xml:space="preserve">
+    <value>Shaman</value>
+  </data>
+  <data name="Rogue" xml:space="preserve">
+    <value>Rogue</value>
+  </data>
+  <data name="Warlock" xml:space="preserve">
+    <value>Warlock</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>Warrior</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>No replay data available</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Select a deck to see your recent games!</value>
+  </data>
 </root>
