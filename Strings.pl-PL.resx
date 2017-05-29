@@ -1618,7 +1618,7 @@
     <value>Zwycięstwa</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
-    <value>Winrate (%)</value>
+    <value>Współczynnik zwycięstw (%)</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
     <value>Zagrano</value>
@@ -2975,5 +2975,110 @@
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Z kodu talii</value>
+  </data>
+   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>Talie / Moje gry / Wygląd</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0} dzień temu</value>
+  </data>
+  <data name="GameStats_Age_Days" xml:space="preserve">
+    <value>{0} dni temu</value>
+  </data>
+  <data name="GameStats_Age_Hour" xml:space="preserve">
+    <value>{0} godzinę temu</value>
+  </data>
+  <data name="GameStats_Age_Hours" xml:space="preserve">
+    <value>{0} godziny temu</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0} minutę temu</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0} minut temu</value>
+  </data>
+  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
+    <value>Globalne statystyki - HSReplay.net</value>
+  </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>Moje gry</value>
+  </data>
+  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
+    <value>Aktywne filtry</value>
+  </data>
+  <data name="DeckCharts_Label_Wins" xml:space="preserve">
+    <value>Wygrane:</value>
+  </data>
+  <data name="DeckCharts_Label_Losses" xml:space="preserve">
+    <value>Przegrane:</value>
+  </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>Współczynnik zwycięstw</value>
+  </data>
+  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
+    <value>vs.</value>
+  </data>
+  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
+    <value>Wysłano</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>Brak danych.</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>Rozegraj kilka gier!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>Ładowanie...</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>Dopasowania</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>Statystyki talii / Poradnik Mulligan</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>Nie mamy wystarczającej ilości danych dla wybranej talii.</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Wybierz talię z ikoną HSReplay.net, aby zobaczyć globalne statystyki!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>Chcesz spróbować czegoś nowego?</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>Sprawdź nasze najpopularniejsze talie!</value>
+  </data>
+  <data name="Druid" xml:space="preserve">
+    <value>Druid</value>
+  </data>
+  <data name="Hunter" xml:space="preserve">
+    <value>Łowca</value>
+  </data>
+  <data name="Mage" xml:space="preserve">
+    <value>Mag</value>
+  </data>
+  <data name="Paladin" xml:space="preserve">
+    <value>Paladyn</value>
+  </data>
+  <data name="Priest" xml:space="preserve">
+    <value>Kapłan</value>
+  </data>
+  <data name="Shaman" xml:space="preserve">
+    <value>Szaman</value>
+  </data>
+  <data name="Rogue" xml:space="preserve">
+    <value>Łotr</value>
+  </data>
+  <data name="Warlock" xml:space="preserve">
+    <value>Czarnoksiężnik</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>Wojownik</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>Brak powtórki</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Wybierz talię aby zobaczyć ostatnie gry!</value>
   </data>
 </root>
