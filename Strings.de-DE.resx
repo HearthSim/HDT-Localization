@@ -376,7 +376,7 @@
     <value>Hearthstone / Launcher starten</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
-    <value>Ausgewählte Version:</value>
+    <value>Gewählte Version:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>Karten:</value>
@@ -703,7 +703,7 @@
     <value>Geheimnisse autom. ausgrauen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Decks nach dem Spiel nicht resetten</value>
+    <value>Decks nach Spiel nicht resetten</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Suchbegriff Name/Beschreibung</value>
@@ -1288,7 +1288,7 @@
     <value>Fehlende Karten anzeigen</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Udate (Web)</value>
+    <value>_Update (Web)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
     <value>Öffne _Webseite</value>
@@ -2182,7 +2182,7 @@
     <value>Mulligan</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
-    <value>*Zurück</value>
+    <value>Zurück</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
     <value>Erstellt</value>
@@ -2743,10 +2743,10 @@
     <value>Die Straßen von Gadgetzan</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Jade Golem Zähler anzeigen:</value>
+    <value>Jade Golem Zähler zeigen:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Jade Golem Zähler anzeigen:</value>
+    <value>Jade Golem Zähler zeigen:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Entferne ausgegraute Geheimnisse</value>
@@ -2986,13 +2986,13 @@
     <value>Hat aktive Filter</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
-    <value>Siege:</value>
+    <value>Gewonnen:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
     <value>Verloren:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Gewinnrate:</value>
+    <value>Gewinnrate</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
@@ -3019,7 +3019,7 @@
     <value>Wir haben nicht genügend Daten für das gewählte Deck.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Wähle ein Deck mit dem HSReplay.net Symbol um globale Daten anzusehen.</value>
+    <value>Wähle ein Deck mit dem HSReplay.net Symbol für globale Daten.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
     <value>Möchtest du was neues probieren?</value>
