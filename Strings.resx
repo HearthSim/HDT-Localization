@@ -3084,4 +3084,16 @@
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Show my games panel</value>
   </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>Missing cards</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>Total dust cost:</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Start Hearthstone to see your missing cards!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>You own all the required cards!</value>
+  </data>
 </root>
