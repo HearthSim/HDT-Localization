@@ -1108,7 +1108,7 @@
     <value>Mover para uma nova janela</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Incluir somente cartas do Livre</value>
+    <value>Incluir cartas do modo Livre</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
     <value>Histórico de baralho:</value>
@@ -2716,7 +2716,7 @@
     <value>Colar como</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>A Área de Transferência não contém dados de url ou deck suportados.</value>
+    <value>A Área de Transferência não contém dados de url ou baralhos suportados.</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
     <value>Nenhum baralho encontrado</value>
@@ -3080,5 +3080,20 @@
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>Confrontos</value>
+  </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>Faltando cartas</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>Custo total:</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>Você possui todas as cartas necessárias!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Inicie o Hearthstone para ver as cartas que estão faltando!</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
+    <value>Mostrar meu painel de jogos</value>
   </data>
 </root>
