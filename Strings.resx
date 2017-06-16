@@ -3096,4 +3096,7 @@
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>You own all the required cards!</value>
   </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>Include deck version</value>
+  </data>
 </root>
