@@ -772,10 +772,10 @@
     <value>Wygląd talii:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
-    <value>Używaj obramowanych ramek kart</value>
+    <value>Używaj kolorowego obramowania karty w zależności od jej rzadkości</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityGems" xml:space="preserve">
-    <value>Używaj obramowanych kryształów na kartach</value>
+    <value>Używaj kolorowego tła kosztu many w zależności od rzadkości karty</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
     <value>Czerwony/Zielony kolor tekstu w podsumowaniu statystyk</value>
@@ -3083,5 +3083,20 @@
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Pokaż panel moich gier</value>
+  </data>
+    <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>Brakujące karty</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>Wymagany pył:</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Uruchom Hearthstone aby zobaczyć brakujące karty!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>Posiadasz wszystkie wymagane karty!</value>
+  </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>Dołącz wersję talii</value>
   </data>
 </root>
