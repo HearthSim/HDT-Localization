@@ -661,7 +661,7 @@
     <value>Click secrets to gray out</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if &amp;quot;options &gt; overlay &gt; general &gt; automatically gray out secrets&amp;quot; is enabled.</value>
+    <value>NOTE: May not work correctly if "options > overlay > general > automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Enabled</value>
@@ -748,7 +748,7 @@
     <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note: The overlay copy may show up in front Hearthstone once. Clicking it will hide it for the rest of the session.</value>
+    <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Show instructions for getting started (opens wiki)</value>
@@ -895,7 +895,7 @@
     <value>Action</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>Delete seleceted</value>
+    <value>Delete selected</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>New</value>
@@ -1780,7 +1780,7 @@
     <value>Apply tag filters</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filteres currently set in 'DeckPicker' &gt; 'Sort/Filter Decks' (double arrow button).</value>
+    <value>Apply tag filters currently set in 'DeckPicker > Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2251,7 +2251,7 @@
     <value>issues on GitHub.</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some futher information on what you might want to include in the issue</value>
+    <value>If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>click here.</value>
@@ -2260,7 +2260,7 @@
     <value>or</value>
   </data>
   <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
-    <value>2) Send an email to support@hsdecktracker.net (english only)</value>
+    <value>2) Send an email to support@hsdecktracker.net (English only)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub Project</value>
@@ -2467,7 +2467,7 @@
     <value>Crash Report</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker has crashed :(.</value>
+    <value>Hearthstone Deck Tracker has crashed :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Error:</value>
@@ -2476,7 +2476,7 @@
     <value>Show Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>To help us find a solution for this issue, please attach a description of what you were doing just before this crash occoured, as well as any other helpful information you can think of.</value>
+    <value>To help us find a solution for this issue, please attach a description of what you were doing just before this crash occurred, as well as any other helpful information you can think of.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
     <value>Send Report</value>
@@ -2767,7 +2767,7 @@
     <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Automatic importing of changed to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>Automatic importing of Arena decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
