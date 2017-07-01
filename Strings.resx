@@ -943,8 +943,8 @@
     <value>Preview:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Auto save deck on import</value>
-  <comment>Auto save deck on import</comment></data>
+    <value>Edit</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
   </data>
@@ -3095,6 +3095,9 @@
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>You own all the required cards!</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
+    <value>Save</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Include deck version</value>
