@@ -1108,7 +1108,7 @@
     <value>Mover para uma nova janela</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Incluir somente cartas do Livre</value>
+    <value>Incluir cartas do modo Livre</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
     <value>Histórico de baralho:</value>
@@ -1370,9 +1370,6 @@
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>Etiquetar baralhos ao importar</value>
-  </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Guardar automaticamente o baralho ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
     <value>Comportamento de importação:</value>
@@ -2716,7 +2713,7 @@
     <value>Colar como</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>A Área de Transferência não contém dados de url ou deck suportados.</value>
+    <value>A Área de Transferência não contém dados de url ou baralhos suportados.</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
     <value>Nenhum baralho encontrado</value>
@@ -2915,5 +2912,185 @@
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
     <value>Histórico de versões</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>Baralho</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>Procurar...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>Procurar texto da carta</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>Filtros</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
+    <value>Baralho tem menos de 30 cartas.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
+    <value>Baralho tem mais de 30 cartas.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>Nome já existe.</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>Nome requerido.</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>Banco de dados das cartas</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
+    <value>Salvar como</value>
+  </data>
+  <data name="DeckExport_Label_Step1" xml:space="preserve">
+    <value>Clique no botão Copiar abaixo</value>
+  </data>
+  <data name="DeckExport_Label_Instructions" xml:space="preserve">
+    <value>Instruções:</value>
+  </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>Criar novo baralho no Hearthstone</value>
+  </data>
+  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
+    <value>Copiar tudo</value>
+  </data>
+  <data name="DeckExport_Button_Copied" xml:space="preserve">
+    <value>Copiado!</value>
+  </data>
+  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
+    <value>Somente copiar o código</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
+    <value>Exportar</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>Editor de baralho</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>Somente o código é necessário para importar para o Hearthstone. Qualquer linha começando com um '#' é ignorada.</value>
+  </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>Do código do baralho</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>Baralhos / Meus Jogos / Sobreposição</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0} dia atras</value>
+  </data>
+  <data name="GameStats_Age_Days" xml:space="preserve">
+    <value>{0} dias atrás</value>
+  </data>
+  <data name="GameStats_Age_Hour" xml:space="preserve">
+    <value>{0} hora atrás</value>
+  </data>
+  <data name="GameStats_Age_Hours" xml:space="preserve">
+    <value>{0} horas atrás</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0} minuto atrás</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0} minutos atrás</value>
+  </data>
+  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
+    <value>Estatísticas globais - HSReplay.net</value>
+  </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>Meus jogos</value>
+  </data>
+  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
+    <value>Tem filtros ativos</value>
+  </data>
+  <data name="DeckCharts_Label_Wins" xml:space="preserve">
+    <value>Vitórias:</value>
+  </data>
+  <data name="DeckCharts_Label_Losses" xml:space="preserve">
+    <value>Derrotas:</value>
+  </data>
+  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
+    <value>vs.</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>Sem dados.</value>
+  </data>
+  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
+    <value>Enviado</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>Jogue alguns jogos!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="Druid" xml:space="preserve">
+    <value>Druida</value>
+  </data>
+  <data name="Hunter" xml:space="preserve">
+    <value>Caçador</value>
+  </data>
+  <data name="Mage" xml:space="preserve">
+    <value>Mago</value>
+  </data>
+  <data name="Paladin" xml:space="preserve">
+    <value>Paladino</value>
+  </data>
+  <data name="Priest" xml:space="preserve">
+    <value>Sacerdote</value>
+  </data>
+  <data name="Shaman" xml:space="preserve">
+    <value>Xamã</value>
+  </data>
+  <data name="Rogue" xml:space="preserve">
+    <value>Ladino</value>
+  </data>
+  <data name="Warlock" xml:space="preserve">
+    <value>Bruxo</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>Guerreiro</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>Quer tentar algo novo?</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>Estatísticas do Baralho / Guia de Mulligan</value>
+  </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>Média de vitórias</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>Não temos dados suficientes para o baralho selecionado.</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Selecione um baralho com o ícone HSReplay.net para ver os dados globais aqui!</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>Não há repetições disponíveis</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Selecione um baralho para ver seus jogos recentes!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>Confira os baralhos do momento!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>Confrontos</value>
+  </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>Faltando cartas</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>Custo total:</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>Você possui todas as cartas necessárias!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Inicie o Hearthstone para ver as cartas que estão faltando!</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
+    <value>Mostrar meu painel de jogos</value>
   </data>
 </root>

@@ -942,9 +942,6 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>預覽:</value>
   </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>匯入時自動儲存套牌</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>網頁</value>
   </data>
@@ -2816,5 +2813,164 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>如果你在排名在檢測中有問題，請嘗試開啟此功能</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
+    <value>安戈洛歷險記：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
+    <value>安戈洛歷險記</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
+    <value>安戈洛歷險記</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
+    <value>名人堂</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>套牌包含安戈洛歷險記的卡片</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
+    <value>歷史版本</value>
+  </data>
+  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
+    <value>歷史版本</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
+    <value>歷史版本</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>卡片資料庫</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>搜尋...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>搜尋卡片文字</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>過濾器</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
+    <value>套牌少於30張卡片</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
+    <value>套牌多於30張卡片</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>名稱已存在</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>需要名稱</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
+    <value>另存</value>
+  </data>
+  <data name="DeckExport_Label_Instructions" xml:space="preserve">
+    <value>說明：</value>
+  </data>
+  <data name="DeckExport_Label_Step1" xml:space="preserve">
+    <value>點擊下方的複製按鈕</value>
+  </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>創立一個新套牌於爐石</value>
+  </data>
+  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
+    <value>複製全部</value>
+  </data>
+  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
+    <value>複製代碼</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>只有代碼可以被匯入至爐石</value>
+  </data>
+  <data name="DeckExport_Button_Copied" xml:space="preserve">
+    <value>複製！</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
+    <value>匯出</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>套牌編輯</value>
+  </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>從套牌代碼</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>僅卡片</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>隨著資訊</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>包含套牌名稱、類別、組成與消耗魔塵</value>
+  </data>
+  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
+    <value>開啟資料夾</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
+    <value>上傳成功</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
+    <value>上傳中...</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
+    <value>上傳至Imgur</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
+    <value>複製！</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
+    <value>複製到剪貼版</value>
+  </data>
+  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
+    <value>預覽</value>
+  </data>
+  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
+    <value>上傳錯誤。請稍後再試或手動上傳</value>
+  </data>
+  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
+    <value>儲存至硬碟</value>
+  </data>
+  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
+    <value>標題：</value>
+  </data>
+  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
+    <value>僅卡片</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
+    <value>截圖</value>
+  </data>
+  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
+    <value>匯入</value>
+  </data>
+  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
+    <value>尋找所有支援的網站</value>
+  </data>
+  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
+    <value>輸入套牌網址：</value>
+  </data>
+  <data name="WebImportingDialog_Title" xml:space="preserve">
+    <value>於網站匯入</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>截圖</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>匯出</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplay選牌攻略</value>
+  </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>這個套牌上有HSReplay.net提供的全球統計資料和選牌資訊</value>
+  </data>
+  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
+    <value>這個套牌只可用於"開放"模式</value>
   </data>
 </root>
