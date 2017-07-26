@@ -3096,4 +3096,22 @@
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Dołącz wersję talii</value>
   </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Uruchom Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Tryb bez talii</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Automatyczne wybieranie talii (zalecane)</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Karty klasowe zawsze pierwsze</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Pokaż</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Zamknij</value>
+  </data> 
 </root>
