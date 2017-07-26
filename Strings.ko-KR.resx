@@ -2670,4 +2670,22 @@
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
     <value>주의: 오버레이의 복제본이 하스스톤 창 앞에 나타날 수 있습니다. 이 경우, 해당 창을 클릭해 주면 가려지게 됩니다.</value>
   </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Start Launcher/Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>No-deck mode</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Autoselect deck</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Class cards first</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
 </root>
