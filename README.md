@@ -15,5 +15,5 @@ This is the localization repo for [HearthSim/Hearthstone-Deck-Tracker](https://g
 
 ## Credits
 - Polish Translation: [Zawodowiec1532](https://github.com/Zawodowiec1532/)
-	Btag: Zawodowiec#2389 (EU)
-	Discord: ZawodowieC#5872
+  - Btag: Zawodowiec#2389 (EU)
+  - Discord: ZawodowieC#5872
