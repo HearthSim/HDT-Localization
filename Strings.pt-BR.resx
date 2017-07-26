@@ -1561,13 +1561,13 @@
     <value>Pacotes</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Classic" xml:space="preserve">
-    <value>Clássico</value>
+    <value>Clássico:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
-    <value>O Grande Torneio</value>
+    <value>O Grande Torneio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
-    <value>Sussuros dos Deuses Antigos</value>
+    <value>Sussuros dos Deuses Antigos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
     <value>Goblins vs Gnomos:</value>
@@ -1594,13 +1594,13 @@
     <value>Editar recompensas</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>Mostrar baralho do oponente</value>
+    <value>Baralho do oponente</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
     <value>Mostrar repetição</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>Mostrar meu baralho</value>
+    <value>Meu baralho</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>Iniciado</value>
@@ -1960,7 +1960,7 @@
     <value>Importar e guardar automaticamente</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>Perguntar automaticamente para importar</value>
+    <value>Perguntar para importar automaticamente</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
     <value>Limpar</value>
@@ -2425,7 +2425,7 @@
     <value>Sem Dados</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>estatísticas</value>
+    <value>Dados</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Todos</value>
@@ -2485,7 +2485,7 @@
     <value>Guardar com ENTER</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>Mostrar baralho do adversário</value>
+    <value>Baralho do oponente</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
     <value>Ocultar baralho do adversário</value>
@@ -2731,7 +2731,7 @@
     <value>Mostrar o menu do HearthStats</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Deck encontrado!</value>
+    <value>Baralho encontrado!</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
     <value>Está tudo bem, não mostre novamente</value>
@@ -3019,7 +3019,7 @@
     <value>Enviado</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Jogue alguns jogos!</value>
+    <value>Jogue algumas partidas!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>Carregando...</value>
@@ -3092,5 +3092,35 @@
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Mostrar meu painel de jogos</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Mostrar</value>
+  </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>Incluir versão do baralho</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Iniciar Aplicativo / Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Cartas de classe primeiro</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Seleção automática</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Modo sem baralho</value>
+  </data>
+  <data name="Stats_Constructed_Summary_CheckBox_ShowLegends" xml:space="preserve">
+    <value>mostrar legendas</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>
