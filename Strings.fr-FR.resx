@@ -628,13 +628,13 @@
     <value>Opacité :</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Déplacer/redimensionner les objets</value>
+    <value>Déplacer/redimensionner les objets :</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Réinitialiser</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Réinitialiser les positions</value>
+    <value>Réinitialiser les positions :</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Déverrouiller l'overlay</value>
@@ -931,7 +931,7 @@
     <value>Arène</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>Comportement d'importation</value>
+    <value>Comportement d'importation :</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>Modèle de nom de deck d'arène</value>
@@ -1342,7 +1342,7 @@
     <value>Classiques :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
-    <value>Gobelins et gnomes</value>
+    <value>Gobelins et gnomes :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
     <value>Gobelins et gnomes</value>
@@ -1579,7 +1579,7 @@
     <value>Classique</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
-    <value>Couleur des classes</value>
+    <value>Couleur des classes :</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
     <value>Trier par classe</value>
@@ -1654,7 +1654,7 @@
     <value>Temps de jeu :</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
-    <value>Durée moyenne</value>
+    <value>Durée moyenne :</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
     <value>Meilleur matchup :</value>
@@ -1789,7 +1789,7 @@
     <value>afficher en pourcentage</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
-    <value>afficher la légende</value>
+    <value>Afficher la légende</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
     <value>Période :</value>
@@ -1981,7 +1981,7 @@
     <value>Redémarrage de Hearthstone requis</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker a planté :(.</value>
+    <value>Hearthstone Deck Tracker a planté :(</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
     <value>Créer dans Hearthstone</value>
@@ -2248,7 +2248,7 @@
     <value>FAQ</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
-    <value>Aller à la FAQ</value>
+    <value>Aller à la FAQ.</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
     <value>L'overlay</value>
@@ -2305,7 +2305,7 @@
     <value>options &gt; overlay &gt; général / joueur / adversaire</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
-    <value>Déplacement/redimensionnement</value>
+    <value>Déplacement/redimensionnement :</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
     <value>L'overlay peut être déverrouillé via</value>
@@ -2314,7 +2314,7 @@
     <value>options &gt; overlay &gt; général &gt; déverrouiller</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
-    <value>(bouton en bas)</value>
+    <value>(bouton en bas).</value>
   </data>
   <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
     <value>Les informations additionnelles peuvent être trouvées ici.</value>
