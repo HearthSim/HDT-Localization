@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -942,6 +942,9 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>预览:</value>
   </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>编辑</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>网页</value>
   </data>
@@ -1654,7 +1657,7 @@
     <value>显示百分比</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
-    <value>显示图例</value>
+    <value>显示传说</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
     <value>时间:</value>
@@ -2751,35 +2754,11 @@
   <data name="ConfigWarning_Header" xml:space="preserve">
     <value>警告</value>
   </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>重新开启</value>
+  </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
     <value>不再显示</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>勇闯安戈洛：</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>勇闯安戈洛</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>勇闯安戈洛</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>卡组包含来自勇闯安戈洛的扩展卡。</value>
-  </data>
-  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>秒</value>
-  </data>
-  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>仅对移动设备（笔记本，平板, ...）有效。</value>
-  </data>
-  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>更多信息请搜索 “C#数据格式”</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择卡组（推荐）</value>
-  </data>
-  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>显示被创建/回到手牌的卡（可知情况）</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>自动选择卡组已被禁用，推荐开启此此功能。</value>
@@ -2793,14 +2772,17 @@
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>自动导入竞技场卡组已被禁用，推荐开启此此功能。</value>
   </data>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>自动选择卡组（推荐）</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
+    <value>显示被创建/回到手牌的卡（可知情况）</value>
+  </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>鼠标指针在静止一段时间后将会隐藏</value>
   </data>
-  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>尝试开启此项当你在导出卡组/卡牌名字时遇到问题（可能在键盘布局下无效）</value>
-  </data>
-  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>取消勾选此项以禁用弹出窗口的动画</value>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
+    <value>仅对移动设备（笔记本，平板, ...）有效。</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>在所选区域垂直居中卡牌和信息面板。区域可以在 “选项 &gt; 内嵌 &gt; 通用&gt; 解锁” 中更改。</value>
@@ -2808,25 +2790,334 @@
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>在所选区域垂直居中卡牌和信息面板。区域可以在 “选项 &gt; 内嵌 &gt; 通用&gt; 解锁” 中更改。</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>在卡牌选择器中使用小写字母（大概没有什么用）</value>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
+    <value>取消勾选此项以禁用弹出窗口的动画</value>
   </data>
-  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>当你剩余“X”秒时，播放嘀声并闪烁屏幕</value>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
+    <value>尝试开启此项当你在导出卡组/卡牌名字时遇到问题（可能在键盘布局下无效）</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
     <value>嘀声于</value>
   </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>当你剩余“X”秒时，播放嘀声并闪烁屏幕</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
+    <value>在卡牌选择器中使用小写字母（大概没有什么用）</value>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
+    <value>更多信息请搜索 “C#数据格式”</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>尝试勾选此项当你在排名检测遇到问题。</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>卡组包含来自勇闯安戈洛的扩展卡。</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
+    <value>勇闯安戈洛：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
+    <value>勇闯安戈洛</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
+    <value>勇闯安戈洛</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
     <value>名人堂</value>
   </data>
-  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>重新开启</value>
+  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
+    <value>此卡组只能用于“狂野”模式</value>
+  </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>此卡组有HSReplay.net提供的全球统计资料和选牌攻略</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplay选票指南</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>导出</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>截图</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>仅卡牌</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>含资料</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>包含卡组名称、类别、组成和耗尘</value>
+  </data>
+  <data name="WebImportingDialog_Title" xml:space="preserve">
+    <value>从网站导入</value>
+  </data>
+  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
+    <value>输入卡组网址：</value>
+  </data>
+  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
+    <value>查找所有支持的网站</value>
+  </data>
+  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
+    <value>导入</value>
+  </data>
+  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
+    <value>截图</value>
+  </data>
+  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
+    <value>仅卡牌</value>
+  </data>
+  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
+    <value>标题：</value>
+  </data>
+  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
+    <value>保存到磁盘</value>
+  </data>
+  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
+    <value>上传错误。请稍后再试或手工上传</value>
+  </data>
+  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
+    <value>预览</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
+    <value>复制到剪切板</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
+    <value>已复制！</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
+    <value>上传到Imgur</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
+    <value>上传中...</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
+    <value>上传成功</value>
+  </data>
+  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
+    <value>打开文件夹</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
+    <value>历史版本</value>
+  </data>
+  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
+    <value>历史版本</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
+    <value>历史版本</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>卡组</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>卡牌数据库</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>查找...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>查找卡牌文字</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>过滤</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
+    <value>卡组少于30张卡牌</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
+    <value>卡组多于30张卡牌</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>名称已存在</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>需要名称</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
+    <value>另存为</value>
+  </data>
+  <data name="DeckExport_Label_Instructions" xml:space="preserve">
+    <value>说明：</value>
+  </data>
+  <data name="DeckExport_Label_Step1" xml:space="preserve">
+    <value>点击下方的复制按钮</value>
+  </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>在炉石传说里面新建套牌</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>只需要代码就可以导入卡组，‘#’开头的行都会被忽略</value>
+  </data>
+  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
+    <value>复制全部</value>
+  </data>
+  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
+    <value>复制代码</value>
+  </data>
+  <data name="DeckExport_Button_Copied" xml:space="preserve">
+    <value>已复制！</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
+    <value>导出</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>卡组编辑器</value>
+  </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>从卡组代码</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>卡组、我的对局</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0}天前</value>
+  </data>
+  <data name="GameStats_Age_Days" xml:space="preserve">
+    <value>{0}天前</value>
+  </data>
+  <data name="GameStats_Age_Hour" xml:space="preserve">
+    <value>{0}小时前</value>
+  </data>
+  <data name="GameStats_Age_Hours" xml:space="preserve">
+    <value>{0}小时前</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0}分钟前</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0}分钟前</value>
+  </data>
+  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
+    <value>全球统计 HSReplay.net</value>
+  </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>我的对决</value>
+  </data>
+  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
+    <value>已过滤</value>
+  </data>
+  <data name="DeckCharts_Label_Wins" xml:space="preserve">
+    <value>胜：</value>
+  </data>
+  <data name="DeckCharts_Label_Losses" xml:space="preserve">
+    <value>失败：</value>
+  </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>胜率</value>
+  </data>
+  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
+    <value>VS</value>
+  </data>
+  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
+    <value>已上传</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>无数据</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>玩几局游戏！</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>载入中...</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>对局</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>卡组统计、选牌指南</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>此卡组没有足够数据</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>选择一个带HSReplay.net图标的卡组看全球统计</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>想试试一些新的卡组？</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>点击查看最新的热门卡组！</value>
+  </data>
+  <data name="Druid" xml:space="preserve">
+    <value>德鲁伊</value>
+  </data>
+  <data name="Hunter" xml:space="preserve">
+    <value>猎人</value>
+  </data>
+  <data name="Mage" xml:space="preserve">
+    <value>法师</value>
+  </data>
+  <data name="Paladin" xml:space="preserve">
+    <value>圣骑士</value>
+  </data>
+  <data name="Priest" xml:space="preserve">
+    <value>牧师</value>
+  </data>
+  <data name="Shaman" xml:space="preserve">
+    <value>萨满</value>
+  </data>
+  <data name="Rogue" xml:space="preserve">
+    <value>潜行者</value>
+  </data>
+  <data name="Warlock" xml:space="preserve">
+    <value>术士</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>战士</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>没有回放数据</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>选一个卡组查看当前的比赛</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
+    <value>显示“我的对局”区域</value>
+  </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>缺失的卡</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>花费奥术之尘：</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>启动炉石传说查看缺失的卡！</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>已拥有所有需求的卡</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>包含套牌版本号</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>启动炉石传说</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>无卡组模式</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>自动选择</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>职业卡优先</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>显示</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>退出</value>
   </data>
 </root>
