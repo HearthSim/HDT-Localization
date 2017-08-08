@@ -2815,7 +2815,7 @@
     <value>Zaznacz tą opcję, jeżeli występują trudności z wykrywaniem gier rankingowych.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Talia zawiera karty z dodatku Podróż do wnętrza Un'Goro.</value>
+    <value>Talia zawiera karty z dodatku "Podróż do wnętrza Un'Goro".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>Podróż do wnętrza Un'Goro:</value>
@@ -3113,5 +3113,17 @@
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
     <value>Zamknij</value>
-  </data> 
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Talia zawiera karty z dodatku "Rycerze Mroźnego Tronu".</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Rycerze Mroźnego Tronu</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Rycerze Mroźnego Tronu</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Rycerze Mroźnego Tronu</value>
+  </data>
 </root>
