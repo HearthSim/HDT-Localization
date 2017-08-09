@@ -367,7 +367,7 @@
     <value>Statistiques</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Une nouvelle mise à jour est disponibles</value>
+    <value>Une nouvelle mise à jour est disponible</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Cliquez ici pour mettre à jour maintenant</value>
@@ -3101,5 +3101,35 @@
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
     <value>Enregistrer</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Démarrer le lanceur / Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Sélectionner automatiquement le deck</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Cartes de classe en premier</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Quitter</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Afficher</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Mode sans deck</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Chevaliers du Trône de glace.</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Chevaliers du Trône de glace</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Chevaliers du Trône de glace</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Chevaliers du Trône de glace</value>
   </data>
 </root>
