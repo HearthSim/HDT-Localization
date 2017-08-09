@@ -3102,4 +3102,34 @@
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>Есть все необходимые карты!</value>
   </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Запуск HS</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Без колоды</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Автовыбор</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Классовые карты в начале</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Показать</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Колода содержит карты Рыцарей Ледяного Трона</value>
+  </data>
+  <data name="Ры" xml:space="preserve">
+    <value>Рыцари Ледяного Трона</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Рыцари Ледяного Трона</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Рыцари Ледяного Трона</value>
+  </data>
 </root>
