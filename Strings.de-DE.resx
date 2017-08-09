@@ -271,7 +271,7 @@
     <value>_Letzte Aufzeichnungen</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>Aus _Statistk auswählen</value>
+    <value>Aus _Statistik auswählen</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
     <value>Von Datei laden</value>
@@ -3101,5 +3101,35 @@
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Deck Version einbeziehen</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Starte Launcher/Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Kein-Deck Modus</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Deck autom. wählen</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Klassenkarten zuerst</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Anzeigen</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Verlassen</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Deck enthält Karten der Ritter des Frostthrons Erweiterung</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Ritter des Frostthrons</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Ritter des Frostthrons</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Ritter des Frostthrons</value>
   </data>
 </root>
