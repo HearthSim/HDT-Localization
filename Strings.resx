@@ -1656,8 +1656,8 @@
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
     <value>show as percent</value>
   </data>
-  <data name="Stats_Constructed_Summary_CheckBox_ShowLegends" xml:space="preserve">
-    <value>show legends</value>
+  <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
+    <value>Show legends</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
     <value>Time:</value>
@@ -3101,5 +3101,35 @@
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Include deck version</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Start Launcher/Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>No-deck mode</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Autoselect deck</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Class cards first</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Knights of the Frozen Throne</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Knights of the Frozen Throne</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Knights of the Frozen Throne</value>
   </data>
 </root>

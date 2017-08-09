@@ -1746,7 +1746,7 @@
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
     <value>In Prozent anzeigen</value>
   </data>
-  <data name="Stats_Constructed_Summary_CheckBox_ShowLegends" xml:space="preserve">
+  <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
     <value>Legende anzeigen</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
@@ -1768,7 +1768,7 @@
     <value>Region:</value>
   </data>
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
-    <value>Archivierte Runs einbeziehen</value>
+    <value>Archiv-Runs einbeziehen</value>
   </data>
   <data name="ArenaRewards_Label_Gold" xml:space="preserve">
     <value>Gold</value>
@@ -1864,7 +1864,7 @@
     <value>Notizen...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Archivierte Decks einbeziehen</value>
+    <value>Archiv-Decks einbeziehen</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>Etiketten Filter anwenden</value>
@@ -3080,5 +3080,26 @@
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
     <value>Versuche das, wenn du Probleme beim Exportieren bestimmter Karten/Decknamen hast. Funktioniert unter Umständen nicht mit allen Tastatur Layouts.</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>Fehlende Karten</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>Gesamtkosten Staub:</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Öffne Hearthstone um fehlende Karten anzuzeigen!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>Du besitzt alle benötigten Karten!</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>Deck Version einbeziehen</value>
   </data>
 </root>
