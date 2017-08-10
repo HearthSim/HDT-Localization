@@ -955,7 +955,7 @@
     <value>Resetar</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Desbloquear sobreposição</value>
+    <value>Ajustar sobreposição</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
     <value>Resetar opções:</value>
@@ -1264,7 +1264,7 @@
     <value>Adicionar</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Incluir baralhos "padrão" no modo "livre"</value>
+    <value>Incluir baralho "Padrao" no "Livre"</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
     <value>Ou</value>
@@ -1792,7 +1792,7 @@
     <value>E</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>Ordenação de baralho: Arena</value>
+    <value>Ordenar baralho: Arena</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>Filtro</value>
@@ -1813,7 +1813,7 @@
     <value>Apagar selecionado</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>Ordenação de baralho: Todos/Construído</value>
+    <value>Ordenar baralho: Todos/Criado</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Continuar...</value>
@@ -3119,5 +3119,17 @@
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Editar</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Cavaleiros do Trono de Gelo.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Cavaleiros do Trono de Gelo:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Cavaleiros do Trono de Gelo</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Cavaleiros do Trono de Gelo</value>
   </data>
 </root>
