@@ -3004,13 +3004,13 @@
     <value>我的对决</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>已过滤</value>
+    <value>已筛选</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
     <value>胜：</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>失败：</value>
+    <value>败：</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
     <value>胜率</value>
@@ -3034,7 +3034,7 @@
     <value>对局</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>卡组统计、选牌指南</value>
+    <value>卡组统计、留牌指南</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
     <value>此卡组没有足够数据</value>
