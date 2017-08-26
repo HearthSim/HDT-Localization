@@ -2748,4 +2748,19 @@
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
   </data>
+  <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
+    <value>新しい更新があります。</value>
+  </data>
+　  <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
+    <value>ここをクリックして更新する</value>
+  </data>
+  <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
+    <value>変更されたデッキを自動更新する</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
+    <value>更新を確認する</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
+    <value>ベータ版の更新を確認する</value>
+  </data>
 </root>
