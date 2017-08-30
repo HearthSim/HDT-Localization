@@ -645,7 +645,7 @@
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
     <value>Mostrar como percentagem</value>
   </data>
-  <data name="Stats_Constructed_Summary_CheckBox_ShowLegends" xml:space="preserve">
+  <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
     <value>mostrar legendas</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
@@ -1070,9 +1070,6 @@
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>Importar automaticamente novos baralhos</value>
-  </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Guardar automaticamente o baralho ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
     <value>Importando</value>
