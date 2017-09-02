@@ -634,7 +634,7 @@
     <value>リセット</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>次の位置をリセット</value>
+    <value>位置をリセット</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>オーバーレイのロックを解除</value>
@@ -2776,7 +2776,7 @@
     <value>自動的にデッキを選択(推奨) </value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>情報が利用可能な場合作成/マリガンされたカードが表示されます!。</value>
+    <value>情報が利用可能な場合作成/マリガンされたカードが表示されます。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>カーソルがカードに一定時間乗せられた際に表示されます</value>
@@ -2785,10 +2785,10 @@
     <value>モバイル デバイス (ラップトップ、タブレット、...) の端末のみ。</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>センターのカード、デッキの選択した領域内で垂直方向に情報パネル。経由でリージョンを変更することができます 'オーバーレイ &gt; 一般&gt; のロックを解除'.!</value>
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます  : オーバーレイ &gt; 一般&gt; オーバーレイのロックを解除</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>センターのカード、デッキの選択した領域内で垂直方向に情報パネル。場所は次の箇所で変更できます : オーバーレイ &gt; 一般 &gt; ロック解除</value>
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます : オーバーレイ &gt; 一般 &gt; オーバーレイのロックを解除</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>このチェック ボックスをオフにすると、ポップアップ ダイアログ ボックスのほとんどのアニメーションを無効にします</value>
