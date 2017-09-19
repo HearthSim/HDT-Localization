@@ -346,7 +346,7 @@
     <value>デッキの並べ替え/フィルター</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
-    <value>ノート</value>
+    <value>メモ</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
     <value>設定タグ</value>
@@ -463,7 +463,7 @@
     <value>バージョン履歴を表示</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>デッキの歴史:</value>
+    <value>デッキの履歴:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>ニュース:</value>
@@ -550,7 +550,7 @@
     <value>最上位</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>場合のみフォア グラウンドで HS</value>
+    <value>HSがフォアグラウンドの場合のみ</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>カードのヒント</value>
@@ -562,7 +562,7 @@
     <value>背景:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
-    <value>カスタム進:</value>
+    <value>カスタム16進カラー:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
     <value>(完全に)隠す</value>
@@ -634,7 +634,7 @@
     <value>リセット</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>位置をリセット</value>
+    <value>オーバーレイの位置をリセット</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>オーバーレイのロックを解除</value>
@@ -646,7 +646,7 @@
     <value>たまにカーソルがフリーズする原因となることがあります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>強制時にオンにする (必要なければ使わないでください)</value>
+    <value>強制的にオンにする (必要なければ使わないでください)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>機能:</value>
@@ -658,7 +658,7 @@
     <value>クリックで秘策をグレーアウト</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>注: "オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合場合があります。</value>
+    <value>注: 「オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合場合があります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>有効</value>
@@ -745,7 +745,7 @@
     <value>あなたのハースストーンのウィンドウの背後にオーバーレイのchroma-key-able copyがコピーが追加されます。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>メモ: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
+    <value>注: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>チュートリアルを表示(wikiを開く)</value>
@@ -781,7 +781,7 @@
     <value>地下鉄アニメーションの使用</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>選択した復元</value>
+    <value>選択項目の復元</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
     <value>新規作成</value>
@@ -916,7 +916,7 @@
     <value>構築</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>これは '再生' メニューを入力するたびに新しい、または変更されたデッキを確認します。</value>
+    <value>これは「プレイ」メニューを開くたびに新しい、または変更されたデッキを確認します。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自動インポートの新しいデッキ</value>
@@ -1171,7 +1171,7 @@
     <value>名前を編集</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>ノートを編集</value>
+    <value>メモを編集</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
     <value>タグを編集</value>
@@ -2599,7 +2599,7 @@
     <value>HDT を管理者として起動してみます。</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>問題が解決しない場合は、「指示を表示する」をクリックしてを手動で更新する方法を参照してください。</value>
+    <value>問題が解決しない場合は、「指示を表示する」をクリックして手動で更新する方法を参照してください。</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>続き.</value>
