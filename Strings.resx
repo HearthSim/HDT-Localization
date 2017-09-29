@@ -3150,4 +3150,82 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>The selected deck doesn't have any cards.</value>
   </data>
+  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
+    <value>Setup</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
+    <value>Step 1:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
+    <value>Step 2:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
+    <value>Step 3:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
+    <value>Authenticate with HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
+    <value>Link Twitch Account on HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
+    <value>Install/Configure Twitch Extension</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
+    <value>Authenticated as</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
+    <value>Something went wrong. Please try again later.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Linked to</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
+    <value>No Account linked</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>Enable Twitch Extension integration</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
+    <value>Enabled:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
+    <value>Setup:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
+    <value>Complete</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
+    <value>Incomplete</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>Stream:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>Live</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>Streaming</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>Capturable Overlay</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Twitch Extension</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>View full setup guide</value>
+  </data>
 </root>
