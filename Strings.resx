@@ -3132,4 +3132,16 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>Knights of the Frozen Throne</value>
   </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>Select Language</value>
+  </data>
+  <data name="SelectLanguageDialog_Label_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
 </root>
