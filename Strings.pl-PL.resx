@@ -3135,13 +3135,10 @@
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
-  <data name="ShowMessage_CopyCardNames_Successful" xml:space="preserve">
-    <value>Skopiowano nazwy kart do schowka!</value>
-  </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Wystąpił błąd podczas kopiowania nazw kart do schowka.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>Twoja talia nie ma żadnych kart!</value>
+    <value>Wybrana talia nie ma żadnych kart!</value>
   </data>
 </root>

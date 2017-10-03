@@ -3141,13 +3141,10 @@
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="ShowMessage_CopyCardNames_Successful" xml:space="preserve">
-    <value>Copied card names to clipboard!</value>
-  </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Error occurred while copying card names to clipboard.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>Your deck doesn't have any card!</value>
+    <value>The selected deck doesn't have any cards.</value>
   </data>
 </root>
