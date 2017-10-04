@@ -733,7 +733,7 @@
     <value>作成されたカードを含む (例えば、コイン) </value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>捕捉オーバーレイ ウィンドウを表示</value>
+    <value>キャプチャ用オーバーレイ ウィンドウを表示</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>カード不透明度遷移 (推奨) を無効にする</value>
@@ -742,7 +742,7 @@
     <value>背景:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>あなたのハースストーンのウィンドウの背後にオーバーレイのchroma-key-able copyがコピーが追加されます。</value>
+    <value>ハースストーンのウィンドウの背後にクロマキー合成可能なオーバーレイのコピーが追加されます。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
     <value>注: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
@@ -832,7 +832,7 @@
     <value>アラート</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>ターン開始にフラッシュのハースストーン</value>
+    <value>ターン開始時にハースストーンを点滅</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
     <value>ターン開始時にハースストーンをポップアップ</value>
@@ -1024,10 +1024,10 @@
     <value>リンクされたアカウント</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>あなたの既存のリプレイを保存する HSReplay.netに Battle.net の資格情報でログインします。web ブラウザーを開きます。</value>
+    <value>リプレイをHSReplay.netからインポートする時にBattle.netアカウントでログインします。ブラウザーが開きます。</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>既定では (維持されません) ビューアーを使って、ローカルの再生</value>
+    <value>既定のリプレイ再生にローカルビューワーを使う（非サポート）</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>匿名データを送信</value>
@@ -1150,13 +1150,13 @@
     <value>デッキを削除するときに統計情報を維持</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>これは (デッキなしモードで同じ試合に保存されます) 'クラス デフォルト デッキ' に統計情報を移動します。つまり、闘技場 デッキを削除するときに闘技場結果の統計情報は失われます!</value>
+    <value>「クラス デフォルト デッキ」に統計情報を移動します（デッキなしモードで同じ試合に保存されます）。闘技場デッキを削除するときには、闘技場結果の統計情報は失われます</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>デッキ統計情報が別ウィンドウで表示します。</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>アナリティクス</value>
+    <value>分析</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>検索.</value>
@@ -1231,7 +1231,7 @@
     <value>メモ</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
-    <value>これらのグラフは少し遅いレンダリングします。更新を押してください。</value>
+    <value>このグラフは表示に少し時間がかかります。更新を押してください。</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
     <value>勝利数ごとのクラス分布</value>
@@ -1828,10 +1828,10 @@
     <value>'プレイ' メニューを選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>ハースストーンを開始し、'酒場の喧嘩 'を選択します。</value>
+    <value>ハースストーンを開始し、「酒場の喧嘩」を選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>酒場の喧嘩' を選択します。</value>
+    <value>「酒場の喧嘩」を選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>新しいデッキが見つかりませんでした。</value>
