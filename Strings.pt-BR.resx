@@ -808,7 +808,7 @@
     <value>Baralho do Adversário</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Ordenar/Filtrar Baralhos</value>
+    <value>Ordenar/Filtrar</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Clique aqui para atualizar agora</value>
@@ -1003,10 +1003,10 @@
     <value>Opacidade dos segredos:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contador do C'Thun</value>
+    <value>Mostrar contador do C'Thun:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Mostar contador de feitiços</value>
+    <value>Mostar contador de feitiços:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
@@ -1030,10 +1030,10 @@
     <value>Opacidade:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Mostrar contador do C'Thun</value>
+    <value>Mostrar contador do C'Thun:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Mostar contador de feitiços</value>
+    <value>Mostar contador de feitiços:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
@@ -1045,7 +1045,7 @@
     <value>Destacar cartas da mão</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Descatar última carta comprada</value>
+    <value>Destacar última carta comprada</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
     <value>Remover cartas se não restar nenhuma</value>
@@ -1501,7 +1501,7 @@
     <value>Principal</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>Limites de cartas Construído</value>
+    <value>Limitar cartas do Construído</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Não reinicie o baralho após um jogo</value>
@@ -1567,7 +1567,7 @@
     <value>O Grande Torneio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
-    <value>Sussuros dos Deuses Antigos:</value>
+    <value>Sussurros dos Deuses Antigos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
     <value>Goblins vs Gnomos:</value>
@@ -1762,7 +1762,7 @@
     <value>O Grande Torneio</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Sussuros dos Deuses Antigos</value>
+    <value>Sussurros dos Deuses Antigos</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
     <value>America</value>
@@ -2020,7 +2020,7 @@
     <value>Baralho contém cartas da expansão Liga dos Exploradores.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Baralho contém cartas da expansão Sussuros dos Deuses Antigos.</value>
+    <value>Baralho contém cartas da expansão Sussurros dos Deuses Antigos.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
     <value>Baralho contém cartas da expansão Uma Noite em Karazhan.</value>
@@ -3131,5 +3131,20 @@
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
     <value>Cavaleiros do Trono de Gelo</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>Copiar</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>O baralho selecionado não possui cartas.</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
+    <value>Ocorreu um erro ao copiar o nome das cartas para a área de transferência.</value>
+  </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>Selecionar Idioma</value>
   </data>
 </root>
