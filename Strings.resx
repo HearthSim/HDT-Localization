@@ -3175,7 +3175,7 @@
     <value>Authenticated as</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Please try again later.</value>
+    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
     <value>Linked to</value>
