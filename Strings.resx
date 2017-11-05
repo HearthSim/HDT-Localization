@@ -661,7 +661,7 @@
     <value>Click secrets to gray out</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options > overlay > general > automatically gray out secrets" is enabled.</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Enabled</value>
@@ -1780,7 +1780,7 @@
     <value>Apply tag filters</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker > Sort/Filter Decks' (double arrow button).</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2785,10 +2785,10 @@
     <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay > general > unlock'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay > general > unlock'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
@@ -2803,7 +2803,7 @@
     <value>seconds.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have &quot;X&quot; seconds remaining</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Uncheck to use normal case in Deck Picker.</value>
@@ -2812,7 +2812,7 @@
     <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google &quot;C# date format&quot;.</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Try enabling this if you are having trouble with rank(ed) detection.</value>
@@ -3123,7 +3123,7 @@
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
   </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+  <data name="Ры" xml:space="preserve">
     <value>Knights of the Frozen Throne</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
