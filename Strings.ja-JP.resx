@@ -346,7 +346,7 @@
     <value>デッキの並べ替え/フィルター</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
-    <value>ノート</value>
+    <value>メモ</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
     <value>設定タグ</value>
@@ -367,10 +367,10 @@
     <value>統計情報</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>新しい更新が利用可能</value>
+    <value>新しい更新があります。</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>今すぐ更新するにはここをクリック</value>
+    <value>ここをクリックして更新する</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>ランチャーを起動/ハースストーン</value>
@@ -463,7 +463,7 @@
     <value>バージョン履歴を表示</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>デッキの歴史:</value>
+    <value>デッキの履歴:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>ニュース:</value>
@@ -550,7 +550,7 @@
     <value>最上位</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>場合のみフォア グラウンドで HS</value>
+    <value>HSがフォアグラウンドの場合のみ</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>カードのヒント</value>
@@ -562,7 +562,7 @@
     <value>背景:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
-    <value>カスタム進:</value>
+    <value>カスタム16進カラー:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
     <value>(完全に)隠す</value>
@@ -634,7 +634,7 @@
     <value>リセット</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>次の位置をリセット</value>
+    <value>オーバーレイの位置をリセット</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>オーバーレイのロックを解除</value>
@@ -646,7 +646,7 @@
     <value>たまにカーソルがフリーズする原因となることがあります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>強制時にオンにする (必要なければ使わないでください)</value>
+    <value>強制的にオンにする (必要なければ使わないでください)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>機能:</value>
@@ -658,7 +658,7 @@
     <value>クリックで秘策をグレーアウト</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>注: "オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合場合があります。</value>
+    <value>注: 「オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合場合があります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>有効</value>
@@ -733,7 +733,7 @@
     <value>作成されたカードを含む (例えば、コイン) </value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>捕捉オーバーレイ ウィンドウを表示</value>
+    <value>キャプチャ用オーバーレイ ウィンドウを表示</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>カード不透明度遷移 (推奨) を無効にする</value>
@@ -742,10 +742,10 @@
     <value>背景:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>あなたのハースストーンのウィンドウの背後にオーバーレイのchroma-key-able copyがコピーが追加されます。</value>
+    <value>ハースストーンのウィンドウの背後にクロマキー合成可能なオーバーレイのコピーが追加されます。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>メモ: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
+    <value>注: 一度ハースストーンの前面にオーバーレイコピーが表示されることがあります。クリックするとそのセッション中は表示されないようになります。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>チュートリアルを表示(wikiを開く)</value>
@@ -781,7 +781,7 @@
     <value>地下鉄アニメーションの使用</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>選択した復元</value>
+    <value>選択項目の復元</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
     <value>新規作成</value>
@@ -832,7 +832,7 @@
     <value>アラート</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>ターン開始にフラッシュのハースストーン</value>
+    <value>ターン開始時にハースストーンを点滅</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
     <value>ターン開始時にハースストーンをポップアップ</value>
@@ -916,13 +916,13 @@
     <value>構築</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>これは '再生' メニューを入力するたびに新しい、または変更されたデッキを確認します。</value>
+    <value>これは「プレイ」メニューを開くたびに新しい、または変更されたデッキを確認します。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自動インポートの新しいデッキ</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>自動更新のデッキ</value>
+    <value>変更されたデッキを自動更新する</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>闘技場</value>
@@ -1024,10 +1024,10 @@
     <value>リンクされたアカウント</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>あなたの既存のリプレイを保存する HSReplay.netに Battle.net の資格情報でログインします。web ブラウザーを開きます。</value>
+    <value>リプレイをHSReplay.netからインポートする時にBattle.netアカウントでログインします。ブラウザーが開きます。</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>既定では (維持されません) ビューアーを使って、ローカルの再生</value>
+    <value>既定のリプレイ再生にローカルビューワーを使う（非サポート）</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>匿名データを送信</value>
@@ -1060,10 +1060,10 @@
     <value>HDTと同時にハースストーンを開始</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
-    <value>更新プログラムの確認</value>
+    <value>更新を確認する</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
-    <value>ベータ版の更新を確認</value>
+    <value>ベータ版の更新を確認する</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch" xml:space="preserve">
     <value>詳細ウィンドウの検索</value>
@@ -1150,13 +1150,13 @@
     <value>デッキを削除するときに統計情報を維持</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>これは (デッキなしモードで同じ試合に保存されます) 'クラス デフォルト デッキ' に統計情報を移動します。つまり、闘技場 デッキを削除するときに闘技場結果の統計情報は失われます!</value>
+    <value>「クラス デフォルト デッキ」に統計情報を移動します（デッキなしモードで同じ試合に保存されます）。闘技場デッキを削除するときには、闘技場結果の統計情報は失われます</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>デッキ統計情報が別ウィンドウで表示します。</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>アナリティクス</value>
+    <value>分析</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>検索.</value>
@@ -1171,7 +1171,7 @@
     <value>名前を編集</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>ノートを編集</value>
+    <value>メモを編集</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
     <value>タグを編集</value>
@@ -1231,7 +1231,7 @@
     <value>メモ</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
-    <value>これらのグラフは少し遅いレンダリングします。更新を押してください。</value>
+    <value>このグラフは表示に少し時間がかかります。更新を押してください。</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
     <value>勝利数ごとのクラス分布</value>
@@ -1387,7 +1387,7 @@
     <value>ゲームを削除</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>対</value>
+    <value>VS</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>開始</value>
@@ -1489,7 +1489,7 @@
     <value>勝率</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>Ver.</value>
+    <value>バージョン.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>デッキ:</value>
@@ -1534,7 +1534,7 @@
     <value>クラス</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>対</value>
+    <value>VS</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>名前</value>
@@ -1828,10 +1828,10 @@
     <value>'プレイ' メニューを選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>ハースストーンを開始し、'酒場の喧嘩 'を選択します。</value>
+    <value>ハースストーンを開始し、「酒場の喧嘩」を選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>酒場の喧嘩' を選択します。</value>
+    <value>「酒場の喧嘩」を選択します。</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>新しいデッキが見つかりませんでした。</value>
@@ -1981,7 +1981,7 @@
     <value>練習</value>
   </data>
   <data name="Enum_GameMode_Spectator" xml:space="preserve">
-    <value>観客</value>
+    <value>観戦</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
     <value>なし</value>
@@ -2599,7 +2599,7 @@
     <value>HDT を管理者として起動してみます。</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>問題が解決しない場合は、「指示を表示する」をクリックしてを手動で更新する方法を参照してください。</value>
+    <value>問題が解決しない場合は、「指示を表示する」をクリックして手動で更新する方法を参照してください。</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>続き.</value>
@@ -2716,7 +2716,7 @@
     <value>ハースストーンで作成</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>デッキには、仁義なきガジェッツァンの拡張カードが含まれています。</value>
+    <value>デッキに仁義なきガジェッツァンのカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
     <value>仁義なきガジェッツァン:</value>
@@ -2747,5 +2747,389 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>カード</value>
+  </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>警告 </value>
+  </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>オンに戻す</value>
+  </data>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>それは大丈夫、次回から表示しない</value>
+  </data>
+  <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
+    <value>自動デッキ選択が無効化されています。.\n\nIt's HDTの機能を最大限生かすためこの設定を有効にすることをお勧めします。</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
+    <value>構築デッキ新規作成時の自動インポートが無効化されています。\n\nHDTの機能を最大限生かすためこの設定を有効にすることをお勧めします。</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
+    <value>構築デッキ変更時の自動インポートは現在無効です。.\n\nHDTの機能を最大限生かすためこの設定を有効にすることをお勧めします。</value>
+  </data>
+  <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
+    <value>闘技場デッキの自動インポートは現在無効です。.\n\nHDTの機能を最大限生かすためこの設定を有効にすることをお勧めします。</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>自動的にデッキを選択(推奨) </value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
+    <value>情報が利用可能な場合作成/マリガンされたカードが表示されます。</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
+    <value>カーソルがカードに一定時間乗せられた際に表示されます</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
+    <value>モバイル デバイス (ラップトップ、タブレット、...) の端末のみ。</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます  : オーバーレイ &gt; 一般&gt; オーバーレイのロックを解除</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます : オーバーレイ &gt; 一般 &gt; オーバーレイのロックを解除</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
+    <value>このチェック ボックスをオフにすると、ポップアップ ダイアログ ボックスのほとんどのアニメーションを無効にします</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
+    <value>特定のカード/デッキ名 のエクスポートに問題がある場合、これを試してください- すべてのキーボード レイアウトでは動作しない可能性があります!</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>秒.</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>のこり"X"秒の際にアラートを鳴らす</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
+    <value>デッキ選択で通常の場合を使用するをオフにします。</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>ハースストーン以外のウインドウにオーバーレイ表示されないようにします。</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
+    <value>日付のフォーマットの詳細については「C# date format」で検索してください。</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
+    <value>ランクの検出に問題がある場合、これを有効にしてください!。</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>デッキに大魔境ウンゴロからのカードが含まれています。</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
+    <value>大魔境ウンゴロ:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
+    <value>大魔境ウンゴロ</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
+    <value>大魔境ウンゴロ</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
+    <value>栄誉の殿堂</value>
+  </data>
+  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
+    <value>このデッキは、ワイルドでのみ使用することができます</value>
+  </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>このデッキは、グローバル統計とマリガンの情報が HSReplay.netで利用可能です</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplayマリガン ガイド</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>エクスポート</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>スクリーンショット</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>情報</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>デッキ名、クラス、セットおよび魔素の費用が含まれます</value>
+  </data>
+  <data name="WebImportingDialog_Title" xml:space="preserve">
+    <value>Webからインポート</value>
+  </data>
+  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
+    <value>デッキの URL を入力:</value>
+  </data>
+  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
+    <value>サポートされているすべてのウェブサイトを見つける</value>
+  </data>
+  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
+    <value>インポート</value>
+  </data>
+  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
+    <value>スクリーンショット</value>
+  </data>
+  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
+    <value>カードのみ</value>
+  </data>
+  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
+    <value>タイトル</value>
+  </data>
+  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
+    <value>アップロードエラーです。もう一度やり直すか手動でアップロードしてください。</value>
+  </data>
+  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
+    <value>プレビュー</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
+    <value>クリップボードにコピー</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
+    <value>コピーされました！</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
+    <value>Imgur にアップロード</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
+    <value>アップロード中…</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
+    <value>アップロード成功</value>
+  </data>
+  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
+    <value>フォルダーを開く</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
+    <value>バージョン履歴</value>
+  </data>
+  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
+    <value>バージョン履歴</value>
+  </data>
+  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
+    <value>バージョン履歴</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>デッキ</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>カード データベース</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>検索...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>カード テキストを検索</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>フィルター</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
+    <value>デッキの枚数が30未満です。</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
+    <value>デッキの枚数が30より多いです。</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>名前が既に存在しています</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>名前を入力してください。</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
+    <value>名前を付けて保存</value>
+  </data>
+  <data name="DeckExport_Label_Instructions" xml:space="preserve">
+    <value>インストラクション:</value>
+  </data>
+  <data name="DeckExport_Label_Step1" xml:space="preserve">
+    <value>下のボタンをクリック</value>
+  </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>ハースストーンで新しいデッキを作成!</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>コードのみがハースストーンにインポートするため必要です。'#' で始まる行は無視されます。</value>
+  </data>
+  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
+    <value>すべてコピー</value>
+  </data>
+  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
+    <value>コードだけをコピー</value>
+  </data>
+  <data name="DeckExport_Button_Copied" xml:space="preserve">
+    <value>コピーされました！</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
+    <value>エクスポート</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>デッキ エディター</value>
+  </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>デッキコードから</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>編集</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>デッキ/ゲーム/オーバーレイ</value>
+  </data>
+  <data name="GameStats_Age_Days" xml:space="preserve">
+    <value>{0} 日前</value>
+  </data>
+  <data name="GameStats_Age_Hour" xml:space="preserve">
+    <value>{0} 時間前</value>
+  </data>
+  <data name="GameStats_Age_Hours" xml:space="preserve">
+    <value>{0} 時間前</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0} 分前</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0} 分前</value>
+  </data>
+  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
+    <value>統計 - HSReplay.net</value>
+  </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>自分のゲーム</value>
+  </data>
+  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
+    <value>アクティブフィルター</value>
+  </data>
+  <data name="DeckCharts_Label_Wins" xml:space="preserve">
+    <value>勝利:</value>
+  </data>
+  <data name="DeckCharts_Label_Losses" xml:space="preserve">
+    <value>敗北:</value>
+  </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
+  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
+    <value>対</value>
+  </data>
+  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
+    <value>アップロード済</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>データなし</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>いくつかのゲームをプレイ</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>読み込み中...</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>マッチアップ</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>統計/デッキ ・ マリガン ガイド</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>選択したデッキに十分なデータがありません。</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>HSReplay.net アイコンのあるデッキを選択すると統計を閲覧できます</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>何か新しいものを試してみたいですか?</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>流行ののデッキをチェックしてください!</value>
+  </data>
+  <data name="Druid" xml:space="preserve">
+    <value>ドルイド</value>
+  </data>
+  <data name="Hunter" xml:space="preserve">
+    <value>ハンター</value>
+  </data>
+  <data name="Mage" xml:space="preserve">
+    <value>メイジ</value>
+  </data>
+  <data name="Paladin" xml:space="preserve">
+    <value>パラディン</value>
+  </data>
+  <data name="Priest" xml:space="preserve">
+    <value>プリースト</value>
+  </data>
+  <data name="Shaman" xml:space="preserve">
+    <value>シャーマン</value>
+  </data>
+  <data name="Rogue" xml:space="preserve">
+    <value>ローグ</value>
+  </data>
+  <data name="Warlock" xml:space="preserve">
+    <value>ウォーロック</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>ウォーリア</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>リプレイ データがありません!</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>最近のゲームを参照するデッキを選択!</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
+    <value>私のゲームのパネルを表示する</value>
+  </data>
+  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
+    <value>足りないカード</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
+    <value>総魔素</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>不足しているカードを探すにはハースストーンを起動!</value>
+  </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>すべての必要なカードを所持しています!</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>デッキのバージョンを含める</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>ランチャー/ハースストーンを開始</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>デッキ未選択モード</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>デッキを自動選択</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>クラスカードを先頭</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>表示</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>終了</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>凍てつく玉座の騎士団の拡張のカードを含む</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>凍てつく玉座の騎士団:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>凍てつく玉座の騎士団</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>凍てつく玉座の騎士団</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0} 日前</value>
   </data>
 </root>

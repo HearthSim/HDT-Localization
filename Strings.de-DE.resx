@@ -271,7 +271,7 @@
     <value>_Letzte Aufzeichnungen</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>Aus _Statistk auswählen</value>
+    <value>Aus _Statistik auswählen</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
     <value>Von Datei laden</value>
@@ -310,7 +310,7 @@
     <value>Spiele automatisch löschen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Automatisch Synchronisieren</value>
+    <value>Automatisch synchronisieren</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Ausgewählte Decks löschen</value>
@@ -703,7 +703,7 @@
     <value>Geheimnisse autom. ausgrauen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Decks nach Spiel nicht resetten</value>
+    <value>Decks nach Spiel nicht zurücksetzen</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Suchbegriff Name/Beschreibung</value>
@@ -778,10 +778,10 @@
     <value>Deckkraft Geheimnisse:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>C'Thun Zähler anzeigen:</value>
+    <value>C'Thun-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Zauber Zähler anzeigen:</value>
+    <value>Zauberzähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Gesamtangriff des Boards anzeigen</value>
@@ -805,10 +805,10 @@
     <value>Deckkraft:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>C'Thun Zähler anzeigen:</value>
+    <value>C'Thun-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Zauber Zähler anzeigen:</value>
+    <value>Zauberzähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Gesamtangriff des Boards anzeigen</value>
@@ -889,7 +889,7 @@
     <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
-    <value>Backup Verzeichnis anzeigen</value>
+    <value>Backupverzeichnis anzeigen</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
     <value>Geschwindigkeit:</value>
@@ -904,7 +904,7 @@
     <value>Goldene Karten bevorzugen</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
-    <value>Deck Name übernehmen</value>
+    <value>Deckname übernehmen</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
     <value>Versionsnummer in Deckname übernehmen</value>
@@ -1168,22 +1168,22 @@
     <value>Bildschirm alternativ einfangen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
-    <value>Neuigkeiten Leiste anzeigen</value>
+    <value>Neuigkeitenleiste anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
     <value>Log anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
-    <value>Hearthstone Pfad einstellen</value>
+    <value>Hearthstone-Pfad einstellen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
-    <value>AppData Ordner öffnen</value>
+    <value>AppData-Ordner öffnen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
     <value>Daten Pfad einstellen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_LogDirectory" xml:space="preserve">
-    <value>Hearthstone Log Verzeichnis einstellen</value>
+    <value>Hearthstone Log-Verzeichnis einstellen</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
     <value>Erfasse</value>
@@ -1408,7 +1408,7 @@
     <value>Goblins gegen Gnome:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
-    <value>Das Große Turnier</value>
+    <value>Das Große Turnier:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
     <value>Flüstern Der Alten Götter:</value>
@@ -2200,7 +2200,7 @@
     <value>Wahrscheinlichkeit mit der eine Karte gezogen wird, bei X verbliebenen Kopien im Deck.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>Hält-Wahrscheinlichkeit:</value>
+    <value>Haltewahrscheinlichkeit:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
     <value>Wahrscheinlichkeit dass der Gegner eine bestimmte Karte zu Beginn des nächsten Zuges hält, wenn X Kopien im Spiel sind.</value>
@@ -2674,7 +2674,7 @@
     <value>Ziehwahrscheinlichkeit</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Fatigue Zähler</value>
+    <value>Fatiguezähler</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
     <value>Deckname</value>
@@ -3101,5 +3101,134 @@
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Deck Version einbeziehen</value>
+  </data>
+  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
+    <value>Starte Launcher/Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Kein-Deck Modus</value>
+  </data>
+  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
+    <value>Deck autom. wählen</value>
+  </data>
+  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
+    <value>Klassenkarten zuerst</value>
+  </data>
+  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
+    <value>Anzeigen</value>
+  </data>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Verlassen</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
+    <value>Deck enthält Karten der Ritter des Frostthrons Erweiterung</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Ritter des Frostthrons:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
+    <value>Ritter des Frostthrons</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Ritter des Frostthrons</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Helden</value>
+  </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>Wähle Sprache</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>Kopieren</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
+    <value>Fehler beim Kopieren von Kartennamen in die Zwischenablage aufgetreten</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>Das gewählte Deck enthält keine Karten.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
+    <value>Setup</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
+    <value>Schritt 1:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
+    <value>Schritt 2:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
+    <value>Schritt 3:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
+    <value>Authentifiziere mit HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
+    <value>Verknüpfe Twitch Account auf HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
+    <value>Installiere/Konfiguriere Twitch Erweiterung</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
+    <value>Authentifiziert als</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
+    <value>Etwas ging schief. Versuche für diesen Schritt HDT als Administrator zu starten. Ansonsten probiere es später noch mal.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Verknüpft mit</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
+    <value>Kein Account verknüpft</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>Aktiviere Integration von Twitch Erweiterung</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
+    <value>Aktiviert:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
+    <value>Deaktiviert</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
+    <value>Setup:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
+    <value>Abgeschlossen</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
+    <value>Unvollständig</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>Stream:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>Live</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>Streaming</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>Greifbares Overlay</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Twitch Erweiterung</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>Setup Anleitung aufrufen</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
+    <value>Nicht verbunden</value>
   </data>
 </root>
