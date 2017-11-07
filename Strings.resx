@@ -3231,4 +3231,16 @@
   <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
     <value>Not connected</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolds and Catacombs</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolds and Catacombs</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolds and Catacombs:</value>
+  </data>
 </root>
