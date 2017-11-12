@@ -919,7 +919,7 @@
     <value>Construit</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>Cela recherchera des decks nouveaux / modifiés à chaque fois que vous entrez dans le menu « Partie »</value>
+    <value>Cela recherchera des decks nouveaux / modifiés à chaque fois que vous entrez dans le menu « Partie ».</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>Importer automatiquement les nouveaux decks</value>
@@ -1039,7 +1039,7 @@
     <value>Soumettre des données anonymes</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>N'enregistre que des informations très basiques afin de nous aider à améliorer HDT, comme les lancements d'application ou de parties. </value>
+    <value>N'enregistre que des informations très basiques afin de nous aider à améliorer HDT, comme les lancements d'application ou de parties.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Sauver la configuration dans AppData</value>
@@ -1906,7 +1906,7 @@
     <value>Appliquer les filtres d'étiquettes</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks &gt; Trier / filtrer les decks (bouton avec 2 flèches)</value>
+    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks &gt; Trier / filtrer les decks (bouton avec 2 flèches).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -3052,7 +3052,7 @@
     <value>Sélectionnez un deck avec l'icône HSReplay.net pour y voir les données globales !</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Vous voulez essayer quelque chose de nouveau ?</value>
+    <value>Vous voulez essayer autre chose ?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
     <value>Testez nos decks du moment !</value>
@@ -3131,5 +3131,116 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
     <value>Chevaliers du Trône de glace :</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Héros</value>
+  </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>Sélectionner la langue</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>Copier</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>Le deck sélectionné ne contient aucune carte.</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
+    <value>Erreur lors de la copie des noms de cartes dans le presse-papiers.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
+    <value>Étape 1 :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
+    <value>Étape 2 :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
+    <value>Étape 3 :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
+    <value>S'authentifier avec HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>Overlay capturable</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>Streaming</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>Activer l'intégration de l'extension Twitch</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Extension Twitch</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
+    <value>État</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>Voir le guide de configuration complet</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
+    <value>Désactivée</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
+    <value>Activée</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
+    <value>Activation :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
+    <value>Configuration :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>Stream :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
+    <value>Incomplète</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
+    <value>Complète</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>Hors ligne</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
+    <value>Pas connecté</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>En direct</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
+    <value>Authentifié comme</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
+    <value>Aucun compte lié</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
+    <value>Lier le compte Twitch à HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Lié à</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
+    <value>Installer/configurer l'extension Twitch</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
+    <value>Un problème est survenu. Essayez d'exécuter HDT en tant qu'administrateur pour cette étape. Sinon, réessayez plus tard.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Kobolds et Catacombes.</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolds et Catacombes</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolds et Catacombes</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolds et Catacombes :</value>
   </data>
 </root>
