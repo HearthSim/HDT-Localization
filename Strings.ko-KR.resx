@@ -450,6 +450,18 @@
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
     <value>자동으로 불러올지 묻기</value>
   </data>
+  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
+    <value>덱에 포함된 카드가 30장 미만입니다</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
+    <value>덱에 포함된 카드가 30장을 초과합니다</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
+    <value>같은 이름의 덱이 존재합니다</value>
+  </data>
+  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
+    <value>덱 이름을 입력하세요</value>
+  </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>전체</value>
   </data>
@@ -971,6 +983,9 @@
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>카드:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
+    <value>카드 설명 검색 포함</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
     <value>덱 역사:</value>
