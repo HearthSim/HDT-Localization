@@ -1855,7 +1855,7 @@
     <value>Talia zawiera karty z dodatku "Klątwa Naxxramas".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Talia zawiera karty z dodatku "Gobliny vs Gnomy"</value>
+    <value>Talia zawiera karty z dodatku "Gobliny vs Gnomy".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Czarna Góra".</value>
@@ -3227,5 +3227,20 @@
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Edytuj</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
+    <value>Nie połączony</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Koboldy i Katakumby</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Talia zawiera karty z dodatku "Koboldy i Katakumby".</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Koboldy i Katakumby</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Koboldy i Katakumby:</value>
   </data>
 </root>
