@@ -3231,4 +3231,16 @@
   <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
     <value>Não conectado</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolds e Catacumbas</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolds e Catacumbas</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolds e Catacumbas:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Kobolds e Catacumbas.</value>
+  </data>
 </root>
