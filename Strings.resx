@@ -1884,6 +1884,9 @@
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>Minions</value>
   </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Heroes</value>
+  </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Mechanics</value>
   </data>
@@ -3131,5 +3134,113 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>Knights of the Frozen Throne</value>
+  </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>Select Language</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
+    <value>Error occurred while copying card names to clipboard.</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>The selected deck doesn't have any cards.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
+    <value>Setup</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
+    <value>Step 1:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
+    <value>Step 2:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
+    <value>Step 3:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
+    <value>Authenticate with HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
+    <value>Link Twitch Account on HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
+    <value>Install/Configure Twitch Extension</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
+    <value>Authenticated as</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
+    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Linked to</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
+    <value>No Account linked</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>Enable Twitch Extension integration</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
+    <value>Enabled:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
+    <value>Setup:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
+    <value>Complete</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
+    <value>Incomplete</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>Stream:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>Live</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>Streaming</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>Capturable Overlay</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Twitch Extension</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>View full setup guide</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
+    <value>Not connected</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolds and Catacombs</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolds and Catacombs</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolds and Catacombs:</value>
   </data>
 </root>
