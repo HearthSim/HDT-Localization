@@ -909,6 +909,9 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
     <value>고블린 대 노움</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
+    <value>명예의 전당</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
     <value>한여름 밤의 카라잔</value>
   </data>
@@ -939,11 +942,23 @@
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
     <value>중립만</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
+    <value>카드 목록</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
+    <value>덱</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
+    <value>필터</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>이름이 이미 존재합니다</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
     <value>이름...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
+    <value>찾기...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>카드:</value>
@@ -956,6 +971,9 @@
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
     <value>덱 불러오기</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
+    <value>덱 에디터</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
     <value>오류</value>
@@ -986,6 +1004,12 @@
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
     <value>업데이트 기록</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
+    <value>덱을 찾지 못했습니다</value>
+  </data>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
+    <value>지원되는 url 또는 덱 데이터가 클립보드에 존재하지 않습니다.</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
     <value>선택된 버전:</value>
@@ -1155,6 +1179,9 @@
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
     <value>구성된 덱으로부터(_C)</value>
   </data>
+  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
+    <value>덱 코드로부터</value>
+  </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>기타</value>
   </data>
@@ -1235,6 +1262,9 @@
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>무기</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>영웅</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
     <value>취소</value>
