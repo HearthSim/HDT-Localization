@@ -903,12 +903,6 @@
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
     <value>Ligar a novo UR_L</value>
   </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Ligar UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>Ligar a novo UR_L</value>
-  </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>Ir para a FAQ.</value>
   </data>
@@ -2117,9 +2111,6 @@
   </data>
   <data name="SplashScreen_Text_Updating" xml:space="preserve">
     <value>Atualizando...</value>
-  </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Usar visualizador de repetições local</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
     <value>Usar tipo de letra por defeito para linguagens não latinas</value>

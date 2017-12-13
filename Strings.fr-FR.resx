@@ -1032,9 +1032,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Connectez-vous avec vos identifiants Battle.net sur HSReplay.net pour accéder à vos rediffusions existantes. Cela ouvrira votre navigateur web.</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Utiliser le visionneur de rediffusions par défaut (non maintenu)</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Soumettre des données anonymes</value>
   </data>
@@ -1252,12 +1249,6 @@
     <value>Lier à une UR_L</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Lier à une nouvelle UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Lier à une UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Lier à une nouvelle UR_L</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">

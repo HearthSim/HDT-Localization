@@ -1029,9 +1029,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Зайдіть до HSReplay.net, використовуючи особисті дані Battle.net, щоб позначити повтори як власні. Ця дія відкриє ваш інтернет-переглядач.</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Вик. локальний переглядач повторів (не підтримується)</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Додати анонімні дані</value>
   </data>
@@ -1222,12 +1219,6 @@
     <value>Посилання на адресу</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Посилання на нову адресу</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Посилання на адресу</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Посилання на нову адресу</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">

@@ -1107,12 +1107,6 @@
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
     <value>태그 편집(_T)</value>
   </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>새 URL로 링크(_L)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>URL로 링크(_L)</value>
-  </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
     <value>빠진 카드 보기(_M)</value>
   </data>
@@ -2540,9 +2534,6 @@
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
     <value>친선전</value>
-  </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>기본값으로 로컬 리플레이 뷰어 이용 (유지보수 종료됨)</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>등급전</value>

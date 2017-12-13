@@ -1029,9 +1029,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Zaloguj się poprzez konto Battle.net na HSReplay.net aby podtwierdzić swoje konto. Ta opcja otworzy stronę w przeglądarce internetowej.</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Użyj wbudowanej przeglądarki powtórek (nie wspierane)*</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Wysyłaj anonimowe dane</value>
   </data>
@@ -1222,12 +1219,6 @@
     <value>Link to ur_l</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link to new ur_l</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Link to ur_l</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Link to new ur_l</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">

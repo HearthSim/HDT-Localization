@@ -1032,9 +1032,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>你可以在HSReplay.net上关联你的战网号(非国服即可)。这需要打开你的网页浏览器。</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>默认情况下使用本地录像查看（不保存）</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>提交匿名数据</value>
   </data>
@@ -1225,12 +1222,6 @@
     <value>链接到网页(_L)</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>链接到新网页(_L)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>链接到网页(_L)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>链接到新网页(_L)</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
