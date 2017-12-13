@@ -2850,9 +2850,7 @@
   <data name="GameStats_Age_Minutes" xml:space="preserve">
     <value>{0} 분 전</value>
   </data>
-
   <!-- Export part -->
-
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
     <value>없는 카드</value>
   </data>
@@ -2888,5 +2886,8 @@
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>모든 카드를 가지고 있습니다!</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>난투</value>
   </data>
 </root>

@@ -3243,4 +3243,10 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Kobolds and Catacombs:</value>
   </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Dungeon</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Brawl</value>
+  </data>
 </root>
