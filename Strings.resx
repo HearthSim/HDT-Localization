@@ -3249,4 +3249,13 @@
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Brawl</value>
   </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Dungeon Runs</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Auto import new decks</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Dungeon deck name template</value>
+  </data>
 </root>
