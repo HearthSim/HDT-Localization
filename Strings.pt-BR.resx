@@ -1372,7 +1372,7 @@
     <value>Comportamento de importação:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Modelo para nomes de baralhos da arena</value>
+    <value>Modelo de nome dos baralhos da arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Modelos:</value>
@@ -3190,7 +3190,7 @@
     <value>Completo</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Imcompleto</value>
+    <value>Incompleto</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream:</value>
@@ -3239,5 +3239,20 @@
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Importar automaticamente novos baralhos</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Masmorra</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Mostrar baralho "Favorito" primeiro</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Desafio na Masmorra</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Incluir cartas passivas</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Modelo de nome dos baralhos da masmorra</value>
   </data>
 </root>
