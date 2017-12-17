@@ -607,7 +607,7 @@
     <value>Używaj animacji kart</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Informacje o źródle karty</value>
+    <value>Pokaż informacje o pochodzeniu karty (stworzona, cofnięta, itd.)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
     <value>Automatycznie oznacz użyte sekrety</value>
@@ -616,7 +616,7 @@
     <value>Nie resetuj talii po grze</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Dzienny postęp złota widoczny (w menu)</value>
+    <value>Wyświetlaj dzienny postęp złota (widoczny w menu)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Pokaż opis karty po najechaniu na nią (na planszy/w ręce)</value>
@@ -1029,9 +1029,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Zaloguj się poprzez konto Battle.net na HSReplay.net aby podtwierdzić swoje konto. Ta opcja otworzy stronę w przeglądarce internetowej.</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Użyj wbudowanej przeglądarki powtórek (nie wspierane)*</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Wysyłaj anonimowe dane</value>
   </data>
@@ -1222,12 +1219,6 @@
     <value>Link to ur_l</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link to new ur_l</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Link to ur_l</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Link to new ur_l</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
@@ -2317,13 +2308,13 @@
     <value>Ta talia może być użyta tylko w Standardzie.</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
-    <value>No stats</value>
+    <value>Brak statystyk</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
-    <value>nie</value>
+    <value>Brak</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>stats</value>
+    <value>statystyk</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Wszystkie</value>
@@ -2776,7 +2767,7 @@
     <value>Automatycznie wybieraj talię (Bardzo zalecane)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Pokazuje informacje o źródle karty, jeżeli takowe informację są dostępne.</value>
+    <value>Pokazuje informacje o pochodzeniu karty, jeżeli takowe są dostępne.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>Wyświetli się tylko, gdy kursor będzie nieruchomo przez krótki okres czasu.</value>
@@ -3181,16 +3172,16 @@
     <value>Włącz integrację z rozszerzeniem Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
+    <value>Stan</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Wyłączony</value>
+    <value>Wyłączona</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Włączony</value>
+    <value>Włączona</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Włączony:</value>
+    <value>Integracja z rozszerzeniem:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
     <value>Konfiguracja</value>
@@ -3242,5 +3233,26 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Koboldy i Katakumby:</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Katakumby</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Karczemna Bójka</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Katakumby</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Automatyczny import nowych talii</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Format nazwy talii do Katakumb</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Dołącz pasywne karty</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Pokaż "Ulubione" talie jako pierwsze</value>
   </data>
 </root>

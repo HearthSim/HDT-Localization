@@ -1026,9 +1026,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>リプレイをHSReplay.netからインポートする時にBattle.netアカウントでログインします。ブラウザーが開きます。</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>既定のリプレイ再生にローカルビューワーを使う（非サポート）</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>匿名データを送信</value>
   </data>
@@ -1220,12 +1217,6 @@
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
     <value>新しい URLへリンク</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>URLのリンク</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>新しいURLのリンク</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
     <value>メモ</value>
@@ -3242,5 +3233,26 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>コボルトと秘宝の迷宮</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>自動インポートの新しいデッキ</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>酒場の喧嘩</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>ダンジョン攻略</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>ダンジョン</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>ダンジョン デッキ名テンプレート</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>自動使用のカードを含む</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>「お気に入り」タグ付きのデッキを最初に表示する</value>
   </data>
 </root>

@@ -1029,9 +1029,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>可以使用Battle.net帳號連結HSReplay.net，會開啟瀏覽器</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>預設值中使用內部重播觀看(不儲存)</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>傳送匿名資料</value>
   </data>
@@ -1222,12 +1219,6 @@
     <value>連結到網頁(_L)</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>連結到新網頁(_L)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>連結到網頁(_L)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>連結到新網頁(_L)</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
@@ -3236,5 +3227,11 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>狗頭人與地下城:</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>自動匯入新套牌</value>
   </data>
 </root>

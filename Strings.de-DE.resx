@@ -1122,9 +1122,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Logge dich mit deinen Battle.net Zugangsdaten bei HSReplay.net ein um deine bestehenden Wiederholungen zu übernehmen (öffnet deinen Webbrowser). </value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Nutze standardmäßig lokalen Betrachter für Wiederholungen (wird nicht weiterentwickelt)</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
   </data>
@@ -1315,12 +1312,6 @@
     <value>Link zur UR_L</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link zu neuer UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Link zur UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Link zu neuer UR_L</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
@@ -3230,5 +3221,11 @@
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
     <value>Nicht verbunden</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Kartenchaos</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Neue Decks automatisch importieren</value>
   </data>
 </root>

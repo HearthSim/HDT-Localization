@@ -1029,9 +1029,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Войти через Battle.net на HSReplay.net, чтобы запросить повторы. Запустится браузер.</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Исп. локальный просмотр по умолчанию (не поддерживается)</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Отправить анонимные данные</value>
   </data>
@@ -1219,12 +1216,6 @@
     <value>Ссылка</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Новая ссылка</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Ссылка</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Новая ссылка</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
@@ -3242,5 +3233,11 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Кобольды и катакомбы:</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Потасовка</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Автоимпорт новых колод</value>
   </data>
 </root>
