@@ -1026,9 +1026,6 @@
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>リプレイをHSReplay.netからインポートする時にBattle.netアカウントでログインします。ブラウザーが開きます。</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>既定のリプレイ再生にローカルビューワーを使う（非サポート）</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>匿名データを送信</value>
   </data>
@@ -1220,12 +1217,6 @@
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
     <value>新しい URLへリンク</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>URLのリンク</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
-    <value>新しいURLのリンク</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
     <value>メモ</value>
@@ -3131,5 +3122,137 @@
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0} 日前</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>ヒーロー</value>
+  </data>
+  <data name="SelectLanguageDialog_Title" xml:space="preserve">
+    <value>言語の選択</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
+    <value>コピー</value>
+  </data>
+  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
+    <value>カード名をクリップボードにコピー中エラーが発生しました。</value>
+  </data>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>選択したデッキは、カードがありません。</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
+    <value>セットアップ</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
+    <value>手順 1:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
+    <value>手順 2:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
+    <value>手順 3:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
+    <value>HSReplay.net で認証</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
+    <value>TwitchのアカウントをHSReplay.net と連携</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
+    <value>Twitch拡張をインストール/設定</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
+    <value>認証されました:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
+    <value>問題が発生しました。HDTを管理者権限で実行して再度試すか、後でもう一度やり直してください。</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>リンク先:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
+    <value>アカウントがリンクされていません!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>拡張統合を有効にするには!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
+    <value>ステータス</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
+    <value>有効化</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
+    <value>有効</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
+    <value>無効</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
+    <value>セットアップ:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
+    <value>完了</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
+    <value>未完了</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>ストリーム:</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>ライブ</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>オフライン</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>ストリーミング</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>キャプチャできるオーバーレイ</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Twitch拡張</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>設定ガイドを見る</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
+    <value>接続されていません</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>コボルトと秘宝の迷宮</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>デッキにコボルトと秘宝の迷宮のカードが含まれています。</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>コボルトと秘宝の迷宮</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>コボルトと秘宝の迷宮</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>自動インポートの新しいデッキ</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>酒場の喧嘩</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>ダンジョン攻略</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>ダンジョン</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>ダンジョン デッキ名テンプレート</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>自動使用のカードを含む</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>「お気に入り」タグ付きのデッキを最初に表示する</value>
   </data>
 </root>

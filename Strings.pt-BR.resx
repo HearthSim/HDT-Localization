@@ -1170,9 +1170,6 @@
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
     <value>Reivindicar conta</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_LocalViewer" xml:space="preserve">
-    <value>Usar visualizador de repetições local</value>
-  </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Enviar dados anônimos</value>
   </data>
@@ -1375,7 +1372,7 @@
     <value>Comportamento de importação:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Modelo para nomes de baralhos da arena</value>
+    <value>Modelo de nome dos baralhos da arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Modelos:</value>
@@ -2143,12 +2140,6 @@
     <value>Ligar UR_L</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Ligar a novo UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkUrl" xml:space="preserve">
-    <value>Ligar UR_L</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_LinkNewUrl" xml:space="preserve">
     <value>Ligar a novo UR_L</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
@@ -3199,7 +3190,7 @@
     <value>Completo</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Imcompleto</value>
+    <value>Incompleto</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream:</value>
@@ -3230,5 +3221,38 @@
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
     <value>Não conectado</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolds e Catacumbas</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolds e Catacumbas</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolds e Catacumbas:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Baralho contém cartas da expansão Kobolds e Catacumbas.</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Taverna</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Importar automaticamente novos baralhos</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Masmorra</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Mostrar baralho "Favorito" primeiro</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Desafio na Masmorra</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Incluir cartas passivas</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Modelo de nome dos baralhos da masmorra</value>
   </data>
 </root>
