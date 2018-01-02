@@ -367,7 +367,7 @@
     <value>Statystyki</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Nowa aktualizacja jest dostępna!</value>
+    <value>Dostępna jest nowa aktualizacja!</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Klinknij tutaj aby zaktualizować</value>
@@ -3254,5 +3254,17 @@
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>Pokaż "Ulubione" talie jako pierwsze</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Pobierz</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Nie teraz</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Dostępna jest nowa BETA aktualizacja!</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Naciśnij "Pobierz" aby automatcznie zaktualizować aplikację.</value>
   </data>
 </root>
