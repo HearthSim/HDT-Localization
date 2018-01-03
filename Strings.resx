@@ -3255,4 +3255,16 @@
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>Show decks tagged as "Favorite" first</value>
   </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Not now</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>A new BETA update is available</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Press "Download" to automatically update.</value>
+  </data>
 </root>
