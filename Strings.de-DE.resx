@@ -622,7 +622,7 @@
     <value>Sicherungen</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
-    <value>Aussehen</value>
+    <value>Ansicht</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Einstellungen</value>
@@ -694,7 +694,7 @@
     <value>Zusätzliche Kartenhinweise</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Karten Animationen</value>
+    <value>Kartenanimationen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>Hinweise Kartenmarkierungen</value>
@@ -874,7 +874,7 @@
     <value>Textfarbe Rot/Grün in Statistik Übersicht</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
-    <value>Metro Animationen</value>
+    <value>Metroanimationen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
     <value>Ausgewähltes Wiederherstellen</value>
@@ -1858,7 +1858,7 @@
     <value>Archiv-Decks einbeziehen</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>Etiketten Filter anwenden</value>
+    <value>Etikettenfilter anwenden</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menü</value>
@@ -3227,5 +3227,44 @@
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Neue Decks automatisch importieren</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Deck enthält Karten aus der Kobolde und Katakomben Erweiterung.</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolde und Katakomben</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
+    <value>Kobolde und Katakomben</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
+    <value>Kobolde und Katakomben:</value>
+  </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Dungeon</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Dungeon Runs</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Vorlage Dungeon Deckname</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Passive Karten einbeziehen</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Zeige Decks die als "Favorit" markiert sind zuerst</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Nicht jetzt</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Ein neues BETA Update steht zur Verfügung</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Klicke "Download" um automatisch upzudaten.</value>
   </data>
 </root>
