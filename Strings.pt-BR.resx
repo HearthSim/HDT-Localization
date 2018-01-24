@@ -694,7 +694,7 @@
     <value>Selecionados</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
-    <value>não</value>
+    <value>Sem</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Estatísticas</value>
@@ -3254,5 +3254,17 @@
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Modelo de nome dos baralhos da masmorra</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Agora não</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Uma nova atualização BETA está disponível</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Pressione "Download" para atualizar automaticamente.</value>
   </data>
 </root>
