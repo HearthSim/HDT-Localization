@@ -835,7 +835,7 @@
     <value>Powiadomienia</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Podświetl Hearthstone na pasku zadań na początku twojej tury</value>
+    <value>Podświetl Hearthstone na początku twojej tury</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
     <value>Zmaksymalizuj Hearthstone na początku twojej tury</value>
@@ -853,7 +853,7 @@
     <value>(opis kart)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Użyj domyślnej czcionki dla języków bez łacińskich liter</value>
+    <value>Użyj domyślnej czcionki dla wybranego języka</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
     <value>Zrestartuj aplikację aby zastosować zmiany językowe.</value>
@@ -868,7 +868,7 @@
     <value>Pokazuj opisy kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
-    <value>Pokaż koszt kart (mana)</value>
+    <value>Pokaż panel z mechanikami kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
     <value>Wyszukuj dokładne nazwy podczas tworzenia talii</value>
@@ -3266,5 +3266,8 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Naciśnij "Pobierz" aby automatcznie zaktualizować aplikację.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
   </data>
 </root>
