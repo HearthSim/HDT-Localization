@@ -534,9 +534,6 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Установки</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Ведение журнала</value>
-  </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Имя/описание...</value>
   </data>
@@ -951,12 +948,6 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Автосохр. колоды для импорта</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Автоимпорт через NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Скачать NetDeck (треб. браузер)</value>
-  </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Итог игры</value>
   </data>
@@ -1073,9 +1064,6 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Показ новостей</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Показ журнала</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Назначить пусть к Hearthstone</value>

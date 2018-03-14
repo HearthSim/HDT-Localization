@@ -2463,17 +2463,8 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>불러오기 시 자동으로 덱 저장</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>NetDeck을 통해 자동으로 불러오기</value>
-  </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>불러오기 시 덱에 태그 붙이기</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>NetDeck 다운로드 (크롬 확장프로그램)</value>
-  </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>로깅</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
     <value>알림</value>
@@ -2576,9 +2567,6 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
     <value>하스스톤과 함께 닫기</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>로그 보기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
     <value>트레이로 최소화</value>
@@ -2770,9 +2758,6 @@
     <value>주의: 오버레이의 복제본이 하스스톤 창 앞에 나타날 수 있습니다. 이 경우, 해당 창을 클릭해 주면 가려지게 됩니다.</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>스트리밍</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
     <value>스트리밍</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">

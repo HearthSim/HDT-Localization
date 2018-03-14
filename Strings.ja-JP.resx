@@ -531,9 +531,6 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>設定</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>ログ</value>
-  </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>チェック ボックスの名前/説明...</value>
   </data>
@@ -948,12 +945,6 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>自動インポートのデッキを保存</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>NetDeck 経由での自動インポート</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>NetDeck (Chrome拡張) をダウンロードします。</value>
-  </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>試合結果</value>
   </data>
@@ -1070,9 +1061,6 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>ニュースバーを表示</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>ログを表示します。</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>ハースストーンのパスを設定</value>

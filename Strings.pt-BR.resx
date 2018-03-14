@@ -694,7 +694,7 @@
     <value>Selecionados</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
-    <value>não</value>
+    <value>Sem</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Estatísticas</value>
@@ -1206,9 +1206,6 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Mostrar barra de notícias</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Mostrar registro</value>
-  </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
     <value>Abrir past APPDATA</value>
   </data>
@@ -1353,14 +1350,8 @@
   <data name="Options_Tracker_Notifications_Label_Duration2" xml:space="preserve">
     <value>segundos</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (extensão Chrome)</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Importar automaticamente via NetDeck</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Guardar baralho automaticamente ao importar</value>
@@ -2168,9 +2159,6 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
     <value>Ocultar marcas das cartas</value>
-  </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Registros</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>nome ou descrição</value>
@@ -3254,5 +3242,17 @@
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Modelo de nome dos baralhos da masmorra</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Agora não</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Uma nova atualização BETA está disponível</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Pressione "Download" para atualizar automaticamente.</value>
   </data>
 </root>

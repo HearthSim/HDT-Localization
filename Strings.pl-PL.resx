@@ -367,7 +367,7 @@
     <value>Statystyki</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Nowa aktualizacja jest dostępna!</value>
+    <value>Dostępna jest nowa aktualizacja!</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Klinknij tutaj aby zaktualizować</value>
@@ -533,9 +533,6 @@
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Ustawienia</value>
-  </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Dziennik Zdarzeń</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Wyszukaj nazwę lub opis...</value>
@@ -835,7 +832,7 @@
     <value>Powiadomienia</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Podświetl Hearthstone na pasku zadań na początku twojej tury</value>
+    <value>Podświetl Hearthstone na początku twojej tury</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
     <value>Zmaksymalizuj Hearthstone na początku twojej tury</value>
@@ -853,7 +850,7 @@
     <value>(opis kart)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Użyj domyślnej czcionki dla języków bez łacińskich liter</value>
+    <value>Użyj domyślnej czcionki dla wybranego języka</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
     <value>Zrestartuj aplikację aby zastosować zmiany językowe.</value>
@@ -868,7 +865,7 @@
     <value>Pokazuj opisy kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
-    <value>Pokaż koszt kart (mana)</value>
+    <value>Pokaż panel z mechanikami kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
     <value>Wyszukuj dokładne nazwy podczas tworzenia talii</value>
@@ -950,12 +947,6 @@
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Autozapis talii po zaimportowaniu</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Automatyczne importowanie z NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Pobierz NetDeck (dodatek do Google Chrome)</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Wynik gry</value>
@@ -1073,9 +1064,6 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Pokaż pasek z wiadomościami</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Pokaż Dziennik Zdarzeń (Ostatnia zakładka w ustawieniach)</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Ustaw ścieżkę dostępu do Hearthstone</value>
@@ -3254,5 +3242,20 @@
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>Pokaż "Ulubione" talie jako pierwsze</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Pobierz</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Nie teraz</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Dostępna jest nowa BETA aktualizacja!</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Naciśnij "Pobierz" aby automatcznie zaktualizować aplikację.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
   </data>
 </root>

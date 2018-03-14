@@ -534,9 +534,6 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Paramètres</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Journalisation</value>
-  </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Nom de la case à cocher / description…</value>
   </data>
@@ -954,12 +951,6 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Enregistrer automatiquement le deck lors de l'importation</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Importation automatique via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Télécharger NetDeck (extension Chrome)</value>
-  </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Résultat de la partie</value>
   </data>
@@ -1076,9 +1067,6 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Afficher la barre de nouvelles</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Afficher le journal</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>définir le chemin de Hearthstone</value>
