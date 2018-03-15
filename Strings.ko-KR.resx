@@ -2925,4 +2925,37 @@
   <data name="Button_Notnow" xml:space="preserve">
     <value>나중에</value>
   </data>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>괜찮습니다. 다시 표시하지 마세요.</value>
+  </data>
+  <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
+    <value>다시 켜기</value>
+  </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="DeckCharts_Label_NoData" xml:space="preserve">
+    <value>데이터가 없습니다.</value>
+  </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>최근 게임을 보려면 덱을 선택해주세요.</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>게임을 하세요</value>
+  </data>
+  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
+    <value>리플레이 할 자료가 없습니다. </value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>친구가 도전했을 때 하스스톤 아이콘 깜빡이기</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>초가 지나면 경고하기</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>"X" 초가 남았을 때 경고음이 울리고 하스스톤 아이콘 깜빡입니다.</value>
+  </data>
 </root>
