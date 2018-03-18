@@ -3126,59 +3126,14 @@
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>Selecionar Idioma</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Configuração</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Parte 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Parte 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Parte 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Autenticar com HSReplay.net</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Linkar sua Twitch no HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Instalar/Configurar Extensão da Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Autenticado como</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Algo deu errado. Tente executar o HDT como administrador para esta etapa. Caso contrário, tente novamente mais tarde.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Conectado a</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>Sem conta conectada</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Ativar a integração da extensão Twitch</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Ativado:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Ativado</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Desativado</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Configuração:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Completo</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incompleto</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream:</value>
@@ -3201,14 +3156,8 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>Streaming</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Estado</value>
-  </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
     <value>Heróis</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Não conectado</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Kobolds e Catacumbas</value>

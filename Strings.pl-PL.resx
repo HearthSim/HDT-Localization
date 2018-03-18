@@ -3126,62 +3126,14 @@
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
     <value>Zapisz</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Krok 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Krok 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Krok 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Uwierzytelnij konto w HSReplay.net</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Połącz konto Twitch z HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Zainstaluj/Skonfiguruj rozszerzenie Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Uwierzytelniony jako</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Coś poszło nie tak. Spróbuj uruchomić HDT jako administrator. Jeżeli to nie pomoże to spróbuj ponownie za chwilę.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>Brak połączonego konta</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Połączony z</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Włącz integrację z rozszerzeniem Twitch</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Stan</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Wyłączona</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Włączona</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Integracja z rozszerzeniem:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Konfiguracja</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Konfiguracja:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Skończona</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Niedokończona</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Przesyłanie:</value>
@@ -3206,9 +3158,6 @@
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Edytuj</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Nie połączony</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Koboldy i Katakumby</value>

@@ -3123,62 +3123,14 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>選擇的套牌並不包含任何卡片</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>安裝</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>步驟一:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>步驟二:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>步驟三:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>使用HSReplay.net進行身份驗證</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>連結Twitch帳號</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>安裝/設定 Twitch 附加設定</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>身分驗證為</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>發生錯誤，請嘗試用系統管理員執行HDT，或是稍後再試。</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>連結為</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>無帳號連結</value>
-  </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>開啟Twitch附加功能</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>狀態</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>啟用:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>啟用</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>關閉:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>設定:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>完畢</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>設定失敗</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>串流:</value>
@@ -3200,9 +3152,6 @@
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>查看完整的設定指南</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>尚未連線</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>狗頭人與地下城</value>
