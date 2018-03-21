@@ -3207,4 +3207,151 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
   </data>
+  <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
+    <value>Nowa usługa HSReplay.net: Wysyłanie Kolekcji</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
+    <value>Znajdź najlepsze talie dla twojej kolekcji kart!</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>Zaloguj się aby mieć dostęp do swoich powtórek oraz wszystkich usług HSReplay.net</value>
+  </data>5
+  <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
+    <value>Zaloguj się aby uzyskać dostęp do wszystkich usług HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
+    <value>Powtórki są wysyłane do</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
+    <value>Zalogowany jako</value>
+  </data>
+  <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
+    <value>Wysyłanie kolekcji</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
+    <value>Wysyłanie powtórek</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>Powtórki otrzymane</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+    <value>Konto Premium</value>
+  </data>
+  <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>Włącz teraz</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
+    <value>Podtwierdz teraz</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+    <value>Dziękujemy za wsparcie!</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>Dowiedz się więcej</value>
+  </data>
+  <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
+    <value>Ustawienia Konta</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
+    <value>Na pewno chcesz się wylogować?</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
+    <value>Nowe powtórki nie będą przypisywane do twojego konta.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>Powtórne zalogowanie przypisze wszystkie zaległe powtórki.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
+    <value>Wyloguj</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
+    <value>Najłatwiejszy sposób na znalezienie najlepszych talii dla ciebie!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
+    <value>Po prostu wyślij swoją kolekcję kart na HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
+    <value>Wysyłaj moją kolekcję automatcznie</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>Kolekcja jest aktualna!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
+    <value>Aktualizacja kolekcji...</value>
+  </data>
+  <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
+    <value>Ostatnio zaktualizowano</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
+    <value>Ostatni krok aby wgrać twoją kolekcję:</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>Uruchom Hearthstone i otwórz swoją kolekcję</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>Twoja kolekcja będzie automatcznie wysyłana gdy:</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>Moje Konto</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>Kolekcja</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>Zaloguj w HSReplay.net</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>Oczekiwanie na autoryzację z HSReplay.net...</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>Spróbuj ponownie</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>Problemy z logowaniem? Skontaktuj się z nami:</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>Pomyślnie zalogowano</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>Zaloguj</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>Meta</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>Talie</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>Moje Powtórki</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>• Otworzenie lub zamknięcie twojej kolekcji</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>• Zamknięcie ekranu otwierania pakietów</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>Uruchom Hearthstone i otwórz swoją kolekcję.</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>Uruchom Hearthstone</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>Ulepsz swojego streama na Twitchu do wyższego poziomu!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>Przy pomocy interaktywnego interfejsu, śledzenia talii na żywo i więcej.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>Zaloguj się aby rozpocząć.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>Teraz połączmy twoje konto Twitch z HSReplay.net</value>
+  </data>
 </root>
