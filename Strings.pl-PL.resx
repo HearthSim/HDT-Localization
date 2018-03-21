@@ -985,7 +985,7 @@
     <value>Stworzony przez</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Pokaż powiadomienie, gdy ktoś udostępni powtórkę</value>
+    <value>Pokaż powiadomienie o udostępnionej powtórce</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Automatycznie wysyłaj powtórki</value>
@@ -1003,7 +1003,7 @@
     <value>Karczemna Bójka</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Wyzwij przyjaciela</value>
+    <value>Gry ze znajomymi</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Przygoda / Trening</value>
@@ -1093,7 +1093,7 @@
     <value>Gra nierankingowa</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Wyzwij przyjaciela</value>
+    <value>Gry ze znajomymi</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Przygoda / Trening</value>
@@ -1969,7 +1969,7 @@
     <value>Karczemna Bójka</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Przyjacielski</value>
+    <value>Gra ze znajomym</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
     <value>Trening</value>
@@ -2968,7 +2968,7 @@
     <value>{0} godzinę temu</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} godziny temu</value>
+    <value>{0} godzin temu</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
     <value>{0} minutę temu</value>
@@ -3289,7 +3289,7 @@
     <value>Uruchom Hearthstone i otwórz swoją kolekcję</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Twoja kolekcja będzie automatcznie wysyłana gdy:</value>
+    <value>Twoja kolekcja będzie automatcznie wysyłana gdy</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>Moje Konto</value>
@@ -3353,5 +3353,8 @@
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
     <value>Teraz połączmy twoje konto Twitch z HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Konto Twitch:</value>
   </data>
 </root>
