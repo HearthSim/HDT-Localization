@@ -2680,7 +2680,7 @@
     <value>Manualmente</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Somente salvar</value>
+    <value>Salvar apenas</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>Criar no Hearthstone</value>
@@ -2704,7 +2704,7 @@
     <value>Criar no Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Somente salvar</value>
+    <value>Salvar apenas</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>Mostrar o menu do HearthStats</value>
@@ -3043,7 +3043,7 @@
     <value>Não temos dados suficientes para o baralho selecionado.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Selecione um baralho com o ícone HSReplay.net para ver os dados globais aqui!</value>
+    <value>Escolha um deck com ícone HSReplay.net para ver os dados globais!</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
     <value>Não há repetições disponíveis</value>
@@ -3203,5 +3203,158 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Pressione "Download" para atualizar automaticamente.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>Piscar Hearthstone quando um amigo desafiar</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
+    <value>Logado como</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
+    <value>Enviar Replay</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
+    <value>Encontre os melhores baralhos para sua coleção!</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>Entre para ver seus replays e habilitar todos os recursos do HSReplay.net.</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
+    <value>Faça o login para ativar todos os recursos do HSReplay.net.</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
+    <value>Replays enviados para</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>Meta</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>Baralhos</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>Meus Replays</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>• Abrir ou fechar sua coleção</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>• Fechar a tela de abertura de pack</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>Basta iniciar o Hearthstone e abrir sua coleção.</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>Iniciar Hearthstone</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>Leve sua stream na Twitch para um próximo nível!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>Com uma sobreposição interativa, rastreamento de deck ao vivo e muito mais.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>Entre para começar.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>Agora vamos linkar sua conta da Twitch ao HSReplay.net.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Conta Twitch:</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>Logado com sucesso</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>Logar</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>Tente novamente</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>Problemas ao fazer login? Contate-Nos:</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>Aguardando autorização do HSReplay.net ...</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>Login no HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>Minha Conta</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>Coleção</value>
+  </data>
+  <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>Ativar</value>
+  </data>
+  <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
+    <value>Enviar Coleção</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+    <value>Seja Premium</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>Descubra mais</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+    <value>Obrigado por nos apoiar!</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
+    <value>Reivindicar agora</value>
+  </data>
+  <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
+    <value>Configurações da conta</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
+    <value>Tem certeza que deseja sair?</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
+    <value>Novos replays não serão mais anexados à sua conta.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>Login para reivindicar todos os novos replays retroativamente.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
+    <value>A maneira mais fácil de encontrar os melhores baralhos para você!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
+    <value>Basta enviar sua coleção para o HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
+    <value>Enviar minha coleção automaticamente</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>Coleção atualizada!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
+    <value>Atualização de coleção na fila ...</value>
+  </data>
+  <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
+    <value>Ultima atualização</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
+    <value>Mais um passo para enviar sua coleção:</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>Inicie o Hearthstone e abra sua coleção</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>Sua coleção será atualizada automaticamente quando</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>Replays reivindicados</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
+    <value>Novo recurso do HSReplay.net: Upload de Coleções</value>
   </data>
 </root>
