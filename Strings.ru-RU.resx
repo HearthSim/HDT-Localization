@@ -3207,4 +3207,166 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Быстрый дружеский вызов</value>
   </data>
+  <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
+    <value>Новости HSReplay.net: коллекция выгружается</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
+    <value>Найди лучшую колоду своей коллекции!</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>Войди, чтобы отправить свои повторы и включить все функции HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
+    <value>Войди, чтобы включить все функции HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
+    <value>Повторы выгружены в</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
+    <value>Вошёл за</value>
+  </data>
+  <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
+    <value>Коллекция выгружается</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
+    <value>Повторы выгружаются</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>Повторы заявлены</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+    <value>Подписано на премиум</value>
+  </data>
+  <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>Включить сейчас</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
+    <value>Заявить сейчас</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+    <value>Благодарим за помощь!</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>Узнать больше</value>
+  </data>
+  <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
+    <value>Настройки учётки</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
+    <value>Вы действительно хотите выйти?</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
+    <value>Новые повторы больше не будут прикреплены к вашей учётке.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>Вход в систему затребует переактивацию последних повторов</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
+    <value>Самый простой способ найти лучшие колоды для вас!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
+    <value>Просто загрузите свою коллекцию на HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
+    <value>Загружать мою коллекцию автоматически</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>Коллекция обновлена!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
+    <value>Обновление коллекции в очереди...</value>
+  </data>
+  <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
+    <value>Последнее обновление</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
+    <value>Ещё один шаг для загрузки вашей коллекции:</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>Запустите Hearthstone и откройте коллекцию</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>Ваша коллекция будет автоматически обновляться, когда</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>Моя учётка</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>Коллекция</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>Войти на HSReplay.net</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>Ожидание авторизации на HSReplay.net ...</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>Пробовать ещё</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>Почт@</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>Проблема со входом? Напиши нам (english):</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>Успешно зарегистрирован на</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>Вход</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>Мета</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>Колоды</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>Мои повторы</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>• Открытие или закрытие коллекции</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>• Закрытие экрана открытия пачек</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>Просто запустите Hearthstone и откройте свою коллекцию.</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>Пуск Hearthstone</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>Выведите поток Twitch на новый уровень!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>С интерактивным наложением, отслеживанием живой колоды и многое другое.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>Войдите, чтобы начать.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>Теперь давайте подключим вашу учетную запись Twitch к HSReplay.net.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Учётка Twitch:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
+    <value>Колода содержит карты дополнения Ведьмин лес</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
+    <value>Ведьмин лес:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
+    <value>Ведьмин лес</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
+    <value>Ведьмин лес</value>
+  </data>
 </root>
