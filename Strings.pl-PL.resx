@@ -2926,16 +2926,16 @@
     <value>Zapisz jako</value>
   </data>
   <data name="DeckExport_Label_Instructions" xml:space="preserve">
-    <value>Instrukcje:</value>
+    <value>Instrukcja:</value>
   </data>
   <data name="DeckExport_Label_Step1" xml:space="preserve">
-    <value>Kliknij na guzik Kopiuj, który znajduje się poniżej</value>
+    <value>Kliknij na jeden z poniższych guzików, aby skopiować kod talii.</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Stwórz nową talię w Hearthstonie</value>
+    <value>Podczas tworzenia nowej talii w Hearthstonie wykryty zostanie skopiowany kod.</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Wymagany jest tylko kod do importowania talii w Hearthstonie. Każda linia zaczynająca się od '#' jest pomijana.</value>
+    <value>Wymagany jest tylko kod do zaimportowania talii w Hearthstonie. Każda linia zaczynająca się od '#' jest pomijana.</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>Skopiuj wszystkie</value>
@@ -3356,5 +3356,20 @@
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
     <value>Konto Twitch:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
+    <value>Talia zawiera karty z dodatku "Wiedźmi Las".</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
+    <value>Wiedźmi Las:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
+    <value>Wiedźmi Las</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
+    <value>Wiedźmi Las</value>
+  </data>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Kod talii</value>
   </data>
 </root>
