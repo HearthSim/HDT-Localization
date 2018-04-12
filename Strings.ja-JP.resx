@@ -451,7 +451,7 @@
     <value>名前...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>名前が既に存在します。</value>
+    <value>名前が既に存在します</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>ワイルド専用カードを含む</value>
@@ -667,7 +667,7 @@
     <value>プレーヤー/相手に同じスケールを使用</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
-    <value>拡大/縮小。</value>
+    <value>拡大/縮小:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
     <value>不透明度:</value>
@@ -700,7 +700,7 @@
     <value>プレーヤー/相手に同じスケールを使用</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>拡大/縮小</value>
+    <value>拡大/縮小:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>不透明度:</value>
@@ -1144,7 +1144,7 @@
     <value>分析</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
-    <value>検索.</value>
+    <value>検索...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
     <value>使用デッキ</value>
@@ -1243,13 +1243,13 @@
     <value>なし</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchup" xml:space="preserve">
-    <value>最高のマッチアップ</value>
+    <value>最高のマッチアップ:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchupFallback" xml:space="preserve">
     <value>なし</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
-    <value>最悪のマッチアップ</value>
+    <value>最悪のマッチアップ:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchupFallback" xml:space="preserve">
     <value>なし</value>
@@ -1426,10 +1426,10 @@
     <value>ワースト</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_MostPicked" xml:space="preserve">
-    <value>最多使用ヒーロー</value>
+    <value>最多使用</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>最小使用ヒーロー</value>
+    <value>最小使用</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
     <value>ドルイド</value>
@@ -2272,7 +2272,7 @@
     <value>アクティブ</value>
   </data>
   <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>対戦時</value>
+    <value>最後にプレイした時間</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>アーカイブ</value>
@@ -2722,7 +2722,7 @@
     <value>クラスごとの勝率:</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
-    <value>勝率:</value>
+    <value>勝率</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>すべて</value>
@@ -2914,7 +2914,7 @@
     <value>デッキの枚数が30より多いです。</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>名前が既に存在しています</value>
+    <value>名前が既に存在します。</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
     <value>名前を入力してください。</value>
@@ -3022,7 +3022,7 @@
     <value>何か新しいものを試してみたいですか?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>流行ののデッキをチェックしてください!</value>
+    <value>流行のデッキをチェックしてください!</value>
   </data>
   <data name="Druid" xml:space="preserve">
     <value>ドルイド</value>
@@ -3136,7 +3136,7 @@
     <value>Twitch拡張をインストール/設定</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>拡張統合を有効にするには!</value>
+    <value>拡張統合を有効にする</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>ストリーム:</value>
@@ -3191,5 +3191,182 @@
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>「お気に入り」タグ付きのデッキを最初に表示する</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>ダウンロード</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>今はしない</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>新しいBETAアップデートが利用可能です！</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>自動的に更新するには、「ダウンロード」を押してください。</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>友達の挑戦時ハースストーンをフラッシュ</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
+    <value>HSReplay.netの新機能:コレクションアップロード</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
+    <value>あなたのコレクションにあった最適なデッキを探す!</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
+    <value>ログインしてすべてのHSReplay.netの機能を有効化する。</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
+    <value>リプレイはアップロードされます:</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
+    <value>ログイン中:</value>
+  </data>
+  <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
+    <value>コレクションをアップロード中</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
+    <value>リプレイをアップロード中</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+    <value>購読:</value>
+  </data>
+  <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>今すぐ有効にする</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+    <value>援助ありがとう!</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>詳細情報</value>
+  </data>
+  <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
+    <value>アカウントの設定</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
+    <value>本当にログアウトしますか？</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
+    <value>新しいリプレイはあなたのアカウントに接続されなくなります。</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
+    <value>あなたに合った最適なデッキを見つける一番簡単な方法!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
+    <value>あなたのコレクションをHSReplay.netにアップロードする</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
+    <value>自動でコレクションをアップロードする</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>コレクションが更新されました</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
+    <value>コレクションの更新待ち...</value>
+  </data>
+  <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
+    <value>最終更新日</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
+    <value>あなたのコレクションをアップロードするためのもう1つのステップ：</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>ハースストーンを開始してコレクションを開く</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>あなたのコレクションは自動的に更新されます:</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>私のアカウント</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>コレクション</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>ログインする</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>HSReplay.netで認証されるのを待っています...</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>再試行</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>ログインで困っていますか? 連絡してください:</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>電子メール</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>ログイン成功</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>メタ</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>デッキ</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>私のリプレイ</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>コレクション画面を開く/閉じる</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>・パック開封画面を閉じる</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>ハースストーンを開始してコレクションを開く</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>ハースストーンを開始</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>次のレベルへ。</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>干渉可能なオーバーレイ、デッキ追跡やその他.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>始めるためにログインする</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>TwitchアカウントをHSReplay.netとリンクしよう</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Twitchアカウント</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
+    <value>デッキは妖の森ウィッチウッドのカードを含んでいる</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
+    <value>妖の森ウィッチウッド:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
+    <value>妖の森ウィッチウッド</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
+    <value>妖の森ウィッチウッド</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
+    <value>今すぐ有効にする</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>リプレイをリクエスト</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>再ログインするとすべてのリプレイがリクエストされます</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>ログインしてリプレイをリクエストしすべてのHSReplay.netの機能を有効化する。</value>
   </data>
 </root>
