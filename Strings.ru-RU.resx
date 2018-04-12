@@ -3177,4 +3177,34 @@
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Автоимпорт новых колод</value>
   </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Приключение</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Приключение</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Временное имя колоды приключения</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Включая пассивные карты</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Показать "любимые" колоды в начале</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Загрузить</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Не сейчас</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>Новая β-версия уже доступна</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Жми "Загрузить" для автообновления</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>Быстрый дружеский вызов</value>
+  </data>
 </root>
