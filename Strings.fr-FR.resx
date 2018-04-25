@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -615,6 +615,9 @@
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>Progression en or toujours visible (dans le menu)</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
+    <value>Afficher le texte d'ambiance des cartes (sur le plateau / dans la main) lors du survol avec la souris</value>
+  </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Afficher l'état de la batterie</value>
   </data>
@@ -686,9 +689,6 @@
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Afficher le compteur d'attaque du plateau</value>
-  </data>
-  <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Afficher le texte d'ambiance des cartes (sur le plateau / dans la main) lors du survol avec la souris</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Centrer le deck verticalement</value>
@@ -1167,41 +1167,14 @@
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
     <value>Éditer les é_tiquettes</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
-    <value>Éditer les récompenses</value>
-  </data>
-  <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
-    <value>Éditer la partie</value>
-  </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Définir _rapidement les étiquettes</value>
-  </data>
-  <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
-    <value>Étiquette</value>
-  </data>
-  <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>Pourcentages</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>Déplacer vers l'arène</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>Déplacer vers le construit</value>
-  </data>
-  <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Construit</value>
-  </data>
-  <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Construit</value>
-  </data>
-  <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>Tri des decks : tous / construit</value>
-  </data>
-  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>L'importation automatique des nouveaux decks construits est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
-  </data>
-  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>L'importation automatique des changements dans les decks construits est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
     <value>Afficher les cartes _manquantes</value>
@@ -1323,65 +1296,11 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
     <value>Gobelins et gnomes :</value>
   </data>
-  <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Gobelins et gnomes</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Gobelins et gnomes.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension La malédiction de Naxxramas.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Une nuit à Karazhan.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Voyage au centre d’Un’Goro.</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>Voyage au centre d’Un’Goro :</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>Voyage au centre d’Un’Goro</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>Voyage au centre d’Un’Goro</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Main basse sur Gadgetzan.</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
-    <value>Main basse sur Gadgetzan :</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
-    <value>Main basse sur Gadgetzan</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
-    <value>Main basse sur Gadgetzan</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
-    <value>Les murmures des Dieux très anciens :</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Les murmures des Dieux très anciens</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Les murmures des Dieux très anciens.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Mont Rochenoire.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Le Grand Tournoi.</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension La Ligue des explorateurs.</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
     <value>Le Grand Tournoi :</value>
   </data>
-  <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>Le Grand Tournoi</value>
+  <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
+    <value>Les murmures des Dieux très anciens :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards" xml:space="preserve">
     <value>Cartes</value>
@@ -1431,6 +1350,9 @@
   <data name="Stats_Arena_Runs_Table_Region" xml:space="preserve">
     <value>Région</value>
   </data>
+  <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
+    <value>Éditer les récompenses</value>
+  </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
     <value>Afficher son propre deck</value>
   </data>
@@ -1442,6 +1364,9 @@
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>Ajouter une partie</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
+    <value>Éditer la partie</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
     <value>Supprimer la partie</value>
@@ -1539,71 +1464,14 @@
   <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
     <value>Guerrier</value>
   </data>
-  <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>Par classe</value>
-  </data>
-  <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
-    <value>Classe</value>
-  </data>
-  <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
-    <value>Classe :</value>
-  </data>
-  <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
-    <value>Classe :</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Classique</value>
-  </data>
-  <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Classique</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
-    <value>Couleur des classes :</value>
-  </data>
-  <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
-    <value>Trier par classe</value>
-  </data>
-  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
-    <value>Alternatif</value>
-  </data>
-  <data name="Enum_HeroClass_All" xml:space="preserve">
-    <value>Tous</value>
-  </data>
-  <data name="Enum_HeroClass_Druid" xml:space="preserve">
-    <value>Druide</value>
-  </data>
-  <data name="Enum_HeroClass_Hunter" xml:space="preserve">
-    <value>Chasseur</value>
-  </data>
-  <data name="Enum_HeroClass_Mage" xml:space="preserve">
-    <value>Mage</value>
-  </data>
-  <data name="Enum_HeroClass_Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
-  <data name="Enum_HeroClass_Priest" xml:space="preserve">
-    <value>Prêtre</value>
-  </data>
-  <data name="Enum_HeroClass_Rogue" xml:space="preserve">
-    <value>Voleur</value>
-  </data>
-  <data name="Enum_HeroClass_Shaman" xml:space="preserve">
-    <value>Chaman</value>
-  </data>
-  <data name="Enum_HeroClass_Warlock" xml:space="preserve">
-    <value>Démoniste</value>
-  </data>
-  <data name="Enum_HeroClass_Warrior" xml:space="preserve">
-    <value>Guerrier</value>
-  </data>
-  <data name="Enum_HeroClass_Archived" xml:space="preserve">
-    <value>Archivé</value>
-  </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
     <value>Taux de victoires</value>
   </data>
   <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
     <value>Taux de victoires</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
+    <value>Par classe</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
     <value>Taux de victoires comme</value>
@@ -1611,23 +1479,14 @@
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
     <value>Taux de victoires contre</value>
   </data>
-  <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
-    <value>Taux de victoires :</value>
-  </data>
-  <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
-    <value>Taux de victoires</value>
-  </data>
-  <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
-    <value>Taux de victoires</value>
-  </data>
-  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Taux de victoires</value>
-  </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>Ver.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>Deck :</value>
+  </data>
+  <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
+    <value>Taux de victoires :</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
     <value>Temps de jeu :</value>
@@ -1661,6 +1520,9 @@
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
     <value>Deck</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
+    <value>Classe</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
     <value>vs</value>
@@ -1698,11 +1560,11 @@
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
     <value>Rediffusion</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Rejouer</value>
-  </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Note</value>
+  </data>
+  <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
+    <value>Rejouer</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Deck adverse</value>
@@ -1730,6 +1592,12 @@
   </data>
   <data name="Stats_Constructed_Summary_Label_Charts" xml:space="preserve">
     <value>Graphiques</value>
+  </data>
+  <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
+    <value>Taux de victoires</value>
+  </data>
+  <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
+    <value>Taux de victoires</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
     <value>Joués</value>
@@ -1781,6 +1649,9 @@
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
     <value>Saisons :</value>
+  </data>
+  <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
+    <value>Classe :</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Region" xml:space="preserve">
     <value>Région :</value>
@@ -1842,6 +1713,9 @@
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
     <value>à</value>
   </data>
+  <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
+    <value>Classe :</value>
+  </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
     <value>Contre :</value>
   </data>
@@ -1902,6 +1776,9 @@
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Graphiques avancés</value>
   </data>
+  <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
+    <value>Construit</value>
+  </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>Résumé</value>
   </data>
@@ -1956,29 +1833,26 @@
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>En attente de Hearthstone…</value>
   </data>
-  <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Redémarrage de Hearthstone requis</value>
+  <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension La malédiction de Naxxramas.</value>
   </data>
-  <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker a planté :(</value>
+  <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Gobelins et gnomes.</value>
   </data>
-  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Créer dans Hearthstone</value>
+  <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Mont Rochenoire.</value>
   </data>
-  <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Créer dans Hearthstone</value>
+  <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Le Grand Tournoi.</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>Peut être désactivé si l'overlay s'affiche dans des fenêtres non-Hearthstone.</value>
+  <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension La Ligue des explorateurs.</value>
   </data>
-  <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Créez un nouveau deck dans Hearthstone</value>
+  <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Les murmures des Dieux très anciens.</value>
   </data>
-  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Seul le code est requis pour l'importation dans Hearthstone. Toute ligne commençant par « # » est ignorée.</value>
-  </data>
-  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Démarrez Hearthstone pour voir les cartes manquantes !</value>
+  <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Une nuit à Karazhan.</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Armes</value>
@@ -1988,6 +1862,9 @@
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>Serviteurs</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Héros</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Mécaniques</value>
@@ -2018,6 +1895,24 @@
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
     <value>Aucun</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
+    <value>Classique</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
+    <value>Gobelins et gnomes</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
+    <value>Le Grand Tournoi</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
+    <value>Les murmures des Dieux très anciens</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
+    <value>Classique</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
+    <value>Alternatif</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Par défaut</value>
@@ -2088,12 +1983,6 @@
   <data name="Enum_GameMode_None" xml:space="preserve">
     <value>Aucun</value>
   </data>
-  <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>Mode sans deck</value>
-  </data>
-  <data name="AddGameDialog_Label_Mode" xml:space="preserve">
-    <value>Mode :</value>
-  </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
     <value>Tous</value>
   </data>
@@ -2109,8 +1998,38 @@
   <data name="Enum_GameResult_None" xml:space="preserve">
     <value>Aucun</value>
   </data>
-  <data name="AddGameDialog_Label_Result" xml:space="preserve">
-    <value>Résultat :</value>
+  <data name="Enum_HeroClass_All" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="Enum_HeroClass_Druid" xml:space="preserve">
+    <value>Druide</value>
+  </data>
+  <data name="Enum_HeroClass_Hunter" xml:space="preserve">
+    <value>Chasseur</value>
+  </data>
+  <data name="Enum_HeroClass_Mage" xml:space="preserve">
+    <value>Mage</value>
+  </data>
+  <data name="Enum_HeroClass_Paladin" xml:space="preserve">
+    <value>Paladin</value>
+  </data>
+  <data name="Enum_HeroClass_Priest" xml:space="preserve">
+    <value>Prêtre</value>
+  </data>
+  <data name="Enum_HeroClass_Rogue" xml:space="preserve">
+    <value>Voleur</value>
+  </data>
+  <data name="Enum_HeroClass_Shaman" xml:space="preserve">
+    <value>Chaman</value>
+  </data>
+  <data name="Enum_HeroClass_Warlock" xml:space="preserve">
+    <value>Démoniste</value>
+  </data>
+  <data name="Enum_HeroClass_Warrior" xml:space="preserve">
+    <value>Guerrier</value>
+  </data>
+  <data name="Enum_HeroClass_Archived" xml:space="preserve">
+    <value>Archivé</value>
   </data>
   <data name="Enum_IconStyle_Round" xml:space="preserve">
     <value>Rond</value>
@@ -2214,6 +2133,9 @@
   <data name="Enum_YesNoAll_All" xml:space="preserve">
     <value>Tous</value>
   </data>
+  <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
+    <value>Couleur des classes :</value>
+  </data>
   <data name="DeckNotes_Button_Save" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
@@ -2246,6 +2168,9 @@
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
     <value>Créée</value>
+  </data>
+  <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
+    <value>Pourcentages</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
     <value>Général :</value>
@@ -2355,6 +2280,9 @@
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>Automatique</value>
   </data>
+  <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
+    <value>Mode sans deck</value>
+  </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
     <value>Utiliser</value>
   </data>
@@ -2430,6 +2358,9 @@
   <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
     <value>Cartes non trouvées dans le deck :</value>
   </data>
+  <data name="Overlay_Label_Restart" xml:space="preserve">
+    <value>Redémarrage de Hearthstone requis</value>
+  </data>
   <data name="NoteWindow_Title" xml:space="preserve">
     <value>Notes pour cette partie</value>
   </data>
@@ -2454,8 +2385,14 @@
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
     <value>Version :</value>
   </data>
+  <data name="AddGameDialog_Label_Result" xml:space="preserve">
+    <value>Résultat :</value>
+  </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
     <value>Contre :</value>
+  </data>
+  <data name="AddGameDialog_Label_Mode" xml:space="preserve">
+    <value>Mode :</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
     <value>Format :</value>
@@ -2496,41 +2433,11 @@
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
-  <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Supprimer la partie</value>
-  </data>
-  <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>Cela supprimera les parties sélectionnées</value>
-  </data>
-  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / Mes parties / Overlay</value>
-  </data>
-  <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>Mes parties</value>
-  </data>
-  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Jouez quelques parties !</value>
-  </data>
-  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Sélectionnez un deck pour voir vos parties récentes !</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Afficher le panneau « Mes parties »</value>
-  </data>
-  <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Supprimer des parties</value>
-  </data>
-  <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>Éditer la partie</value>
-  </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
     <value>Ajouter une partie</value>
   </data>
-  <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Ignorer la partie ?</value>
-  </data>
-  <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>Ignorer</value>
+  <data name="AddGameDialog_Title_Edit" xml:space="preserve">
+    <value>Éditer la partie</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
     <value>Enregistrer</value>
@@ -2540,6 +2447,9 @@
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>Rapport de plantage</value>
+  </data>
+  <data name="CrashDialog_Label_Crashed" xml:space="preserve">
+    <value>Hearthstone Deck Tracker a planté :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Erreur :</value>
@@ -2568,6 +2478,9 @@
   <data name="DeckTypeDialog_Title" xml:space="preserve">
     <value>Sélectionnez le type de deck</value>
   </data>
+  <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
+    <value>Construit</value>
+  </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Arène</value>
   </data>
@@ -2580,14 +2493,23 @@
   <data name="DeckTypeDialog_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
+  <data name="DiscardGameDialog_Title" xml:space="preserve">
+    <value>Ignorer la partie ?</value>
+  </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
     <value>les cartes jouées ne correspondent pas au deck sélectionné</value>
+  </data>
+  <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
+    <value>Ignorer</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
     <value>Garder</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
     <value>Déplacer dans un autre deck</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
+    <value>Supprimer la partie</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>Êtes-vous sûr(e) ?</value>
@@ -2597,6 +2519,12 @@
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
+    <value>Supprimer des parties</value>
+  </data>
+  <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
+    <value>Cela supprimera les parties sélectionnées</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
     <value>Redémarrage requis</value>
@@ -2673,6 +2601,12 @@
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Continuer…</value>
   </data>
+  <data name="SortFilter_Label_Constructed" xml:space="preserve">
+    <value>Tri des decks : tous / construit</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
+    <value>Trier par classe</value>
+  </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
     <value>Tri de decks : arène</value>
   </data>
@@ -2693,6 +2627,9 @@
   </data>
   <data name="SortFilter_Filter_Button_Delete" xml:space="preserve">
     <value>Effacer la sélection</value>
+  </data>
+  <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
+    <value>Étiquette</value>
   </data>
   <data name="SortFilter_Filter_Button_Add" xml:space="preserve">
     <value>Ajouter</value>
@@ -2745,14 +2682,11 @@
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
     <value>Choisir une action</value>
   </data>
+  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
+    <value>Créer dans Hearthstone</value>
+  </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>Enregistrer uniquement</value>
-  </data>
-  <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Enregistrer uniquement</value>
-  </data>
-  <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Manuel</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
@@ -2768,6 +2702,27 @@
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
     <value>Comportement lors du collage (ctrl-v) d'une URL ou objet deck dans HDT</value>
+  </data>
+  <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
+    <value>Manuel</value>
+  </data>
+  <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
+    <value>Enregistrer uniquement</value>
+  </data>
+  <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
+    <value>Créer dans Hearthstone</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Main basse sur Gadgetzan.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
+    <value>Main basse sur Gadgetzan :</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
+    <value>Main basse sur Gadgetzan</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
+    <value>Main basse sur Gadgetzan</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
     <value>Afficher le compteur de golems de jade :</value>
@@ -2789,6 +2744,12 @@
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>La sélection automatique des decks est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
+    <value>L'importation automatique des nouveaux decks construits est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
+  </data>
+  <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
+    <value>L'importation automatique des changements dans les decks construits est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>L'importation automatique des decks d'arène est actuellement désactivée.\n\nIl est recommandé d'activer ce paramètre afin que HDT fonctionne le mieux.</value>
@@ -2829,11 +2790,26 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Décocher pour utiliser la casse normale dans le sélecteur de decks.</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>Peut être désactivé si l'overlay s'affiche dans des fenêtres non-Hearthstone.</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>Pour plus d'informations sur les formats de date, recherchez « format de date C# » sur Internet.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Essayez d'activer ceci si vous avez des problèmes avec la détection du rang / classement.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Voyage au centre d’Un’Goro.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
+    <value>Voyage au centre d’Un’Goro :</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
+    <value>Voyage au centre d’Un’Goro</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
+    <value>Voyage au centre d’Un’Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
     <value>Panthéon</value>
@@ -2958,6 +2934,12 @@
   <data name="DeckExport_Label_Step1" xml:space="preserve">
     <value>Cliquez le bouton de copie ci-dessous</value>
   </data>
+  <data name="DeckExport_Label_Step2" xml:space="preserve">
+    <value>Créez un nouveau deck dans Hearthstone</value>
+  </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>Seul le code est requis pour l'importation dans Hearthstone. Toute ligne commençant par « # » est ignorée.</value>
+  </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>Copier tout</value>
   </data>
@@ -2975,6 +2957,9 @@
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>À partir du code de deck</value>
+  </data>
+  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
+    <value>Decks / Mes parties / Overlay</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>il y a {0} jour</value>
@@ -2997,6 +2982,9 @@
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
     <value>Statistiques globales - HSReplay.net</value>
   </data>
+  <data name="MainWindow_Header_MyGames" xml:space="preserve">
+    <value>Mes parties</value>
+  </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>A des filtres actifs</value>
   </data>
@@ -3006,6 +2994,9 @@
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
     <value>Défaites :</value>
   </data>
+  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
+    <value>Taux de victoires</value>
+  </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs</value>
   </data>
@@ -3014,6 +3005,9 @@
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
     <value>Aucune donnée.</value>
+  </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>Jouez quelques parties !</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>Chargement…</value>
@@ -3066,23 +3060,35 @@
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
     <value>Aucune donnée de rediffusion disponible</value>
   </data>
+  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Sélectionnez un deck pour voir vos parties récentes !</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
+    <value>Afficher le panneau « Mes parties »</value>
+  </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
     <value>Cartes manquantes</value>
   </data>
   <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
     <value>Coût total en poussières :</value>
   </data>
+  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
+    <value>Démarrez Hearthstone pour voir les cartes manquantes !</value>
+  </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>Vous possédez toutes les cartes requises !</value>
-  </data>
-  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Inclure la version du deck</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
+  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
+    <value>Inclure la version du deck</value>
+  </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
     <value>Démarrer le lanceur / Hearthstone</value>
+  </data>
+  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
+    <value>Mode sans deck</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
     <value>Sélectionner automatiquement le deck</value>
@@ -3090,29 +3096,23 @@
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Cartes de classe en premier</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Quitter</value>
-  </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Afficher</value>
   </data>
-  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>Mode sans deck</value>
+  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+    <value>Quitter</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension Chevaliers du Trône de glace.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Chevaliers du Trône de glace :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
     <value>Chevaliers du Trône de glace</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>Chevaliers du Trône de glace</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Chevaliers du Trône de glace :</value>
-  </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Héros</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>Sélectionner la langue</value>
@@ -3123,35 +3123,11 @@
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
-  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>Le deck sélectionné ne contient aucune carte.</value>
-  </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Erreur lors de la copie des noms de cartes dans le presse-papiers.</value>
   </data>
-  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay capturable</value>
-  </data>
-  <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Activer l'intégration de l'extension Twitch</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Extension Twitch</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>Voir le guide de configuration complet</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream :</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Hors ligne</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>En direct</value>
+  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
+    <value>Le deck sélectionné ne contient aucune carte.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Lier le compte Twitch à HSReplay.net</value>
@@ -3159,11 +3135,35 @@
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Installer/configurer l'extension Twitch</value>
   </data>
-  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Kobolds et Catacombes.</value>
+  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
+    <value>Activer l'intégration de l'extension Twitch</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
+    <value>Stream :</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
+    <value>En direct</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
+    <value>Hors ligne</value>
+  </data>
+  <data name="Options_Streaming_Header" xml:space="preserve">
+    <value>Streaming</value>
+  </data>
+  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
+    <value>Overlay capturable</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Extension Twitch</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
+    <value>Voir le guide de configuration complet</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Kobolds et Catacombes</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
+    <value>Le deck contient des cartes de l'extension Kobolds et Catacombes.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>Kobolds et Catacombes</value>
@@ -3171,10 +3171,205 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Kobolds et Catacombes :</value>
   </data>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>Dungeon</value>
+  </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Bras de fer</value>
   </data>
+  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
+    <value>Dungeon Runs</value>
+  </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Importer automatiquement les nouveaux decks</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
+    <value>Dungeon deck name template</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>Include passive cards</value>
+  </data>
+  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
+    <value>Show decks tagged as "Favorite" first</value>
+  </data>
+  <data name="Button_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Button_Notnow" xml:space="preserve">
+    <value>Not now</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
+    <value>A new BETA update is available</value>
+  </data>
+  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
+    <value>Press "Download" to automatically update.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
+    <value>Flash Hearthstone on friendly challenge</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
+    <value>New HSReplay.net Feature: Collection Uploading</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
+    <value>Find the best decks for your collection!</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
+    <value>Login to enable all HSReplay.net features.</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
+    <value>Replays are uploaded to</value>
+  </data>
+  <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
+    <value>Logged in as</value>
+  </data>
+  <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
+    <value>Collection uploading</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
+    <value>Replay uploading</value>
+  </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>Replays claimed</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+    <value>Subscribed to Premium</value>
+  </data>
+  <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>Enable now</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
+    <value>Claim now</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+    <value>Thank you for supporting us!</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>Find out more</value>
+  </data>
+  <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
+    <value>Account Settings</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
+    <value>Are you sure you want to logout?</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
+    <value>New replays will no longer be attached to your account.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>Logging back in will claim all new replays retroactively.</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
+    <value>The easiest way to find the best decks for you!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
+    <value>Just upload your collection to HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
+    <value>Upload my collection automatically</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>Collection up-to-date!</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
+    <value>Collection update queued...</value>
+  </data>
+  <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
+    <value>Last updated</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
+    <value>One more step to upload your collection:</value>
+  </data>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>Start Hearthstone and open the collection</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>Your collection will automatically update when</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>My Account</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>Collection</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>Login to HSReplay.net</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>Waiting for authorization from HSReplay.net...</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>Try again</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>Trouble logging in? Contact us:</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>Successfully logged in</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>Meta</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>Decks</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>My Replays</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>• Opening or closing the collection</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>• Closing the pack opening screen</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>Just start Hearthstone and open your collection.</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>Start Hearthstone</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>Take your Twitch stream to the next level!</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>With an interactive overlay, live deck tracking and more.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>Login to get started.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>Now let's get your Twitch account linked up to HSReplay.net.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Twitch account:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
+    <value>Deck contains cards from the Witchwood expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
+    <value>The Witchwood:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
+    <value>The Witchwood</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
+    <value>The Witchwood</value>
+  </data>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Deck code</value>
   </data>
 </root>
