@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -153,14 +153,14 @@
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
     <value>編輯名稱(_M)</value>
   </data>
+  <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
+    <value>編輯註解(_N)</value>
+  </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
     <value>編輯標籤(_T)</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
     <value>快速設定標籤(_Q)</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>編輯註解(_N)</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>移動到競技場</value>
@@ -207,11 +207,11 @@
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
     <value>從 網頁(_W)</value>
   </data>
-  <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>從 競技場(_A)</value>
-  </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
     <value>從 我的套牌(_C)</value>
+  </data>
+  <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
+    <value>從 競技場(_A)</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
     <value>從 英雄大亂鬥(_T)</value>
@@ -225,23 +225,23 @@
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
     <value>從ID文字</value>
   </data>
-  <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>儲存至爐石戰記(_H)</value>
-  </data>
-  <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>匯出(_X)</value>
-  </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
     <value>從剪貼簿</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
     <value>從上一場遊戲</value>
   </data>
-  <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>儲存為XML檔案(_X)</value>
+  <data name="MainWindow_Menu_Export" xml:space="preserve">
+    <value>匯出(_X)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
+    <value>儲存至爐石戰記(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
     <value>儲存到網站(_W)</value>
+  </data>
+  <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
+    <value>儲存為XML檔案(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>複製ID到剪貼簿(_C)</value>
@@ -270,11 +270,14 @@
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
     <value>上次的重播(L)</value>
   </data>
+  <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
+    <value>從統計中選擇(_S)</value>
+  </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
     <value>從檔案中讀取(_F)</value>
   </data>
-  <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>從統計中選擇(_S)</value>
+  <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
+    <value>連結帳號:</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>我的帳號</value>
@@ -284,9 +287,6 @@
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>儀錶板(網頁)</value>
-  </data>
-  <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>連結帳號:</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
     <value>現在同步</value>
@@ -402,20 +402,20 @@
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
     <value>種類</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
+    <value>資料片</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
     <value>只有職業卡</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
     <value>只有中立卡</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
-    <value>全部</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
-    <value>全部</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>資料片</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
     <value>全部</value>
@@ -432,23 +432,23 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
     <value>納克薩瑪斯</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
-    <value>夜夜卡拉贊</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>古神碎碎念</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>探險者協會</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
-    <value>銀白聯賽</value>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
+    <value>哥哥打地地</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
     <value>勇闖黑石山</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
-    <value>哥哥打地地</value>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
+    <value>銀白聯賽</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
+    <value>探險者協會</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
+    <value>古神碎碎念</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
+    <value>夜夜卡拉贊</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
     <value>名稱...</value>
@@ -597,11 +597,11 @@
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>只對秘密有效</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>使用卡片動畫</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
     <value>附加卡片提示</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
+    <value>使用卡片動畫</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>卡片標記工具</value>
@@ -642,20 +642,14 @@
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
     <value>警告:</value>
   </data>
+  <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
+    <value>偶而會導致游標凍結</value>
+  </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>強制開啟(盡量不用，除非無法開啟)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>效果:</value>
-  </data>
-  <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
-    <value>啟用</value>
-  </data>
-  <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
-    <value>已關閉</value>
-  </data>
-  <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>偶而會導致游標凍結</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
     <value>好友列表開啟時，隱藏套牌</value>
@@ -666,20 +660,26 @@
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
     <value>注意:有時無效，如果"選項 &gt; 內嵌 &gt; 通用 &gt; 秘密自動變灰" 啟用時。</value>
   </data>
+  <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
+    <value>啟用</value>
+  </data>
+  <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
+    <value>已關閉</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
     <value>對玩家/對手使用相同的縮放</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>縮放:</value>
   </data>
+  <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
+    <value>不透明度:</value>
+  </data>
   <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
     <value>秘密縮放:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>秘密不透明度:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
-    <value>不透明度:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
     <value>顯示克蘇恩計算器:</value>
@@ -696,11 +696,11 @@
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>包括額外建立的套牌</value>
   </data>
-  <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>對玩家/對手使用相同的縮放</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
     <value>紅色標記丟棄的牌</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
+    <value>對玩家/對手使用相同的縮放</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
     <value>縮放:</value>
@@ -938,6 +938,9 @@
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>預覽:</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>Edit</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>網頁</value>
@@ -1860,6 +1863,9 @@
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>生物</value>
   </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Heroes</value>
+  </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>組成</value>
   </data>
@@ -2706,12 +2712,6 @@
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>建立於爐石戰記</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>翠玉魔像計數器:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>翠玉魔像計數器:</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
     <value>套牌包含黑街英雄之加基森風雲的卡片</value>
   </data>
@@ -2724,20 +2724,23 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>黑街英雄之加基森風雲:</value>
   </data>
-  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>當時間剩"X"秒時發出聲音與閃爍的警告</value>
+  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
+    <value>翠玉魔像計數器:</value>
   </data>
-  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>秒數</value>
+  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
+    <value>翠玉魔像計數器:</value>
   </data>
-  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>沒問題，請不要再顯示</value>
+  <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
+    <value>移除灰色的秘密</value>
+  </data>
+  <data name="ConfigWarning_Header" xml:space="preserve">
+    <value>警告</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
     <value>重新開啟</value>
   </data>
-  <data name="ConfigWarning_Header" xml:space="preserve">
-    <value>警告</value>
+  <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
+    <value>沒問題，請不要再顯示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>自動選擇套牌已關閉。\n\n建議開啟此功能。</value>
@@ -2751,17 +2754,17 @@
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>自動載入競技場的套牌已關閉。\n\n建議開啟此功能。</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>作用於行動設備(僅限Laptop，Tablet)</value>
+  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
+    <value>自動選擇套牌(建議)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>如果是可以看見的訊息，顯示創造/返回的卡片。</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>移除灰色的秘密</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>當游標停留一段時間在某個卡片上才會顯示</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
+    <value>作用於行動設備(僅限Laptop，Tablet)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>可將套牌範圍內的面板資訊與卡片垂直置中。範圍可以從"內嵌-&gt;一般-&gt;解鎖"來更改。</value>
@@ -2775,23 +2778,29 @@
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
     <value>如果你在匯出時遇到某些問題(卡片/套排名稱)請嘗試這個選項 - 但可能會無法使用部分按鍵</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>自動選擇套牌(建議)</value>
+  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
+    <value>警示於</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
+    <value>秒數</value>
+  </data>
+  <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
+    <value>當時間剩"X"秒時發出聲音與閃爍的警告</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>使用一般名稱</value>
   </data>
-  <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value>警示於</value>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>當內嵌畫面不在爐石視窗中，可以關閉此功能</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>更多關於日期格式的資訊請 google "C# date format"</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>當內嵌畫面不在爐石視窗中，可以關閉此功能</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>如果你在排名在檢測中有問題，請嘗試開啟此功能</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>套牌包含安戈洛歷險記的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>安戈洛歷險記：</value>
@@ -2805,8 +2814,80 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
     <value>名人堂</value>
   </data>
-  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>套牌包含安戈洛歷險記的卡片</value>
+  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
+    <value>這個套牌只可用於"開放"模式</value>
+  </data>
+  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
+    <value>這個套牌上有HSReplay.net提供的全球統計資料和選牌資訊</value>
+  </data>
+  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
+    <value>HSReplay選牌攻略</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
+    <value>匯出</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
+    <value>截圖</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>僅卡片</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
+    <value>隨著資訊</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
+    <value>包含套牌名稱、類別、組成與消耗魔塵</value>
+  </data>
+  <data name="WebImportingDialog_Title" xml:space="preserve">
+    <value>於網站匯入</value>
+  </data>
+  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
+    <value>輸入套牌網址：</value>
+  </data>
+  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
+    <value>尋找所有支援的網站</value>
+  </data>
+  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
+    <value>匯入</value>
+  </data>
+  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
+    <value>截圖</value>
+  </data>
+  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
+    <value>僅卡片</value>
+  </data>
+  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
+    <value>標題：</value>
+  </data>
+  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
+    <value>儲存至硬碟</value>
+  </data>
+  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
+    <value>上傳錯誤。請稍後再試或手動上傳</value>
+  </data>
+  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
+    <value>預覽</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
+    <value>複製到剪貼版</value>
+  </data>
+  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
+    <value>複製！</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
+    <value>上傳至Imgur</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
+    <value>上傳中...</value>
+  </data>
+  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
+    <value>上傳成功</value>
+  </data>
+  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
+    <value>開啟資料夾</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
     <value>歷史版本</value>
@@ -2856,14 +2937,14 @@
   <data name="DeckExport_Label_Step2" xml:space="preserve">
     <value>創立一個新套牌於爐石</value>
   </data>
+  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
+    <value>只有代碼可以被匯入至爐石</value>
+  </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>複製全部</value>
   </data>
   <data name="DeckExport_Button_CopyCode" xml:space="preserve">
     <value>複製代碼</value>
-  </data>
-  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>只有代碼可以被匯入至爐石</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
     <value>複製！</value>
@@ -2876,81 +2957,6 @@
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>從套牌代碼</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>僅卡片</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>隨著資訊</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>包含套牌名稱、類別、組成與消耗魔塵</value>
-  </data>
-  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>開啟資料夾</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>上傳成功</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>上傳中...</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>上傳至Imgur</value>
-  </data>
-  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>複製！</value>
-  </data>
-  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>複製到剪貼版</value>
-  </data>
-  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>預覽</value>
-  </data>
-  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>上傳錯誤。請稍後再試或手動上傳</value>
-  </data>
-  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>儲存至硬碟</value>
-  </data>
-  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>標題：</value>
-  </data>
-  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>僅卡片</value>
-  </data>
-  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>截圖</value>
-  </data>
-  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
-    <value>取消</value>
-  </data>
-  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>匯入</value>
-  </data>
-  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
-    <value>尋找所有支援的網站</value>
-  </data>
-  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
-    <value>輸入套牌網址：</value>
-  </data>
-  <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>於網站匯入</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>截圖</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
-    <value>匯出</value>
-  </data>
-  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay選牌攻略</value>
-  </data>
-  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
-    <value>這個套牌上有HSReplay.net提供的全球統計資料和選牌資訊</value>
-  </data>
-  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>這個套牌只可用於"開放"模式</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
     <value>套牌/我的對戰</value>
@@ -2966,6 +2972,12 @@
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
     <value>{0}小時前</value>
+  </data>
+  <data name="GameStats_Age_Minute" xml:space="preserve">
+    <value>{0}分鐘前</value>
+  </data>
+  <data name="GameStats_Age_Minutes" xml:space="preserve">
+    <value>{0}分鐘前</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
     <value>全球統計 - HSReplay.net</value>
@@ -3102,12 +3114,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>冰封王座</value>
   </data>
-  <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0}分鐘前</value>
-  </data>
-  <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0}分鐘前</value>
-  </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>選擇語言</value>
   </data>
@@ -3144,11 +3150,11 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>實況</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch 附加功能</value>
-  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>可捕捉的覆蓋</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
+    <value>Twitch 附加功能</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>查看完整的設定指南</value>
@@ -3165,20 +3171,23 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>狗頭人與地下城:</value>
   </data>
-  <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>英雄大亂鬥</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>自動匯入新套牌</value>
-  </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
     <value>地下城</value>
+  </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>英雄大亂鬥</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>地下城攻略</value>
   </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>自動匯入新套牌</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>地下城牌組名稱範本</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
+    <value>包含被動卡片</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>優先顯示有標記"收藏"的套牌</value>
@@ -3192,83 +3201,8 @@
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
     <value>一個新的測試更新</value>
   </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>包含被動卡片</value>
-  </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>點擊"下載"來自動更新</value>
-  </data>
-  <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>成功登入</value>
-  </data>
-  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>登入</value>
-  </data>
-  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
-    <value>主流</value>
-  </data>
-  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
-    <value>套牌</value>
-  </data>
-  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>我的重播</value>
-  </data>
-  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• 打開或關閉收藏</value>
-  </data>
-  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
-    <value>啟動爐石戰記並打開你的收藏</value>
-  </data>
-  <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>啟動爐石戰記</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>將你的Twitch實況帶到下一級</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>使用互動式嵌入，即時追蹤套牌等功能</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>登入並啟動</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>使用Twitch帳戶連接到HSReplay.net</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch帳戶:</value>
-  </data>
-  <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
-  </data>
-  <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
-  </data>
-  <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>登入有問題?聯絡我們:</value>
-  </data>
-  <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>再試一次</value>
-  </data>
-  <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>登入至HSReplay.net</value>
-  </data>
-  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
-    <value>收藏</value>
-  </data>
-  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>我的帳戶</value>
-  </data>
-  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>等待HSReplay.net的授權...</value>
-  </data>
-  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>何時自動更新收藏</value>
-  </data>
-  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>啟動爐石戰記並打開你的收藏</value>
-  </data>
-  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• 關閉箱子並開啟螢幕</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>閃爍爐石戰記或是好友對戰</value>
@@ -3309,11 +3243,11 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>現在啟用</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>了解更多</value>
-  </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
     <value>感謝你支持我們!</value>
+  </data>
+  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+    <value>了解更多</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>帳戶設定</value>
@@ -3339,6 +3273,9 @@
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
     <value>自動上傳我的收藏</value>
   </data>
+  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
+    <value>最新的收藏</value>
+  </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
     <value>收藏更新列隊中...</value>
   </data>
@@ -3348,7 +3285,91 @@
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>再次上傳你的收藏:</value>
   </data>
-  <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
-    <value>最新的收藏</value>
+  <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
+    <value>啟動爐石戰記並打開你的收藏</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
+    <value>何時自動更新收藏</value>
+  </data>
+  <data name="Options_HSReplay_Account_Header" xml:space="preserve">
+    <value>我的帳戶</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
+    <value>收藏</value>
+  </data>
+  <data name="OAuthLogin_Login" xml:space="preserve">
+    <value>登入至HSReplay.net</value>
+  </data>
+  <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
+    <value>等待HSReplay.net的授權...</value>
+  </data>
+  <data name="OAuthLogin_TryAgain" xml:space="preserve">
+    <value>再試一次</value>
+  </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>登入有問題?聯絡我們:</value>
+  </data>
+  <data name="OAuthLogin_Twitter" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="OAuthLogin_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="OAuthLogin_Success" xml:space="preserve">
+    <value>成功登入</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
+    <value>登入</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
+    <value>主流</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
+    <value>套牌</value>
+  </data>
+  <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
+    <value>我的重播</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
+    <value>• 打開或關閉收藏</value>
+  </data>
+  <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
+    <value>• 關閉箱子並開啟螢幕</value>
+  </data>
+  <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
+    <value>啟動爐石戰記並打開你的收藏</value>
+  </data>
+  <data name="StartHearthstoneButton_Text" xml:space="preserve">
+    <value>啟動爐石戰記</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>將你的Twitch實況帶到下一級</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
+    <value>使用互動式嵌入，即時追蹤套牌等功能</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>登入並啟動</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>使用Twitch帳戶連接到HSReplay.net</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Twitch帳戶:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
+    <value>Deck contains cards from the Witchwood expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
+    <value>The Witchwood:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
+    <value>The Witchwood</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
+    <value>The Witchwood</value>
+  </data>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Deck code</value>
   </data>
 </root>

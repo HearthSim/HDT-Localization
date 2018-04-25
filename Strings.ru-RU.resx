@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -939,6 +939,9 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>Предпоказ:</value>
   </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>Править</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Сеть</value>
   </data>
@@ -1067,6 +1070,9 @@
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Назначить пусть к Hearthstone</value>
+  </data>
+  <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
+    <value>Открыть папку AppData</value>
   </data>
   <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
     <value>Назначить путь к данным</value>
@@ -1857,6 +1863,9 @@
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>Существа</value>
   </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Герои</value>
+  </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Механики</value>
   </data>
@@ -1901,6 +1910,9 @@
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
     <value>Классическое</value>
+  </data>
+  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
+    <value>Альтернативная</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>По умолчанию</value>
@@ -2385,6 +2397,9 @@
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
     <value>Формат:</value>
   </data>
+  <data name="AddGameDialog_Label_Region" xml:space="preserve">
+    <value>Регион:</value>
+  </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
     <value>Ранг:</value>
   </data>
@@ -2631,17 +2646,20 @@
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
     <value>Добавить стандартные колоды в вольные</value>
   </data>
-  <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
-    <value>Открыть папку AppData</value>
+  <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
+    <value>Шанс победы</value>
   </data>
-  <data name="AddGameDialog_Label_Region" xml:space="preserve">
-    <value>Регион:</value>
+  <data name="Enum_DeckPanel_Cards" xml:space="preserve">
+    <value>Карты</value>
   </data>
   <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
     <value>Кол-во карт</value>
   </data>
-  <data name="Enum_DeckPanel_Cards" xml:space="preserve">
-    <value>Карты</value>
+  <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
+    <value>Шанс взятия</value>
+  </data>
+  <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
+    <value>Усталость: </value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
     <value>Назв. колоды</value>
@@ -2649,29 +2667,23 @@
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Побед</value>
   </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Открыть реп. перевода в браузере</value>
-  </data>
-  <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
-  </data>
-  <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
-    <value>Альтернативная</value>
-  </data>
-  <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Усталость: </value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
     <value>Многие переводы  отсутствуют или в стадии разработки . Если вы хотите помочь, вы можете помочь с этим здесь:</value>
   </data>
-  <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Шанс взятия</value>
+  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
+    <value>Открыть реп. перевода в браузере</value>
   </data>
-  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>Колода не найдена</value>
+  <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
+    <value>Показ HearthStats меню</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Колода найдена!</value>
+  </data>
+  <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
+    <value>Выберите действие</value>
+  </data>
+  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
+    <value>Создать в HS</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>Только сохр.</value>
@@ -2679,11 +2691,8 @@
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Создать в HS</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Показ HearthStats меню</value>
+  <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
+    <value>Колода не найдена</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
     <value>Буфер не содержит поддерживаемые URL-адресы или данные колоды.</value>
@@ -2703,8 +2712,8 @@
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>Создать в HS</value>
   </data>
-  <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
-    <value>Выберите действие</value>
+  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
+    <value>Колода содержит карты Прибамбасска</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
     <value>Злачный город Прибамбасск:</value>
@@ -2714,9 +2723,6 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>Злачный город Прибамбасск</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Колода содержит карты Прибамбасска</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
     <value>Показ размера голема:</value>
@@ -2793,9 +2799,6 @@
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Попробуйте включить этот параметр, если у вас возникли проблемы с обнаружением ранга.</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
-    <value>Зал славы</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
     <value>Колода содержит карты Ун'Горо</value>
   </data>
@@ -2807,6 +2810,9 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
     <value>Экспедиция в Ун'Горо</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
+    <value>Зал славы</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
     <value>Эта колода только для вольного режима</value>
@@ -3000,6 +3006,30 @@
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
     <value>Нет данных.</value>
   </data>
+  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
+    <value>Играйте в игры!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
+    <value>Победные сражения</value>
+  </data>
+  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
+    <value>Стат-а колоды/руководство по заменам</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
+    <value>У нас недостаточно данных для выбранной колоды.</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
+    <value>Выберите колоду с иконкой HSReplay.net, чтобы увидеть глобальные данные здесь!</value>
+  </data>
+  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
+    <value>Хотите попробовать что-то новое?</value>
+  </data>
+  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
+    <value>Проверьте наши колоды!</value>
+  </data>
   <data name="Druid" xml:space="preserve">
     <value>Друид</value>
   </data>
@@ -3027,38 +3057,11 @@
   <data name="Warrior" xml:space="preserve">
     <value>Воин</value>
   </data>
-  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Загрузка...</value>
-  </data>
-  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Играйте в игры!</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Победные сражения</value>
-  </data>
-  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Стат-а колоды/руководство по заменам</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>У нас недостаточно данных для выбранной колоды.</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Выберите колоду с иконкой HSReplay.net, чтобы увидеть глобальные данные здесь!</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Хотите попробовать что-то новое?</value>
-  </data>
-  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>Проверьте наши колоды!</value>
-  </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
     <value>Нет записей-повторов</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Выберите колоду, чтобы увидеть свои последние игры!</value>
-  </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Править</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Показать панель игр</value>
@@ -3072,14 +3075,14 @@
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
     <value>Запусти HS для просмотра упущенных карт</value>
   </data>
+  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
+    <value>Есть все необходимые карты!</value>
+  </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
     <value>Сохранить</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>Включая версию колоды</value>
-  </data>
-  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
-    <value>Есть все необходимые карты!</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
     <value>Запуск HS</value>
@@ -3102,17 +3105,14 @@
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Колода содержит карты Рыцарей Ледяного Трона</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
-    <value>Рыцари Ледяного Трона</value>
+  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
+    <value>Рыцари Ледяного Трона:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
     <value>Рыцари Ледяного Трона</value>
   </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Рыцари Ледяного Трона:</value>
-  </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Герои</value>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
+    <value>Рыцари Ледяного Трона</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>Выбрать язык</value>
@@ -3171,17 +3171,17 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Кобольды и катакомбы:</value>
   </data>
-  <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>Потасовка</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Автоимпорт новых колод</value>
-  </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
     <value>Приключение</value>
   </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Потасовка</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>Приключение</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Автоимпорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Временное имя колоды приключения</value>
@@ -3306,14 +3306,14 @@
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
     <value>Пробовать ещё</value>
   </data>
+  <data name="OAuthLogin_ContactUs" xml:space="preserve">
+    <value>Проблема со входом? Напиши нам (english):</value>
+  </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
     <value>Почт@</value>
-  </data>
-  <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Проблема со входом? Напиши нам (english):</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
     <value>Успешно зарегистрирован на</value>
@@ -3368,5 +3368,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
     <value>Ведьмин лес</value>
+  </data>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Deck code</value>
   </data>
 </root>
