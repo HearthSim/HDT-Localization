@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -404,6 +404,9 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>セット</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
+    <value>すべて</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
     <value>すべて</value>
@@ -936,6 +939,9 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>プレビュー：</value>
   </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>編集</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
   </data>
@@ -1458,6 +1464,9 @@
   <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
     <value>ウォーリア</value>
   </data>
+  <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
+    <value>勝率</value>
+  </data>
   <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
     <value>勝率</value>
   </data>
@@ -1466,6 +1475,9 @@
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
     <value>勝率</value>
+  </data>
+  <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
+    <value>クラスごとの勝率:</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>バージョン.</value>
@@ -1850,6 +1862,12 @@
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>ミニオン</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>ヒーロー</value>
+  </data>
+  <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
+    <value>デッキ構成</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
     <value>非表示</value>
@@ -2715,21 +2733,6 @@
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>グレーアウトした秘策を削除します。</value>
   </data>
-  <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>デッキ構成</value>
-  </data>
-  <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
-    <value>クラスごとの勝率:</value>
-  </data>
-  <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
-    <value>勝率</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
-    <value>すべて</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>カード</value>
-  </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
     <value>警告 </value>
   </data>
@@ -2825,6 +2828,9 @@
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
     <value>スクリーンショット</value>
+  </data>
+  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
+    <value>カード</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
     <value>情報</value>
@@ -2952,11 +2958,11 @@
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>デッキコードから</value>
   </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>編集</value>
-  </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
     <value>デッキ/ゲーム/オーバーレイ</value>
+  </data>
+  <data name="GameStats_Age_Day" xml:space="preserve">
+    <value>{0} 日前</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
     <value>{0} 日前</value>
@@ -3108,12 +3114,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>凍てつく玉座の騎士団</value>
   </data>
-  <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} 日前</value>
-  </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>ヒーロー</value>
-  </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>言語の選択</value>
   </data>
@@ -3171,8 +3171,8 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>コボルトと秘宝の迷宮</value>
   </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>自動インポートの新しいデッキ</value>
+  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
+    <value>ダンジョン</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>酒場の喧嘩</value>
@@ -3180,8 +3180,8 @@
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>ダンジョン攻略</value>
   </data>
-  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>ダンジョン</value>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>自動インポートの新しいデッキ</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>ダンジョン デッキ名テンプレート</value>
@@ -3213,6 +3213,9 @@
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>あなたのコレクションにあった最適なデッキを探す!</value>
   </data>
+  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
+    <value>ログインしてリプレイをリクエストしすべてのHSReplay.netの機能を有効化する。</value>
+  </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>ログインしてすべてのHSReplay.netの機能を有効化する。</value>
   </data>
@@ -3228,10 +3231,16 @@
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
     <value>リプレイをアップロード中</value>
   </data>
+  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
+    <value>リプレイをリクエスト</value>
+  </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>購読:</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
+    <value>今すぐ有効にする</value>
+  </data>
+  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>今すぐ有効にする</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
@@ -3248,6 +3257,9 @@
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
     <value>新しいリプレイはあなたのアカウントに接続されなくなります。</value>
+  </data>
+  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
+    <value>再ログインするとすべてのリプレイがリクエストされます</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>ログアウト</value>
@@ -3357,16 +3369,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
     <value>妖の森ウィッチウッド</value>
   </data>
-  <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>今すぐ有効にする</value>
-  </data>
-  <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>リプレイをリクエスト</value>
-  </data>
-  <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>再ログインするとすべてのリプレイがリクエストされます</value>
-  </data>
-  <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>ログインしてリプレイをリクエストしすべてのHSReplay.netの機能を有効化する。</value>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Deck code</value>
   </data>
 </root>
