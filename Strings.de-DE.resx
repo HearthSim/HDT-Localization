@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -402,6 +402,9 @@
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
     <value>Typ</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
+    <value>Set</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>Alle</value>
   </data>
@@ -416,123 +419,6 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
     <value>Alle</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>Name...</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Name existiert bereits</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Wilde Karten anzeigen</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>Deckbau Kartenlimits</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
-    <value>Versions Historie</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Deck Historie:</value>
-  </data>
-  <data name="MainWindow_NewsBar_Header" xml:space="preserve">
-    <value>Neuigkeiten:</value>
-  </data>
-  <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
-    <value>Hell</value>
-  </data>
-  <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
-    <value>Dunkel</value>
-  </data>
-  <data name="Enum_Region_All" xml:space="preserve">
-    <value>Alle</value>
-  </data>
-  <data name="Enum_Region_Unknown" xml:space="preserve">
-    <value>Unbekannt</value>
-  </data>
-  <data name="Enum_Region_US" xml:space="preserve">
-    <value>US</value>
-  </data>
-  <data name="Enum_Region_EU" xml:space="preserve">
-    <value>EU</value>
-  </data>
-  <data name="Enum_Region_Asia" xml:space="preserve">
-    <value>Asien</value>
-  </data>
-  <data name="Enum_Region_China" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="Enum_TagFilterOperation_And" xml:space="preserve">
-    <value>Und</value>
-  </data>
-  <data name="Enum_TagFilterOperation_Or" xml:space="preserve">
-    <value>Oder</value>
-  </data>
-  <data name="Enum_TimeFrame_Today" xml:space="preserve">
-    <value>Heute</value>
-  </data>
-  <data name="Enum_TimeFrame_Yesterday" xml:space="preserve">
-    <value>Gestern</value>
-  </data>
-  <data name="Enum_TimeFrame_Last24Hours" xml:space="preserve">
-    <value>Letzte 24 Stunden</value>
-  </data>
-  <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
-    <value>Diese Woche</value>
-  </data>
-  <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
-    <value>Letzte Woche</value>
-  </data>
-  <data name="Enum_TimeFrame_Last7Days" xml:space="preserve">
-    <value>Letzte 7 Tage</value>
-  </data>
-  <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
-    <value>Diesen Monat</value>
-  </data>
-  <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
-    <value>Letzter Monat</value>
-  </data>
-  <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
-    <value>Dieses Jahr</value>
-  </data>
-  <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
-    <value>Letztes Jahr</value>
-  </data>
-  <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
-    <value>Alles</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
-    <value>Heute</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>Diese Woche</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>Diese Saison</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
-    <value>Letzte Saison</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
-    <value>Benutzerdefinierte Saison</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
-    <value>Alles</value>
-  </data>
-  <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
-    <value>Benutzerdefiniert</value>
-  </data>
-  <data name="Enum_YesNo_Yes" xml:space="preserve">
-    <value>Ja</value>
-  </data>
-  <data name="Enum_YesNo_No" xml:space="preserve">
-    <value>Nein</value>
-  </data>
-  <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>Alles</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>Set</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Basic" xml:space="preserve">
     <value>Basis</value>
@@ -563,6 +449,27 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
     <value>Eine Nacht In Karazhan</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
+    <value>Name...</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
+    <value>Name existiert bereits</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
+    <value>Wilde Karten anzeigen</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
+    <value>Deckbau Kartenlimits</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
+    <value>Versions Historie</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
+    <value>Deck Historie:</value>
+  </data>
+  <data name="MainWindow_NewsBar_Header" xml:space="preserve">
+    <value>Neuigkeiten:</value>
   </data>
   <data name="Options_Search_Header" xml:space="preserve">
     <value>Suche</value>
@@ -626,6 +533,9 @@
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Einstellungen</value>
+  </data>
+  <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
+    <value>Suchbegriff Name/Beschreibung</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Suche</value>
@@ -701,9 +611,6 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Decks nach Spiel nicht zurücksetzen</value>
-  </data>
-  <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>Suchbegriff Name/Beschreibung</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>Goldfortschritt immer anzeigen (im Menü)</value>
@@ -1031,6 +938,9 @@
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>Vorschau:</value>
+  </data>
+  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
@@ -1848,6 +1758,9 @@
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>Etikettenfilter anwenden</value>
   </data>
+  <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
+    <value>Filter anwenden aus 'Deckauswahl' &gt; 'Sortiere/Filtere Decks' (Doppelpfeil Button)</value>
+  </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menü</value>
   </data>
@@ -1914,9 +1827,6 @@
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>Keine neuen Decks gefunden.</value>
   </data>
-  <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Filter anwenden aus 'Deckauswahl' &gt; 'Sortiere/Filtere Decks' (Doppelpfeil Button)</value>
-  </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
     <value>Starte Launcher / Hearthstone</value>
   </data>
@@ -1952,6 +1862,9 @@
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>Diener</value>
+  </data>
+  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
+    <value>Helden</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Mechaniken</value>
@@ -2126,6 +2039,99 @@
   </data>
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
+    <value>Hell</value>
+  </data>
+  <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Enum_Region_All" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="Enum_Region_Unknown" xml:space="preserve">
+    <value>Unbekannt</value>
+  </data>
+  <data name="Enum_Region_US" xml:space="preserve">
+    <value>US</value>
+  </data>
+  <data name="Enum_Region_EU" xml:space="preserve">
+    <value>EU</value>
+  </data>
+  <data name="Enum_Region_Asia" xml:space="preserve">
+    <value>Asien</value>
+  </data>
+  <data name="Enum_Region_China" xml:space="preserve">
+    <value>China</value>
+  </data>
+  <data name="Enum_TagFilterOperation_And" xml:space="preserve">
+    <value>Und</value>
+  </data>
+  <data name="Enum_TagFilterOperation_Or" xml:space="preserve">
+    <value>Oder</value>
+  </data>
+  <data name="Enum_TimeFrame_Today" xml:space="preserve">
+    <value>Heute</value>
+  </data>
+  <data name="Enum_TimeFrame_Yesterday" xml:space="preserve">
+    <value>Gestern</value>
+  </data>
+  <data name="Enum_TimeFrame_Last24Hours" xml:space="preserve">
+    <value>Letzte 24 Stunden</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
+    <value>Diese Woche</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
+    <value>Letzte Woche</value>
+  </data>
+  <data name="Enum_TimeFrame_Last7Days" xml:space="preserve">
+    <value>Letzte 7 Tage</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
+    <value>Diesen Monat</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
+    <value>Letzter Monat</value>
+  </data>
+  <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
+    <value>Dieses Jahr</value>
+  </data>
+  <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
+    <value>Letztes Jahr</value>
+  </data>
+  <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
+    <value>Alles</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
+    <value>Heute</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
+    <value>Diese Woche</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
+    <value>Diese Saison</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
+    <value>Letzte Saison</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
+    <value>Benutzerdefinierte Saison</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
+    <value>Alles</value>
+  </data>
+  <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
+    <value>Benutzerdefiniert</value>
+  </data>
+  <data name="Enum_YesNo_Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="Enum_YesNo_No" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="Enum_YesNoAll_All" xml:space="preserve">
+    <value>Alles</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Klassenfarben:</value>
@@ -2760,6 +2766,18 @@
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...)</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
+    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
+  </data>
+  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
+    <value>Haken entfernen um die meisten Animationen für Popup Dialoge und Flyouts zu deaktivieren.</value>
+  </data>
+  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
+    <value>Versuche das, wenn du Probleme beim Exportieren bestimmter Karten/Decknamen hast. Funktioniert unter Umständen nicht mit allen Tastatur Layouts.</value>
+  </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
     <value>Alarm nach</value>
   </data>
@@ -2768,6 +2786,21 @@
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
     <value>Alarmsignal ertönt und blinkt wenn nur noch X Sekunden verbleiben.</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
+    <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
+    <value>Kann deaktiviert werden, wenn das Overlay in Nicht-Hearthstone Fenstern angezeigt wird.</value>
+  </data>
+  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
+    <value>Für weitere Informationen zu Datumsformaten google nach "C# date format".</value>
+  </data>
+  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
+    <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
+    <value>Deck enthält Karten der "Reise nach Un'Goro" Erweiterung.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>Reise nach Un'Goro:</value>
@@ -2801,12 +2834,6 @@
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
     <value>Mit Info</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck enthält Karten der "Reise nach Un'Goro" Erweiterung.</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
     <value>Beinhaltet Deckname, Klasse, Sets und Staubkosten</value>
@@ -3039,30 +3066,6 @@
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Meine Spiele Übersicht anzeigen</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Für weitere Informationen zu Datumsformaten google nach "C# date format".</value>
-  </data>
-  <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>Kann deaktiviert werden, wenn das Overlay in Nicht-Hearthstone Fenstern angezeigt wird.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
-  </data>
-  <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
-  </data>
-  <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
-  </data>
-  <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>Haken entfernen um die meisten Animationen für Popup Dialoge und Flyouts zu deaktivieren.</value>
-  </data>
-  <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Versuche das, wenn du Probleme beim Exportieren bestimmter Karten/Decknamen hast. Funktioniert unter Umständen nicht mit allen Tastatur Layouts.</value>
-  </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Bearbeiten</value>
-  </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
     <value>Fehlende Karten</value>
   </data>
@@ -3111,9 +3114,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
     <value>Ritter des Frostthrons</value>
   </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Helden</value>
-  </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
     <value>Wähle Sprache</value>
   </data>
@@ -3159,17 +3159,11 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Setup Anleitung aufrufen</value>
   </data>
-  <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>Kartenchaos</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Neue Decks automatisch importieren</value>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
+    <value>Kobolde und Katakomben</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
     <value>Deck enthält Karten aus der Kobolde und Katakomben Erweiterung.</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
-    <value>Kobolde und Katakomben</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>Kobolde und Katakomben</value>
@@ -3180,8 +3174,14 @@
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
     <value>Dungeon</value>
   </data>
+  <data name="Enum_DeckType_Brawl" xml:space="preserve">
+    <value>Kartenchaos</value>
+  </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>Dungeon Runs</value>
+  </data>
+  <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
+    <value>Neue Decks automatisch importieren</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Vorlage Dungeon Deckname</value>
@@ -3342,20 +3342,20 @@
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
     <value>Starte Hearthstone</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch Account:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Verknüpfe deinen Twitch Account mit HSReplay.net.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Einloggen zum Loslegen.</value>
+  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
+    <value>Hebe deinen Twitch Stream auf das nächste Level!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
     <value>Mit interaktivem Overlay, Live-Decktracking und mehr.</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Hebe deinen Twitch Stream auf das nächste Level!</value>
+  <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
+    <value>Einloggen zum Loslegen.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
+    <value>Verknüpfe deinen Twitch Account mit HSReplay.net.</value>
+  </data>
+  <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
+    <value>Twitch Account:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
     <value>Deck enthält Karten aus der Hexenwald Erweiterung.</value>
@@ -3368,5 +3368,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
     <value>Der Hexenwald</value>
+  </data>
+  <data name="DeckExport_Header_DeckCode" xml:space="preserve">
+    <value>Deck code</value>
   </data>
 </root>
