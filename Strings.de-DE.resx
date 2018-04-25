@@ -2146,7 +2146,7 @@
     <value>Importieren</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>Häufig gestellte Fragen</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>Gehe zur FAQ.</value>
@@ -2245,7 +2245,7 @@
     <value>2) Sende eine Email an support@hsdecktracker.net (nur Englisch)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
-    <value>GitHub Project</value>
+    <value>GitHub Projekt</value>
   </data>
   <data name="Help_Github_Text1" xml:space="preserve">
     <value>Das Projekt findest du</value>
@@ -2575,7 +2575,7 @@
     <value>Speichern &amp; Upload</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Hochladen</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -2824,7 +2824,7 @@
     <value>HSReplay Mulligan Guide</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportieren</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
     <value>Screenshot</value>
@@ -2848,7 +2848,7 @@
     <value>Alle unterstützten Webseiten</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importieren</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -2950,7 +2950,7 @@
     <value>Kopiert!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportieren</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
     <value>Deck Editor</value>
@@ -3013,7 +3013,7 @@
     <value>Lade...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
+    <value>Begegnungen</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
     <value>Deck Statistiken / Mulligan Guide</value>
@@ -3148,7 +3148,7 @@
     <value>Offline</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Streamen</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Greifbares Overlay</value>
@@ -3172,13 +3172,13 @@
     <value>Kobolde und Katakomben:</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
+    <value>Schatzjagd</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
+    <value>Schatzjagd</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Neue Decks automatisch importieren</value>
@@ -3193,7 +3193,7 @@
     <value>Zeige Decks die als "Favorit" markiert sind zuerst</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
+    <value>Herunterladen</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
     <value>Nicht jetzt</value>
@@ -3319,7 +3319,7 @@
     <value>Erfolgreich eingeloggt</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Einloggen</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
@@ -3370,6 +3370,6 @@
     <value>Der Hexenwald</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Deck-code</value>
   </data>
 </root>
