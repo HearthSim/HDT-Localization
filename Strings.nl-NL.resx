@@ -202,49 +202,49 @@
     <value>Deck</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>_Import</value>
+    <value>importeren</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>From _web</value>
+    <value>Van _web</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>From _Constructed</value>
+    <value>Van _Constructed</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>From _Arena</value>
+    <value>Van _Arena</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>From _Tavern Brawl</value>
+    <value>Van _Tavern Brawl</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Overige</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
-    <value>From file</value>
+    <value>Via bestand</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>From ids</value>
+    <value>Via Id</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>From clipboard</value>
+    <value>Via klembord</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
-    <value>From last game</value>
+    <value>Van het laatste spel</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
     <value>E_xport</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>To _Hearthstone</value>
+    <value>Naar _Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>To Hearthstone from _Web</value>
+    <value>Naar Hearthstone van _Web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Save as _Xml</value>
+    <value>Opslaan als _Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Copy IDs to _clipboard</value>
+    <value>ID naar klembord kopiëren</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
     <value>Copy _names to clipboard</value>
