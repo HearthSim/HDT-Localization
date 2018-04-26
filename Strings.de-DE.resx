@@ -184,7 +184,7 @@
     <value>_Archivieren</value>
   </data>
   <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
-    <value>Entarchivieren</value>
+    <value>Dearchivieren</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
     <value>Löschen (_D)</value>
@@ -535,7 +535,7 @@
     <value>Einstellungen</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>Suchbegriff Name/Beschreibung</value>
+    <value>CheckBox Name/Beschreibung...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Suche</value>
@@ -658,7 +658,7 @@
     <value>Geheimnisse zum Ausgrauen anklicken</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>HINWEIS: Funktioniert eventuell nicht richtig wenn "Optionen &gt; Overlay &gt; Allgemein &gt; Geheimnisse automatisch ausgrauen" gewählt ist.</value>
+    <value>HINWEIS: Funktioniert eventuell nicht richtig wenn "Optionen > Overlay > Allgemein > Geheimnisse automatisch ausgrauen" gewählt ist.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
