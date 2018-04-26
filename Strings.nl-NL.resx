@@ -661,37 +661,37 @@
     <value>NOTE: May not work correctly if "options > overlay > general > automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Ingeschakeld</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Uitgeschakeld</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
     <value>Use same scaling for player/opponent</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Schaling:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Transparantie:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
-    <value>Secret scaling:</value>
+    <value>Secret schaling:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
-    <value>Secret opacity:</value>
+    <value>Secret Transparantie:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Toon C'Thun teller:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Toon spell teller:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Show board attack counter</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Deck verticaal centreren</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>Include created cards</value>
@@ -703,28 +703,28 @@
     <value>Use same scaling for player/opponent</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Schaling:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Transparantie:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Toon C'Thun teller:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Toon spell teller:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Show board attack counter</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Deck verticaal centreren</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
-    <value>Highlight cards in hand</value>
+    <value>Markeer kaarten in de hand</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Highlight last drawn card</value>
+    <value>Markeer de laatst getrokken kaart</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
     <value>Remove cards if none remaining</value>
