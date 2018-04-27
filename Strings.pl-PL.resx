@@ -1171,7 +1171,7 @@
     <value>_Szybka zmiana etykiety</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
-    <value>Prznieś na arenę</value>
+    <value>Przenieś na arenę</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>Przenieś do utworzonych</value>
@@ -1192,7 +1192,7 @@
     <value>_Zarchiwizuj</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
-    <value>Odarchiwizuj</value>
+    <value>Zdezarchiwizuj</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
     <value>Usuń</value>
@@ -1759,7 +1759,7 @@
     <value>Dołącz etykiety</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Dołącza eytkiety ustawione w głównym oknie programu (guzik z podwójną strzałką).</value>
+    <value>Dołącza etykiety ustawione w głównym oknie programu (guzik z podwójną strzałką).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -1852,7 +1852,7 @@
     <value>Talia zawiera karty z dodatku "Przedwieczni Bogowie".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Talia zawiera karty z dodatku "Przewnej nocy w Karazhanie".</value>
+    <value>Talia zawiera karty z dodatku "Pewnej nocy w Karazhanie".</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Bronie</value>
@@ -1897,7 +1897,7 @@
     <value>Brak</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Klsyczny</value>
+    <value>Klasyczny</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
     <value>Gobliny vs Gnomy</value>
@@ -2176,7 +2176,7 @@
     <value>Ogólne:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
-    <value> Liczba pozostałych kopii danej karty.</value>
+    <value>Liczba pozostałych kopii danej karty.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
     <value>Szansa na dobranie:</value>
@@ -2233,7 +2233,7 @@
     <value>zgłoszenia na GitHubie.</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>Jeżeli nie ma podobnego zgłoszenia to czuj się swobodnie stworząc nowe, a nawet jeśli potrafisz to z własną poprawką. Prosimy dołączać logi do zgłoszeń błędów. Więcej informacji</value>
+    <value>Jeżeli nie ma podobnego zgłoszenia to czuj się swobodnie tworząc nowe, a nawet jeśli potrafisz to z własną poprawką. Prosimy dołączać logi do zgłoszeń błędów. Więcej informacji</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>tutaj.</value>
@@ -2701,7 +2701,7 @@
     <value>Zachowanie przy wklejaniu</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Zasady zachowania progamu podczas wklejania (ctrl-v) linku albo talii do programu.</value>
+    <value>Zasady zachowania programu podczas wklejania (ctrl-v) linku albo talii do programu.</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>Ręcznie</value>
@@ -2785,7 +2785,7 @@
     <value>sekund przed końcem tury</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Powiadomienie dzwiękowe i wizualne gdy pozostało "X" sekund na ruch.</value>
+    <value>Powiadomienie dźwiękowe i wizualne gdy pozostało "X" sekund na ruch.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Odznacz aby nie używać tylko wielkich liter w nazwach talii.</value>
@@ -3202,7 +3202,7 @@
     <value>Dostępna jest nowa BETA aktualizacja!</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Naciśnij "Pobierz" aby automatcznie zaktualizować aplikację.</value>
+    <value>Naciśnij "Pobierz" aby automatycznie zaktualizować aplikację.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
@@ -3241,7 +3241,7 @@
     <value>Włącz teraz</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Podtwierdz teraz</value>
+    <value>Potwierdz teraz</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
     <value>Dziękujemy za wsparcie!</value>
@@ -3271,7 +3271,7 @@
     <value>Po prostu wyślij swoją kolekcję kart na HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Wysyłaj moją kolekcję automatcznie</value>
+    <value>Wysyłaj moją kolekcję automatycznie</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
     <value>Kolekcja jest aktualna!</value>
@@ -3289,7 +3289,7 @@
     <value>Uruchom Hearthstone i otwórz swoją kolekcję</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Twoja kolekcja będzie automatcznie wysyłana gdy</value>
+    <value>Twoja kolekcja będzie automatycznie wysyłana gdy</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>Moje Konto</value>
