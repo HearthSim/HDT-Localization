@@ -943,7 +943,7 @@
     <value>Edytuj</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
+    <value>Internet</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>Dodaj etykiety do talii podczas importowania</value>
@@ -1177,16 +1177,16 @@
     <value>Przenieś do utworzonych</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>Show _Missing cards</value>
+    <value>Pokaż _Brakujące karty</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Update (web)</value>
+    <value>_Zaktualizuj (z internetu)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>Open _Website</value>
+    <value>Otwórz _Stronę</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>Open HearthStats</value>
+    <value>Otwórz HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>_Zarchiwizuj</value>
@@ -1207,10 +1207,10 @@
     <value>Wybraną wersję</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
-    <value>Link to ur_l</value>
+    <value>Odnośnik do ur_l</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link to new ur_l</value>
+    <value>Odnośnik do nowego ur_l</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
     <value>Uwaga</value>
@@ -2131,7 +2131,7 @@
     <value>Nie</value>
   </data>
   <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>All</value>
+    <value>Wszystkie</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Kolor postaci:</value>
@@ -2332,7 +2332,7 @@
     <value>Instalowanie...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Timer</value>
+    <value>Zegar</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Stats</value>
@@ -2455,7 +2455,7 @@
     <value>Błąd:</value>
   </data>
   <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
-    <value>Show Stacktrace</value>
+    <value>Pokaż stos błędu</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
     <value>Aby pomóc nam naprawić błąd, prosimy napisać co zrobiłeś/zrobiłaś tuż przed wystąpieniem błędu. Wszelkie pomysły co mogło pójść nie tak są mile widziane. :)</value>
