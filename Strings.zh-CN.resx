@@ -139,7 +139,7 @@
     <value>潜行者(_R)</value>
   </data>
   <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
-    <value>萨满(_S)</value>
+    <value>萨满祭司(_S)</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
     <value>术士(_W)</value>
@@ -1456,7 +1456,7 @@
     <value>潜行者</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>萨满</value>
+    <value>萨满祭司</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
     <value>术士</value>
@@ -2020,7 +2020,7 @@
     <value>潜行者</value>
   </data>
   <data name="Enum_HeroClass_Shaman" xml:space="preserve">
-    <value>萨满</value>
+    <value>萨满祭司</value>
   </data>
   <data name="Enum_HeroClass_Warlock" xml:space="preserve">
     <value>术士</value>
@@ -3325,10 +3325,10 @@
     <value>Meta</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
-    <value>Decks</value>
+    <value>套牌</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>My Replays</value>
+    <value>我的回放</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• Opening or closing the collection</value>
@@ -3337,7 +3337,7 @@
     <value>• Closing the pack opening screen</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
-    <value>Just start Hearthstone and open your collection.</value>
+    <value>只需启动《炉石传说》并打开我的收藏。</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
     <value>启动《炉石传说》</value>
@@ -3352,7 +3352,7 @@
     <value>Login to get started.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Now let's get your Twitch account linked up to HSReplay.net.</value>
+    <value>现在将你的Twitch账户关联至HSReplay.net。</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
     <value>Twitch账户：</value>
