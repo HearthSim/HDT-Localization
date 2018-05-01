@@ -1111,7 +1111,7 @@
     <value>显示</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>(在卡组或者内嵌上)</value>
+    <value>（在卡组或者内嵌上）</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
     <value>版本：</value>
@@ -1138,25 +1138,25 @@
     <value>记录本地录像</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>当删除卡组时保持统计*</value>
+    <value>当删除套牌时保留统计数据*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>这会移动数据到默认职业卡组(相应的匹配数据会以无卡组状态保存). 这意味着删除竞技场卡组同时会删除竞技场的统计数据!</value>
+    <value>这会将数据移动到”职业默认卡组“中（相应的匹配数据会以无卡组状态保存）。这意味着删除竞技场卡组的同时会删除竞技场的统计数据！</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>在单独窗口中显示统计结果</value>
+    <value>在单独的窗口中显示统计结果</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>分析</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
-    <value>搜索...</value>
+    <value>搜索……</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>使用卡组(_U)</value>
+    <value>使用套牌(_U)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>编辑卡组(_D)</value>
+    <value>编辑套牌(_D)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>编辑名称(_M)</value>
@@ -1201,7 +1201,7 @@
     <value>复制</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>完整卡组</value>
+    <value>完整套牌</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
     <value>已选版本</value>
@@ -1336,7 +1336,7 @@
     <value>金币</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>粉尘</value>
+    <value>奥术之尘</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>卡包</value>
@@ -1354,13 +1354,13 @@
     <value>编辑奖励</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>显示己方卡组</value>
+    <value>显示己方套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>显示对手卡组</value>
+    <value>显示对手套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>显示录像</value>
+    <value>显示回放</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>添加游戏</value>
@@ -1393,7 +1393,7 @@
     <value>对战时长</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>录像</value>
+    <value>回放</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>说明</value>
@@ -1453,7 +1453,7 @@
     <value>牧师</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>盗贼</value>
+    <value>潜行者</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
     <value>萨满</value>
@@ -1483,7 +1483,7 @@
     <value>版本：</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>卡组：</value>
+    <value>套牌：</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
     <value>胜率：</value>
@@ -1510,7 +1510,7 @@
     <value>匹配</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>添加新游戏到可用卡组</value>
+    <value>添加新游戏到可用套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
     <value>移动所选</value>
@@ -1558,13 +1558,13 @@
     <value>服务器</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>录像</value>
+    <value>回放</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>录像</value>
+    <value>回放</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>对手套牌</value>
@@ -1813,7 +1813,7 @@
     <value>另存为</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>打开炉石并进入对战模式。</value>
+    <value>打开《炉石传说》并进入对战模式。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
     <value>进入对战模式。</value>
