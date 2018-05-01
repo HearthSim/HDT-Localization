@@ -535,7 +535,7 @@
     <value>设置</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>输入名称/描述...</value>
+    <value>输入名称/描述……</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>搜索</value>
@@ -565,7 +565,7 @@
     <value>自定义颜色代码：</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
-    <value>隐藏 (全部)</value>
+    <value>隐藏（全部）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
     <value>菜单界面隐藏</value>
@@ -583,7 +583,7 @@
     <value>隐藏计时器</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>隐藏牌序</value>
+    <value>隐藏抽牌回合数</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
     <value>隐藏卡牌标记</value>
@@ -610,7 +610,7 @@
     <value>自动排除奥秘</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>游戏后不重置卡组</value>
+    <value>游戏后不重置套牌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>金币奖励进度始终可见（在菜单页）</value>
@@ -652,7 +652,7 @@
     <value>效果：</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>当好友列表打开时，隐藏卡组</value>
+    <value>当好友列表打开时，隐藏套牌</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
     <value>手动点击排除奥秘</value>
@@ -691,7 +691,7 @@
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>卡组垂直居中</value>
+    <value>套牌位置垂直居中</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>包括额外创建的卡牌</value>
@@ -763,10 +763,10 @@
     <value>职业图标:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
-    <value>卡牌主题:</value>
+    <value>卡牌主题：</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
-    <value>套牌布局:</value>
+    <value>套牌布局：</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
     <value>卡牌边框显示稀有度颜色</value>
@@ -808,7 +808,7 @@
     <value>金色卡牌次序优先</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
-    <value>设置卡组名称</value>
+    <value>设置套牌名称</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
     <value>名字中包括版本号</value>
@@ -856,7 +856,7 @@
     <value>重启以应用语言更改。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>自动选择“未使用”卡组。（可以禁用）</value>
+    <value>自动选择“未使用”套牌。（可以禁用）</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>卡牌排序：职业卡优先</value>
