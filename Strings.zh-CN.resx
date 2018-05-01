@@ -3190,19 +3190,19 @@
     <value>包括被动卡牌</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
+    <value>优先显示“偏好”套牌</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
+    <value>下载</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
+    <value>暂不</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
     <value>发现新的测试版本</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
+    <value>点击“下载”以自动更新。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>当你收到好友对战的邀请时，闪烁炉石窗口</value>
@@ -3226,10 +3226,10 @@
     <value>Logged in as</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Collection uploading</value>
+    <value>收藏上传中</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Replay uploading</value>
+    <value>回放上传中</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replays claimed</value>
@@ -3244,16 +3244,16 @@
     <value>Claim now</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>感谢您对我们的支持！</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
     <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>账户设置</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>您确定要注销吗？</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
     <value>New replays will no longer be attached to your account.</value>
@@ -3262,7 +3262,7 @@
     <value>Logging back in will claim all new replays retroactively.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>注销</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
     <value>用最简单的方式找到最适合你的套牌！</value>
@@ -3277,7 +3277,7 @@
     <value>Collection up-to-date!</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
-    <value>Collection update queued...</value>
+    <value>等待更新收藏信息……</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
     <value>Last updated</value>
@@ -3286,7 +3286,7 @@
     <value>One more step to upload your collection:</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>Start Hearthstone and open the collection</value>
+    <value>启动《炉石传说》并打开我的收藏</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
     <value>Your collection will automatically update when</value>
@@ -3298,28 +3298,28 @@
     <value>我的收藏</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login to HSReplay.net</value>
+    <value>登录HSReplay.net账户</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>Waiting for authorization from HSReplay.net...</value>
+    <value>等待HSReplay.net认证……</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Try again</value>
+    <value>再试一次</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Trouble logging in? Contact us:</value>
+    <value>登录遇到问题？请联系我们：</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>电子邮件</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
     <value>Successfully logged in</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>登录</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
