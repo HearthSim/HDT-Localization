@@ -718,7 +718,7 @@
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>卡组垂直居中</value>
+    <value>套牌位置垂直居中</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
     <value>绿色标记手牌</value>
@@ -727,7 +727,7 @@
     <value>橙色标记抽牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>如果卡牌用光，不显示在卡组中</value>
+    <value>如果卡牌用光，不显示在套牌中</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>包括手牌创建的卡牌（例如幸运币）</value>
@@ -757,10 +757,10 @@
     <value>主题：</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>颜色:</value>
+    <value>颜色：</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
-    <value>职业图标:</value>
+    <value>职业图标：</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
     <value>卡牌主题：</value>
@@ -811,7 +811,7 @@
     <value>设置套牌名称</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
-    <value>名字中包括版本号</value>
+    <value>名称中包括版本号</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
     <value>自动清理卡牌</value>
@@ -871,7 +871,7 @@
     <value>套牌构筑时全称搜索</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>使用大写卡组名称</value>
+    <value>使用大写套牌名称</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
     <value>显示套牌最后使用日期</value>
@@ -1021,7 +1021,7 @@
     <value>关联账户</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>你可以在HSReplay.net上关联你的战网号(非国服)。这会打开你的网页浏览器。</value>
+    <value>你可以在HSReplay.net上关联你的战网号（非国服）。这会打开你的网页浏览器。</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>提交匿名数据</value>
