@@ -1819,7 +1819,7 @@
     <value>进入对战模式。</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>打开炉石并进入乱斗模式。</value>
+    <value>打开《炉石传说》并进入乱斗模式。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
     <value>进入乱斗模式。</value>
@@ -1831,7 +1831,7 @@
     <value>启动战网/炉石传说</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>等待《炉石传说》启动...</value>
+    <value>等待《炉石传说》启动……</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
     <value>包含“纳克萨玛斯的诅咒”系列的卡牌。</value>
@@ -1843,7 +1843,7 @@
     <value>包含“黑石山的火焰”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>包含“黑石山的火焰”系列的卡牌。</value>
+    <value>包含“冠军的试炼”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
     <value>包含“探险者协会”系列的卡牌。</value>
@@ -2017,7 +2017,7 @@
     <value>牧师</value>
   </data>
   <data name="Enum_HeroClass_Rogue" xml:space="preserve">
-    <value>盗贼</value>
+    <value>潜行者</value>
   </data>
   <data name="Enum_HeroClass_Shaman" xml:space="preserve">
     <value>萨满</value>
@@ -2080,7 +2080,7 @@
     <value>过去1天</value>
   </data>
   <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
-    <value>这周</value>
+    <value>本周</value>
   </data>
   <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
     <value>上周</value>
@@ -2089,7 +2089,7 @@
     <value>过去7天</value>
   </data>
   <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
-    <value>这月</value>
+    <value>本月</value>
   </data>
   <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
     <value>上月</value>
@@ -2107,7 +2107,7 @@
     <value>今天</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>这周</value>
+    <value>本周</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
     <value>当前赛季</value>
@@ -2218,13 +2218,13 @@
     <value>选项&gt;内嵌&gt;通用&gt;解锁</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
-    <value>(按钮在底部)。</value>
+    <value>（按钮在底部）。</value>
   </data>
   <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
     <value>更多信息可以点击此处。</value>
   </data>
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
-    <value>反馈BUG/需求功能</value>
+    <value>反馈BUG/提交建议</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
     <value>1）请查阅</value>
