@@ -364,13 +364,13 @@
     <value>移动到新窗口</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
-    <value>状态</value>
+    <value>数据</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
     <value>发现新版本</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>点击这里立刻更新</value>
+    <value>点击这里立即更新</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>启动战网/炉石传说</value>
@@ -451,7 +451,7 @@
     <value>卡拉赞之夜</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>名称...</value>
+    <value>名称……</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>存在重复的名称</value>
@@ -466,7 +466,7 @@
     <value>显示版本历史</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>套牌历史:</value>
+    <value>套牌历史：</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>新消息：</value>
