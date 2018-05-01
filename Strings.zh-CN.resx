@@ -790,7 +790,7 @@
     <value>删除已选项目</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>每天的第一次启动时自动创建备份。包含了卡组、游戏和配置。如果已有7个以上的备份（自动生成），最早的备份会被自动删除，让你至少有一周的备份。</value>
+    <value>每天的第一次启动时自动创建备份。包含了套牌、游戏和配置。如果已有7个以上的备份（自动生成），最早的备份会被自动删除，让你至少有一周的备份。</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>显示备份路径</value>
@@ -1111,7 +1111,7 @@
     <value>显示</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>（在卡组或者内嵌上）</value>
+    <value>（在套牌或者内嵌上）</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
     <value>版本：</value>
@@ -1141,7 +1141,7 @@
     <value>当删除套牌时保留统计数据*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>这会将数据移动到”职业默认卡组“中（相应的匹配数据会以无卡组状态保存）。这意味着删除竞技场卡组的同时会删除竞技场的统计数据！</value>
+    <value>这会将数据移动到”职业默认套牌“中（相应的匹配数据会以无套牌状态保存）。这意味着删除竞技场套牌的同时会删除竞技场的统计数据！</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>在单独的窗口中显示统计结果</value>
@@ -1759,7 +1759,7 @@
     <value>应用标签筛选器</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>使用“卡组选择器”&gt;“分类/筛选卡组”（双箭头）中当前的筛选规则。</value>
+    <value>使用“套牌选择器”>“分类/筛选套牌”（双箭头）中当前的筛选规则。</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>菜单</value>
@@ -2296,7 +2296,7 @@
     <value>归档</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>该套牌可以在标准模式下使用.</value>
+    <value>该套牌可以在标准模式下使用。</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
     <value>无记录</value>
@@ -2602,13 +2602,13 @@
     <value>继续……</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>所有/构筑卡组 筛选</value>
+    <value>套牌筛选：所有/构筑</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
     <value>筛选种类</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>竞技场卡组 筛选</value>
+    <value>套牌筛选：竞技场</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>筛选</value>
@@ -2743,16 +2743,16 @@
     <value>不再显示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择卡组已被禁用。\n\n建议开启此功能。</value>
+    <value>自动选择套牌已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>自动导入新构建卡组已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入新构建套牌已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>自动导入卡组更新已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入套牌更新已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>自动导入竞技场卡组已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入竞技场套牌已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>自动选择套牌（推荐）</value>
@@ -2776,7 +2776,7 @@
     <value>取消勾选此项以禁用弹出窗口的动画</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>尝试开启此项当你在导出套牌/卡牌名字时遇到问题（可能在键盘布局下无效）</value>
+    <value>尝试开启此项当你在导出套牌/卡牌名字时遇到问题（在某些键盘布局下可能无效）</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
     <value>嘀声于</value>
@@ -2815,7 +2815,7 @@
     <value>荣誉室</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>这副套牌只能用于“狂野”模式</value>
+    <value>这副套牌仅适用于狂野模式</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>该套牌有HSReplay.net提供的全球统计资料和选牌指南</value>
@@ -3019,16 +3019,16 @@
     <value>套牌统计、留牌指南</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>此卡组没有足够数据</value>
+    <value>此套牌没有足够的统计数据。</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>选择一个带HSReplay.net图标的卡组看全球统计</value>
+    <value>选择一个带有HSReplay.net图标的套牌来查看全球统计！</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
     <value>想试试一些新的套牌？</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>点击查看最新的热门套牌！</value>
+    <value>点击查看最近的热门套牌！</value>
   </data>
   <data name="Druid" xml:space="preserve">
     <value>德鲁伊</value>
@@ -3061,7 +3061,7 @@
     <value>没有回放数据</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>选一个套牌查看最近的对战</value>
+    <value>选一个套牌查看最近的对战！</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>显示“我的对局”区域</value>
