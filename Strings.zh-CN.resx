@@ -2233,7 +2233,7 @@
     <value>GitHub上的解决方案</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，甚至亲自动手修复它，并推送修改请求。如果您想要了解提交解决方案的更多详情，请</value>
+    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解提交解决方案的更多详情，请</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>点击这里。</value>
@@ -2242,7 +2242,7 @@
     <value>或</value>
   </data>
   <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
-    <value>2）发邮件到：support@hsdecktracker.net（只接受英文）</value>
+    <value>2）发送邮件到：support@hsdecktracker.net（只接受英文）</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub项目</value>
@@ -2335,7 +2335,7 @@
     <value>计时器</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>统计</value>
+    <value>数据</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>对手套牌</value>
@@ -2359,10 +2359,10 @@
     <value>以下卡牌在套牌中无法找到：</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>《炉石传说》需要重新启动!</value>
+    <value>《炉石传说》需要重新启动！</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
-    <value>注释这场游戏</value>
+    <value>给这场游戏添加说明</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
     <value>扩展包</value>
@@ -2449,7 +2449,7 @@
     <value>错误报告</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>HDT程序崩溃啦 :(。</value>
+    <value>HDT程序崩溃啦。:(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>错误：</value>
@@ -2635,7 +2635,7 @@
     <value>添加</value>
   </data>
   <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
-    <value>标签管理:</value>
+    <value>标签管理：</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
     <value>和</value>
@@ -2671,7 +2671,7 @@
     <value>许多翻译仍然缺少或者进行中。如果你想要帮忙，你可以点这里</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>浏览器打开本地化repo</value>
+    <value>用浏览器打开翻译repo</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>显示HearthStats菜单</value>
@@ -2683,7 +2683,7 @@
     <value>请选择：</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>导入《炉石传说》中</value>
+    <value>导入《炉石传说》</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>仅保存在HDT上</value>
@@ -2695,13 +2695,13 @@
     <value>套牌未找到</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>无法识别当前剪贴板中的网址或卡组信息。</value>
+    <value>无法识别当前剪贴板中的网址或套牌信息。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
     <value>粘贴行为</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>将网址或卡组粘贴（按下Ctrl+V）到HDT后，程序做出的响应</value>
+    <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的响应</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>手动操作</value>
@@ -2710,7 +2710,7 @@
     <value>仅保存在HDT上</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>导入《炉石传说》中</value>
+    <value>导入《炉石传说》</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
     <value>包含“龙争虎斗加基森”系列的卡牌。</value>
@@ -2743,22 +2743,22 @@
     <value>不再显示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择卡组已被禁用，推荐开启此此功能。</value>
+    <value>自动选择卡组已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>自动导入新构建卡组已被禁用，推荐开启此此功能。</value>
+    <value>自动导入新构建卡组已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>自动导入卡组更新已被禁用，推荐开启此此功能。</value>
+    <value>自动导入卡组更新已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>自动导入竞技场卡组已被禁用，推荐开启此此功能。</value>
+    <value>自动导入竞技场卡组已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择卡组（推荐）</value>
+    <value>自动选择套牌（推荐）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>显示被创建/回到手牌的卡（可知情况）</value>
+    <value>显示被创建/回到手牌的卡牌（可知情况）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>鼠标指针在静止一段时间后将会隐藏</value>
