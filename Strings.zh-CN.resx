@@ -3124,37 +3124,37 @@
     <value>取消</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
+    <value>复制卡牌名称到剪贴板时出错。</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>所选套牌不包含任何卡牌。</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Link Twitch Account on HSReplay.net</value>
+    <value>在HSReplay.net上关联Twitch帐号</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Install/Configure Twitch Extension</value>
+    <value>安装/设置Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Enable Twitch Extension integration</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
+    <value>直播：</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>Live</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>离线</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>直播</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Capturable Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Extension</value>
+    <value>Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>View full setup guide</value>
@@ -3172,19 +3172,19 @@
     <value>狗头人与地下世界：</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>地下城冒险</value>
+    <value>冒险</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>乱斗</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>地下城冒险套牌</value>
+    <value>冒险模式（非自己组牌）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>地下城冒险套牌模板</value>
+    <value>冒险模式套牌名称模板</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>包括被动卡牌</value>
