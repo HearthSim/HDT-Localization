@@ -823,7 +823,7 @@
     <value>强制清空卡牌间的搜索内容</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
-    <value>从剪贴板复制名称</value>
+    <value>从剪贴板粘贴名称</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>在导出前显示对话框</value>
@@ -1048,7 +1048,7 @@
     <value>显示启动加载画面</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
-    <value>《炉石传说》关闭时同时关闭</value>
+    <value>《炉石传说》关闭时自动关闭</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
     <value>启动HDT时自动打开《炉石传说》</value>
@@ -2872,7 +2872,7 @@
     <value>预览</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>复制到剪切板</value>
+    <value>复制到剪贴板</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
     <value>已复制！</value>
