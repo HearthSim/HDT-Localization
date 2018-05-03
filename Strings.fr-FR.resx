@@ -1561,7 +1561,7 @@
     <value>Rediffusion</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Commentaire</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
     <value>Rejouer</value>
@@ -1576,7 +1576,7 @@
     <value>Éditer</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Remarque</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>Déplacer</value>
@@ -2053,10 +2053,10 @@
     <value>Inconnue</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
-    <value>US</value>
+    <value>Amériques</value>
   </data>
   <data name="Enum_Region_EU" xml:space="preserve">
-    <value>EU</value>
+    <value>Europe</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
     <value>Asie</value>
@@ -3172,7 +3172,7 @@
     <value>Kobolds et Catacombes :</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
+    <value>Donjon</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Bras de fer</value>
@@ -3331,16 +3331,16 @@
     <value>My Replays</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Opening or closing the collection</value>
+    <value>• vous ouvrez ou fermez votre collection</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Closing the pack opening screen</value>
+    <value>• vous fermez l'écran d'ouverture de paquets</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
-    <value>Just start Hearthstone and open your collection.</value>
+    <value>Démarrez Hearthstone et ouvrez votre collection.</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>Start Hearthstone</value>
+    <value>Démarrez Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
     <value>Take your Twitch stream to the next level!</value>
