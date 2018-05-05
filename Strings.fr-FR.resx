@@ -3214,100 +3214,100 @@
     <value>Trouvez les meilleurs decks pour votre collection !</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+    <value>Connectez-vous pour accéder à vos rediffusions et activer toutes les fonctions de HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>Login to enable all HSReplay.net features.</value>
+    <value>Connectez-vous pour activer toutes les fonctions de HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>Les rediffusions sont téléversées sur</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
-    <value>Logged in as</value>
+    <value>Connecté(e) comme</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Collection uploading</value>
+    <value>Téléversement de la collection</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Replay uploading</value>
+    <value>Téléversement des rediffusions</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replays claimed</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Subscribed to Premium</value>
+    <value>Abonné(e) à Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>Activer maintenant</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Claim now</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>Merci pour votre soutien !</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Find out more</value>
+    <value>En savoir plus</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>Paramètres du compte</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>Voulez-vous réellement vous déconnecter ?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>New replays will no longer be attached to your account.</value>
+    <value>Les nouvelles rediffusions ne seront plus liées à votre compte.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
     <value>Logging back in will claim all new replays retroactively.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Se déconnecter</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
     <value>The easiest way to find the best decks for you!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Just upload your collection to HSReplay.net</value>
+    <value>Téléversez simplement votre collection sur HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Upload my collection automatically</value>
+    <value>Téléverser automatiquement ma collection</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
-    <value>Collection up-to-date!</value>
+    <value>Collection à jour !</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
     <value>Collection update queued...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Dernière mise à jour</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
-    <value>One more step to upload your collection:</value>
+    <value>Une étape supplémentaire pour mettre à jour votre collection :</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>Start Hearthstone and open the collection</value>
+    <value>Démarrez Hearthstone et ouvrez votre collection</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Your collection will automatically update when</value>
+    <value>Votre collection sera automatiquement mise à jour quand</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>My Account</value>
+    <value>Mon compte</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Collection</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login to HSReplay.net</value>
+    <value>Se connecter à HSReplay.net</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>Waiting for authorization from HSReplay.net...</value>
+    <value>En attente d'autorisation de HSReplay.net...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Try again</value>
+    <value>Réessayer</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Trouble logging in? Contact us:</value>
+    <value>Des problèmes pour vous connecter ? Contactez-nous :</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
@@ -3322,13 +3322,13 @@
     <value>Login</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
-    <value>Meta</value>
+    <value>Méta</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
     <value>Decks</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>My Replays</value>
+    <value>Mes rediffusions</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• vous ouvrez ou fermez votre collection</value>
