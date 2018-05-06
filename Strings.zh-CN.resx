@@ -3142,7 +3142,7 @@
     <value>直播：</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>Live</value>
+    <value>直播中</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
     <value>离线</value>
@@ -3238,7 +3238,7 @@
     <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>立即启用</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Claim now</value>
@@ -3247,7 +3247,7 @@
     <value>感谢您对我们的支持！</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Find out more</value>
+    <value>了解更多</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>账户设置</value>
@@ -3283,13 +3283,13 @@
     <value>Last updated</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
-    <value>One more step to upload your collection:</value>
+    <value>要上传你的收藏还有最后一步：</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
     <value>启动《炉石传说》并打开我的收藏</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Your collection will automatically update when</value>
+    <value>当你执行下面的操作时，你的收藏会自动更新</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>我的账户</value>
@@ -3331,10 +3331,10 @@
     <value>我的回放</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Opening or closing the collection</value>
+    <value>•打开或关闭收藏时</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Closing the pack opening screen</value>
+    <value>•关闭开包界面时</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
     <value>只需启动《炉石传说》并打开我的收藏。</value>
