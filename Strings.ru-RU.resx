@@ -295,7 +295,7 @@
     <value>Принудительно синхр.</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
-    <value>Синхр. при запуске</value>
+    <value>Синхронизация при запуске</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
     <value>Автовыгрузка новых колод</value>
@@ -1108,7 +1108,7 @@
     <value>Другое</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
-    <value>Display</value>
+    <value>Показать</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
     <value>(для колод и наложения)</value>
@@ -3370,9 +3370,9 @@
     <value>Ведьмин лес</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Код колоды</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>Свернуть в трей</value>
   </data>
 </root>
