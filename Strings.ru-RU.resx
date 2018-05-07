@@ -250,10 +250,10 @@
     <value>Имя в буфер</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>Снимок</value>
+    <value>Скриншот</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>Снимок (с инфой)</value>
+    <value>Скриншот (с инфой)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>Стат-а</value>
@@ -292,7 +292,7 @@
     <value>Синхр. сейчас</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
-    <value>Принудительно синхр.</value>
+    <value>Принудительная синхр.</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
     <value>Синхронизация при запуске</value>
@@ -3310,7 +3310,7 @@
     <value>Проблема со входом? Напиши нам (english):</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>Твиттер</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
     <value>Почт@</value>
