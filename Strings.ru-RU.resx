@@ -349,7 +349,7 @@
     <value>Заметки</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Сделать метку</value>
+    <value>Установить тег</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
     <value>Ошибки</value>
@@ -367,10 +367,10 @@
     <value>Стат-а</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Доступно свежее обновление</value>
+    <value>Доступно обновление HSDT</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>Тык сюда для обновления</value>
+    <value>Нажмите для обновления</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Запуск Hearthstone</value>
@@ -418,7 +418,7 @@
     <value>Только общие</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Basic" xml:space="preserve">
     <value>Базовые</value>
@@ -439,16 +439,16 @@
     <value>Чёрная гора</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
-    <value>Большой турнир</value>
+    <value>Большой Турнир</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>Лига исследователей</value>
+    <value>Лига Исследователей</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>Древние боги</value>
+    <value>Пробуждение Древних Богов</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
-    <value>Каражан</value>
+    <value>Вечеринка в Каражане</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
     <value>Имя...</value>
