@@ -781,19 +781,19 @@
     <value>Metroanimationen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>Ausgewähltes Wiederherstellen</value>
+    <value>Auswahl wiederherstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
     <value>Erstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Delete" xml:space="preserve">
-    <value>Ausgewähltes löschen</value>
+    <value>Auswahl löschen</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
+    <value>Sicherungen werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Sicherungen wird die älteste automatisch gelöscht, so dass immer die Sicherungen der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
-    <value>Backupverzeichnis anzeigen</value>
+    <value>Sicherungsverzeichnis anzeigen</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
     <value>Geschwindigkeit:</value>
@@ -829,7 +829,7 @@
     <value>Dialogbox vor Export anzeigen</value>
   </data>
   <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Meldungen:</value>
+    <value>Meldungen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
     <value>Hearthstone bei eigenem Zug blinken lassen</value>
@@ -976,7 +976,7 @@
     <value>Verfügbare Plugins</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>Plugin Ordner</value>
+    <value>Plugins-Ordner</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
@@ -1471,7 +1471,7 @@
     <value>Gewinnrate</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>nach Klasse</value>
+    <value>Nach Klasse</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
     <value>Gewinnrate als</value>
@@ -1714,7 +1714,7 @@
     <value>bis</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
-    <value>Klasse</value>
+    <value>Klasse:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
     <value>VS:</value>
