@@ -322,7 +322,7 @@
     <value>_Plugins</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
-    <value>Vide…</value>
+    <value>Vide...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
     <value>Options</value>
@@ -451,7 +451,7 @@
     <value>Une nuit à Karazhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>Nom…</value>
+    <value>Nom...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>Le nom existe déjà</value>
@@ -535,7 +535,7 @@
     <value>Paramètres</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>Nom de la case à cocher / description…</value>
+    <value>Nom de la case à cocher / description...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Rechercher</value>
@@ -1150,7 +1150,7 @@
     <value>Analytique</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
-    <value>Rechercher…</value>
+    <value>Rechercher...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
     <value>_Utiliser le deck</value>
@@ -1747,10 +1747,10 @@
     <value>Région :</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
-    <value>Nom de l'adversaire…</value>
+    <value>Nom de l'adversaire...</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
-    <value>Notes…</value>
+    <value>Notes...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
     <value>Inclure les decks archivés</value>
@@ -1759,7 +1759,7 @@
     <value>Appliquer les filtres d'étiquettes</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks &gt; Trier / filtrer les decks (bouton avec 2 flèches).</value>
+    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks > Trier / filtrer les decks (bouton avec 2 flèches).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -1831,7 +1831,7 @@
     <value>Démarrer le lanceur / Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>En attente de Hearthstone…</value>
+    <value>En attente de Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension La malédiction de Naxxramas.</value>
@@ -2257,7 +2257,7 @@
     <value>Le fichier</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>LisezMoi</value>
+    <value>readme</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>contient un bref aperçu de toutes les fonctionnalités.</value>
@@ -2323,13 +2323,13 @@
     <value>Passer</value>
   </data>
   <data name="SplashScreen_Text_Loading" xml:space="preserve">
-    <value>Chargement…</value>
+    <value>Chargement...</value>
   </data>
   <data name="SplashScreen_Text_Updating" xml:space="preserve">
-    <value>Mise à jour…</value>
+    <value>Mise à jour...</value>
   </data>
   <data name="SplashScreen_Text_Installing" xml:space="preserve">
-    <value>Installation…</value>
+    <value>Installation...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>Minuterie</value>
@@ -2359,7 +2359,7 @@
     <value>Cartes non trouvées dans le deck :</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Redémarrage de Hearthstone requis</value>
+    <value>Redémarrage de Hearthstone requis !</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
     <value>Notes pour cette partie</value>
@@ -2599,7 +2599,7 @@
     <value>Si cela n'aide pas, cliquez sur « Afficher les instructions » pour voir comment le mettre à jour manuellement.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
-    <value>Continuer…</value>
+    <value>Continuer...</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
     <value>Tri des decks : tous / construit</value>
@@ -2767,10 +2767,10 @@
     <value>Ne fonctionne que pour les périphériques mobiles (portable, tablette…).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay &gt; général &gt; déverrouiller.</value>
+    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay > général > déverrouiller.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay &gt; général &gt; déverrouiller.</value>
+    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay > général > déverrouiller.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Décocher pour désactiver la plupart des animations des boîtes de dialogue et menus volants</value>
@@ -2797,7 +2797,7 @@
     <value>Pour plus d'informations sur les formats de date, recherchez « format de date C# » sur Internet.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>Essayez d'activer ceci si vous avez des problèmes avec la détection du rang / classement.</value>
+    <value>Essayez d'activer ceci si vous avez des problèmes avec la détection du rang.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension Voyage au centre d’Un’Goro.</value>
@@ -2815,7 +2815,7 @@
     <value>Panthéon</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>Ce deck ne peut être utilisé qu'en mode libre.</value>
+    <value>Ce deck ne peut être utilisé qu'en mode libre</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>Des statistiques globales et informations de mulligan pour ce deck sont disponibles sur HSReplay.net</value>
@@ -2881,7 +2881,7 @@
     <value>Téléverser vers Imgur</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Téléversement…</value>
+    <value>Téléversement...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
     <value>Téléversement réussi</value>
@@ -2905,7 +2905,7 @@
     <value>Base de données des cartes</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>Rechercher…</value>
+    <value>Rechercher...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
     <value>Rechercher dans le texte des cartes</value>
@@ -3010,7 +3010,7 @@
     <value>Jouez quelques parties !</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Chargement…</value>
+    <value>Chargement...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>Matchups</value>

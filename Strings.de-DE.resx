@@ -277,10 +277,10 @@
     <value>Von Datei laden</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>Account beanspruchen</value>
+    <value>Konto beanspruchen</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
-    <value>Mein Account</value>
+    <value>Mein Konto</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
     <value>Einloggen</value>
@@ -355,7 +355,7 @@
     <value>Fehler</value>
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
-    <value>Update Notizen</value>
+    <value>Notizen aktualisieren</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
     <value>Deck Importieren</value>
@@ -598,13 +598,13 @@
     <value>Nur für Geheimnisse</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Zusätzliche Kartenhinweise</value>
+    <value>Zusätzliche Kartentooltips</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Kartenanimationen</value>
+    <value>Kartenanimationen verwenden</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Hinweise Kartenmarkierungen</value>
+    <value>Tooltips für Kartenmarkierungen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
     <value>Geheimnisse autom. ausgrauen</value>
@@ -652,7 +652,7 @@
     <value>Eigenschaften:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>Ausblenden wenn Freundesliste geöffnet ist</value>
+    <value>Deck bei geöffneter Freundesliste ausblenden</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
     <value>Geheimnisse zum Ausgrauen anklicken</value>
@@ -697,7 +697,7 @@
     <value>Erzeugte Karten anzeigen</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
-    <value>Aus dem Deck entfernte Karten hervorheben</value>
+    <value>Abeworfene Karten aus Deck hervorheben</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
     <value>Gleiche Skalierung für Spieler/Gegner</value>
@@ -739,7 +739,7 @@
     <value>Deaktiviere transparente Kartenübergänge (empfohlen)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Hintergrundfarbe:</value>
+    <value>Hintergrund:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
     <value>Fügt eine Chroma-Key-Fähige Kopie des Overlays hinter dem Hearthstone Fenster hinzu.</value>
@@ -781,7 +781,7 @@
     <value>Metroanimationen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>Ausgewähltes Wiederherstellen</value>
+    <value>Ausgewähltes wiederherstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
     <value>Erstellen</value>
@@ -790,10 +790,10 @@
     <value>Ausgewähltes löschen</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
+    <value>Sicherungen werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Sicherungen wird die älteste automatisch gelöscht, so dass immer die Sicherungen der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
-    <value>Backupverzeichnis anzeigen</value>
+    <value>Sicherungsverzeichnis anzeigen</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
     <value>Geschwindigkeit:</value>
@@ -829,7 +829,7 @@
     <value>Dialogbox vor Export anzeigen</value>
   </data>
   <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Meldungen:</value>
+    <value>Meldungen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
     <value>Hearthstone bei eigenem Zug blinken lassen</value>
@@ -934,7 +934,7 @@
     <value>Vorlage Arenadeckname</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>Vorlage:</value>
+    <value>Vorlagen:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>Vorschau:</value>
@@ -976,7 +976,7 @@
     <value>Verfügbare Plugins</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>Plugin Ordner</value>
+    <value>Plugins-Ordner</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
@@ -1015,7 +1015,7 @@
     <value>Zuschauermodus</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
-    <value>Accountstatus:</value>
+    <value>Kontostatus:</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
     <value>Account beanspruchen</value>
@@ -1471,7 +1471,7 @@
     <value>Gewinnrate</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>nach Klasse</value>
+    <value>Nach Klasse</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
     <value>Gewinnrate als</value>
@@ -1714,7 +1714,7 @@
     <value>bis</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
-    <value>Klasse</value>
+    <value>Klasse:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
     <value>VS:</value>
@@ -3022,7 +3022,7 @@
     <value>Wir haben nicht genügend Daten für das gewählte Deck.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Wähle ein Deck mit dem HSReplay.net Symbol für globale Daten.</value>
+    <value>Wähle ein Deck mit dem HSReplay.net-Symbol für globale Daten!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
     <value>Möchtest du was neues probieren?</value>
@@ -3061,7 +3061,7 @@
     <value>Keine Aufzeichnungsdaten vorhanden</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Wähle ein Deck um deine letzten Spiele anzusehen.</value>
+    <value>Wähle ein Deck um deine letzten Spiele anzusehen!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Meine Spiele Übersicht anzeigen</value>
@@ -3130,7 +3130,7 @@
     <value>Das gewählte Deck enthält keine Karten.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Twitch Account mit HSReplay.net verknüpfen</value>
+    <value>Twitch-Konto mit HSReplay.net verknüpfen</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Installiere/Konfiguriere Twitch Erweiterung</value>
@@ -3214,25 +3214,25 @@
     <value>Finde die besten Decks zu deiner Sammlung!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Logge dich ein um deine Aufzeichnungen zu sehen und aktiviere alle HSReplay.net Features.</value>
+    <value>Melde dich zur Verknüpfung deiner Aufzeichnungen und der Aktivierung aller HSReplay.net-Funktionen an.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>Login zum Aktivieren aller HSReplay.net Features.</value>
+    <value>Zur Aktivierung aller HSReplay.net-Funktionen anmelden.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
     <value>Aufzeichnungen werden hochgeladen zu</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
-    <value>Eingeloggt als</value>
+    <value>Angemeldet als</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Sammlung hochgeladen</value>
+    <value>Sammlung hochladen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Aufzeichnungen hochgeladen</value>
+    <value>Aufzeichnungen hochladen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Aufzeichnungen angefordert</value>
+    <value>Aufzeichnungen beansprucht</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>Premium abonniert</value>
@@ -3241,7 +3241,7 @@
     <value>Jetzt aktivieren</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Jetzt anfordern</value>
+    <value>Jetzt beanspruchen</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
     <value>Danke dass du uns unterstützt!</value>
@@ -3250,19 +3250,19 @@
     <value>Finde mehr heraus</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Einstellungen</value>
+    <value>Kontoeinstellungen</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Bist du sicher, dass du dich ausloggen möchtest?</value>
+    <value>Möchtest du dich wirklich abmelden?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>Neue Aufzeichnungen werden nicht mehr deinem Account hinzugefügt.</value>
+    <value>Neue Aufzeichnungen werden nicht mehr zu deinem Konto hinzugefügt.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
     <value>Erneutes Einloggen fordert alle neuen Aufzeichnungen rückwirkend an.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Ausloggen</value>
+    <value>Abmelden</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
     <value>Der einfachste Weg die besten Decks für dich zu finden!</value>
@@ -3292,7 +3292,7 @@
     <value>Deine Sammlung wird automatisch aktualisiert beim</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>Mein Account</value>
+    <value>Mein Konto</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Sammlung</value>
@@ -3352,10 +3352,10 @@
     <value>Einloggen zum Loslegen.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Verknüpfe deinen Twitch Account mit HSReplay.net.</value>
+    <value>Lass uns nun dein Twitch-Konto mit HSReplay.net verknüpfen.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch Account:</value>
+    <value>Twitch-Konto:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
     <value>Deck enthält Karten aus der Hexenwald Erweiterung.</value>
@@ -3373,6 +3373,6 @@
     <value>Deck-code</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>In Infobereich minimieren</value>
   </data>
 </root>
