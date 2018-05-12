@@ -283,7 +283,7 @@
     <value>Mein Konto</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
-    <value>Einloggen</value>
+    <value>Anmelden</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>Dashboard (Web)</value>
@@ -316,7 +316,7 @@
     <value>Ausgewählte Decks löschen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
-    <value>Ausloggen</value>
+    <value>Abmelden</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
     <value>_Plugins</value>
@@ -529,7 +529,7 @@
     <value>Sicherungen</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
-    <value>Ansicht</value>
+    <value>Erscheinungsbild</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Einstellungen</value>
@@ -601,7 +601,7 @@
     <value>Zusätzliche Kartentooltips</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Kartenanimationen verwenden</value>
+    <value>Kartenanimationen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>Tooltips für Kartenmarkierungen</value>
@@ -754,16 +754,16 @@
     <value>Sprache:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
-    <value>Ansicht:</value>
+    <value>Thema:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>Hervorhebungen:</value>
+    <value>Akzent:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
     <value>Klassensymbole:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
-    <value>Kartenansicht:</value>
+    <value>Kartenthema:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
     <value>Decklayout:</value>
@@ -778,7 +778,7 @@
     <value>Textfarbe Rot/Grün in Statistik Übersicht</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
-    <value>Metroanimationen</value>
+    <value>Metroanimationen verwenden</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
     <value>Ausgewähltes wiederherstellen</value>
@@ -910,7 +910,7 @@
     <value>Neue hinzufügen</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
-    <value>Drücke Taste</value>
+    <value>Taste betätigen</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
     <value>Deckbau</value>
@@ -988,7 +988,7 @@
     <value>Erstellt von</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Teilen Benachrichtigung anzeigen</value>
+    <value>Benachrichtigung zum Teilen anzeigen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Aufzeichnungen automatisch hochladen</value>
@@ -1018,7 +1018,7 @@
     <value>Kontostatus:</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
-    <value>Account beanspruchen</value>
+    <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Logge dich mit deinen Battle.net Zugangsdaten bei HSReplay.net ein um deine bestehenden Wiederholungen zu übernehmen (öffnet deinen Webbrowser). </value>
@@ -1096,7 +1096,7 @@
     <value>Ungewertet</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Spiel mit Freunden</value>
+    <value>Spiel gegen Freunde</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Abenteuer / Üben</value>
@@ -1318,7 +1318,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Arena Runs:</value>
+    <value>Arena Runs</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Klasse</value>
@@ -1834,25 +1834,25 @@
     <value>Warte auf Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Fluch von Naxxramas'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Fluch von Naxxramas'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Goblins gegen Gnome'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Goblins gegen Gnome'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Der Schwarzfels'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Der Schwarzfels'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Das Große Turnier'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Das Große Turnier'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Die Forscherliga'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Die Forscherliga'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Das Flüstern Der Alten Götter'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Das Flüstern Der Alten Götter'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Eine Nacht in Karazhan'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Eine Nacht in Karazhan'.</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Waffen</value>
@@ -2530,7 +2530,7 @@
     <value>Neustart erforderlich</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT muss neu gestarted werden, damit die Änderungen übernommen werden.</value>
+    <value>HDT muss neu gestartet werden um die Änderungen zu übernehmen.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
     <value>Jetzt neu starten</value>
@@ -2713,7 +2713,7 @@
     <value>In Hearthstone erstellen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Deck enthält Karten der 'Die Straßen von Gadgetzan' Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Die Straßen von Gadgetzan'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
     <value>Die Straßen von Gadgetzan:</value>
@@ -2800,7 +2800,7 @@
     <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck enthält Karten der "Reise nach Un'Goro" Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Reise nach Un'Goro'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>Reise nach Un'Goro:</value>
@@ -2878,19 +2878,19 @@
     <value>Kopiert!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload zu Imgur</value>
+    <value>Zu Imgur hochladen</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
     <value>Lade hoch...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload erfolgreich</value>
+    <value>Hochladen erfolgreich</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Öffne Ordner</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
     <value>Versionshistorie</value>
@@ -2902,7 +2902,7 @@
     <value>Deck</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Karten Datenbank</value>
+    <value>Kartendatenbank</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
     <value>Suche...</value>
@@ -2953,7 +2953,7 @@
     <value>Exportieren</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck Editor</value>
+    <value>Deckeditor</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Aus Deck Code</value>
@@ -3007,10 +3007,10 @@
     <value>Keine Daten.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Mache ein paar Spiele!</value>
+    <value>Spiel ein paar Spiele!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Lade...</value>
+    <value>Wird geladen...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>Begegnungen</value>
@@ -3025,7 +3025,7 @@
     <value>Wähle ein Deck mit dem HSReplay.net-Symbol für globale Daten!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Möchtest du was neues probieren?</value>
+    <value>Möchtest du etwas Neues probieren?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
     <value>Schaue dir unsere Decktrends an!</value>
@@ -3103,7 +3103,7 @@
     <value>Verlassen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck enthält Karten der Ritter des Frostthrons Erweiterung</value>
+    <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
     <value>Ritter des Frostthrons:</value>
@@ -3163,7 +3163,7 @@
     <value>Kobolde und Katakomben</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck enthält Karten aus der Kobolde und Katakomben Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Kobolde und Katakomben'.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>Kobolde und Katakomben</value>
@@ -3202,13 +3202,13 @@
     <value>Ein neues BETA Update steht zur Verfügung</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Klicke "Download" um automatisch upzudaten.</value>
+    <value>Klicke "Download" zur automatischen Aktualisierung.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Hearthstone bei Herausforderung blinken lassen</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>Neues HSReplay.net Feature: Sammlung hochladen</value>
+    <value>Neues HSReplay.net-Funktion: Sammlung hochladen</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Finde die besten Decks zu deiner Sammlung!</value>
@@ -3244,7 +3244,7 @@
     <value>Jetzt beanspruchen</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Danke dass du uns unterstützt!</value>
+    <value>Danke, dass du uns unterstützt!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
     <value>Finde mehr heraus</value>
@@ -3259,7 +3259,7 @@
     <value>Neue Aufzeichnungen werden nicht mehr zu deinem Konto hinzugefügt.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Erneutes Einloggen fordert alle neuen Aufzeichnungen rückwirkend an.</value>
+    <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Aufzeichnungen.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>Abmelden</value>
@@ -3298,16 +3298,16 @@
     <value>Sammlung</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login zu HSReplay.net</value>
+    <value>Bei HSReplay.net anmelden</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>Warte auf Authentifizierung von HSReplay.net...</value>
+    <value>Warte auf Autorisierung von HSReplay.net...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Nochmal versuchen</value>
+    <value>Erneut versuchen</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Probleme beim Einloggen? Kontaktiere uns:</value>
+    <value>Probleme beim Anmelden? Kontaktiere uns:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
@@ -3316,10 +3316,10 @@
     <value>E-Mail</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Erfolgreich eingeloggt</value>
+    <value>Erfolgreich angemeldet</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Einloggen</value>
+    <value>Anmelden</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
@@ -3349,7 +3349,7 @@
     <value>Mit interaktivem Overlay, Live-Decktracking und mehr.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Einloggen zum Loslegen.</value>
+    <value>Melde dich an, um loszulegen.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
     <value>Lass uns nun dein Twitch-Konto mit HSReplay.net verknüpfen.</value>
@@ -3358,7 +3358,7 @@
     <value>Twitch-Konto:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck enthält Karten aus der Hexenwald Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Der Hexenwald'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
     <value>Der Hexenwald:</value>
