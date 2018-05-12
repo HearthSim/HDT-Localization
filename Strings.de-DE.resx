@@ -1318,7 +1318,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Arena Runs:</value>
+    <value>Arena Runs</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Klasse</value>
@@ -1834,25 +1834,25 @@
     <value>Warte auf Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Fluch von Naxxramas'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Fluch von Naxxramas'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Goblins gegen Gnome'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Goblins gegen Gnome'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Der Schwarzfels'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Der Schwarzfels'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Das Große Turnier'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Das Große Turnier'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Die Forscherliga'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Die Forscherliga'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Das Flüstern Der Alten Götter'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Das Flüstern Der Alten Götter'.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Deck enthält Karten aus der Erweiterung 'Eine Nacht in Karazhan'.</value>
+    <value>Deck enthält Karten der Erweiterung 'Eine Nacht in Karazhan'.</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Waffen</value>
@@ -2530,7 +2530,7 @@
     <value>Neustart erforderlich</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT muss neu gestarted werden, damit die Änderungen übernommen werden.</value>
+    <value>HDT muss neu gestartet werden um die Änderungen zu übernehmen.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
     <value>Jetzt neu starten</value>
@@ -2713,7 +2713,7 @@
     <value>In Hearthstone erstellen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Deck enthält Karten der 'Die Straßen von Gadgetzan' Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Die Straßen von Gadgetzan'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
     <value>Die Straßen von Gadgetzan:</value>
@@ -2800,7 +2800,7 @@
     <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck enthält Karten der "Reise nach Un'Goro" Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Reise nach Un'Goro'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>Reise nach Un'Goro:</value>
@@ -2878,7 +2878,7 @@
     <value>Kopiert!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload zu Imgur</value>
+    <value>Zu Imgur hochladen</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
     <value>Lade hoch...</value>
@@ -3103,7 +3103,7 @@
     <value>Verlassen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck enthält Karten der Ritter des Frostthrons Erweiterung</value>
+    <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
     <value>Ritter des Frostthrons:</value>
@@ -3163,7 +3163,7 @@
     <value>Kobolde und Katakomben</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck enthält Karten aus der Kobolde und Katakomben Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Kobolde und Katakomben'.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>Kobolde und Katakomben</value>
@@ -3202,7 +3202,7 @@
     <value>Ein neues BETA Update steht zur Verfügung</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Klicke "Download" um automatisch upzudaten.</value>
+    <value>Klicke "Download" zur automatischen Aktualisierung.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Hearthstone bei Herausforderung blinken lassen</value>
@@ -3358,7 +3358,7 @@
     <value>Twitch-Konto:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck enthält Karten aus der Hexenwald Erweiterung.</value>
+    <value>Deck enthält Karten der Erweiterung 'Der Hexenwald'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
     <value>Der Hexenwald:</value>
