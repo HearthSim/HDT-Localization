@@ -1096,7 +1096,7 @@
     <value>Ungewertet</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Spiel mit Freunden</value>
+    <value>Spiel gegen Freunde</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Abenteuer / Üben</value>
@@ -2884,13 +2884,13 @@
     <value>Lade hoch...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload erfolgreich</value>
+    <value>Hochladen erfolgreich</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Öffne Ordner</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
     <value>Versionshistorie</value>
@@ -2902,7 +2902,7 @@
     <value>Deck</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Karten Datenbank</value>
+    <value>Kartendatenbank</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
     <value>Suche...</value>
@@ -2953,7 +2953,7 @@
     <value>Exportieren</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck Editor</value>
+    <value>Deckeditor</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Aus Deck Code</value>
@@ -3007,10 +3007,10 @@
     <value>Keine Daten.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Mache ein paar Spiele!</value>
+    <value>Spiel ein paar Spiele!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Lade...</value>
+    <value>Wird geladen...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>Begegnungen</value>
@@ -3025,7 +3025,7 @@
     <value>Wähle ein Deck mit dem HSReplay.net-Symbol für globale Daten!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Möchtest du was neues probieren?</value>
+    <value>Möchtest du etwas Neues probieren?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
     <value>Schaue dir unsere Decktrends an!</value>
@@ -3208,7 +3208,7 @@
     <value>Hearthstone bei Herausforderung blinken lassen</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>Neues HSReplay.net Feature: Sammlung hochladen</value>
+    <value>Neues HSReplay.net-Funktion: Sammlung hochladen</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Finde die besten Decks zu deiner Sammlung!</value>
@@ -3244,7 +3244,7 @@
     <value>Jetzt beanspruchen</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Danke dass du uns unterstützt!</value>
+    <value>Danke, dass du uns unterstützt!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
     <value>Finde mehr heraus</value>
@@ -3304,7 +3304,7 @@
     <value>Warte auf Autorisierung von HSReplay.net...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Nochmal versuchen</value>
+    <value>Erneut versuchen</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
     <value>Probleme beim Anmelden? Kontaktiere uns:</value>
@@ -3349,7 +3349,7 @@
     <value>Mit interaktivem Overlay, Live-Decktracking und mehr.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Anmelden zum Loslegen.</value>
+    <value>Melde dich an, um loszulegen.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
     <value>Lass uns nun dein Twitch-Konto mit HSReplay.net verknüpfen.</value>
