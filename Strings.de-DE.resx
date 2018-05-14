@@ -1021,7 +1021,7 @@
     <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Logge dich mit deinen Battle.net Zugangsdaten bei HSReplay.net ein um deine bestehenden Wiederholungen zu übernehmen (öffnet deinen Webbrowser). </value>
+    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufnahmen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
@@ -1186,7 +1186,7 @@
     <value>Öffne _Webseite</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>Öffne HearthStats</value>
+    <value>HearthStats öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>_Archivieren</value>
@@ -2245,7 +2245,7 @@
     <value>2) Sende eine Email an support@hsdecktracker.net (nur Englisch)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
-    <value>GitHub Projekt</value>
+    <value>GitHub-Projekt</value>
   </data>
   <data name="Help_Github_Text1" xml:space="preserve">
     <value>Das Projekt findest du</value>
@@ -2257,7 +2257,7 @@
     <value>Die</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>ReadMe</value>
+    <value>Readme</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>enthält eine Kurzübersicht aller Features.</value>
@@ -2359,7 +2359,7 @@
     <value>Karten die nicht im Deck gefunden wurden:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Hearthstone muss neu gestarted werden!</value>
+    <value>Hearthstone muss neu gestartet werden!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
     <value>Notiz zu diesem Spiel</value>
