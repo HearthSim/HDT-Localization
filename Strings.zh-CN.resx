@@ -1867,19 +1867,19 @@
     <value>英雄牌</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>构成</value>
+    <value>关键词组成</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
-    <value>隐藏</value>
+    <value>隐藏关键词</value>
   </data>
   <data name="Enum_StatType_Mana" xml:space="preserve">
     <value>法力值</value>
   </data>
   <data name="Enum_StatType_Health" xml:space="preserve">
-    <value>生命</value>
+    <value>生命值</value>
   </data>
   <data name="Enum_StatType_Attack" xml:space="preserve">
-    <value>攻击</value>
+    <value>攻击力</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
     <value>过载</value>
@@ -2983,7 +2983,7 @@
     <value>来自HSReplay.net的全球统计数据</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>我的对决</value>
+    <value>我的对战记录</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>已筛选</value>
