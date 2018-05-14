@@ -301,13 +301,13 @@
     <value>自动上传新套牌</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>自动上传游戏</value>
+    <value>自动上传游戏记录</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
     <value>自动删除套牌</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
-    <value>自动删除记录</value>
+    <value>自动删除游戏记录</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
     <value>后台自动同步</value>
