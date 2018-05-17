@@ -2161,7 +2161,7 @@
     <value>幸运币</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>换牌</value>
+    <value>起手换过的牌</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
     <value>回手的牌</value>
@@ -2170,7 +2170,7 @@
     <value>额外创建的牌</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>百分比</value>
+    <value>概率计算</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
     <value>通用：</value>
@@ -2233,7 +2233,7 @@
     <value>GitHub上的问题反馈专区</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解提交解决方案的更多详情，请</value>
+    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>点击这里。</value>
@@ -2494,13 +2494,13 @@
     <value>取消</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>放弃游戏记录？</value>
+    <value>放弃该游戏记录？</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>卡牌与所选记录的套牌不符</value>
+    <value>卡牌与所选套牌的记录不符</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>换牌</value>
+    <value>舍弃</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
     <value>继续</value>
@@ -2599,7 +2599,7 @@
     <value>如果没有得到帮助，请单击“显示说明”，查看如何手动更新它。</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
-    <value>继续……</value>
+    <value>更多……</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
     <value>套牌筛选：所有/构筑</value>
