@@ -745,7 +745,7 @@
     <value>Fügt eine Chroma-Key-Fähige Kopie des Overlays hinter dem Hearthstone Fenster hinzu.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Hinweis: Die Overlay Kopie kann einmal im Vordergrund angezeigt werden. Anklicken versteckt diese für die restliche Sitzung.</value>
+    <value>Hinweis: Die Kopie des Overlays kann einmal im Vordergrund angezeigt werden. Anklicken versteckt diese für die restliche Sitzung.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Anleitung zum Loslegen (öffnet Wiki) anzeigen</value>
@@ -853,7 +853,7 @@
     <value>Nutze Standardfont für Nicht-Lateinische Sprachen</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
-    <value>Neu starten um Änderungen zu übernehmen.</value>
+    <value>Zur Übernahme der Sprachänderungen neu starten.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>"Benutze" Decks automatisch (deaktiviert Button bei Decks)</value>
@@ -877,7 +877,7 @@
     <value>Datum wann das Deck zuletzt gespielt wurde anzeigen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arena Decks nach Abschluss</value>
+    <value>Archiviere Arena-Decks nach Abschluss</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -964,7 +964,7 @@
     <value>Sekunden</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Arena Belohnungsdialog anzeigen wenn abgeschlossen</value>
+    <value>Arena-Belohnungsdialog anzeigen wenn abgeschlossen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>Notizen Dialog nach jedem Spiel anzeigen</value>
@@ -1225,7 +1225,7 @@
     <value>Siege/Niederl. gegen Klasse</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
-    <value>Spiele:</value>
+    <value>Durchläufe:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
     <value>% von allen</value>
@@ -1243,7 +1243,7 @@
     <value>Gewinnrate:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
-    <value>Bester Run:</value>
+    <value>Bester Durchlauf:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRunFallback" xml:space="preserve">
     <value>Keiner</value>
@@ -1318,7 +1318,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Arenadurchläufe</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Klasse</value>
@@ -1435,7 +1435,7 @@
     <value>Meist gewähltes</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>Letzt gewähltes</value>
+    <value>Seltensten gewähltes</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
     <value>Druide</value>
@@ -1657,7 +1657,7 @@
     <value>Region:</value>
   </data>
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
-    <value>Archiv-Runs einbeziehen</value>
+    <value>Archivierte Durchläufe einbeziehen</value>
   </data>
   <data name="ArenaRewards_Label_Gold" xml:space="preserve">
     <value>Gold</value>
@@ -1765,13 +1765,13 @@
     <value>Menü</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Arenadurchläufe</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>Zusammenfassung</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Runs &amp; Matches</value>
+    <value>Durchläufe &amp; Spiele</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Ausführliche Diagramme</value>
@@ -2530,7 +2530,7 @@
     <value>Neustart erforderlich</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT muss neu gestartet werden um die Änderungen zu übernehmen.</value>
+    <value>HDT muss zur Übernahme der Änderungen neu gestartet werden.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
     <value>Jetzt neu starten</value>
@@ -3133,10 +3133,10 @@
     <value>Twitch-Konto mit HSReplay.net verknüpfen</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Installiere/Konfiguriere Twitch Erweiterung</value>
+    <value>Installiere/Konfiguriere Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Aktiviere Integration von Twitch Erweiterung</value>
+    <value>Aktiviere Integration der Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream:</value>
@@ -3154,7 +3154,7 @@
     <value>Greifbares Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Erweiterung</value>
+    <value>Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Setup Anleitung aufrufen</value>
@@ -3178,7 +3178,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Schatzjagd</value>
+    <value>Schatzjagden</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Neue Decks automatisch importieren</value>
