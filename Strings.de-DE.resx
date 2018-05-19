@@ -298,7 +298,7 @@
     <value>Beim Start synchronisieren</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Deck automatisch hochladen</value>
+    <value>Neue Decks automatisch hochladen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
     <value>Spiele automatisch hochladen</value>
@@ -310,7 +310,7 @@
     <value>Spiele automatisch löschen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Automatisch synchronisieren</value>
+    <value>Automatisch im Hintergrund synchronisieren</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Ausgewählte Decks löschen</value>
@@ -1012,7 +1012,7 @@
     <value>Abenteuer/Üben</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
-    <value>Zuschauermodus</value>
+    <value>Zuschauer</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
     <value>Kontostatus:</value>
@@ -1021,7 +1021,7 @@
     <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufnahmen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
+    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufzeichnungen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
@@ -1102,7 +1102,7 @@
     <value>Abenteuer / Üben</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Spectator" xml:space="preserve">
-    <value>Zuschauermodus</value>
+    <value>Zuschauer</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
     <value>Sonstige</value>
