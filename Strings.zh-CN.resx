@@ -214,7 +214,7 @@
     <value>通过游戏 竞技场(_A)</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>通过游戏 乱斗(_T)</value>
+    <value>通过游戏 乱斗模式(_T)</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>其他</value>
@@ -301,13 +301,13 @@
     <value>自动上传新套牌</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>自动上传游戏</value>
+    <value>自动上传游戏记录</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
     <value>自动删除套牌</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
-    <value>自动删除记录</value>
+    <value>自动删除游戏记录</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
     <value>后台自动同步</value>
@@ -916,28 +916,28 @@
     <value>构筑</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>当你每次进入“对战模式”，将自动更新套牌。</value>
+    <value>每当你进入“对战模式”时，程序将自动检测套牌更新。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>自动更新修改后的套牌</value>
+    <value>自动更新修改过的套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>竞技场</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>导入方法：</value>
+    <value>导入方式：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>竞技场套牌名称模板</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>模板：</value>
+    <value>可用格式：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
-    <value>预览：</value>
+    <value>效果预览：</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>修改</value>
@@ -979,13 +979,13 @@
     <value>插件文件夹</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>开启</value>
+    <value>启用</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>关闭</value>
+    <value>禁用</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>作者</value>
+    <value>作者：</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>显示分享通知</value>
@@ -1495,13 +1495,13 @@
     <value>游戏场均：</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
-    <value>最佳对决：</value>
+    <value>最佳对战：</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
     <value>无</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
-    <value>最差对决：</value>
+    <value>最差对战：</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
     <value>无</value>
@@ -1867,19 +1867,19 @@
     <value>英雄牌</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>构成</value>
+    <value>关键词组成</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
-    <value>隐藏</value>
+    <value>隐藏关键词</value>
   </data>
   <data name="Enum_StatType_Mana" xml:space="preserve">
     <value>法力值</value>
   </data>
   <data name="Enum_StatType_Health" xml:space="preserve">
-    <value>生命</value>
+    <value>生命值</value>
   </data>
   <data name="Enum_StatType_Attack" xml:space="preserve">
-    <value>攻击</value>
+    <value>攻击力</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
     <value>过载</value>
@@ -2149,7 +2149,7 @@
     <value>FAQ</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
-    <value>前往FAQ。</value>
+    <value>前往FAQ（GitHub）。</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
     <value>内嵌</value>
@@ -2161,7 +2161,7 @@
     <value>幸运币</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>换牌</value>
+    <value>起手换过的牌</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
     <value>回手的牌</value>
@@ -2170,7 +2170,7 @@
     <value>额外创建的牌</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>百分比</value>
+    <value>概率计算</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
     <value>通用：</value>
@@ -2230,10 +2230,10 @@
     <value>1）请查阅</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>GitHub上的解决方案</value>
+    <value>GitHub上的问题反馈专区</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解提交解决方案的更多详情，请</value>
+    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>点击这里。</value>
@@ -2494,13 +2494,13 @@
     <value>取消</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>放弃游戏记录？</value>
+    <value>放弃该游戏记录？</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>卡牌与所选记录的套牌不符</value>
+    <value>卡牌与所选套牌的记录不符</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>换牌</value>
+    <value>舍弃</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
     <value>继续</value>
@@ -2599,7 +2599,7 @@
     <value>如果没有得到帮助，请单击“显示说明”，查看如何手动更新它。</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
-    <value>继续……</value>
+    <value>更多……</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
     <value>套牌筛选：所有/构筑</value>
@@ -2698,10 +2698,10 @@
     <value>无法识别当前剪贴板中的网址或套牌信息。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>粘贴行为</value>
+    <value>粘贴行为：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的响应</value>
+    <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的反应</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>手动操作</value>
@@ -2983,7 +2983,7 @@
     <value>来自HSReplay.net的全球统计数据</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>我的对决</value>
+    <value>我的对战记录</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>已筛选</value>
@@ -3061,7 +3061,7 @@
     <value>没有回放数据</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>选一个套牌查看最近的对战！</value>
+    <value>选择一个套牌来查看对战记录！</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>显示“我的对局”区域</value>
@@ -3178,7 +3178,7 @@
     <value>乱斗</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（非自己组牌）</value>
+    <value>冒险模式（地下城冒险、怪物狩猎）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>

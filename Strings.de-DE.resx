@@ -298,7 +298,7 @@
     <value>Beim Start synchronisieren</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Deck automatisch hochladen</value>
+    <value>Neue Decks automatisch hochladen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
     <value>Spiele automatisch hochladen</value>
@@ -310,7 +310,7 @@
     <value>Spiele automatisch löschen</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Automatisch synchronisieren</value>
+    <value>Automatisch im Hintergrund synchronisieren</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Ausgewählte Decks löschen</value>
@@ -688,7 +688,7 @@
     <value>Zauberzähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Gesamtangriff des Boards anzeigen</value>
+    <value>Spielfeld-Angriffszähler anzeigen</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
@@ -697,7 +697,7 @@
     <value>Erzeugte Karten anzeigen</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
-    <value>Abeworfene Karten aus Deck hervorheben</value>
+    <value>Abgeworfene Karten aus Deck hervorheben</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
     <value>Gleiche Skalierung für Spieler/Gegner</value>
@@ -715,7 +715,7 @@
     <value>Zauberzähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Gesamtangriff des Boards anzeigen</value>
+    <value>Spielfeld-Angriffszähler anzeigen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
@@ -733,7 +733,7 @@
     <value>Karten die in der Hand erzeugt wurden (z.B. Münze) anzeigen</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Greifbares Overlay Fenster anzeigen</value>
+    <value>Aufnehmbares Overlay-Fenster anzeigen</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Deaktiviere transparente Kartenübergänge (empfohlen)</value>
@@ -745,7 +745,7 @@
     <value>Fügt eine Chroma-Key-Fähige Kopie des Overlays hinter dem Hearthstone Fenster hinzu.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Hinweis: Die Overlay Kopie kann einmal im Vordergrund angezeigt werden. Anklicken versteckt diese für die restliche Sitzung.</value>
+    <value>Hinweis: Die Kopie des Overlays kann einmal im Vordergrund angezeigt werden. Anklicken versteckt diese für die restliche Sitzung.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Anleitung zum Loslegen (öffnet Wiki) anzeigen</value>
@@ -853,7 +853,7 @@
     <value>Nutze Standardfont für Nicht-Lateinische Sprachen</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
-    <value>Neu starten um Änderungen zu übernehmen.</value>
+    <value>Zur Übernahme der Sprachänderungen neu starten.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>"Benutze" Decks automatisch (deaktiviert Button bei Decks)</value>
@@ -877,7 +877,7 @@
     <value>Datum wann das Deck zuletzt gespielt wurde anzeigen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arena Decks nach Abschluss</value>
+    <value>Archiviere Arena-Decks nach Abschluss</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -922,7 +922,7 @@
     <value>Neue Decks automatisch importieren</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Geänderte Decks automatisch updaten</value>
+    <value>Veränderte Decks automatisch aktualisieren</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -964,7 +964,7 @@
     <value>Sekunden</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Arena Belohnungsdialog anzeigen wenn abgeschlossen</value>
+    <value>Arena-Belohnungsdialog anzeigen wenn abgeschlossen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>Notizen Dialog nach jedem Spiel anzeigen</value>
@@ -1021,7 +1021,7 @@
     <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Logge dich mit deinen Battle.net Zugangsdaten bei HSReplay.net ein um deine bestehenden Wiederholungen zu übernehmen (öffnet deinen Webbrowser). </value>
+    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufzeichnungen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
@@ -1045,7 +1045,7 @@
     <value>Minimieren im Infobereich</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>Ladebildschirm</value>
+    <value>Ladebildschirm anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
     <value>Mit Hearthstone beenden</value>
@@ -1054,7 +1054,7 @@
     <value>Hearthstone mit HDT starten</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
-    <value>Auf Updates prüfen</value>
+    <value>Auf Aktualisierungen prüfen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
     <value>Auf BETA Updates prüfen</value>
@@ -1069,16 +1069,16 @@
     <value>Neuigkeitenleiste anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
-    <value>Hearthstone-Pfad einstellen</value>
+    <value>Hearthstone-Pfad setzen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
     <value>AppData-Ordner öffnen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
-    <value>Daten Pfad einstellen</value>
+    <value>Datenpfad setzen</value>
   </data>
   <data name="Options_Tracker_Settings_Button_LogDirectory" xml:space="preserve">
-    <value>Hearthstone Log-Verzeichnis einstellen</value>
+    <value>Hearthstone Log-Verzeichnis setzen</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
     <value>Erfasse</value>
@@ -1135,7 +1135,7 @@
     <value>Spiele mit null Zügen verwerfen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Lokale Aufzeichnungen übernehmen</value>
+    <value>Lokale Aufzeichnungen anlegen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Statistiken behalten wenn ein Deck gelöscht wird*</value>
@@ -1186,7 +1186,7 @@
     <value>Öffne _Webseite</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>Öffne HearthStats</value>
+    <value>HearthStats öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>_Archivieren</value>
@@ -1225,7 +1225,7 @@
     <value>Siege/Niederl. gegen Klasse</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
-    <value>Spiele:</value>
+    <value>Durchläufe:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
     <value>% von allen</value>
@@ -1237,13 +1237,13 @@
     <value>Stunden gespielt:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_AverageWins" xml:space="preserve">
-    <value>Schnitt Siege:</value>
+    <value>Durschnittliche Siege:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
     <value>Gewinnrate:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
-    <value>Bester Run:</value>
+    <value>Bester Durchlauf:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRunFallback" xml:space="preserve">
     <value>Keiner</value>
@@ -1318,7 +1318,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Arenadurchläufe</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Klasse</value>
@@ -1351,7 +1351,7 @@
     <value>Region</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
-    <value>Belohnung bearbeiten</value>
+    <value>Belohnungen bearbeiten</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
     <value>Eig. Deck anzeigen</value>
@@ -1384,7 +1384,7 @@
     <value>Name</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Turns" xml:space="preserve">
-    <value>Runden</value>
+    <value>Züge</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Coin" xml:space="preserve">
     <value>Münze</value>
@@ -1435,7 +1435,7 @@
     <value>Meist gewähltes</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>Letzt gewähltes</value>
+    <value>Seltensten gewähltes</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
     <value>Druide</value>
@@ -1543,7 +1543,7 @@
     <value>Rang</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Turns" xml:space="preserve">
-    <value>Runden</value>
+    <value>Züge</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Coin" xml:space="preserve">
     <value>Münze</value>
@@ -1657,7 +1657,7 @@
     <value>Region:</value>
   </data>
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
-    <value>Archiv-Runs einbeziehen</value>
+    <value>Archivierte Durchläufe einbeziehen</value>
   </data>
   <data name="ArenaRewards_Label_Gold" xml:space="preserve">
     <value>Gold</value>
@@ -1735,7 +1735,7 @@
     <value>Ergebnis:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Turns" xml:space="preserve">
-    <value>Runden:</value>
+    <value>Züge:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
     <value>bis</value>
@@ -1765,13 +1765,13 @@
     <value>Menü</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Arenadurchläufe</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>Zusammenfassung</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Runs &amp; Matches</value>
+    <value>Durchläufe &amp; Spiele</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Ausführliche Diagramme</value>
@@ -2197,7 +2197,7 @@
     <value>Anpassung</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
-    <value>Fast alles im Overlay kann an- und ausgeschaltet, bewegt und in der Größe verändert werden.</value>
+    <value>Fast alles im Overlay kann ein- und ausgeschaltet, bewegt und in der Größe verändert werden.</value>
   </data>
   <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
     <value>Ein/Aus:</value>
@@ -2245,7 +2245,7 @@
     <value>2) Sende eine Email an support@hsdecktracker.net (nur Englisch)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
-    <value>GitHub Projekt</value>
+    <value>GitHub-Projekt</value>
   </data>
   <data name="Help_Github_Text1" xml:space="preserve">
     <value>Das Projekt findest du</value>
@@ -2257,7 +2257,7 @@
     <value>Die</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>ReadMe</value>
+    <value>Readme</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>enthält eine Kurzübersicht aller Features.</value>
@@ -2359,7 +2359,7 @@
     <value>Karten die nicht im Deck gefunden wurden:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Hearthstone muss neu gestarted werden!</value>
+    <value>Hearthstone muss neu gestartet werden!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
     <value>Notiz zu diesem Spiel</value>
@@ -2413,7 +2413,7 @@
     <value>Aufgegeben:</value>
   </data>
   <data name="AddGameDialog_Label_Turns" xml:space="preserve">
-    <value>Runden:</value>
+    <value>Züge:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
     <value>Dauer (Min.):</value>
@@ -2530,7 +2530,7 @@
     <value>Neustart erforderlich</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT muss neu gestartet werden um die Änderungen zu übernehmen.</value>
+    <value>HDT muss zur Übernahme der Änderungen neu gestartet werden.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
     <value>Jetzt neu starten</value>
@@ -3133,10 +3133,10 @@
     <value>Twitch-Konto mit HSReplay.net verknüpfen</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Installiere/Konfiguriere Twitch Erweiterung</value>
+    <value>Installiere/Konfiguriere Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Aktiviere Integration von Twitch Erweiterung</value>
+    <value>Aktiviere Integration der Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream:</value>
@@ -3154,7 +3154,7 @@
     <value>Greifbares Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Erweiterung</value>
+    <value>Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Setup Anleitung aufrufen</value>
@@ -3178,7 +3178,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Schatzjagd</value>
+    <value>Schatzjagden</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Neue Decks automatisch importieren</value>

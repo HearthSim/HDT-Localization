@@ -2059,7 +2059,7 @@
     <value>Europa</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
-    <value>Asia</value>
+    <value>Ásia</value>
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
     <value>China</value>
@@ -2161,7 +2161,7 @@
     <value>A moeda</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Mulliganed</value>
+    <value>Mulligado</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
     <value>Retornou</value>
@@ -2224,7 +2224,7 @@
     <value>Informação adicional pode ser encontrada aqui.</value>
   </data>
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
-    <value>Reportar erros / segestões</value>
+    <value>Reportar erros / sugestões</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
     <value>1) Confira</value>
@@ -2278,7 +2278,7 @@
     <value>Clique "USAR" no baralho para ativar</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automático</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
     <value>Modo sem baralho</value>
@@ -2962,7 +2962,7 @@
     <value>Baralhos / Meus Jogos / Sobreposição</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} dia atras</value>
+    <value>{0} dia atrás</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
     <value>{0} dias atrás</value>
@@ -3268,7 +3268,7 @@
     <value>A maneira mais fácil de encontrar os melhores baralhos para você!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Basta enviar sua coleção para o HSReplay.net</value>
+    <value>Basta enviar sua coleção ao HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
     <value>Enviar minha coleção automaticamente</value>
@@ -3358,21 +3358,21 @@
     <value>Conta Twitch:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck contains cards from the Witchwood expansion.</value>
+    <value>Baralho contém cartas da expansão O Bosque das Bruxas.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
-    <value>The Witchwood:</value>
+    <value>O Bosque das Bruxas:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>O Bosque das Bruxas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>O Bosque das Bruxas</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Código do deck</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>Fechar para a bandeja</value>
   </data>
 </root>
