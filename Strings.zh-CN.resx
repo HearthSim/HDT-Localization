@@ -928,16 +928,16 @@
     <value>竞技场</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>导入方法：</value>
+    <value>导入方式：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>竞技场套牌名称模板</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>模板：</value>
+    <value>可用格式：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
-    <value>预览：</value>
+    <value>效果预览：</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>修改</value>
@@ -2698,10 +2698,10 @@
     <value>无法识别当前剪贴板中的网址或套牌信息。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>粘贴行为</value>
+    <value>粘贴行为：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的响应</value>
+    <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的反应</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>手动操作</value>
@@ -3178,7 +3178,7 @@
     <value>乱斗</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（非自己组牌）</value>
+    <value>冒险模式（地下城冒险、怪物狩猎）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
