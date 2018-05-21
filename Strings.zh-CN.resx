@@ -916,13 +916,13 @@
     <value>构筑</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>当你每次进入“对战模式”，将自动更新套牌。</value>
+    <value>每当你进入“对战模式”时，程序将自动检测套牌更新。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>自动更新修改后的套牌</value>
+    <value>自动更新修改过的套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>竞技场</value>
@@ -979,13 +979,13 @@
     <value>插件文件夹</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>开启</value>
+    <value>启用</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>关闭</value>
+    <value>禁用</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>作者</value>
+    <value>作者：</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>显示分享通知</value>
