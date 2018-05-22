@@ -283,10 +283,10 @@
     <value>Account</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Accedi</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
-    <value>Dashboard (web)</value>
+    <value>Cruscotto (web)</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
     <value>Sincronizza ora</value>
@@ -316,7 +316,7 @@
     <value>Elimina i mazzi selezionati</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Esci</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
     <value>Plugins</value>
@@ -430,13 +430,13 @@
     <value>Promozione</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
-    <value>Curse of Naxxramas</value>
+    <value>Maledizione di Naxxramas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblin vs Gnomi</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
-    <value>Blackrock Mountain</value>
+    <value>Massiccio Roccianera</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
     <value>The Grand Tournament</value>
@@ -445,10 +445,10 @@
     <value>League of Explorers</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Sussurri degli Dei Antichi</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
-    <value>One Night in Karazhan</value>
+    <value>Una notte a Karazhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
     <value>Nome...</value>
@@ -535,7 +535,7 @@
     <value>Impostazioni</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
-    <value>Checkbox name/description...</value>
+    <value>Casella di controllo nome/descrizione...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Cerca</value>
@@ -547,7 +547,7 @@
     <value>Avversario</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>Topmost</value>
+    <value>In primo piano</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Solo se HS in primo piano</value>
@@ -559,7 +559,7 @@
     <value>Timer</value>
   </data>
   <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
-    <value>Background:</value>
+    <value>Sfondo:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
     <value>Custom hex:</value>
@@ -592,7 +592,7 @@
     <value>Nascondi segreti</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Tooltip delle carte</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Solo per i segreti</value>
@@ -622,10 +622,10 @@
     <value>Show battery status</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>Show percent</value>
+    <value>Visualizza percentuale</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacità:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
     <value>Move/resize objects:</value>
@@ -634,13 +634,13 @@
     <value>Reset</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset positions:</value>
+    <value>Ripristina posizioni:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Unlock overlay</value>
+    <value>Sbloccare overlay</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
-    <value>Warning:</value>
+    <value>Avviso:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
     <value>May cause the cursor to freeze occasionally</value>
