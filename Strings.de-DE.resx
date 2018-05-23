@@ -874,10 +874,10 @@
     <value>Decknamen in Großbuchstaben</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Datum wann das Deck zuletzt gespielt wurde anzeigen</value>
+    <value>Letztes Spieldatum auf Decks anzeigen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arena-Decks nach Abschluss</value>
+    <value>Archiviere Arenadecks nach Abschluss</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -3151,7 +3151,7 @@
     <value>Streamen</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Greifbares Overlay</value>
+    <value>Aufnehmbares Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch-Erweiterung</value>
@@ -3226,10 +3226,10 @@
     <value>Angemeldet als</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Sammlung hochladen</value>
+    <value>Hochladen der Sammlung</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Aufzeichnungen hochladen</value>
+    <value>Hochladen von Aufzeichnungen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Aufzeichnungen beansprucht</value>
