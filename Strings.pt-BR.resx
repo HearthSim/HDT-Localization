@@ -1942,7 +1942,7 @@
     <value>Sempre</value>
   </data>
   <data name="Enum_DisplayMode_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automático</value>
   </data>
   <data name="Enum_DisplayMode_Never" xml:space="preserve">
     <value>Nunca</value>
@@ -2575,7 +2575,7 @@
     <value>Guardar e upload</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Enviar</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -3142,13 +3142,13 @@
     <value>Stream:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>Live</value>
+    <value>Ao Vivo</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>Desconectado</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Transmissão</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Capturar </value>
