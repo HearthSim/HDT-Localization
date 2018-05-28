@@ -250,7 +250,7 @@
     <value>_Namen in Zwischenablage kopieren</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>_Screenshot</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
     <value>Screenshot (mit Info)</value>
@@ -274,7 +274,7 @@
     <value>Aus _Statistik auswählen</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>Von Datei laden</value>
+    <value>Aus Datei laden</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>Konto beanspruchen</value>
@@ -2104,7 +2104,7 @@
     <value>Diese Woche</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>Diese Saison</value>
+    <value>Aktuelle Saison</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
     <value>Letzte Saison</value>
@@ -2155,13 +2155,13 @@
     <value>Die Münze</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>Ersetzt</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
-    <value>Zurück</value>
+    <value>Zurückgegeben</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
-    <value>Erstellt</value>
+    <value>Erzeugt</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
     <value>Prozentwerte</value>
@@ -2317,7 +2317,7 @@
     <value>Überspringen</value>
   </data>
   <data name="SplashScreen_Text_Loading" xml:space="preserve">
-    <value>Lade...</value>
+    <value>Wird geladen...</value>
   </data>
   <data name="SplashScreen_Text_Updating" xml:space="preserve">
     <value>Aktualisiere...</value>
@@ -2350,7 +2350,7 @@
     <value>Warnung!</value>
   </data>
   <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
-    <value>Karten die nicht im Deck gefunden wurden:</value>
+    <value>Nicht im Deck gefundene Karten:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
     <value>Hearthstone muss neu gestartet werden!</value>
@@ -2638,7 +2638,7 @@
     <value>Oder</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>'Standard' Decks in 'Wild' anzeigen</value>
+    <value>'Standard'-Decks in 'Wild' anzeigen</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Gewinnrate</value>
@@ -2809,7 +2809,7 @@
     <value>Ruhmeshalle</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>Dieses Deck kann nur im 'Wild' Modus verwendet werden</value>
+    <value>Dieses Deck kann nur im 'Wild'-Modus verwendet werden</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>Für dieses Deck sind globale Statistiken und Mulligan Informationen auf HSReplay.net verfügbar.</value>
@@ -2875,7 +2875,7 @@
     <value>Zu Imgur hochladen</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Lade hoch...</value>
+    <value>Wird hochgeladen...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
     <value>Hochladen erfolgreich</value>
