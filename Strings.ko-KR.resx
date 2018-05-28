@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>내 턴이 시작할 때 하스스톤 아이콘 깜빡이기</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>턴의 시작에 하스스톤 창 띄우기</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>카드 언어</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>친구가 도전했을 때 하스스톤 아이콘 깜빡이기</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>새로운 HSReplay.net 기능: 내 카드 업로드</value>
