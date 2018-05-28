@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>ターン開始時にハースストーンを点滅</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>ターン開始時にハースストーンをポップアップ</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>カードの言語</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>自動的に更新するには、「ダウンロード」を押してください。</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>友達の挑戦時ハースストーンをフラッシュ</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>HSReplay.netの新機能:コレクションアップロード</value>
