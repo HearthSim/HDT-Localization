@@ -3375,4 +3375,19 @@
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Close to tray</value>
   </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
+  </data>
 </root>
