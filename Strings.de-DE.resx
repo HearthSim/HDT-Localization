@@ -388,7 +388,7 @@
     <value>(aktuelle)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Als neues Deck speichern</value>
+    <value>Als neu speichern</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -829,7 +829,7 @@
     <value>Dialogbox vor Export anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Hinweise</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Kartensprache</value>
@@ -1000,7 +1000,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Spiel mit Freunden</value>
+    <value>Spiel gegen Freunde</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Abenteuer/Üben</value>
@@ -3367,18 +3367,18 @@
     <value>In Infobereich schließen</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Keine</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Blinken</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>Nach vorne bringen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Bei Zugbeginn:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Bei Freundesherausforderung:</value>
   </data>
 </root>
