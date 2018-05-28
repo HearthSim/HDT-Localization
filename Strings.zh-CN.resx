@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>当你的回合开始时，闪烁炉石窗口</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>当你的回合开始时，弹出炉石窗口</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>卡牌语言</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>点击“下载”以自动更新。</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>当你收到好友对战的邀请时，闪烁炉石窗口</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>HSReplay.net新功能：收藏上传</value>
