@@ -553,7 +553,7 @@
     <value>Nur wenn HS im Vordergrund</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Kartenhinweise</value>
+    <value>Kartentooltips</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>Timer</value>
@@ -592,7 +592,7 @@
     <value>Geheimnisse ausblenden</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Kartenhinweise</value>
+    <value>Kartentooltips</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Nur für Geheimnisse</value>
@@ -2752,7 +2752,7 @@
     <value>Deck automatisch wählen (empfohlen)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Zeigt eine erstellte/zurückgenommene Karte, wenn die Information verfügbar ist.</value>
+    <value>Zeigt eine erzeugte/zurückgegebene Karte, wenn die Information verfügbar ist.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>Erscheint nur wenn der Cursor über einer Karte kurze Zeit nicht bewegt wird.</value>
