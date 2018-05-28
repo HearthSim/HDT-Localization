@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Мигание Hearthstone в начале Вашего хода</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Развернуть Hearthstone в начале Вашего хода</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Язык карт</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Жми "Загрузить" для автообновления</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Быстрый дружеский вызов</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Новости HSReplay.net: коллекция выгружается</value>
