@@ -355,7 +355,7 @@
     <value>Fehler</value>
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
-    <value>Notizen aktualisieren</value>
+    <value>Änderungshinweise</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
     <value>Deck Importieren</value>
@@ -526,7 +526,7 @@
     <value>Tastenkürzel</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Sicherungen</value>
+    <value>Backups</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
     <value>Erscheinungsbild</value>
@@ -547,7 +547,7 @@
     <value>Gegner</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>Oberste</value>
+    <value>Im Vordergrund</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Nur wenn HS im Vordergrund</value>
@@ -607,7 +607,7 @@
     <value>Tooltips für Kartenmarkierungen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Geheimnisse autom. ausgrauen</value>
+    <value>Geheimnisse automatisch ausgrauen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Decks nach Spiel nicht zurücksetzen</value>
@@ -790,7 +790,7 @@
     <value>Ausgewähltes löschen</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Sicherungen werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Sicherungen wird die älteste automatisch gelöscht, so dass immer die Sicherungen der letzten sieben Tage vorhanden sind.</value>
+    <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>Sicherungsverzeichnis anzeigen</value>
@@ -850,7 +850,7 @@
     <value>(Tooltips)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Nutze Standardfont für Nicht-Lateinische Sprachen</value>
+    <value>Nutze Standardschriftart für nichtlateinische Sprachen</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
     <value>Zur Übernahme der Sprachänderungen neu starten.</value>
@@ -874,10 +874,10 @@
     <value>Decknamen in Großbuchstaben</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Datum wann das Deck zuletzt gespielt wurde anzeigen</value>
+    <value>Letztes Spieldatum auf Decks anzeigen</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arena-Decks nach Abschluss</value>
+    <value>Archiviere Arenadecks nach Abschluss</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -967,7 +967,7 @@
     <value>Arena-Belohnungsdialog anzeigen wenn abgeschlossen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
-    <value>Notizen Dialog nach jedem Spiel anzeigen</value>
+    <value>Notizendialog nach jedem Spiel anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
     <value>Warte auf Rückkehr ins Menü</value>
@@ -1042,7 +1042,7 @@
     <value>Minimiert starten</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>Minimieren im Infobereich</value>
+    <value>In Infobereich minimieren</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>Ladebildschirm anzeigen</value>
@@ -1141,13 +1141,13 @@
     <value>Statistiken behalten wenn ein Deck gelöscht wird*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Die Statistiken werden ins 'Standard Klassendeck' verschoben (wo auch Kein-Deck Spiele gespeichert werden). D. h. Spiele in der Arenastatistik gehen verloren wenn ein Arenadeck gelöscht wird. </value>
+    <value>Die Statistiken werden ins das 'Standard Klassendeck' verschoben (wo auch Kein-Deck Spiele gespeichert werden). Dies bedeutet dass Spiele in der Arenastatistik verloren gehen, wenn ein Arenadeck gelöscht wird!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Deck Statistiken in eigenem Fenster anzeigen</value>
+    <value>Deck-Statistiken in eigenem Fenster anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Auswertung</value>
+    <value>Analytiken</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Suche...</value>
@@ -2266,7 +2266,7 @@
     <value>Version:</value>
   </data>
   <data name="Help_Button_Updatenotes" xml:space="preserve">
-    <value>Update Notizen anzeigen</value>
+    <value>Änderungshinweise anzeigen</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
     <value>Aktives Deck:</value>
@@ -2341,7 +2341,7 @@
     <value>Gegnerisches Deck</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
-    <value>Ins Hauptfenster bewegen</value>
+    <value>In Hauptfenster verschieben</value>
   </data>
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>Spieler</value>
@@ -2725,10 +2725,10 @@
     <value>Die Straßen von Gadgetzan</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Jade Golem Zähler zeigen:</value>
+    <value>Jadegolem-Zähler zeigen:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Jade Golem Zähler zeigen:</value>
+    <value>Jadegolem-Zähler zeigen:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Entferne ausgegraute Geheimnisse</value>
@@ -3016,7 +3016,7 @@
     <value>Begegnungen</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Deck Statistiken / Mulligan Guide</value>
+    <value>Deck-Statistiken / Mulligan Guide</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
     <value>Wir haben nicht genügend Daten für das gewählte Deck.</value>
@@ -3064,7 +3064,7 @@
     <value>Wähle ein Deck um deine letzten Spiele anzusehen!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Meine Spiele Übersicht anzeigen</value>
+    <value>"Meine Spiele"-Übersicht anzeigen</value>
   </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
     <value>Fehlende Karten</value>
@@ -3151,13 +3151,13 @@
     <value>Streamen</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Greifbares Overlay</value>
+    <value>Aufnehmbares Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch-Erweiterung</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>Setup Anleitung aufrufen</value>
+    <value>Einrichtungsanleitung aufrufen</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Kobolde und Katakomben</value>
@@ -3226,10 +3226,10 @@
     <value>Angemeldet als</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Sammlung hochladen</value>
+    <value>Hochladen der Sammlung</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Aufzeichnungen hochladen</value>
+    <value>Hochladen von Aufzeichnungen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Aufzeichnungen beansprucht</value>
@@ -3340,7 +3340,7 @@
     <value>Starte Hearthstone und öffne deine Sammlung.</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>Starte Hearthstone</value>
+    <value>Hearthstone starten</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
     <value>Hebe deinen Twitch Stream auf das nächste Level!</value>
@@ -3373,6 +3373,6 @@
     <value>Deck-code</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>In Infobereich minimieren</value>
+    <value>In Infobereich schließen</value>
   </data>
 </root>

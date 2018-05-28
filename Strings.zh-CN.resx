@@ -1759,7 +1759,7 @@
     <value>应用标签筛选器</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>使用“套牌选择器”>“分类/筛选套牌”（双箭头）中当前的筛选规则。</value>
+    <value>使用“套牌选择器>分类/筛选套牌”（双箭头）中当前的筛选规则。</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>菜单</value>
@@ -2449,7 +2449,7 @@
     <value>错误报告</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>HDT程序崩溃啦。:(</value>
+    <value>HDT程序崩溃啦 :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>错误：</value>
@@ -2980,7 +2980,7 @@
     <value>{0}分钟前</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>来自HSReplay.net的全球统计数据</value>
+    <value>来自HSReplay.net的全球统计资料</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
     <value>我的对战记录</value>
@@ -2992,7 +2992,7 @@
     <value>胜：</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>败：</value>
+    <value>负：</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
     <value>胜率</value>
@@ -3004,10 +3004,10 @@
     <value>已上传</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
-    <value>无数据</value>
+    <value>无数据。</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>玩几局游戏！</value>
+    <value>快去玩几局游戏！</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>载入中……</value>
@@ -3022,7 +3022,7 @@
     <value>此套牌没有足够的统计数据。</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>选择一个带有HSReplay.net图标的套牌来查看全球统计！</value>
+    <value>选择一个带有HSReplay.net图标的套牌来查看全球统计资料！</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
     <value>想试试一些新的套牌？</value>
@@ -3061,7 +3061,7 @@
     <value>没有回放数据</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>选择一个套牌来查看对战记录！</value>
+    <value>选择一个套牌来查看该套牌的对战记录！</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>显示“我的对局”区域</value>
@@ -3217,7 +3217,7 @@
     <value>Login to claim your replays and enable all HSReplay.net features.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>登录以启用所有HSReplay.net功能</value>
+    <value>登录以启用HSReplay.net的全部功能</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
     <value>Replays are uploaded to</value>
