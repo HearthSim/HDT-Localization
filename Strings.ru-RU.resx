@@ -828,14 +828,8 @@
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>Показ диалога перед экспортом</value>
   </data>
-  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Оповещения</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Мигание Hearthstone в начале Вашего хода</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Развернуть Hearthstone в начале Вашего хода</value>
+  <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
+    <value>Alerts</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Язык карт</value>
@@ -3204,9 +3198,6 @@
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Жми "Загрузить" для автообновления</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Быстрый дружеский вызов</value>
-  </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Новости HSReplay.net: коллекция выгружается</value>
   </data>
@@ -3374,5 +3365,20 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Свернуть в трей</value>
+  </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
   </data>
 </root>

@@ -828,14 +828,8 @@
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>Dialogbox vor Export anzeigen</value>
   </data>
-  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Meldungen</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Hearthstone bei eigenem Zug blinken lassen</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Hearthstone bei eigenem Zug in den Vordergrund bringen</value>
+  <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
+    <value>Alerts</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Kartensprache</value>
@@ -3204,9 +3198,6 @@
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Klicke "Download" zur automatischen Aktualisierung.</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Hearthstone bei Herausforderung blinken lassen</value>
-  </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Neues HSReplay.net-Funktion: Sammlung hochladen</value>
   </data>
@@ -3374,5 +3365,20 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>In Infobereich schließen</value>
+  </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
   </data>
 </root>

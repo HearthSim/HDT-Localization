@@ -828,14 +828,8 @@
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>在匯出前顯示對話框</value>
   </data>
-  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>警示</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>你的回合開始時(內建顯示)</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>你的回合開始時(視窗彈出)</value>
+  <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
+    <value>Alerts</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>卡片語言</value>
@@ -3204,9 +3198,6 @@
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>點擊"下載"來自動更新</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>閃爍爐石戰記或是好友對戰</value>
-  </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>新的HSReplay.net功能：上傳收藏</value>
   </data>
@@ -3374,5 +3365,20 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Close to tray</value>
+  </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
   </data>
 </root>

@@ -828,14 +828,8 @@
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>Show dialog before exporting</value>
   </data>
-  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Avvisi</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Flash Hearthstone on your turn start</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Popup Hearthstone on turn start</value>
+  <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
+    <value>Alerts</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Lingua delle carte</value>
@@ -3204,9 +3198,6 @@
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Press "Download" to automatically update.</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>New HSReplay.net Feature: Collection Uploading</value>
   </data>
@@ -3374,5 +3365,20 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Close to tray</value>
+  </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
   </data>
 </root>

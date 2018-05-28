@@ -828,14 +828,8 @@
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>Mostrar diálogo antes de exportar</value>
   </data>
-  <data name="Options_Tracker_General_Label_Alerts" xml:space="preserve">
-    <value>Alertas</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Piscar Hearthstone quando seu turno começar</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Popup do Hearthstone quando o turno começar</value>
+  <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
+    <value>Alerts</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Idioma das cartas</value>
@@ -3204,9 +3198,6 @@
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Pressione "Download" para atualizar automaticamente.</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Piscar Hearthstone quando um amigo desafiar</value>
-  </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Novo recurso do HSReplay.net: Upload de Coleções</value>
   </data>
@@ -3374,5 +3365,20 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Fechar para a bandeja</value>
+  </data>
+  <data name="Enum_HsActionType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Enum_HsActionType_Flash" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="Enum_HsActionType_Popup" xml:space="preserve">
+    <value>Popup</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
+    <value>On turn start:</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
+    <value>On friendly challenge:</value>
   </data>
 </root>
