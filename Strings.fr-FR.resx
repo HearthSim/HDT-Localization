@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Faire clignoter Hearthstone au début de votre tour</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Faire apparaître Hearthstone au début de votre tour</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Langue des cartes</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Appuyez sur « Télécharger » pour mettre à jour automatiquement.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Faire clignoter Hearthstone lors d'un lancement de défi amical</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Nouvelle fonctionnalité de HSReplay.net : téléversement de la collection</value>
