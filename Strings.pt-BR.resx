@@ -831,12 +831,6 @@
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Alerts</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_Flash" xml:space="preserve">
-    <value>Piscar Hearthstone quando seu turno começar</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Popup" xml:space="preserve">
-    <value>Popup do Hearthstone quando o turno começar</value>
-  </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Idioma das cartas</value>
   </data>
@@ -3203,9 +3197,6 @@
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Pressione "Download" para atualizar automaticamente.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Piscar Hearthstone quando um amigo desafiar</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Novo recurso do HSReplay.net: Upload de Coleções</value>
