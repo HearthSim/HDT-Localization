@@ -2251,7 +2251,7 @@
     <value>다음</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
+    <value>Readme</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>에 모든 기능에 대한 간단한 개요가 있습니다.</value>
@@ -2683,7 +2683,7 @@
     <value>Save only</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
     <value>덱을 찾지 못했습니다</value>
@@ -2857,22 +2857,22 @@
     <value>Title:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Save to disk</value>
+    <value>디스크에 저장</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
     <value>Error uploading. Please try again later and/or upload manually</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Preview</value>
+    <value>미리보기</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>Copy to clipboard</value>
+    <value>클립보드에 복사</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>복사 완료!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload to Imgur</value>
+    <value>Imgur에 업로드</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
     <value>Uploading...</value>
@@ -3094,7 +3094,7 @@
     <value>Show</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>종료</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>덱에 얼어붙은 왕좌의 기사들 확장팩 카드가 포함되어 있습니다.</value>
@@ -3109,13 +3109,13 @@
     <value>얼어붙은 왕좌의 기사들</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
+    <value>언어 선택</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>복사</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Error occurred while copying card names to clipboard.</value>
