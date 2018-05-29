@@ -250,7 +250,7 @@
     <value>_Namen in Zwischenablage kopieren</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>_Screenshot</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
     <value>Screenshot (mit Info)</value>
@@ -274,7 +274,7 @@
     <value>Aus _Statistik auswählen</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>Von Datei laden</value>
+    <value>Aus Datei laden</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>Konto beanspruchen</value>
@@ -388,7 +388,7 @@
     <value>(aktuelle)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Als neues Deck speichern</value>
+    <value>Als neu speichern</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -553,7 +553,7 @@
     <value>Nur wenn HS im Vordergrund</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Kartenhinweise</value>
+    <value>Kartentooltips</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>Timer</value>
@@ -592,7 +592,7 @@
     <value>Geheimnisse ausblenden</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Kartenhinweise</value>
+    <value>Kartentooltips</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Nur für Geheimnisse</value>
@@ -829,7 +829,7 @@
     <value>Dialogbox vor Export anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Hinweise</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Kartensprache</value>
@@ -1000,7 +1000,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Spiel mit Freunden</value>
+    <value>Spiel gegen Freunde</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Abenteuer/Üben</value>
@@ -1051,7 +1051,7 @@
     <value>Auf Aktualisierungen prüfen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
-    <value>Auf BETA Updates prüfen</value>
+    <value>Auf BETA-Aktualisierungen prüfen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch" xml:space="preserve">
     <value>Erweiterte Fenstersuche</value>
@@ -1138,7 +1138,7 @@
     <value>Die Statistiken werden ins das 'Standard Klassendeck' verschoben (wo auch Kein-Deck Spiele gespeichert werden). Dies bedeutet dass Spiele in der Arenastatistik verloren gehen, wenn ein Arenadeck gelöscht wird!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Deck-Statistiken in eigenem Fenster anzeigen</value>
+    <value>Deckstatistiken in eigenem Fenster anzeigen</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>Analytiken</value>
@@ -2104,7 +2104,7 @@
     <value>Diese Woche</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>Diese Saison</value>
+    <value>Aktuelle Saison</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
     <value>Letzte Saison</value>
@@ -2155,13 +2155,13 @@
     <value>Die Münze</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>Ersetzt</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
-    <value>Zurück</value>
+    <value>Zurückgegeben</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
-    <value>Erstellt</value>
+    <value>Erzeugt</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
     <value>Prozentwerte</value>
@@ -2317,7 +2317,7 @@
     <value>Überspringen</value>
   </data>
   <data name="SplashScreen_Text_Loading" xml:space="preserve">
-    <value>Lade...</value>
+    <value>Wird geladen...</value>
   </data>
   <data name="SplashScreen_Text_Updating" xml:space="preserve">
     <value>Aktualisiere...</value>
@@ -2350,7 +2350,7 @@
     <value>Warnung!</value>
   </data>
   <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
-    <value>Karten die nicht im Deck gefunden wurden:</value>
+    <value>Nicht im Deck gefundene Karten:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
     <value>Hearthstone muss neu gestartet werden!</value>
@@ -2599,7 +2599,7 @@
     <value>Decksortierung: Alle/Deckbau</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
-    <value>Sortiere nach Klasse</value>
+    <value>Nach Klasse sortieren</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
     <value>Decksortierung: Arena</value>
@@ -2620,7 +2620,7 @@
     <value>Unten</value>
   </data>
   <data name="SortFilter_Filter_Button_Delete" xml:space="preserve">
-    <value>Lösche gewählte</value>
+    <value>Auswahl löschen</value>
   </data>
   <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
     <value>Neues Etikett</value>
@@ -2638,7 +2638,7 @@
     <value>Oder</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>'Standard' Decks in 'Wild' anzeigen</value>
+    <value>'Standard'-Decks in 'Wild' anzeigen</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Gewinnrate</value>
@@ -2752,7 +2752,7 @@
     <value>Deck automatisch wählen (empfohlen)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Zeigt eine erstellte/zurückgenommene Karte, wenn die Information verfügbar ist.</value>
+    <value>Zeigt eine erzeugte/zurückgegebene Karte, wenn die Information verfügbar ist.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>Erscheint nur wenn der Cursor über einer Karte kurze Zeit nicht bewegt wird.</value>
@@ -2809,7 +2809,7 @@
     <value>Ruhmeshalle</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>Dieses Deck kann nur im 'Wild' Modus verwendet werden</value>
+    <value>Dieses Deck kann nur im 'Wild'-Modus verwendet werden</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>Für dieses Deck sind globale Statistiken und Mulligan Informationen auf HSReplay.net verfügbar.</value>
@@ -2875,7 +2875,7 @@
     <value>Zu Imgur hochladen</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Lade hoch...</value>
+    <value>Wird hochgeladen...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
     <value>Hochladen erfolgreich</value>
@@ -3064,7 +3064,7 @@
     <value>Fehlende Karten</value>
   </data>
   <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
-    <value>Gesamtkosten Staub:</value>
+    <value>Staubkosten gesamt:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
     <value>Öffne Hearthstone um fehlende Karten anzuzeigen!</value>
@@ -3271,7 +3271,7 @@
     <value>Update der Sammlung in der Warteschlange...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Letztes Update</value>
+    <value>Zuletzt aktualisiert</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>Noch ein Schritt zum Hochladen deiner Sammlung:</value>
@@ -3367,18 +3367,18 @@
     <value>In Infobereich schließen</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Keine</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>Blinken</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>Nach vorne bringen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Bei Zugbeginn:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Bei Freundesherausforderung:</value>
   </data>
 </root>
