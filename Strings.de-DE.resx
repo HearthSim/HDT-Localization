@@ -1147,19 +1147,19 @@
     <value>Suche...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>Ben_utze Deck</value>
+    <value>Deck ben_utzen</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Bearbeite _Deck</value>
+    <value>_Deck bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
-    <value>Bearbeite Deck Na_me</value>
+    <value>Na_me bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>Bearbeite _Notizen</value>
+    <value>_Notizen bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Bearbeite E_tiketten</value>
+    <value>E_tiketten bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Etikett setzen (_Q)</value>
@@ -1171,13 +1171,13 @@
     <value>In Deckbau verschieben</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>Fehlende Karten anzeigen</value>
+    <value>Fehlende Karten anzeigen (_M)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
     <value>_Update (Web)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>Öffne _Webseite</value>
+    <value>_Webseite öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
     <value>HearthStats öffnen</value>
@@ -2854,7 +2854,7 @@
     <value>Nur Karten</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>Name:</value>
+    <value>Titel:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
     <value>Auf HDD speichern</value>
