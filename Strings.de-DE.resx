@@ -466,7 +466,7 @@
     <value>Versionsverlauf anzeigen</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Deck Historie:</value>
+    <value>Deckverlauf:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>Neuigkeiten:</value>
@@ -610,7 +610,7 @@
     <value>Geheimnisse automatisch ausgrauen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Decks nach Spiel nicht zurücksetzen</value>
+    <value>Decks nach einem Spiel nicht zurücksetzen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>Goldfortschritt immer anzeigen (im Menü)</value>
@@ -1630,7 +1630,7 @@
     <value>In Prozent anzeigen</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
-    <value>Legende anzeigen</value>
+    <value>Legenden anzeigen</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
     <value>Zeit:</value>
@@ -1747,7 +1747,7 @@
     <value>Notizen...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Archiv-Decks einbeziehen</value>
+    <value>Archivierte Decks einbeziehen</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>Etikettenfilter anwenden</value>
@@ -1807,10 +1807,10 @@
     <value>Speichern in</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Starte Hearthstone und öffne 'Spielen' Menü.</value>
+    <value>Starte Hearthstone und öffne das 'Spielen'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
-    <value>Öffne 'Spielen' Menü.</value>
+    <value>Öffne das 'Spielen'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
     <value>Starte Hearthstone und öffne das 'Kartenchaos'-Menü.</value>
@@ -2443,7 +2443,7 @@
     <value>Absturzbericht</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker ist abgestürzt :(.</value>
+    <value>Hearthstone Deck Tracker ist abgestürzt :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Fehler:</value>
