@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>Use upper case deck names</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Show last played date on decks</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archive Arena decks when run is over</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DateOnDecks" xml:space="preserve">
+    <value>Show Date On Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -2034,6 +2034,12 @@
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
   </data>
+  <data name="Enum_Last_Time_Edited" xml:space="preserve">
+    <value>Last Time Edited</value>
+  </data>
+  <data name="Enum_Last_Time_Played" xml:space="preserve">
+    <value>Last Time Played</value>
+  </data>
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Light</value>
   </data>
@@ -2057,6 +2063,9 @@
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
     <value>China</value>
+  </data>
+  <data name="Enum_Show_No_Date" xml:space="preserve">
+    <value>Don't Show Date</value>
   </data>
   <data name="Enum_TagFilterOperation_And" xml:space="preserve">
     <value>And</value>
