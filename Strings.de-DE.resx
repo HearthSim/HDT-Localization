@@ -193,7 +193,7 @@
     <value>Duplizieren</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>Ganzes Deck</value>
+    <value>Gesamtes Deck</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
     <value>Ausgewählte Version</value>
@@ -463,7 +463,7 @@
     <value>Deckbau Kartenlimits</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
-    <value>Versions Historie</value>
+    <value>Versionsverlauf anzeigen</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
     <value>Deck Historie:</value>
@@ -1813,10 +1813,10 @@
     <value>Öffne 'Spielen' Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Starte Hearthstone und öffne 'Kartenchaos' Menü.</value>
+    <value>Starte Hearthstone und öffne das 'Kartenchaos'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>Öffne 'Kartenchaos' Menü.</value>
+    <value>Öffne das 'Kartenchaos'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>Keine neuen Decks gefunden.</value>
@@ -2455,7 +2455,7 @@
     <value>Um uns bei dem Problem weiterzuhelfen, beschreibe bitte was genau du direkt vor dem Absturz gemacht hast sowohl als auch jede weitere Information die nützlich sein könnte.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Sende Bericht</value>
+    <value>Bericht senden</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
     <value>Schließen</value>
@@ -2539,7 +2539,7 @@
     <value>Ok</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
-    <value>Öffne Ordner</value>
+    <value>Ordner öffnen</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
     <value>Gespeichert in</value>
@@ -2566,7 +2566,7 @@
     <value>Speichern</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Speichern &amp; Upload</value>
+    <value>Speichern &amp; hochladen</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
     <value>Hochladen</value>
@@ -2749,7 +2749,7 @@
     <value>Automatischen Importieren von Arena Decks ist zur Zeit deaktiviert.\n\nEs wird empfohlen diese Einstellung zu aktivieren, HDT funktioniert so am besten.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Deck automatisch wählen (empfohlen)</value>
+    <value>Decks automatisch wählen (empfohlen)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>Zeigt eine erzeugte/zurückgegebene Karte, wenn die Information verfügbar ist.</value>
@@ -2881,16 +2881,16 @@
     <value>Hochladen erfolgreich</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>Öffne Ordner</value>
+    <value>Ordner öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
     <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
     <value>Deck</value>
