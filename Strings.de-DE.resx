@@ -1642,7 +1642,7 @@
     <value>Ende:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
-    <value>Saison:</value>
+    <value>Saisons:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
     <value>Klasse:</value>
@@ -1702,7 +1702,7 @@
     <value>Ende:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>Saison:</value>
+    <value>Saisons:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
     <value>bis</value>
@@ -2284,13 +2284,13 @@
     <value>Aktiv</value>
   </data>
   <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>Letztes mal gespielt</value>
+    <value>Zuletzt gespielt</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Archiviert</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>Dieses Deck kann im 'Standard' Format verwendet werden.</value>
+    <value>Dieses Deck kann im 'Standard'-Format verwendet werden.</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
     <value>Keine Statistiken</value>
@@ -2758,7 +2758,7 @@
     <value>Erscheint nur wenn der Cursor über einer Karte kurze Zeit nicht bewegt wird.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...)</value>
+    <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
