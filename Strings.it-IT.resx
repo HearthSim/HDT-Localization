@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>Use upper case deck names</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Show last played date on decks</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archive Arena decks when run is over</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
+    <value>Show Date On Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Formato:</value>
@@ -1908,6 +1908,15 @@
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternative</value>
   </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>Last Edited</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>Last Played</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Default</value>
   </data>
@@ -2283,7 +2292,10 @@
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>Active</value>
   </data>
-  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
+  <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
+    <value>Last time edited</value>
+  </data>
+  <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
     <value>Last time played</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
