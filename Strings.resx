@@ -1908,6 +1908,15 @@
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternative</value>
   </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>Last Edited</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>Last Played</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Default</value>
   </data>
@@ -2034,12 +2043,6 @@
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
   </data>
-  <data name="Enum_Last_Edited" xml:space="preserve">
-    <value>Last Time Edited</value>
-  </data>
-  <data name="Enum_Last_Played" xml:space="preserve">
-    <value>Last Time Played</value>
-  </data>
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Light</value>
   </data>
@@ -2063,9 +2066,6 @@
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
     <value>China</value>
-  </data>
-  <data name="Enum_None" xml:space="preserve">
-    <value>Don't Show Date</value>
   </data>
   <data name="Enum_TagFilterOperation_And" xml:space="preserve">
     <value>And</value>
