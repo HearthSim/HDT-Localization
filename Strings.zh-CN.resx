@@ -1909,13 +1909,13 @@
     <value>方案2</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>最近修改的</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>最近使用的</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>无</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>默认</value>
@@ -3142,10 +3142,10 @@
     <value>安装/设置Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
+    <value>启用集成式Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>直播：</value>
+    <value>Twitch直播：</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>直播中</value>
@@ -3157,7 +3157,7 @@
     <value>直播</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>可捕捉层</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch插件</value>
