@@ -868,10 +868,10 @@
     <value>Decknamen in Großbuchstaben</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arenadecks nach Abschluss</value>
+    <value>Arenadecks nach Abschluss archivieren</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>Datum Auf Decks Anzeigen:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -1909,13 +1909,13 @@
     <value>Alternativ</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Zuletzt Bearbeitet</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Zuletzt Gespielt</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Keins</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Standard</value>
@@ -2293,10 +2293,10 @@
     <value>Aktiv</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>Zuletzt bearbeitet</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>Zuletzt gespielt</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Archiviert</value>
@@ -2791,7 +2791,7 @@
     <value>Sekunden.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Alarmsignal ertönt und blinkt wenn nur noch X Sekunden verbleiben.</value>
+    <value>Alarmsignal ertönt und blinkt wenn nur noch &quot;X&quot; Sekunden verbleiben.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
