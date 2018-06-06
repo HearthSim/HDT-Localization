@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -829,7 +829,7 @@
     <value>Pokaż ostrzeżenie przed eksportowaniem</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Powiadomienia</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Język kart</value>
@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>Używaj dużych liter w nazwie talii</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Pokaż datę ostatniej gry talią</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Zarchiwizuj talię po skończeniu areny</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
+    <value>Pokaż daty na taliach:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -1908,6 +1908,15 @@
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternatywny</value>
   </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>Ostatnio Edytowano</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>Ostatnio Grano</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>Żaden</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Domyślny</value>
   </data>
@@ -2283,8 +2292,11 @@
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>Aktywna</value>
   </data>
-  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>Ostatnio grano</value>
+  <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
+    <value>Ostatni raz edytowano</value>
+  </data>
+  <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
+    <value>Ostatni raz grano</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Zarchiwizowany</value>
@@ -3367,18 +3379,18 @@
     <value>Zamknij do zasobnika (obok zegara systemowego)</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Żaden</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>Podświetl</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>Zmaksymalizuj</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Na początku tury:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Gdy znajomy rzuci wyzwanie:</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>대문자 덱 이름 사용</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>덱의 마지막 플레이 날짜 보기</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>투기장이 끝날 때 덱을 보관 처리</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
+    <value>Show Date On Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>포맷:</value>
@@ -934,7 +934,7 @@
     <value>미리보기:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>편집</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>웹</value>
@@ -1474,7 +1474,7 @@
     <value>상대 승률</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>Ver.</value>
+    <value>버전</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>덱:</value>
@@ -1908,6 +1908,15 @@
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>제 2안</value>
   </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>Last Edited</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>Last Played</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>None</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>기본</value>
   </data>
@@ -2251,7 +2260,7 @@
     <value>다음</value>
   </data>
   <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
+    <value>Readme</value>
   </data>
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>에 모든 기능에 대한 간단한 개요가 있습니다.</value>
@@ -2283,8 +2292,11 @@
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>사용 중</value>
   </data>
-  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>마지막 플레이 시간</value>
+  <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
+    <value>Last time edited</value>
+  </data>
+  <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
+    <value>Last time played</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>보관됨</value>
@@ -2668,22 +2680,22 @@
     <value>브라우저에서 번역 저장소 열기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Show HearthStats menu</value>
+    <value>HearthStats 메뉴 표시</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Deck found!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
-    <value>Choose an action</value>
+    <value>작업 선택</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Hearthstone에서 만들기</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>Save only</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
     <value>덱을 찾지 못했습니다</value>
@@ -2698,7 +2710,7 @@
     <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>수동</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>Save only</value>
@@ -2857,22 +2869,22 @@
     <value>Title:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Save to disk</value>
+    <value>디스크에 저장</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
     <value>Error uploading. Please try again later and/or upload manually</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Preview</value>
+    <value>미리보기</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>Copy to clipboard</value>
+    <value>클립보드에 복사</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>복사 완료!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload to Imgur</value>
+    <value>Imgur에 업로드</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
     <value>Uploading...</value>
@@ -2887,10 +2899,10 @@
     <value>버전 기록</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Version history</value>
+    <value>버전 이력</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
+    <value>버전 이력</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
     <value>덱</value>
@@ -2920,7 +2932,7 @@
     <value>덱 이름을 입력하세요</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
-    <value>Save as</value>
+    <value>다른 이름으로 저장</value>
   </data>
   <data name="DeckExport_Label_Instructions" xml:space="preserve">
     <value>진행 방법:</value>
@@ -2944,7 +2956,7 @@
     <value>복사됨!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
+    <value>내보내기</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
     <value>덱 에디터</value>
@@ -2974,10 +2986,10 @@
     <value>{0} 분 전</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Global statistics - HSReplay.net</value>
+    <value>글로벌 통계 - HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>My games</value>
+    <value>내 게임</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>Has active filters</value>
@@ -3094,7 +3106,7 @@
     <value>Show</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>종료</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>덱에 얼어붙은 왕좌의 기사들 확장팩 카드가 포함되어 있습니다.</value>
@@ -3109,13 +3121,13 @@
     <value>얼어붙은 왕좌의 기사들</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
+    <value>언어 선택</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>복사</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Error occurred while copying card names to clipboard.</value>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -829,7 +829,7 @@
     <value>在导出前显示对话框</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>提示</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>卡牌语言</value>
@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>使用大写套牌名称</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>显示套牌最后使用日期</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>当竞技场结束后套牌自动归档</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
+    <value>Show Date On Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>格式：</value>
@@ -958,7 +958,7 @@
     <value>秒</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>竞技场结束时显示奖励对话框</value>
+    <value>竞技场结束时显示奖励统计对话框</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>对战结束后显示说明框</value>
@@ -1036,7 +1036,7 @@
     <value>最小化启动</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>最小化到托盘</value>
+    <value>最小化时隐藏到托盘区</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>显示启动加载画面</value>
@@ -1908,6 +1908,15 @@
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>方案2</value>
   </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>最近修改的</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>最近使用的</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>无</value>
+  </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>默认</value>
   </data>
@@ -2283,8 +2292,11 @@
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>使用中</value>
   </data>
-  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>上次使用时间</value>
+  <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
+    <value>Last time edited</value>
+  </data>
+  <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
+    <value>Last time played</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>归档</value>
@@ -3130,10 +3142,10 @@
     <value>安装/设置Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
+    <value>启用集成式Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>直播：</value>
+    <value>直播状态：</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>直播中</value>
@@ -3142,16 +3154,16 @@
     <value>离线</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>直播</value>
+    <value>Twitch直播</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>可捕捉层</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch插件</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>查看完整安装指南</value>
+    <value>查看完整的安装教程</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>狗头人与地下世界</value>
@@ -3334,13 +3346,13 @@
     <value>启动《炉石传说》</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Take your Twitch stream to the next level!</value>
+    <value>让你的Twitch直播变得更加高级！</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>With an interactive overlay, live deck tracking and more.</value>
+    <value>启用一个可交互层，实时记录套牌，以及更多功能。</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Login to get started.</value>
+    <value>登录后就能开始。</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
     <value>现在将你的Twitch账户关联至HSReplay.net。</value>
@@ -3364,21 +3376,21 @@
     <value>套牌代码</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>关闭时隐藏到托盘区</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>无动作</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>闪烁</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>弹出窗口</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>当你的回合开始时：</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>当你收到好友对战邀请时：</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -193,7 +193,7 @@
     <value>Duplizieren</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>Ganzes Deck</value>
+    <value>Gesamtes Deck</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
     <value>Ausgewählte Version</value>
@@ -241,7 +241,7 @@
     <value>Nach Hearthstone aus _Web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Speichern als _XML</value>
+    <value>Als _XML speichern</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>IDs in Zwischenablage kopieren</value>
@@ -343,7 +343,7 @@
     <value>Gegnerisches Deck</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Decks Filtern/Sortieren</value>
+    <value>Decks Filtern / Sortieren</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
     <value>Notizen</value>
@@ -361,7 +361,7 @@
     <value>Deck Importieren</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>In neuem Fenster öffnen</value>
+    <value>In neues Fenster verschieben</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
     <value>Statistiken</value>
@@ -463,10 +463,10 @@
     <value>Deckbau Kartenlimits</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
-    <value>Versions Historie</value>
+    <value>Versionsverlauf anzeigen</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Deck Historie:</value>
+    <value>Deckverlauf:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>Neuigkeiten:</value>
@@ -610,7 +610,7 @@
     <value>Geheimnisse automatisch ausgrauen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Decks nach Spiel nicht zurücksetzen</value>
+    <value>Decks nach einem Spiel nicht zurücksetzen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>Goldfortschritt immer anzeigen (im Menü)</value>
@@ -867,11 +867,11 @@
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>Decknamen in Großbuchstaben</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_LastPlayedDate" xml:space="preserve">
-    <value>Letztes Spieldatum auf Decks anzeigen</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archiviere Arenadecks nach Abschluss</value>
+    <value>Arenadecks nach Abschluss archivieren</value>
+  </data>
+  <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
+    <value>Datum Auf Decks Anzeigen:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -1147,19 +1147,19 @@
     <value>Suche...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>Ben_utze Deck</value>
+    <value>Deck ben_utzen</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Bearbeite _Deck</value>
+    <value>_Deck bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
-    <value>Bearbeite Deck Na_me</value>
+    <value>Na_me bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>Bearbeite _Notizen</value>
+    <value>_Notizen bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Bearbeite E_tiketten</value>
+    <value>E_tiketten bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Etikett setzen (_Q)</value>
@@ -1171,13 +1171,13 @@
     <value>In Deckbau verschieben</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>Fehlende Karten anzeigen</value>
+    <value>Fehlende Karten anzeigen (_M)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
     <value>_Update (Web)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>Öffne _Webseite</value>
+    <value>_Webseite öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
     <value>HearthStats öffnen</value>
@@ -1276,7 +1276,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Packungen</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Total" xml:space="preserve">
     <value>Gesamt:</value>
@@ -1333,7 +1333,7 @@
     <value>Staub</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Packungen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Cards" xml:space="preserve">
     <value>Karten</value>
@@ -1630,7 +1630,7 @@
     <value>In Prozent anzeigen</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
-    <value>Legende anzeigen</value>
+    <value>Legenden anzeigen</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
     <value>Zeit:</value>
@@ -1642,7 +1642,7 @@
     <value>Ende:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
-    <value>Saison:</value>
+    <value>Saisons:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
     <value>Klasse:</value>
@@ -1663,7 +1663,7 @@
     <value>Staub</value>
   </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Packungen</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>Karten</value>
@@ -1678,7 +1678,7 @@
     <value>Geld</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
-    <value>Automatisch zeigen</value>
+    <value>Automatisch anzeigen</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
     <value>Speichern</value>
@@ -1702,7 +1702,7 @@
     <value>Ende:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>Saison:</value>
+    <value>Saisons:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
     <value>bis</value>
@@ -1741,19 +1741,19 @@
     <value>Region:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
-    <value>Gegner Name...</value>
+    <value>Name des Gegners...</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
     <value>Notizen...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Archiv-Decks einbeziehen</value>
+    <value>Archivierte Decks einbeziehen</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
     <value>Etikettenfilter anwenden</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Filter anwenden aus 'Deckauswahl' &gt; 'Sortiere/Filtere Decks' (Doppelpfeil Button)</value>
+    <value>Filter anwenden aus 'Deckauswahl' > 'Sortiere/Filtere Decks' (Doppelpfeil Button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menü</value>
@@ -1807,16 +1807,16 @@
     <value>Speichern in</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Starte Hearthstone und öffne 'Spielen' Menü.</value>
+    <value>Starte Hearthstone und öffne das 'Spielen'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
-    <value>Öffne 'Spielen' Menü.</value>
+    <value>Öffne das 'Spielen'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Starte Hearthstone und öffne 'Kartenchaos' Menü.</value>
+    <value>Starte Hearthstone und öffne das 'Kartenchaos'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>Öffne 'Kartenchaos' Menü.</value>
+    <value>Öffne das 'Kartenchaos'-Menü.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>Keine neuen Decks gefunden.</value>
@@ -1907,6 +1907,15 @@
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternativ</value>
+  </data>
+  <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
+    <value>Zuletzt Bearbeitet</value>
+  </data>
+  <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
+    <value>Zuletzt Gespielt</value>
+  </data>
+  <data name="Enum_DeckDateType_None" xml:space="preserve">
+    <value>Keins</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Standard</value>
@@ -2185,7 +2194,7 @@
     <value>Wahrscheinlichkeit dass der Gegner eine bestimmte Karte zu Beginn des nächsten Zuges hält, wenn X Kopien im Spiel sind.</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
-    <value>Beinhaltet die nächste gezogene Karte, aber nicht darüber hinaus.</value>
+    <value>Dies beinhaltet die nächste gezogene Karte, aber nichts darüber hinaus.</value>
   </data>
   <data name="Help_Overlay_Label_Customization" xml:space="preserve">
     <value>Anpassung</value>
@@ -2283,14 +2292,17 @@
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
     <value>Aktiv</value>
   </data>
-  <data name="DeckPicker_Deck_LastTimePlayed_Tooltip" xml:space="preserve">
-    <value>Letztes mal gespielt</value>
+  <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
+    <value>Zuletzt bearbeitet</value>
+  </data>
+  <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
+    <value>Zuletzt gespielt</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Archiviert</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>Dieses Deck kann im 'Standard' Format verwendet werden.</value>
+    <value>Dieses Deck kann im 'Standard'-Format verwendet werden.</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
     <value>Keine Statistiken</value>
@@ -2437,13 +2449,13 @@
     <value>Speichern</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>Arena Belohnungen</value>
+    <value>Arena-Belohnungen</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>Absturzbericht</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker ist abgestürzt :(.</value>
+    <value>Hearthstone Deck Tracker ist abgestürzt :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Fehler:</value>
@@ -2455,7 +2467,7 @@
     <value>Um uns bei dem Problem weiterzuhelfen, beschreibe bitte was genau du direkt vor dem Absturz gemacht hast sowohl als auch jede weitere Information die nützlich sein könnte.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Sende Bericht</value>
+    <value>Bericht senden</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
     <value>Schließen</value>
@@ -2539,7 +2551,7 @@
     <value>Ok</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
-    <value>Öffne Ordner</value>
+    <value>Ordner öffnen</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
     <value>Gespeichert in</value>
@@ -2566,7 +2578,7 @@
     <value>Speichern</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Speichern &amp; Upload</value>
+    <value>Speichern &amp; hochladen</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
     <value>Hochladen</value>
@@ -2575,7 +2587,7 @@
     <value>Abbrechen</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
-    <value>Problem beim Updaten der log.config aufgetreten</value>
+    <value>Bei der Aktualisierung der log.config trat ein Problem auf</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
     <value>Neue log.config Einstellungen werden zum einwandfreien Funktionieren von HDT benötigt.</value>
@@ -2749,7 +2761,7 @@
     <value>Automatischen Importieren von Arena Decks ist zur Zeit deaktiviert.\n\nEs wird empfohlen diese Einstellung zu aktivieren, HDT funktioniert so am besten.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Deck automatisch wählen (empfohlen)</value>
+    <value>Decks automatisch wählen (empfohlen)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>Zeigt eine erzeugte/zurückgegebene Karte, wenn die Information verfügbar ist.</value>
@@ -2758,7 +2770,7 @@
     <value>Erscheint nur wenn der Cursor über einer Karte kurze Zeit nicht bewegt wird.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...)</value>
+    <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
@@ -2779,7 +2791,7 @@
     <value>Sekunden.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Alarmsignal ertönt und blinkt wenn nur noch X Sekunden verbleiben.</value>
+    <value>Alarmsignal ertönt und blinkt wenn nur noch &quot;X&quot; Sekunden verbleiben.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
@@ -2854,7 +2866,7 @@
     <value>Nur Karten</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>Name:</value>
+    <value>Titel:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
     <value>Auf HDD speichern</value>
@@ -2881,16 +2893,16 @@
     <value>Hochladen erfolgreich</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>Öffne Ordner</value>
+    <value>Ordner öffnen</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
     <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Versionshistorie</value>
+    <value>Versionsverlauf</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
     <value>Deck</value>
@@ -3193,7 +3205,7 @@
     <value>Nicht jetzt</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>Ein neues BETA Update steht zur Verfügung</value>
+    <value>Eine neue BETA-Aktualisierung ist verfügbar</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
     <value>Klicke "Download" zur automatischen Aktualisierung.</value>
