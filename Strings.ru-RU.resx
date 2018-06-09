@@ -1105,7 +1105,7 @@
     <value>Показать</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>(для колод и наложения)</value>
+    <value>(в колодах и в интерфейсе)</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
     <value>Версия(и):</value>
@@ -2155,7 +2155,7 @@
     <value>Открыть ЧАВО</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
-    <value>Наложение</value>
+    <value>Интерфейс</value>
   </data>
   <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
     <value>Метки карт</value>
@@ -2200,7 +2200,7 @@
     <value>Настройка</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
-    <value>Почти всё, что в наложении, включаемо и выключаемо, перемещаемо и изменяемо.</value>
+    <value>Почти всё, что есть в интерфейсе можно отключить, переместить или увеличить (уменьшить).</value>
   </data>
   <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
     <value>Вкл./откл.:</value>
@@ -2209,16 +2209,16 @@
     <value>Параметры для этого можно найти в разделе</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>Настройки &gt; Наложение &gt; Общие / Игрок / Противник</value>
+    <value>Настройки &gt; Интерфейс &gt; Общие / Игрок / Противник</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Перемещение/размер:</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
-    <value>Наложение м. б. разблокировано в разделе</value>
+    <value>Интерфейс можно разблокировать в разделе</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>Настройки &gt; Наложение &gt; Общие</value>
+    <value>Настройки &gt; Интерфейс &gt; Общие</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(кнопка в нижней части).</value>
