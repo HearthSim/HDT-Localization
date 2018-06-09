@@ -412,7 +412,7 @@
     <value>Все</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
-    <value>Классовые</value>
+    <value>Только классовые</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
     <value>Только общие</value>
@@ -454,7 +454,7 @@
     <value>Имя...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Имя уже существует</value>
+    <value>Имя занято</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>Включая вольные карты</value>
@@ -475,7 +475,7 @@
     <value>Поиск</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Все настройки</value>
+    <value>Расширенные настройки</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Интерфейс</value>
@@ -496,7 +496,7 @@
     <value>Взаимодействие</value>
   </data>
   <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
-    <value>Потоковое</value>
+    <value>Трансляция</value>
   </data>
   <data name="Options_Tracker_Header" xml:space="preserve">
     <value>Слежение</value>
