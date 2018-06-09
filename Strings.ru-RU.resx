@@ -505,7 +505,7 @@
     <value>Общие</value>
   </data>
   <data name="Options_Tracker_Stats_Header" xml:space="preserve">
-    <value>Стат-ы</value>
+    <value>Статистика</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
     <value>Записи</value>
@@ -775,7 +775,7 @@
     <value>Метки редкости карт</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>Красный/зелёный цвет в стат-е</value>
+    <value>Красный/зелёный цвета в статистике</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
     <value>Анимации вида METRO</value>
@@ -1132,7 +1132,7 @@
     <value>Сохранять записи локально</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Хранить стат-у удалённой колоды*</value>
+    <value>Хранить статистику удаленной колоды*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
     <value>Статистика арены не будет удалена вместе с колодой</value>
@@ -2305,7 +2305,7 @@
     <value>Колода для стандарта</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
-    <value>Нет стат-ы</value>
+    <value>Нет данных</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
     <value>нет</value>
@@ -3022,7 +3022,7 @@
     <value>Победные сражения</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Стат-а колоды/руководство по заменам</value>
+    <value>Статистика / Руководство по сбросу</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
     <value>У нас недостаточно данных для выбранной колоды.</value>
