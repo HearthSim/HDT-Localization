@@ -397,13 +397,13 @@
     <value>Фильтр</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
-    <value>Цена</value>
+    <value>Стоимость</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
     <value>Вид</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>Задать</value>
+    <value>Набор</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>Всё</value>
@@ -1015,7 +1015,7 @@
     <value>Требуется учётка</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Войти через Battle.net на HSReplay.net, чтобы запросить записи. Запустится браузер.</value>
+    <value>Войти через Battle.net на HSReplay.net, чтобы привязать записи. Запустится браузер.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Отправить анонимные данные</value>
@@ -3217,13 +3217,13 @@
     <value>Найди лучшую колоду своей коллекции!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Войди, чтобы отправить свои повторы и включить все функции HSReplay.net</value>
+    <value>Войди, чтобы привязать записи своих игр и включить все функции HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Войди, чтобы включить все функции HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Повторы выгружены в</value>
+    <value>Записи выгружены в</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Вошёл за</value>
@@ -3232,10 +3232,10 @@
     <value>Коллекция выгружается</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Повторы выгружаются</value>
+    <value>Записи выгружаются</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Повторы заявлены</value>
+    <value>Записи привязаны</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>Подписано на премиум</value>
@@ -3244,7 +3244,7 @@
     <value>Включить сейчас</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Заявить сейчас</value>
+    <value>Связать сейчас</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
     <value>Благодарим за помощь!</value>
@@ -3259,10 +3259,10 @@
     <value>Вы действительно хотите выйти?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>Новые повторы больше не будут прикреплены к вашей учётке.</value>
+    <value>Новые записи больше не будут привязаны к вашей учётке.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Вход в систему затребует переактивацию последних повторов</value>
+    <value>Вход в систему повторно привяжет все новые записи.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>Выход</value>
@@ -3331,7 +3331,7 @@
     <value>Колоды</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>Мои повторы</value>
+    <value>Мои записи</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• Открытие или закрытие коллекции</value>
