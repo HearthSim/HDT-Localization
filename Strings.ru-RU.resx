@@ -256,7 +256,7 @@
     <value>Скриншот (с инфой)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>Стат-а</value>
+    <value>Статистика</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -364,7 +364,7 @@
     <value>Перенос в новое окно</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
-    <value>Стат-а</value>
+    <value>Статистика</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
     <value>Доступно обновление HSDT</value>
@@ -2311,7 +2311,7 @@
     <value>нет</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>стат-а</value>
+    <value>статистика</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Всё</value>
@@ -2986,7 +2986,7 @@
     <value>{0} м. назад</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Общая стат-а на HSReplay.net</value>
+    <value>Глобальная статистика — HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
     <value>Мои игры</value>
