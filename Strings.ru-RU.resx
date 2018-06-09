@@ -2773,10 +2773,10 @@
     <value>Работает для мобильных устройств (ноутбук, планшет).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Центр карт и информационные панели вертикально в пределах выбранной зоны. Зона может быть изменена с помощью "Наложение&gt; Общие&gt; разблокировать".</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе "Интерфейс&gt; Общие&gt; разблокировать".</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Центр карт и информационные панели вертикально в пределах выбранной зоны. Зона может быть изменена с помощью "Наложение&gt; Общие&gt; разблокировать".</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе "Интерфейс&gt; Общие&gt; разблокировать".</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы отключить большинство анимаций для всплывающих окон</value>
@@ -2797,7 +2797,7 @@
     <value>Снимите флажок, чтобы использовать обычный режим в  Deck Picker.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>Это может быть отключено, если наложение проявляется вне окна HS.</value>
+    <value>Отключите, если интерфейс появляется вне окна Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>Для получения дополнительной информации о форматах дат Google "C# формат даты".</value>
@@ -2965,7 +2965,7 @@
     <value>Из кода колоды</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Колода/мои игры/перекрытие</value>
+    <value>Колода / мои игры / Интерфейс</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0} д. назад</value>
@@ -3157,7 +3157,7 @@
     <value>Потоковое вещание</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Нагрузочное перекрытие</value>
+    <value>Интерфейс с хромакеем</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Твич-расширение</value>
@@ -3349,7 +3349,7 @@
     <value>Выведите поток Twitch на новый уровень!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>С интерактивным наложением, отслеживанием живой колоды и многое другое.</value>
+    <value>С расширенным интерфейсом, отслеживанием колод и прочим.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
     <value>Войдите, чтобы начать.</value>
