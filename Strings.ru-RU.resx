@@ -508,7 +508,7 @@
     <value>Стат-ы</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>Повторы</value>
+    <value>Записи</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>Экспорт</value>
@@ -985,7 +985,7 @@
     <value>Показать часть уведомлений</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Автовыгрузка повторов</value>
+    <value>Автовыгрузка записей</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Ранговая</value>
@@ -1015,7 +1015,7 @@
     <value>Требуется учётка</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Войти через Battle.net на HSReplay.net, чтобы запросить повторы. Запустится браузер.</value>
+    <value>Войти через Battle.net на HSReplay.net, чтобы запросить записи. Запустится браузер.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Отправить анонимные данные</value>
@@ -1129,7 +1129,7 @@
     <value>Выбросьте игры без ходов</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Запись местных повторов</value>
+    <value>Сохранять записи локально</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Хранить стат-у удалённой колоды*</value>
@@ -1354,7 +1354,7 @@
     <value>Показ колоды противника</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Показать повтор</value>
+    <value>Смотреть запись</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>Добавить игру</value>
@@ -1387,7 +1387,7 @@
     <value>Время</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Повтор</value>
+    <value>Запись</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>Заметка</value>
@@ -1552,13 +1552,13 @@
     <value>Регион</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Повтор</value>
+    <value>Запись</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Заметка</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Повтор</value>
+    <value>Запись</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Колода противника</value>
@@ -3064,7 +3064,7 @@
     <value>Воин</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>Нет записей-повторов</value>
+    <value>Нет записей</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Выберите колоду, чтобы увидеть свои последние игры!</value>
