@@ -160,7 +160,7 @@
     <value>Изменить метки</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Быстро добавить метку</value>
+    <value>Назначить метку</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>В аренную</value>
@@ -1909,10 +1909,10 @@
     <value>Альтернативная</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Последнее изменение</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Последнее использование</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
     <value>None</value>
