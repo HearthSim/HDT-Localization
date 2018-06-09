@@ -460,7 +460,7 @@
     <value>Включая вольные карты</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>Предел собираемой колоды</value>
+    <value>Ограничить число карт</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
     <value>Показать историю</value>
@@ -478,7 +478,7 @@
     <value>Все настройки</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>Наложение</value>
+    <value>Интерфейс</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>Общие</value>
@@ -637,7 +637,7 @@
     <value>Сброс позиции:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Освоб. наложение</value>
+    <value>Разблок. интерфейс</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
     <value>Внимание:</value>
