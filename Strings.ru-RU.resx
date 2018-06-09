@@ -526,13 +526,13 @@
     <value>Клавиши</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Резервы</value>
+    <value>Резервные копии</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
-    <value>Внешность</value>
+    <value>Внешний вид</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
-    <value>Установки</value>
+    <value>Настройки</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Имя/описание...</value>
@@ -556,7 +556,7 @@
     <value>Подсказки карт</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
-    <value>Счётчик</value>
+    <value>Таймер</value>
   </data>
   <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
     <value>Задний план:</value>
@@ -655,7 +655,7 @@
     <value>Скрыть колоду при просмотре друзей</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
-    <value>Отметить секреты нажатием</value>
+    <value>Исключать секреты нажатием</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
     <value>Прим.: может работать криво, если "Настройки &gt; Наложение &gt; Общие &gt; Автоскрытие секретов" включено</value>
