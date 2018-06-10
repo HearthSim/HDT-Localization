@@ -865,10 +865,10 @@
     <value>Полностроковый поиск при составлении</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Только прописные имена колод</value>
+    <value>Имена колод большими буквами</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Завершить архив аренных колод при запуске</value>
+    <value>После завершения арены архивировать колоду</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
     <value>Отображать дату на колодах:</value>
