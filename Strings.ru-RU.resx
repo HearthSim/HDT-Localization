@@ -1072,7 +1072,7 @@
     <value>Назначить путь к данным</value>
   </data>
   <data name="Options_Tracker_Settings_Button_LogDirectory" xml:space="preserve">
-    <value>Назначить путь к журналу Hearthstone</value>
+    <value>указать путь к журналам Hearthstone</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
     <value>Запись</value>
@@ -1825,7 +1825,7 @@
     <value>Запуск Battle.net / Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>Ожидание Hearthstone...</value>
+    <value>Ожидаем Hearthstone…</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
     <value>Колода содержит карты из Наксармаса.</value>
@@ -2365,7 +2365,7 @@
     <value>Нет карт в колоде:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Нужен перезапуск Hearthstone!</value>
+    <value>Необходимо перезапустить Hearthstone!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
     <value>Заметка для этой игры</value>
@@ -2455,7 +2455,7 @@
     <value>Ошибка падения</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>HDT упал :(</value>
+    <value>Сбой Hearthstone Deck Tracker :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Ошибка:</value>
@@ -2689,7 +2689,7 @@
     <value>Выберите действие</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Создать в HS</value>
+    <value>Создать в Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>Только сохр.</value>
@@ -2716,7 +2716,7 @@
     <value>Только сохр.</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Создать в HS</value>
+    <value>Создать в Hearthstone</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
     <value>Колода содержит карты Прибамбасска</value>
@@ -2941,10 +2941,10 @@
     <value>Нажми кнопку "Копировать"</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Создать новую колоду в HS</value>
+    <value>Создать новую колоду в Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Для импорта в HS требуется только код. Любая строка с "#" не читается.</value>
+    <value>Для импорта в Hearthstone требуется только код. Строки начинающиеся с "#" не учитываются.</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>Копировать всё</value>
@@ -3079,7 +3079,7 @@
     <value>Всего цена по пыли:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Запусти HS для просмотра упущенных карт</value>
+    <value>Запусти Hearthstone, чтобы увидеть недостающие карты!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>Есть все необходимые карты!</value>
@@ -3091,7 +3091,7 @@
     <value>Включая версию колоды</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
-    <value>Запуск HS</value>
+    <value>Запуск Battle.net / Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Без колоды</value>
