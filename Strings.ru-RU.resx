@@ -547,7 +547,7 @@
     <value>Противник</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>Верхний</value>
+    <value>Поверх всех окон</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Когда HS на переднем плане</value>
@@ -559,10 +559,10 @@
     <value>Таймер</value>
   </data>
   <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
-    <value>Задний план:</value>
+    <value>Фон:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
-    <value>Ручной ввод HEX:</value>
+    <value>Ручной ввод (HEX):</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
     <value>Скрыть (полностью)</value>
