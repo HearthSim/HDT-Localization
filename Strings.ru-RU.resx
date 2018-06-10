@@ -310,7 +310,7 @@
     <value>Авто-удаление игр</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Синхронизация в фоне</value>
+    <value>Фоновая синхронизация</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Удалить выбранные колоды</value>
@@ -607,7 +607,7 @@
     <value>Подсказки метки карт</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Автоскрытие секретов</value>
+    <value>Авто-скрытие секретов</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Не сбрасывать колоду после игры</value>
@@ -814,10 +814,10 @@
     <value>Добавить версию к имени колоды</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
-    <value>Авточистка карт</value>
+    <value>Авто-очистка карт</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearFilters" xml:space="preserve">
-    <value>Авточистка фильтров</value>
+    <value>Авто-очистка фильтров</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
     <value>Очищать строку поиска между картами</value>
@@ -850,7 +850,7 @@
     <value>Перезапустите, чтобы изменения вступили в силу!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>Автоиспользование колод. (откл. кнопки колод)</value>
+    <value>Авто-выбор колод. (отключает кнопки выбора)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>Фильтр карт: классовые первые</value>
@@ -913,10 +913,10 @@
     <value>Это проверяет наличие новых/изменённых колод каждый раз при входе в меню Играть.</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>Автоимпорт новых колод</value>
+    <value>Авто-импорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Автоизменение исправленных колод</value>
+    <value>Синхронизация изменений колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>Арена</value>
