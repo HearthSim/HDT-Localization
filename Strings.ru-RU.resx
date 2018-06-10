@@ -373,7 +373,7 @@
     <value>Нажмите для обновления</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
-    <value>Запуск Hearthstone</value>
+    <value>Запуск Battle.net / Hearthstone</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
     <value>Выбранная версия:</value>
@@ -463,7 +463,7 @@
     <value>Ограничить число карт</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
-    <value>Показать историю</value>
+    <value>Показать историю версий</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
     <value>История колоды:</value>
@@ -583,10 +583,10 @@
     <value>Скрыть таймер</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Скрыть ход карты</value>
+    <value>Скрыть ход взятия карты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Скрыть карточные знаки</value>
+    <value>Скрыть знаки на картах</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
     <value>Скрыть секреты</value>
