@@ -781,19 +781,19 @@
     <value>Анимации вида METRO</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>Восстановить выбранное</value>
+    <value>Восстановить из выбранной</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
-    <value>Создать новое</value>
+    <value>Создать новую</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Delete" xml:space="preserve">
-    <value>Удалить выбранное</value>
+    <value>Удалить выбранную</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
     <value>Авторезерв при первом запуске каждого дня. Содержит колоды, игры и настройки. Если есть больше 7 (автосоздаваемых) резервов, самый старый автоматически удаляется, оставляя за прошлую неделю.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
-    <value>Показ папки резервов</value>
+    <value>Открыть каталог резервных копий</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
     <value>Скорость:</value>
