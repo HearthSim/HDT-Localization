@@ -2761,7 +2761,7 @@
     <value>Автоимпорт аренных колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Автовыбор колоды (советуем)</value>
+    <value>Автоматически выбирать колоды (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>Отображает созданную/возвращённую карту, если эта информация доступна.</value>
@@ -3097,7 +3097,7 @@
     <value>Без колоды</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Автовыбор</value>
+    <value>Авто-выбор колоды</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Классовые карты в начале</value>
@@ -3187,7 +3187,7 @@
     <value>Приключение</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Автоимпорт новых колод</value>
+    <value>Авто-импорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Временное имя колоды приключения</value>
@@ -3199,7 +3199,7 @@
     <value>Показать "любимые" колоды в начале</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
-    <value>Загрузить</value>
+    <value>Скачать</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
     <value>Не сейчас</value>
@@ -3208,7 +3208,7 @@
     <value>Новая β-версия уже доступна</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Жми "Загрузить" для автообновления</value>
+    <value>Нажмите "Скачать" для обновления.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>Новости HSReplay.net: коллекция выгружается</value>
