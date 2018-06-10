@@ -298,19 +298,19 @@
     <value>Синхронизация при запуске</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Автовыгрузка новых колод</value>
+    <value>Авто-выгрузка новых колод</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>Автовыгрузка игр</value>
+    <value>Авто-выгрузка записей игр</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
-    <value>Автоудаление колод</value>
+    <value>Авто-удаление колод</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
-    <value>Автоудаление игр</value>
+    <value>Авто-удаление игр</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Автосинхронизация в фоне</value>
+    <value>Синхронизация в фоне</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Удалить выбранные колоды</value>
@@ -2749,7 +2749,7 @@
     <value>Всё хорошо, не показывать снова</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>Автовыбор колоды отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+    <value>Автоматический выбор колоды отключен.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
     <value>Синхронизация ваших колод отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
@@ -2758,7 +2758,7 @@
     <value>Синхронизация изменений в ваших колодах отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Автоматическая загрузка колод Арены отключена.\n\nРекомендуем включить этот параметр для лучшей работы HDT.</value>
+    <value>Автоматическая загрузка колод Арены отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>Автоматически выбирать колоды (рекомендуется)</value>
