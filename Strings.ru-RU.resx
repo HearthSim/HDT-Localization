@@ -1135,7 +1135,7 @@
     <value>Хранить статистику удаленной колоды*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Статистика арены не будет удалена вместе с колодой</value>
+    <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, статистика арены будет потеряна при удалении колоды арены!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Отдельное окно для статистики колод</value>
