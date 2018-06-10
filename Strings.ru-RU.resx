@@ -2752,13 +2752,13 @@
     <value>Автовыбор колоды отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Автоимпорт новых собираемых колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+    <value>Синхронизация ваших колод отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Автоимпорт изменённых собираемых колод отключён.\n\nСоветуем включить этот параметр для лучшей работы HDT.</value>
+    <value>Синхронизация изменений в ваших колодах отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Авто-импорт колод Арены отключён.\n\nРекомендуем включить этот параметр для лучшей работы HDT.</value>
+    <value>Автоматическая загрузка колод Арены отключена.\n\nРекомендуем включить этот параметр для лучшей работы HDT.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>Автоматически выбирать колоды (рекомендуется)</value>
