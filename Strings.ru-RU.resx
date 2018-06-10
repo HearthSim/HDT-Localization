@@ -718,16 +718,16 @@
     <value>Показать счётчик атаки</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Центр колоды вертикально</value>
+    <value>Разместить колоду по центру (вертикально)</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
-    <value>Выделять разданные карты</value>
+    <value>Выделять карты в руке</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
     <value>Выделять взятую карту</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>Удалить карты, если ни одна не осталась</value>
+    <value>Скрывать карты, которых не осталось</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Включая созданные в руке (напр. Монетка)</value>
