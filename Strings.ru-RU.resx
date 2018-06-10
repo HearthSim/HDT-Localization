@@ -646,7 +646,7 @@
     <value>Может вызвать торможение указателя</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>Принудительно (не использовать без нужды)</value>
+    <value>Оставлять включенным (не используйте без необходимости)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>Особенности:</value>
@@ -790,7 +790,7 @@
     <value>Удалить выбранную</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Авторезерв при первом запуске каждого дня. Содержит колоды, игры и настройки. Если есть больше 7 (автосоздаваемых) резервов, самый старый автоматически удаляется, оставляя за прошлую неделю.</value>
+    <value>Резервные копии создаются автоматически при первом запуске за день. Они содержат колоды, записи игр и конфигурацию. Если сохранено больше 7 автоматических копий, самые старые удаляются. Так вы сможете откатиться как минимум на неделю.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>Открыть каталог резервных копий</value>
@@ -805,7 +805,7 @@
     <value>секунды до начала</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Golden" xml:space="preserve">
-    <value>Предпочитаемо золотые карты</value>
+    <value>Приоритет золотым картам</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
     <value>Назвать колоду</value>
