@@ -361,7 +361,7 @@
     <value>Импорт колоды</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>Перенос в новое окно</value>
+    <value>Переместить в новое окно</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
     <value>Статистика</value>
@@ -1807,13 +1807,13 @@
     <value>Сохранить</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Запустить Hearthstone и нажать 'Играть'.</value>
+    <value>Запустить Hearthstone и перейти в режим 'Игра'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
     <value>Войти в меню 'Играть'.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Запустить Hearthstone и нажать 'Потасовка'.</value>
+    <value>Запустить Hearthstone и перейти в режим 'Потасовка'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
     <value>Войти в меню 'Потасовка'.</value>
@@ -3343,7 +3343,7 @@
     <value>Просто запустите Hearthstone и откройте свою коллекцию.</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>Пуск Hearthstone</value>
+    <value>Запуск Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
     <value>Выведите поток Twitch на новый уровень!</value>
