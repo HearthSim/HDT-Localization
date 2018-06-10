@@ -667,7 +667,7 @@
     <value>Отключено</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Исп. тот же размер для игрока/соперника</value>
+    <value>Копировать размер для соперника с игрока</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>Размер:</value>
@@ -688,13 +688,13 @@
     <value>Счётчик Йогг-Сарона:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Показать счётчик атаки</value>
+    <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Центр колоды вертикально</value>
+    <value>Разместить колоду по центру (вертикально)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
-    <value>Включая созданные карты</value>
+    <value>Отображать созданные карты</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
     <value>Выделять сброшенные карты</value>
