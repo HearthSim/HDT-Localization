@@ -385,10 +385,10 @@
     <value>Сохранить</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
-    <value>(текущее)</value>
+    <value>(текущую)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Пересохранить</value>
+    <value>Сохранить как…</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
     <value>Отмена</value>
@@ -400,7 +400,7 @@
     <value>Стоимость</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
-    <value>Тип</value>
+    <value>Вид</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>Набор</value>
@@ -1045,7 +1045,7 @@
     <value>Закрывать с Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Запуск Hearthstone с HDT</value>
+    <value>Запускать Hearthstone вместе с HDT</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Проверка обновлений</value>
@@ -1063,7 +1063,7 @@
     <value>Показ новостей</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
-    <value>Назначить пусть к Hearthstone</value>
+    <value>указать каталог Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
     <value>Открыть папку AppData</value>
