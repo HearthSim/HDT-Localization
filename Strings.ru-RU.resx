@@ -820,7 +820,7 @@
     <value>Авточистка фильтров</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
-    <value>Принуд. точный поиск между картами</value>
+    <value>Очищать строку поиска между картами</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
     <value>Вставить имена из буфера</value>
@@ -829,25 +829,25 @@
     <value>Показ диалога перед экспортом</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Уведомления</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Язык карт</value>
   </data>
   <data name="Options_Tracker_General_Label_Primary" xml:space="preserve">
-    <value>Первый:</value>
+    <value>Основной:</value>
   </data>
   <data name="Options_Tracker_General_Label_Secondary" xml:space="preserve">
-    <value>Второй:</value>
+    <value>Дополнительный:</value>
   </data>
   <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
     <value>(подсказки)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Исп. базовый шрифт для нелатниских языков</value>
+    <value>Базовый шрифт для не латинских языков</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
-    <value>Перезапуск для применения настроек языка.</value>
+    <value>Перезапустите, чтобы изменения вступили в силу!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>Автоиспользование колод. (откл. кнопки колод)</value>
