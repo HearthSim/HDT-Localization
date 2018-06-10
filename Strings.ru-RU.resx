@@ -811,7 +811,7 @@
     <value>Назвать колоду</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
-    <value>Включить версию в имя</value>
+    <value>Добавить версию к имени колоды</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
     <value>Авточистка карт</value>
@@ -3142,7 +3142,7 @@
     <value>Установить/настроить Твич-расширение</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Включить интеграцию Твич-расширения</value>
+    <value>Включить интеграцию с расширением Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Поток:</value>
