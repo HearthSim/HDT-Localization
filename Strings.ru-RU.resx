@@ -574,7 +574,7 @@
     <value>Скрыть при наблюдении</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>Скрыть если HS свёрнут</value>
+    <value>Скрывать при сворачивании HS</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
     <value>Скрыть колоды</value>
@@ -736,10 +736,10 @@
     <value>Включить окно интерфейса для захвата изображения</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Откл. непрозрачность переходов (советуется)</value>
+    <value>Отключить смену прозрачности карт (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Задний фон:</value>
+    <value>Фон (хромакей):</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
     <value>Добавляет копию интерфейса на заднем плане с поддержкой хромакея.</value>
