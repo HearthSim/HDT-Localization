@@ -310,7 +310,7 @@
     <value>Автоудаление игр</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Автосинхронизация</value>
+    <value>Автосинхронизация в фоне</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
     <value>Удалить выбранные колоды</value>
@@ -319,7 +319,7 @@
     <value>Выйти</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>Дополнения</value>
+    <value>Расширения</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>Пусто...</value>
@@ -520,7 +520,7 @@
     <value>Уведомления</value>
   </data>
   <data name="Options_Tracker_Plugins_Header" xml:space="preserve">
-    <value>Дополнения</value>
+    <value>Расширения</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Header" xml:space="preserve">
     <value>Клавиши</value>
@@ -967,10 +967,10 @@
     <value>Ожидание возврата в меню</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
-    <value>Доступные дополнения</value>
+    <value>Доступные расширения</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>Папка дополнений</value>
+    <value>Папка расширений</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
     <value>Включено</value>
@@ -979,7 +979,7 @@
     <value>Отключено</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>Создано:</value>
+    <value>Создатель</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>Показать часть уведомлений</value>
@@ -2473,7 +2473,7 @@
     <value>Закрыть</value>
   </data>
   <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
-    <value>Дополнительная инф-а</value>
+    <value>Дополнительная информация (необязательно)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
     <value>Обнаружена неверная колода</value>
@@ -2800,7 +2800,7 @@
     <value>Отключите, если интерфейс появляется вне окна Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Для получения дополнительной информации о форматах дат Google "C# формат даты".</value>
+    <value>Чтобы узнать больше о форматах дат, загугли &quot;C# формат даты&quot;.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Попробуйте включить этот параметр, если у вас возникли проблемы с обнаружением ранга.</value>
