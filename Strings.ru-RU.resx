@@ -658,7 +658,7 @@
     <value>Исключать секреты нажатием</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>Прим.: может работать криво, если "Настройки &gt; Наложение &gt; Общие &gt; Автоскрытие секретов" включено</value>
+    <value>Примечание: может не работать, если включено автоскрытие секретов в "Настройки &gt; Наложение &gt; Общие".</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Включено</value>
@@ -766,7 +766,7 @@
     <value>Тема карт:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
-    <value>Показ карт:</value>
+    <value>Отображение списка колод:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
     <value>Рамки редкости карт</value>
