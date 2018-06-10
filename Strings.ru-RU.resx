@@ -943,7 +943,7 @@
     <value>Метка колоды для импорта</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Автосохр. колоды для импорта</value>
+    <value>Авто-сохранение импортированных колод</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Итог игры</value>
@@ -985,7 +985,7 @@
     <value>Показать часть уведомлений</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Автовыгрузка записей</value>
+    <value>Авто-выгрузка записей игр</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Ранговая</value>
@@ -1030,7 +1030,7 @@
     <value>Сохранение данных в AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Автозапуск</value>
+    <value>Автозапуск при входе в систему</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Запуск свёрнуто</value>
