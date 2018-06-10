@@ -1072,7 +1072,7 @@
     <value>设置数据路径</value>
   </data>
   <data name="Options_Tracker_Settings_Button_LogDirectory" xml:space="preserve">
-    <value>设置炉石log路径</value>
+    <value>设置《炉石传说》日志路径</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Record" xml:space="preserve">
     <value>记录</value>
@@ -1120,7 +1120,7 @@
     <value>从：</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
-    <value>如果游戏卡牌与记牌器套牌不匹配，则不记录游戏</value>
+    <value>如果游戏中的卡牌与记牌器中的套牌不匹配，则不记录游戏</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
     <value>放弃记录前询问</value>
@@ -1210,7 +1210,7 @@
     <value>说明</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
-    <value>这些图表渲染速度有点慢。按刷新更新。</value>
+    <value>图表的渲染速度有点慢。点击刷新按钮可手动刷新。</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
     <value>职业胜场分布</value>
@@ -2038,16 +2038,16 @@
     <value>圆形</value>
   </data>
   <data name="Enum_IconStyle_Square" xml:space="preserve">
-    <value>正方形</value>
+    <value>方形</value>
   </data>
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
   </data>
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
-    <value>明亮</value>
+    <value>浅色</value>
   </data>
   <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
-    <value>深黑</value>
+    <value>深色</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
     <value>全部</value>
