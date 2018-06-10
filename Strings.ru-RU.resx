@@ -250,7 +250,7 @@
     <value>Имя в буфер</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>Скриншот</value>
+    <value>В картинку</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
     <value>Скриншот (с инфой)</value>
@@ -292,7 +292,7 @@
     <value>Синхр. сейчас</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
-    <value>Принудительная синхр.</value>
+    <value>Принудительная синхронизация</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncOnStart" xml:space="preserve">
     <value>Синхронизация при запуске</value>
@@ -349,7 +349,7 @@
     <value>Заметки</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Установить тег</value>
+    <value>Сделать метку</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
     <value>Ошибки</value>
@@ -367,7 +367,7 @@
     <value>Статистика</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>Доступно обновление HSDT</value>
+    <value>Доступно свежее обновление</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Нажмите для обновления</value>
@@ -856,7 +856,7 @@
     <value>Сортировка карт: сначала классовые</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Показ подсказок карт</value>
+    <value>Показывать подсказки для карт</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Показать кривую маны</value>
