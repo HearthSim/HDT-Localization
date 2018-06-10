@@ -616,7 +616,7 @@
     <value>Отображать прогресс получения золота за день</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Показать описание при наведении курсора (доска/рука)</value>
+    <value>Показать описание карты при наведении курсора</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Показать состояние аккумулятора</value>
@@ -628,7 +628,7 @@
     <value>Прозрачность:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Двигать/сжимать объекты:</value>
+    <value>Изменять размер/передвигать объекты:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Сброс</value>
@@ -640,7 +640,7 @@
     <value>Разблок. интерфейс</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
-    <value>Внимание:</value>
+    <value>Предупреждение:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
     <value>Может вызвать торможение указателя</value>
@@ -658,7 +658,7 @@
     <value>Исключать секреты нажатием</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>Примечание: может не работать, если включено автоскрытие секретов в "Настройки &gt; Наложение &gt; Общие".</value>
+    <value>Примечание: может не работать, если включено авто-скрытие секретов в "Настройки &gt; Интерфейс &gt; Общие".</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Включено</value>
