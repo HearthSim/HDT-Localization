@@ -1138,7 +1138,7 @@
     <value>Статистика арены не будет удалена вместе с колодой</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Показ стат-ы колоды в отдельном окне</value>
+    <value>Отдельное окно для статистики колод</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>Аналитика</value>
@@ -2341,7 +2341,7 @@
     <value>Счётчик</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>Стат-ы</value>
+    <value>Статистика</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>Колода противника</value>
