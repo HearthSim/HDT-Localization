@@ -1210,16 +1210,16 @@
     <value>Заметка</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
-    <value>Рисуется медленно, нажима</value>
+    <value>Графики могут отображаться с задержкой. Нажмите для обновления.</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
-    <value>Распред. классов по победам</value>
+    <value>Распределение классов по числу побед</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
-    <value>Победа/поражение и класс</value>
+    <value>Число побед/поражений против класса</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
-    <value>Заходы:</value>
+    <value>Выступлений:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
     <value>% из всех</value>
