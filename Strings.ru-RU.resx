@@ -1426,10 +1426,10 @@
     <value>Худший</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_MostPicked" xml:space="preserve">
-    <value>Часто выбираемое</value>
+    <value>Часто выбираемый</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>Реже выбираемое</value>
+    <value>Редко выбираемый</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
     <value>Друид</value>
@@ -1459,19 +1459,19 @@
     <value>Воин</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>Классом</value>
+    <value>По классам</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
-    <value>Шанс победы против</value>
+    <value>Доля побед против</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>Версия</value>
@@ -1480,7 +1480,7 @@
     <value>Колода:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
-    <value>Шанс победы:</value>
+    <value>Доля побед:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
     <value>Время игры:</value>
