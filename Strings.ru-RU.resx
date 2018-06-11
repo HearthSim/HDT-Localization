@@ -1588,13 +1588,13 @@
     <value>Графики</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>Сыграно</value>
+    <value>Выступления</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
     <value>Сыграно (%)</value>
@@ -1606,7 +1606,7 @@
     <value>Противники</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
-    <value>Особенности</value>
+    <value>Основные моменты</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
     <value>Всего</value>
@@ -1615,7 +1615,7 @@
     <value>Высший ранг:</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_MostPlayedDeck" xml:space="preserve">
-    <value>Последняя колода</value>
+    <value>Самая используемая колода</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
     <value>Лучшая колода</value>
