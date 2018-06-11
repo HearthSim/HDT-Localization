@@ -436,7 +436,7 @@
     <value>Гоблины и гномы</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
-    <value>Чёрная гора</value>
+    <value>Черная Гора</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
     <value>Большой Турнир</value>
@@ -682,10 +682,10 @@
     <value>Прозрачность секретов:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Счётчик К'Туна:</value>
+    <value>Счетчик К'Туна:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Счётчик Йогг-Сарона:</value>
+    <value>Счетчик заклинаний:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Показать счетчик атаки со стола</value>
@@ -700,7 +700,7 @@
     <value>Выделять сброшенные карты</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Исп. тот же размер для игрока/противника</value>
+    <value>Использовать один размер для обоих игроков</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
     <value>Размер:</value>
@@ -709,13 +709,13 @@
     <value>Прозрачность:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Счётчик К'Туна:</value>
+    <value>Счетчик К'Туна:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Счётчик заклинаний:</value>
+    <value>Счетчик заклинаний:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Показать счётчик атаки</value>
+    <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Разместить колоду по центру (вертикально)</value>
@@ -775,7 +775,7 @@
     <value>Цвет кристалла соответствует редкости карты</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>Красный/зелёный цвета в статистике</value>
+    <value>Красный/зеленый цвета в статистике</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
     <value>Анимации вида METRO</value>
@@ -910,7 +910,7 @@
     <value>Собираемая</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>Это проверяет наличие новых/изменённых колод каждый раз при входе в меню Играть.</value>
+    <value>Проверяет ваши колоды на наличие изменений, всякий раз, когда вы заходите в меню «Игра».</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>Авто-импорт новых колод</value>
@@ -982,7 +982,7 @@
     <value>Создатель</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Показать часть уведомлений</value>
+    <value>Показывать уведомление об отправке</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Авто-выгрузка записей игр</value>
