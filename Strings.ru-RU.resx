@@ -2746,7 +2746,7 @@
     <value>Вернуться к</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>Всё хорошо, не показывать снова</value>
+    <value>Хорошо, больше не показывать</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>Автоматический выбор колоды отключен.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
@@ -2764,10 +2764,10 @@
     <value>Автоматически выбирать колоды (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Отображает созданную/возвращённую карту, если эта информация доступна.</value>
+    <value>Отображает созданную/возвращенную карту, если эта информация доступна.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Будет появляться только тогда, когда курсор остаётся неподвижным над картой некоторое время.</value>
+    <value>Появится, если не на долго остановить курсор на карте.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Работает для мобильных устройств (ноутбук, планшет).</value>
@@ -2782,7 +2782,7 @@
     <value>Снимите флажок, чтобы отключить большинство анимаций для всплывающих окон</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Попробуйте это, если проблемы при экспорте определённых имён карт/колод - Может не работать со всеми раскладками</value>
+    <value>Попробуйте при проблемах с экспортом названий карт/колод — Может не работать с некоторыми раскладками</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
     <value>Оповещение за</value>
