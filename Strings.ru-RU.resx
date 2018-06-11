@@ -2143,7 +2143,7 @@
     <value>Сохранить</value>
   </data>
   <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
-    <value>Автосохранение при закрытии диалога</value>
+    <value>Сохранится автоматически при закрытии</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
     <value>Импорт</value>
@@ -3214,7 +3214,7 @@
     <value>Новости HSReplay.net: коллекция выгружается</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Найди лучшую колоду своей коллекции!</value>
+    <value>Найдите лучшую колоду с учетом коллекции!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Войдите, чтобы привязать записи своих игр и включить все функции HSReplay.net</value>
@@ -3274,7 +3274,7 @@
     <value>Просто загрузите свою коллекцию на HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Загружать мою коллекцию автоматически</value>
+    <value>Отправлять мою коллекцию автоматически</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
     <value>Коллекция обновлена!</value>
@@ -3292,7 +3292,7 @@
     <value>Запустите Hearthstone и откройте коллекцию</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Ваша коллекция будет автоматически обновляться, когда</value>
+    <value>Ваша коллекция будет автоматически обновляться, при</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>Учетная запись</value>
@@ -3334,10 +3334,10 @@
     <value>Мои записи</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Открытие или закрытие коллекции</value>
+    <value>• Открытии или закрытии коллекции</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Закрытие экрана открытия пачек</value>
+    <value>• Выходе из меню открытия комплектов</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
     <value>Просто запустите Hearthstone и откройте свою коллекцию.</value>
