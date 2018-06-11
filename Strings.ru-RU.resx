@@ -1486,25 +1486,25 @@
     <value>Время игры:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
-    <value>В среднем игра:</value>
+    <value>Средняя игра:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
     <value>Лучший противник:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
     <value>Худший противник:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Stats_Constructed_Games_Label_Matches" xml:space="preserve">
     <value>Бои</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>Доб-ть новую игру колоде</value>
+    <value>Добавить игру активной колодой</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
     <value>Переместить выбранное</value>
@@ -1546,7 +1546,7 @@
     <value>Начато</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
-    <value>Продожительность</value>
+    <value>Длительность</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
     <value>Регион</value>
