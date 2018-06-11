@@ -1222,10 +1222,10 @@
     <value>Выступлений:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
-    <value>% из всех</value>
+    <value>%</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_TotalGames" xml:space="preserve">
-    <value>Всего игр:</value>
+    <value>Всего партий:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_HoursPlayed" xml:space="preserve">
     <value>Всего часов:</value>
@@ -1234,25 +1234,25 @@
     <value>Побед в среднем:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
-    <value>Шанс победы:</value>
+    <value>Доля побед:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
-    <value>Лучший заход:</value>
+    <value>Лучшее выступление:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRunFallback" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchup" xml:space="preserve">
     <value>Лучший противник:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchupFallback" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
     <value>Худший противник:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold" xml:space="preserve">
     <value>Золото</value>
@@ -1276,7 +1276,7 @@
     <value>В среднем:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
-    <value>Пачки</value>
+    <value>Комплекты карт</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Total" xml:space="preserve">
     <value>Всего:</value>
@@ -1288,10 +1288,10 @@
     <value>Классические:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
-    <value>Гоблины и гномы:</value>
+    <value>Гоблины и Гномы:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
-    <value>Большой турнир:</value>
+    <value>Большой Турнир:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
     <value>Древние боги:</value>
