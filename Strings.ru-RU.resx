@@ -349,7 +349,7 @@
     <value>Заметки</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Сделать метку</value>
+    <value>Выбрать метки</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
     <value>Ошибки</value>
@@ -1156,13 +1156,13 @@
     <value>Переименовать</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>Изменить примечание</value>
+    <value>Примечание</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Изменить метки</value>
+    <value>Метки</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>Быстро назначить метку</value>
+    <value>Назначить метку</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>Отправить в Арену</value>
