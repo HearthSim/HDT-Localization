@@ -163,7 +163,7 @@
     <value>Назначить метку</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
-    <value>В аренную</value>
+    <value>Отправить в Арену</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
     <value>Отправить в Собранные</value>
@@ -211,7 +211,7 @@
     <value>Из Собранных</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>Из аренных</value>
+    <value>Из Арены</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
     <value>Из потасовочных</value>
@@ -868,7 +868,7 @@
     <value>Имена колод большими буквами</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>После завершения арены архивировать колоду</value>
+    <value>После завершения Арены архивировать колоду</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
     <value>Отображать дату на колодах:</value>
@@ -907,7 +907,7 @@
     <value>Нажмите клавишу</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Собираемая</value>
+    <value>Собранная</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
     <value>Проверяет ваши колоды на наличие изменений, всякий раз, когда вы заходите в меню «Игра».</value>
@@ -1168,7 +1168,7 @@
     <value>В аренную</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
-    <value>В собираемую</value>
+    <value>Отправить в Собранные</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
     <value>Показать недостающие</value>
@@ -1771,7 +1771,7 @@
     <value>Расширенные графики</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Составляемое</value>
+    <value>Собранные</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>Сводка</value>
@@ -2485,7 +2485,7 @@
     <value>Выбор вида колоды</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Собираемая</value>
+    <value>Собранная</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -2752,10 +2752,10 @@
     <value>Автоматический выбор колоды отключен.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Синхронизация ваших колод отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
+    <value>Синхронизация ваших Собранных колод отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Синхронизация изменений в ваших колодах отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
+    <value>Синхронизация изменений в ваших Собранных колодах отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>Автоматическая загрузка колод Арены отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
