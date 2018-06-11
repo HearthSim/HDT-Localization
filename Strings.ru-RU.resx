@@ -811,7 +811,7 @@
     <value>Назвать колоду</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
-    <value>Добавить версию к имени колоды</value>
+    <value>Добавлять версию к имени колоды</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
     <value>Авто-очистка карт</value>
@@ -862,7 +862,7 @@
     <value>Показать кривую маны</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
-    <value>Полностроковый поиск при составлении</value>
+    <value>Поиск по тексту карт в редакторе колод</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>Имена колод большими буквами</value>
