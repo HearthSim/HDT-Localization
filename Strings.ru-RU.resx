@@ -1033,7 +1033,7 @@
     <value>Автозапуск при входе в систему</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
-    <value>Запуск свёрнуто</value>
+    <value>Запускать в свернутом виде</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
     <value>Сворачивать на панель</value>
@@ -1834,7 +1834,7 @@
     <value>Колода содержит карты из Гоблинов и гномов</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Колода содержит карты из Чёрной горы</value>
+    <value>Колода содержит карты дополнения Черная Гора.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
     <value>Колода содержит карты из Большого турнира</value>
@@ -1927,7 +1927,7 @@
     <value>Наследие</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
     <value>Выбранное</value>
@@ -1951,7 +1951,7 @@
     <value>Никогда</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_Format_Standard" xml:space="preserve">
     <value>Стандарт</value>
@@ -1960,7 +1960,7 @@
     <value>Вольный</value>
   </data>
   <data name="Enum_GameMode_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
     <value>Ранговая</value>
@@ -1987,7 +1987,7 @@
     <value>Нет</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_GameResult_Win" xml:space="preserve">
     <value>Победа</value>
@@ -2002,7 +2002,7 @@
     <value>Нет</value>
   </data>
   <data name="Enum_HeroClass_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_HeroClass_Druid" xml:space="preserve">
     <value>Друид</value>
@@ -2050,7 +2050,7 @@
     <value>Тьма</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_Region_Unknown" xml:space="preserve">
     <value>Неизвестно</value>
