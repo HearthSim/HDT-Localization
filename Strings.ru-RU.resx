@@ -925,7 +925,7 @@
     <value>Импорт режима:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Имя шаблона аренной колоды</value>
+    <value>Шаблон имени для колод Арены</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Шаблоны:</value>
@@ -958,7 +958,7 @@
     <value>секунды</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Показать награду арены при завершении</value>
+    <value>Уточнить награду при завершении Арены</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>Показать примечание после игры</value>
@@ -1135,7 +1135,7 @@
     <value>Хранить статистику удаленной колоды*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, статистика арены будет потеряна при удалении колоды арены!</value>
+    <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, статистика Арены будет потеряна при удалении колоды Арены!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Отдельное окно для статистики колод</value>
@@ -1165,7 +1165,7 @@
     <value>Быстро назначить метку</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
-    <value>В аренную</value>
+    <value>Отправить в Арену</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>Отправить в Собранные</value>
@@ -1312,7 +1312,7 @@
     <value>В среднем:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Заходы на арену</value>
+    <value>Выступления на Арене</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>Класс</value>
@@ -1759,7 +1759,7 @@
     <value>Меню</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>Заходы арены</value>
+    <value>Выступления на Арене</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>Сводка</value>
@@ -2449,7 +2449,7 @@
     <value>Сохр.</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>Награды арены</value>
+    <value>Награды с Арены</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>Ошибка падения</value>
@@ -2614,7 +2614,7 @@
     <value>Фильтр по классу</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>Фильтр: арена</value>
+    <value>Сортировка колод Арены</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>Фильтр</value>
