@@ -1021,7 +1021,7 @@
     <value>Отправить анонимные данные</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>Запись самой важной инф-ы, чтобы помочь нам улучшить HDT.</value>
+    <value>Будет передана лишь самая базовая информация, которая поможет улучшить HDT, например, время запуска приложения.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Сохранение настроек в AppData</value>
@@ -1036,7 +1036,7 @@
     <value>Запускать в свернутом виде</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>Сворачивать на панель</value>
+    <value>Скрыть в трей при сворачивании</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>Показывать заставку при загрузке</value>
@@ -3376,7 +3376,7 @@
     <value>Код колоды</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Свернуть в трей</value>
+    <value>Скрыть в трей при закрытии</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
     <value>None</value>
