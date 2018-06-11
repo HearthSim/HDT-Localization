@@ -1753,7 +1753,7 @@
     <value>Применить фильтр по меткам</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Применить фильтры по меткам, установленным в 'Сортировка / Фильтр колод' (кнопка двойная стрелка).</value>
+    <value>Отфильтровать колоды по меткам можно в Фильтре колод (кнопка с двумя стрелками).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Меню</value>
@@ -2608,7 +2608,7 @@
     <value>Продолжить...</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>Сортировка колод</value>
+    <value>Сортировка Собранных колод</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
     <value>Фильтр по классу</value>
