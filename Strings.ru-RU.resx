@@ -2104,7 +2104,7 @@
     <value>Прошлый год</value>
   </data>
   <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
-    <value>Всё время</value>
+    <value>Все время</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
     <value>Сегодня</value>
@@ -2122,7 +2122,7 @@
     <value>Выбранный сезон</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
-    <value>Всё время</value>
+    <value>Все время</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
     <value>Вручную</value>
@@ -2134,7 +2134,7 @@
     <value>Нет</value>
   </data>
   <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Цвет класса:</value>
@@ -2227,7 +2227,7 @@
     <value>Дополнительную информацию можно найти здесь</value>
   </data>
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
-    <value>Отчёт об ошибках/новые возможности</value>
+    <value>Сообщайте об ошибках / предлагайте новые возможности</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
     <value>1) Проверить</value>
@@ -2314,7 +2314,7 @@
     <value>статистика</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
-    <value>Всё</value>
+    <value>Все</value>
   </data>
   <data name="Enum_DeckType_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -2338,7 +2338,7 @@
     <value>Установка...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Счётчик</value>
+    <value>Таймер</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Статистика</value>
@@ -2467,7 +2467,7 @@
     <value>Для того, чтобы помочь нам найти решение для этой проблемы, пожалуйста, приложите описание того, что Вы делали непосредственно до возникновения этого аварии, а также любую другую полезную информацию.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Отправить отчёт</value>
+    <value>Сообщить об ошибке</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
     <value>Закрыть</value>
