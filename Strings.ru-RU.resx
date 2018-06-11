@@ -166,7 +166,7 @@
     <value>В аренную</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>В собираемую</value>
+    <value>Отправить в Собранные</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
     <value>Показать недостающие</value>
@@ -208,7 +208,7 @@
     <value>Из интернета</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Из собираемых</value>
+    <value>Из Собранных</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
     <value>Из аренных</value>
@@ -262,7 +262,7 @@
     <value>Арена</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>Обычная игра</value>
+    <value>Собранные</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
     <value>Записи</value>
