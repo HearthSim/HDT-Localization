@@ -985,13 +985,13 @@
     <value>Показывать уведомление об отправке</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Авто-выгрузка записей игр</value>
+    <value>Автоматически отправлять записи игр:</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
-    <value>Ранговая</value>
+    <value>Рейтинг</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
-    <value>Обычная</value>
+    <value>Обычный (Солнышко)</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -1000,19 +1000,19 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Дружеская</value>
+    <value>Дружеская дуэль</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>Приключения/боты</value>
+    <value>Приключения/Тренировка</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
-    <value>Наблюдение</value>
+    <value>Режим Зрителя</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
-    <value>Состояние учётки:</value>
+    <value>Состояние учетной записи:</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
-    <value>Требуется учётка</value>
+    <value>Привязать учетную запись</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
     <value>Войти через Battle.net на HSReplay.net, чтобы привязать записи. Запустится браузер.</value>
