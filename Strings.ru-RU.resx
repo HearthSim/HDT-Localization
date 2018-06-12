@@ -2191,13 +2191,13 @@
     <value>Шанс, что карта на руке:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>Шанс противника удержать карту в начале хода с X оставшимися в игре.</value>
+    <value>Вероятность, что у противника будет в руке нужная карта на начало следующего хода, в зависимости от числа копий в колоде.</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
-    <value>Это включает в себя только следующий розыгрыш.</value>
+    <value>Учитывается взятие карты только в начале хода.</value>
   </data>
   <data name="Help_Overlay_Label_Customization" xml:space="preserve">
-    <value>Настройка</value>
+    <value>Настройка внешнего вида</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
     <value>Почти всё, что есть в интерфейсе можно отключить, переместить или увеличить (уменьшить).</value>
