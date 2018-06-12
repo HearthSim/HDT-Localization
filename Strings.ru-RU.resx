@@ -553,7 +553,7 @@
     <value>Когда HS на переднем плане</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Подсказки карт</value>
+    <value>Подсказки при наведении на карту</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>Таймер</value>
@@ -592,7 +592,7 @@
     <value>Скрыть секреты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Подсказки карт</value>
+    <value>Подсказки при наведении на карту</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Только для секретов</value>
@@ -604,7 +604,7 @@
     <value>Исп. анимацию карт</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Подсказки метки карт</value>
+    <value>Подсказки для меток на картах</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
     <value>Затенять проверенные секреты</value>
@@ -856,7 +856,7 @@
     <value>Сортировка карт: сначала классовые</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Показывать подсказки для карт</value>
+    <value>Подсказки при наведении на карту</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Показать кривую маны</value>
