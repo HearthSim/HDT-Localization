@@ -1504,7 +1504,7 @@
     <value>Бои</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>Добавить игру активной колодой</value>
+    <value>Добавить игру в текущую колоду</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
     <value>Переместить выбранное</value>
@@ -2269,16 +2269,16 @@
     <value>Версия:</value>
   </data>
   <data name="Help_Button_Updatenotes" xml:space="preserve">
-    <value>Показать заметки обновления</value>
+    <value>Описание обновления</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
     <value>Текущая колода:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
-    <value>Нет</value>
+    <value>Не выбрана</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>Тык "Выбрать" для выбора</value>
+    <value>нажмите «Выбрать» для задания текущей колоды</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>Авто</value>
