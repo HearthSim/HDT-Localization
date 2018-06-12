@@ -2590,7 +2590,7 @@
     <value>Ошибка обновления log.config</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
-    <value>Новый log.config  обязателен для HDT.</value>
+    <value>Для работы HDT необходимо создать новый файл конфигурации log.config</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Instructions" xml:space="preserve">
     <value>Показать руководство</value>
@@ -2602,7 +2602,7 @@
     <value>Попробуйте запустить HDT с правами администратора.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>Если нужна помощь, тык "Показать руководство"</value>
+    <value>Если это не помогло, прочитайте в руководстве, как обновить его вручную.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Продолжить...</value>
