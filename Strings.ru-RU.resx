@@ -169,7 +169,7 @@
     <value>Отправить в Собранные</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Показать недостающие</value>
+    <value>Недостающие карты</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
     <value>Обновление (сеть)</value>
@@ -3073,10 +3073,10 @@
     <value>Показать панель игр</value>
   </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
-    <value>Упущенные карты</value>
+    <value>Недостающие карты</value>
   </data>
   <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
-    <value>Всего цена по пыли:</value>
+    <value>Стоимость в пыли:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
     <value>Запусти Hearthstone, чтобы увидеть недостающие карты!</value>
