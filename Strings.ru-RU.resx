@@ -766,7 +766,7 @@
     <value>Тема карт:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
-    <value>Отображение списка колод:</value>
+    <value>Размещение списка колод:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
     <value>Цвет рамки соответствует редкости карты</value>
@@ -1921,10 +1921,10 @@
     <value>По умолчанию</value>
   </data>
   <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
-    <value>Альтернатива</value>
+    <value>Альтернативное</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Наследие</value>
+    <value>Устаревшее</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
     <value>Все</value>
