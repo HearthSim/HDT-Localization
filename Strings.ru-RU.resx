@@ -2500,25 +2500,25 @@
     <value>Отмена</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Выбросить игру?</value>
+    <value>Отбросить запись игры?</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>играли карты не соотв. колоде</value>
+    <value>разыгранные карты не соответствуют текущей колоде</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>Сбос</value>
+    <value>Отбросить</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
-    <value>Держать</value>
+    <value>Оставить</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
     <value>Переместить в другую колоду</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Удалить игру</value>
+    <value>Удалить запись игры</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
-    <value>Действительно?</value>
+    <value>Вы уверены?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
     <value>Удалить</value>
