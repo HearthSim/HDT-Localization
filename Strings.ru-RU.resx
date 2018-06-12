@@ -265,10 +265,10 @@
     <value>Собранные</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>Записи</value>
+    <value>Повторы</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>Последние записи</value>
+    <value>Последние повторы</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
     <value>Выбрать из статистики</value>
@@ -508,7 +508,7 @@
     <value>Статистика</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>Записи</value>
+    <value>Повторы</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>Экспорт</value>
@@ -985,7 +985,7 @@
     <value>Показывать уведомление об отправке</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Автоматически отправлять записи игр:</value>
+    <value>Автоматически отправлять повторы:</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Рейтинг</value>
@@ -1129,7 +1129,7 @@
     <value>Отбрасывать игры без ходов</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Сохранять записи локально</value>
+    <value>Сохранять повторы локально</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Хранить статистику удаленной колоды*</value>
@@ -1354,7 +1354,7 @@
     <value>Колода противника</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Смотреть запись</value>
+    <value>Смотреть повтор</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>Добавить игру</value>
@@ -1387,7 +1387,7 @@
     <value>Время</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Запись</value>
+    <value>Повтор</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>Заметка</value>
@@ -1552,13 +1552,13 @@
     <value>Регион</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Запись</value>
+    <value>Повтор</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Заметка</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Запись</value>
+    <value>Повтор</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Колода противника</value>
@@ -3064,7 +3064,7 @@
     <value>Воин</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>Нет записей</value>
+    <value>Повторы отсутствут</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Выберите колоду, чтобы увидеть свои последние игры!</value>
@@ -3223,7 +3223,7 @@
     <value>Войдите, чтобы включить все функции HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Записи игр отправлены на</value>
+    <value>Повторы отправлены на</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Вы вошли как</value>
@@ -3232,10 +3232,10 @@
     <value>Отправка коллекции</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Отправка записи игры</value>
+    <value>Отправка повтора</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Записи игр привязаны</value>
+    <value>Повторы привязаны</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>Премиум подписка активна</value>
@@ -3259,10 +3259,10 @@
     <value>Вы действительно хотите выйти?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>Новые записи игр больше не будут привязаны к вашей учетной записи.</value>
+    <value>Новые повторы больше не будут привязываться к вашей учетной записи.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Вход в систему повторно привяжет все новые записи игр.</value>
+    <value>Вход в систему привяжет все новые повторы.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>Выйти</value>
@@ -3331,7 +3331,7 @@
     <value>Колоды</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>Мои записи</value>
+    <value>Мои повторы</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• Открытии или закрытии коллекции</value>
