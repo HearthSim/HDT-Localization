@@ -1879,19 +1879,19 @@
     <value>Перегрузка</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Автоимпорт/сохр.</value>
+    <value>Авто импорт и сохранение</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>Автозапрос импорта</value>
+    <value>Запрос подтверждения</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
-    <value>Ручное</value>
+    <value>Вручную</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>Нет</value>
+    <value>—</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Классическое</value>
+    <value>Классический</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
     <value>Гоблины и гномы</value>
@@ -1900,7 +1900,7 @@
     <value>Большой турнир</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Древние боги</value>
+    <value>Пробуждение древних богов</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
     <value>Классическое</value>
