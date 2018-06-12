@@ -2968,10 +2968,10 @@
     <value>Колоды / Мои Записи / Интерфейс</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} день назад</value>
+    <value>{0} д. назад</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} дней назад</value>
+    <value>{0} дн. назад</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
     <value>{0} час назад</value>
@@ -3079,7 +3079,7 @@
     <value>Стоимость в пыли:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Запусти Hearthstone, чтобы увидеть недостающие карты!</value>
+    <value>Запустите Hearthstone, чтобы увидеть недостающие карты!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>Есть все необходимые карты!</value>
@@ -3319,7 +3319,7 @@
     <value>Email</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Успешно зарегистрирован на</value>
+    <value>Успешно выполнен вход в</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
     <value>Вход</value>
@@ -3346,7 +3346,7 @@
     <value>Запуск Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Выведите поток Twitch на новый уровень!</value>
+    <value>Поднимите свою Twitch трансляцию на новый уровень!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
     <value>С расширенным интерфейсом, отслеживанием колод и прочим.</value>
@@ -3379,18 +3379,18 @@
     <value>Скрыть в трей при закрытии</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ничего не делать</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>Моргать</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>Всплывающее окно</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>В начале хода:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>При дружеской дуэли:</value>
   </data>
 </root>
