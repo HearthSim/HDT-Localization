@@ -2698,22 +2698,22 @@
     <value>Отмена</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>Колода не найдена</value>
+    <value>Колода не обнаружена</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>Буфер не содержит поддерживаемые URL-адресы или данные колоды.</value>
+    <value>Буфер не содержит код или поддерживаемый url колоды.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
     <value>Режим работы с буфером:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Поведение при вставке (Ctrl-V) URL-адреса или колоды в HDT</value>
+    <value>Поведение при вставке (Ctrl-V) кода или url колоды в HDT</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Ручное</value>
+    <value>Ручной</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Только сохр.</value>
+    <value>Только сохранить</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>Создать в Hearthstone</value>
@@ -2731,10 +2731,10 @@
     <value>Злачный город Прибамбасск</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Показ размера голема:</value>
+    <value>Счетчик нефритовых големов:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Показ размера голема:</value>
+    <value>Счетчик нефритовых големов:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Убрать серые секреты</value>
