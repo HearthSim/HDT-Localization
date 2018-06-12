@@ -2572,7 +2572,7 @@
     <value>Выбрать действие</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>изображение будет загружено на imgur.com при нажатии "выгрузка"</value>
+    <value>изображение будет отправлено на imgur.com при нажатии "отправить"</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
     <value>Сохранить</value>
@@ -2884,10 +2884,10 @@
     <value>Копировано!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Выгрузка на Imgur</value>
+    <value>Отправить на Imgur</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Выгружаю...</value>
+    <value>Отправляется...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
     <value>Выгружено успешно</value>
@@ -3007,7 +3007,7 @@
     <value>против</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>Выгружено</value>
+    <value>Отправлено</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
     <value>Нет данных.</value>
