@@ -2158,37 +2158,37 @@
     <value>Интерфейс</value>
   </data>
   <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
-    <value>Метки карт</value>
+    <value>Метки на картах</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Coin" xml:space="preserve">
     <value>Монетка</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Убраны из руки</value>
+    <value>Заменена</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
-    <value>Возвращено</value>
+    <value>Возвращена</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
-    <value>Создано</value>
+    <value>Создана</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>Процентное соотношение</value>
+    <value>Расчет шансов</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
-    <value>Главное:</value>
+    <value>Общее:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
-    <value>Число копий оставшихся в колоде для конкретной карты.</value>
+    <value>Число копий карты, оставшихся в колоде.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
     <value>Шанс вытянуть:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
-    <value>Шанс добрать карту с X оставшихся в колоде.</value>
+    <value>Вероятность взять конкретную карту, в зависимости от числа оставшихся в колоде копий.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>Шанс удержать:</value>
+    <value>Шанс, что карта на руке:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
     <value>Шанс противника удержать карту в начале хода с X оставшимися в игре.</value>
