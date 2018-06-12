@@ -1996,7 +1996,7 @@
     <value>Поражение</value>
   </data>
   <data name="Enum_GameResult_Draw" xml:space="preserve">
-    <value>Добор</value>
+    <value>Ничья</value>
   </data>
   <data name="Enum_GameResult_None" xml:space="preserve">
     <value>Нет</value>
@@ -2032,31 +2032,31 @@
     <value>Воин</value>
   </data>
   <data name="Enum_HeroClass_Archived" xml:space="preserve">
-    <value>Архивная</value>
+    <value>Архивный</value>
   </data>
   <data name="Enum_IconStyle_Round" xml:space="preserve">
-    <value>Круг</value>
+    <value>Круглые</value>
   </data>
   <data name="Enum_IconStyle_Square" xml:space="preserve">
-    <value>Квадрат</value>
+    <value>Квадратные</value>
   </data>
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
   </data>
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
-    <value>Свет</value>
+    <value>Светлая</value>
   </data>
   <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
-    <value>Тьма</value>
+    <value>Темная</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
     <value>Все</value>
   </data>
   <data name="Enum_Region_Unknown" xml:space="preserve">
-    <value>Неизвестно</value>
+    <value>Неизвестный</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
-    <value>США</value>
+    <value>Америка</value>
   </data>
   <data name="Enum_Region_EU" xml:space="preserve">
     <value>Европа</value>
