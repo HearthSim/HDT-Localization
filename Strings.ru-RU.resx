@@ -2527,40 +2527,40 @@
     <value>Отмена</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Удалить игры</value>
+    <value>Удалить записи игр</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>Это удаляет выбранные игры</value>
+    <value>Записи выбранных игр будут удалены</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
-    <value>Нужен перезапуск</value>
+    <value>Требуется перезапуск</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT необходимо перезапустить для того, чтобы изменения вступили в силу.</value>
+    <value>Необходимо перезапустить HDT, чтобы изменения вступили в силу.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
-    <value>Перезапуск сейчас</value>
+    <value>Перезапустить</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
-    <value>Потом</value>
+    <value>Не сейчас</value>
   </data>
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
-    <value>Сохранить</value>
+    <value>Сохранено как</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
-    <value>Ладно</value>
+    <value>ОК</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
     <value>Открыть папку</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
-    <value>Сохранить</value>
+    <value>Сохранено как</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
-    <value>Обновить</value>
+    <value>Загружено на</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
-    <value>Ладно</value>
+    <value>ОК</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
     <value>Открыть в браузере</value>
@@ -2569,7 +2569,7 @@
     <value>Копировать ссылку</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Title" xml:space="preserve">
-    <value>Выбор операции</value>
+    <value>Выбрать действие</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
     <value>изображение будет загружено на imgur.com при нажатии "выгрузка"</value>
