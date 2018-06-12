@@ -568,10 +568,10 @@
     <value>Скрыть (полностью)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>Скрыть в меню</value>
+    <value>Скрывать в меню</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>Скрыть при наблюдении</value>
+    <value>Скрывать в режиме зрителя</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
     <value>Скрывать при сворачивании HS</value>
@@ -2965,7 +2965,7 @@
     <value>Из кода колоды</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Колоды / Мои Записи / Интерфейс</value>
+    <value>Колода / Мои игры / Интерфейс</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0} д. назад</value>
@@ -2989,7 +2989,7 @@
     <value>Глобальная статистика — HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>Мои Записи</value>
+    <value>Мои игры</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>В настройках включены фильтры</value>
@@ -3229,10 +3229,10 @@
     <value>Вы вошли как</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Отправка коллекции</value>
+    <value>Коллекция выгружается</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Отправка повтора</value>
+    <value>Повторы выгружаются</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Повторы привязаны</value>
