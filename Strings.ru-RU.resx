@@ -361,7 +361,7 @@
     <value>Импорт колоды</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>Переместить в новое окно</value>
+    <value>Открыть в новом окне</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
     <value>Статистика</value>
@@ -2311,7 +2311,7 @@
     <value>нет</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>статистика</value>
+    <value>данных</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Все</value>
@@ -2347,7 +2347,7 @@
     <value>Колода противника</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
-    <value>Перейти в главное окно</value>
+    <value>Вернуть в основное окно</value>
   </data>
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>Игрок</value>
