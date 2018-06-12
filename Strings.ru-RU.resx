@@ -2611,7 +2611,7 @@
     <value>Сортировка Собранных колод</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
-    <value>Фильтр по классу</value>
+    <value>Сортировать по классу</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
     <value>Сортировка колод Арены</value>
@@ -2620,10 +2620,10 @@
     <value>Фильтр</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
-    <value>Верх</value>
+    <value>Вверх</value>
   </data>
   <data name="SortFilter_Filter_Button_Down" xml:space="preserve">
-    <value>Низ</value>
+    <value>Вниз</value>
   </data>
   <data name="SortFilter_Filter_Button_Top" xml:space="preserve">
     <value>Верхний</value>
@@ -2650,7 +2650,7 @@
     <value>Или</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Отображать колоды Стандартного формата в Вольном</value>
+    <value>Колоды Стандарта в Вольном</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Шанс победы</value>
