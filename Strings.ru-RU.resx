@@ -2353,7 +2353,7 @@
     <value>Игрок</value>
   </data>
   <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
-    <value>Урон от усталости:</value>
+    <value>Ожидаемый урон от усталости:</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>Противник</value>
@@ -2461,10 +2461,10 @@
     <value>Ошибка:</value>
   </data>
   <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
-    <value>Показать Stacktrace</value>
+    <value>Показать отладочную информацию</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>Чтобы помочь нам в решении этой проблемы, пожалуйста, подробно опишите что вы делали перед сбоем. Так же приложите любую другую информацию, которая на ваш взгляд может быть полезной.</value>
+    <value>Пожалуйста, опишите свои действия на момент возникновения ошибки, чтобы мы могли понять, что её вызвало. Так же приложите любую другую информацию, которая на ваш взгляд может быть полезной.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
     <value>Сообщить об ошибке</value>
