@@ -1633,7 +1633,7 @@
     <value>Показывать легенду</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
-    <value>Интервал:</value>
+    <value>Время:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Start" xml:space="preserve">
     <value>С:</value>
@@ -1696,16 +1696,16 @@
     <value>Время:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Start" xml:space="preserve">
-    <value>Начало:</value>
+    <value>С:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_End" xml:space="preserve">
-    <value>Конец:</value>
+    <value>По:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
     <value>Сезоны:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
-    <value>до</value>
+    <value>–</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
     <value>Класс:</value>
@@ -1720,7 +1720,7 @@
     <value>Ранг:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
-    <value>до</value>
+    <value>–</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
     <value>Формат:</value>
@@ -1732,7 +1732,7 @@
     <value>Ходы:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
-    <value>до</value>
+    <value>–</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
     <value>Монета:</value>
