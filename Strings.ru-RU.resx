@@ -2236,7 +2236,7 @@
     <value>запросы в GitHub.</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>Если нет ни одного вопроса по этой теме, не стесняйтесь, открывайте новый и/или исправляйте это самостоятельно.</value>
+    <value>Если вы не смогли найти похожую проблему, не стесняйтесь, открывайте новую. Можете даже сами исправить и выслать патч на рассмотрение. Если вы не знаете, что нужно указывать при описании проблемы</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>Тык сюда</value>
@@ -2650,7 +2650,7 @@
     <value>Или</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Добавить стандартные колоды в вольные</value>
+    <value>Отображать колоды Стандартного режима в Вольном</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Шанс победы</value>
@@ -2773,10 +2773,10 @@
     <value>Работает для мобильных устройств (ноутбук, планшет).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе "Интерфейс&gt; Общие&gt; разблокировать".</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → разблокировать».</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе "Интерфейс&gt; Общие&gt; разблокировать".</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → разблокировать».</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы отключить большинство анимаций для всплывающих окон</value>
@@ -2821,7 +2821,7 @@
     <value>Зал славы</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>Эта колода только для вольного режима</value>
+    <value>Эта колода только для Вольного формата</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>Эта колода имеет общую статистику и инфу о начальной руке на HSReplay.net</value>
