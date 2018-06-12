@@ -298,10 +298,10 @@
     <value>Синхронизация при запуске</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadDecks" xml:space="preserve">
-    <value>Авто-выгрузка новых колод</value>
+    <value>Авто-отправка новых колод</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>Авто-выгрузка записей игр</value>
+    <value>Авто-отправка записей игр</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
     <value>Авто-удаление колод</value>
@@ -2578,10 +2578,10 @@
     <value>Сохранить</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Сохр. и выгрузить</value>
+    <value>Сохранить и отправить</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Выгрузить</value>
+    <value>Отправить</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
     <value>Отмена</value>
@@ -2872,7 +2872,7 @@
     <value>Сохр. на диск</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Ошибка выгрузки. Попробуй снова потом и/или выгрузи вручную.</value>
+    <value>Ошибка отправки. Повторите попытку позже или отправьте вручную</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
     <value>Предпоказ</value>
@@ -2890,7 +2890,7 @@
     <value>Отправляется...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Выгружено успешно</value>
+    <value>Успешно отправлено</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Открыть папку</value>
@@ -3211,7 +3211,7 @@
     <value>Нажмите "Скачать" для обновления.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>Новости HSReplay.net: коллекция выгружается</value>
+    <value>Новая функция HSReplay.net: Загрузка коллекции</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Найдите лучшую колоду с учетом коллекции!</value>
