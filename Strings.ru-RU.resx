@@ -2992,16 +2992,16 @@
     <value>Мои Записи</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Имеет активные фильтры</value>
+    <value>В настройках включены фильтры</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
     <value>Победы:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>Проигрыши:</value>
+    <value>Поражения:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>против</value>
@@ -3013,13 +3013,13 @@
     <value>Нет данных.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Играйте в игры!</value>
+    <value>Сыграйте несколько партий!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>Загрузка...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Победные сражения</value>
+    <value>Эффективность против классов</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
     <value>Статистика / Руководство по сбросу</value>
