@@ -1945,7 +1945,7 @@
     <value>Immer</value>
   </data>
   <data name="Enum_DisplayMode_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automatisch</value>
   </data>
   <data name="Enum_DisplayMode_Never" xml:space="preserve">
     <value>Niemals</value>
@@ -2281,7 +2281,7 @@
     <value>Klicke "Benutzen" um ein Deck zu aktivieren</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automatisch</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
     <value>Kein-Deck Modus</value>
@@ -3097,7 +3097,7 @@
     <value>Kein-Deck Modus</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Deck autom. wählen</value>
+    <value>Deck automatisch wählen</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Klassenkarten zuerst</value>
@@ -3106,7 +3106,7 @@
     <value>Anzeigen</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Verlassen</value>
+    <value>Beenden</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
