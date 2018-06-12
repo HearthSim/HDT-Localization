@@ -937,10 +937,10 @@
     <value>Изменить</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Сеть</value>
+    <value>Сетевые колоды</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Метка колоды для импорта</value>
+    <value>Помечать импортированные колоды</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Авто-сохранение импортированных колод</value>
@@ -2626,13 +2626,13 @@
     <value>Вниз</value>
   </data>
   <data name="SortFilter_Filter_Button_Top" xml:space="preserve">
-    <value>Верхний</value>
+    <value>В начало</value>
   </data>
   <data name="SortFilter_Filter_Button_Bottom" xml:space="preserve">
-    <value>Нижний</value>
+    <value>В конец</value>
   </data>
   <data name="SortFilter_Filter_Button_Delete" xml:space="preserve">
-    <value>Удалить выбранный</value>
+    <value>Удалить выбранную</value>
   </data>
   <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
     <value>Новая метка</value>
@@ -2935,10 +2935,10 @@
     <value>Сохранить как</value>
   </data>
   <data name="DeckExport_Label_Instructions" xml:space="preserve">
-    <value>Указания:</value>
+    <value>Инструкция:</value>
   </data>
   <data name="DeckExport_Label_Step1" xml:space="preserve">
-    <value>Нажмите кнопку "Копировать"</value>
+    <value>Нажмите кнопку «Копировать»</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
     <value>Создайте новую колоду в Hearthstone</value>
