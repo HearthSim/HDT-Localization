@@ -253,7 +253,7 @@
     <value>В картинку</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>Скриншот (с инфой)</value>
+    <value>В картинку с информацией</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>Статистика</value>
@@ -2767,16 +2767,16 @@
     <value>Отображает созданную/возвращенную карту, если эта информация доступна.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Появится, если не на долго остановить курсор на карте.</value>
+    <value>Появится, если ненадолго остановить курсор на карте.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Работает для мобильных устройств (ноутбук, планшет).</value>
+    <value>Работает только для мобильных устройств (ноутбук, планшет).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → разблокировать».</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → Разблокировать».</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → разблокировать».</value>
+    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → Разблокировать».</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы отключить большинство анимаций для всплывающих окон</value>
@@ -2791,10 +2791,10 @@
     <value>секунд.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Звук оповещения и вспышку, когда осталось "X" секунд</value>
+    <value>Звук оповещения и вспышка, когда осталось X секунд</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Снимите флажок, чтобы колоды отображались в нормальном Регистре.</value>
+    <value>Снимите флажок, чтобы имена колод отображались в нормальном регистре.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>Отключите, если интерфейс появляется вне окна Hearthstone.</value>
@@ -2827,22 +2827,22 @@
     <value>На HSReplay.net для этой колоды есть глобальная статистика и руководство по сбросу</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>Руководство по начальной руке от HSReplay.net</value>
+    <value>Руководство по сбросу от HSReplay.net</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>Экспорт</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>Фото</value>
+    <value>В картинку</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
     <value>Только карты</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>С инфой</value>
+    <value>С информацией</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>Включая имя колоды, класс, наборы и цену по пыли</value>
+    <value>Включает имя колоды, класс, наборы и стоимость в пыли</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
     <value>Импорт из интернета</value>
@@ -2860,7 +2860,7 @@
     <value>Отмена</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>Фото</value>
+    <value>В картинку</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
     <value>Только карты</value>
@@ -2869,19 +2869,19 @@
     <value>Заголовок:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Сохр. на диск</value>
+    <value>Сохранить на диск</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
     <value>Ошибка отправки. Повторите попытку позже или отправьте вручную</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Предпоказ</value>
+    <value>Предпросмотр</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
     <value>Копировать в буфер</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Копировано!</value>
+    <value>Скопировано!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
     <value>Отправить на Imgur</value>
