@@ -1135,7 +1135,7 @@
     <value>Хранить статистику удаленной колоды*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, статистика Арены будет потеряна при удалении колоды Арены!</value>
+    <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, выступления пропадут из статистики Арены при удалении колоды Арены!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Отдельное окно для статистики колод</value>
@@ -1750,10 +1750,10 @@
     <value>Включая архивные игры</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>Применить фильтр по меткам</value>
+    <value>Фильтр по меткам</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Отфильтровать колоды по меткам можно в Фильтре колод (кнопка с двумя стрелками).</value>
+    <value>Отфильтровать колоды по меткам можно в Фильтре колод (кнопка с двумя стрелками над списком колод).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Меню</value>
@@ -1765,7 +1765,7 @@
     <value>Сводка</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Заходы и бои</value>
+    <value>Выступления и игры</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Расширенные графики</value>
