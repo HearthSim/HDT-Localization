@@ -586,7 +586,7 @@
     <value>Скрыть ход взятия карты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Скрыть знаки на картах</value>
+    <value>Скрыть метки на картах</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
     <value>Скрыть секреты</value>
@@ -841,7 +841,7 @@
     <value>Дополнительный:</value>
   </data>
   <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
-    <value>(подсказки)</value>
+    <value>(отображается в подсказках)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
     <value>Базовый шрифт для не латинских языков</value>
