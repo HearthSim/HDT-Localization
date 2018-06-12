@@ -2230,7 +2230,7 @@
     <value>Сообщайте об ошибках / предлагайте новые возможности</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Проверить</value>
+    <value>1) Проверьте писок</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
     <value>запросы в GitHub.</value>
@@ -2464,7 +2464,7 @@
     <value>Показать Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>Для того, чтобы помочь нам найти решение для этой проблемы, пожалуйста, приложите описание того, что Вы делали непосредственно до возникновения этого аварии, а также любую другую полезную информацию.</value>
+    <value>Чтобы помочь нам в решении этой проблемы, пожалуйста, подробно опишите что вы делали перед сбоем. Так же приложите любую другую информацию, которая на ваш взгляд может быть полезной.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
     <value>Сообщить об ошибке</value>
@@ -2794,13 +2794,13 @@
     <value>Звук оповещения и вспышку, когда осталось "X" секунд</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Снимите флажок, чтобы использовать обычный режим в  Deck Picker.</value>
+    <value>Снимите флажок, чтобы колоды отображались в нормальном Регистре.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>Отключите, если интерфейс появляется вне окна Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Чтобы узнать больше о форматах дат, загугли &quot;C# формат даты&quot;.</value>
+    <value>Чтобы узнать больше о форматах дат, загугли «C# формат даты».</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Попробуйте включить этот параметр, если у вас возникли проблемы с обнаружением ранга.</value>
@@ -2824,7 +2824,7 @@
     <value>Эта колода только для Вольного формата</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
-    <value>Эта колода имеет общую статистику и инфу о начальной руке на HSReplay.net</value>
+    <value>На HSReplay.net для этой колоды есть глобальная статистика и руководство по сбросу</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
     <value>Руководство по начальной руке от HSReplay.net</value>
