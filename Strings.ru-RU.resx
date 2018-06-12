@@ -922,7 +922,7 @@
     <value>Арена</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>Импорт режима:</value>
+    <value>Режим импорта:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>Шаблон имени для колод Арены</value>
@@ -2650,7 +2650,7 @@
     <value>Или</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Отображать колоды Стандартного режима в Вольном</value>
+    <value>Отображать колоды Стандартного формата в Вольном</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Шанс победы</value>
@@ -2704,7 +2704,7 @@
     <value>Буфер не содержит поддерживаемые URL-адресы или данные колоды.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Вставить режим</value>
+    <value>Режим работы с буфером:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
     <value>Поведение при вставке (Ctrl-V) URL-адреса или колоды в HDT</value>
@@ -2944,7 +2944,7 @@
     <value>Создать новую колоду в Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Для импорта в Hearthstone требуется только код. Строки начинающиеся с "#" не учитываются.</value>
+    <value>Для импорта в Hearthstone требуется только код. Строки начинающиеся с «#» не учитываются.</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>Копировать все</value>
@@ -3025,7 +3025,7 @@
     <value>Статистика / Руководство по сбросу</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>У нас недостаточно данных для выбранной колоды.</value>
+    <value>У нас недостаточно данных по выбранной колоде.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
     <value>Выберите колоду с иконкой HSReplay.net, чтобы увидеть глобальные данные здесь!</value>
@@ -3133,7 +3133,7 @@
     <value>Ошибка при копировании названий карт в буфер обмена.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>У выбранной колоды нет карт.</value>
+    <value>В выбранной колоде нет карт.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Перейти на HSReplay.net</value>
