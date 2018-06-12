@@ -1018,10 +1018,10 @@
     <value>Войти через Battle.net на HSReplay.net, чтобы привязать повторы. Запустится браузер.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Отправить анонимные данные</value>
+    <value>Отправлять анонимные данные</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>Будет передана лишь самая базовая информация, которая поможет улучшить HDT, например, время запуска приложения.</value>
+    <value>Будет передаваться лишь самая базовая информация, которая поможет улучшить HDT.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Сохранение настроек в AppData</value>
@@ -2371,16 +2371,16 @@
     <value>Заметка для этой игры</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Назначить</value>
+    <value>Записать</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
-    <value>Сохранить на ENTER</value>
+    <value>Enter для сохр.</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>Показ колоды противника</value>
+    <value>Колода противника</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Скрыть колоду противника</value>
+    <value>Скрыть колоду</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
     <value>Выбор колоды</value>
@@ -3385,7 +3385,7 @@
     <value>Моргать</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Всплывающее окно</value>
+    <value>Разворачивать игру</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
     <value>В начале хода:</value>
