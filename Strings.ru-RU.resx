@@ -607,7 +607,7 @@
     <value>Подсказки метки карт</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Авто-скрытие секретов</value>
+    <value>Затенять проверенные секреты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Не сбрасывать колоду после игры</value>
@@ -655,10 +655,10 @@
     <value>Скрыть колоду при просмотре друзей</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
-    <value>Исключать секреты нажатием</value>
+    <value>Затенять секреты при нажатии</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>Примечание: может не работать, если включено авто-скрытие секретов в "Настройки → Интерфейс → Общие".</value>
+    <value>Примечание: может не работать, если включена опция "Настройки → Интерфейс → Общие → Затенять проверенные секреты".</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Включено</value>
@@ -2737,7 +2737,7 @@
     <value>Счетчик нефритовых големов:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>Убрать серые секреты</value>
+    <value>Скрывать затененные секреты</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
     <value>Предупреждение</value>
