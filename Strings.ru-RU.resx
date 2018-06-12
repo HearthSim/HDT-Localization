@@ -2938,10 +2938,10 @@
     <value>Указания:</value>
   </data>
   <data name="DeckExport_Label_Step1" xml:space="preserve">
-    <value>Нажми кнопку "Копировать"</value>
+    <value>Нажмите кнопку "Копировать"</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Создать новую колоду в Hearthstone</value>
+    <value>Создайте новую колоду в Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
     <value>Для импорта в Hearthstone требуется только код. Строки начинающиеся с «#» не учитываются.</value>
@@ -2953,43 +2953,43 @@
     <value>Копировать только код</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>Копировано!</value>
+    <value>Скопировано!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
     <value>Экспорт</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Правщик колод</value>
+    <value>Редактор колоды</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Из кода колоды</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Колода / мои игры / Интерфейс</value>
+    <value>Колоды / Мои Записи / Интерфейс</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} д. назад</value>
+    <value>{0} день назад</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} д. назад</value>
+    <value>{0} дней назад</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>{0} ч. назад</value>
+    <value>{0} час назад</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} ч. назад</value>
+    <value>{0} часов назад</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0} м. назад</value>
+    <value>{0} минуту назад</value>
   </data>
   <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0} м. назад</value>
+    <value>{0} минут назад</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
     <value>Глобальная статистика — HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>Мои игры</value>
+    <value>Мои Записи</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>Имеет активные фильтры</value>
