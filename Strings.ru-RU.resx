@@ -247,7 +247,7 @@
     <value>ID в буфер</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Имя в буфер</value>
+    <value>Список карт в буфер</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>В картинку</value>
@@ -2845,10 +2845,10 @@
     <value>Включает имя колоды, класс, наборы и стоимость в пыли</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>Импорт из интернета</value>
+    <value>Импорт из URL</value>
   </data>
   <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
-    <value>Вписать ссылку на колоду:</value>
+    <value>Укажите ссылку на колоду:</value>
   </data>
   <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
     <value>Искать все поддерживаемые сайты</value>
@@ -2896,19 +2896,19 @@
     <value>Открыть папку</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Версия истории</value>
+    <value>История версий</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Версия истории</value>
+    <value>История версий</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Версия истории</value>
+    <value>История версий</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
     <value>Колода</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Весь список карт</value>
+    <value>Список всех карт</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
     <value>Поиск...</value>
@@ -2926,7 +2926,7 @@
     <value>В колоде больше 30 карт</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>Название уже существует.</value>
+    <value>Имя занято.</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
     <value>Необходимо указать имя.</value>
@@ -3190,7 +3190,7 @@
     <value>Авто-импорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Временное имя колоды приключения</value>
+    <value>Шаблон имени для колод Приключений</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>Включая пассивные карты</value>
