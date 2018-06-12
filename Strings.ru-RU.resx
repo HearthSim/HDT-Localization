@@ -649,7 +649,7 @@
     <value>Оставлять включенным (не используйте без необходимости)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
-    <value>Особенности:</value>
+    <value>Функции:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
     <value>Скрыть колоду при просмотре друзей</value>
@@ -850,7 +850,7 @@
     <value>Перезапустите, чтобы изменения вступили в силу!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>Авто-выбор колод. (отключает кнопки выбора)</value>
+    <value>Отключить ручной выбор колоды</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>Сортировка карт: сначала классовые</value>
@@ -907,7 +907,7 @@
     <value>Нажмите клавишу</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Собранная</value>
+    <value>Собранные (колоды вашей коллекции)</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
     <value>Проверяет ваши колоды на наличие изменений, всякий раз, когда вы заходите в меню «Игра».</value>
@@ -928,13 +928,13 @@
     <value>Шаблон имени для колод Арены</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>Шаблоны:</value>
+    <value>Используй в шаблоне:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
-    <value>Предпоказ:</value>
+    <value>Пример:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Править</value>
+    <value>Изменить</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Сеть</value>
@@ -1138,7 +1138,7 @@
     <value>Это переместит статистику в «колоду класса по умолчанию» (туда же где хранятся матчи в режиме без колоды). Таким образом, выступления пропадут из статистики Арены при удалении колоды Арены!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Отдельное окно для статистики колод</value>
+    <value>Открывать статистику в отдельном окне</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>Аналитика</value>
@@ -2761,7 +2761,7 @@
     <value>Автоматическая загрузка колод Арены отключена.\n\nРекомендуем включить этот параметр для оптимальной работы HDT.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Автоматически выбирать колоды (рекомендуется)</value>
+    <value>Автоматически выбирать колоду (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>Отображает созданную/возвращенную карту, если эта информация доступна.</value>
@@ -3070,7 +3070,7 @@
     <value>Выберите колоду, чтобы увидеть свои последние игры!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Показать панель игр</value>
+    <value>Показать панель «Мои игры»</value>
   </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
     <value>Недостающие карты</value>
@@ -3184,7 +3184,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Приключение</value>
+    <value>Приключения</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Авто-импорт новых колод</value>
