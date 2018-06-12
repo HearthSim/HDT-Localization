@@ -3088,7 +3088,7 @@
     <value>Сохранить</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Включая версию колоды</value>
+    <value>Указать версию колоды</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
     <value>Запуск Battle.net / Hearthstone</value>
@@ -3103,7 +3103,7 @@
     <value>Классовые карты в начале</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
-    <value>Показать</value>
+    <value>Развернуть</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
     <value>Закрыть</value>
@@ -3139,22 +3139,22 @@
     <value>Перейти на HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Установить/настроить Твич-расширение</value>
+    <value>Установить / настроить расширение Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Включить интеграцию с расширением Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Поток:</value>
+    <value>Трансляция:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>В сети</value>
+    <value>Прямой эфир</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
     <value>Не в сети</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Потоковое вещание</value>
+    <value>Трансляция</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Интерфейс с хромакеем</value>
