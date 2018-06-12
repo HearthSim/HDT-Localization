@@ -1348,7 +1348,7 @@
     <value>Исправить награды</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>Показ своей колоды</value>
+    <value>Смотреть свою колоду</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Колода противника</value>
@@ -1468,10 +1468,10 @@
     <value>По классам</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
-    <value>Доля побед</value>
+    <value>Доля побед классом</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
-    <value>Доля побед против</value>
+    <value>Доля побед против класса</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>Версия</value>
