@@ -871,7 +871,7 @@
     <value>После завершения Арены архивировать колоду</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Отображать дату на колодах:</value>
+    <value>Дата на колодах:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Формат:</value>
@@ -1903,7 +1903,7 @@
     <value>Пробуждение древних богов</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Классическое</value>
+    <value>Классическая</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Альтернативная</value>
@@ -1915,7 +1915,7 @@
     <value>Последнее использование</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Не отображать</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>По умолчанию</value>
@@ -2137,7 +2137,7 @@
     <value>Все</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
-    <value>Цвет класса:</value>
+    <value>Расцветка классов:</value>
   </data>
   <data name="DeckNotes_Button_Save" xml:space="preserve">
     <value>Сохранить</value>
