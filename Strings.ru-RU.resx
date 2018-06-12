@@ -2653,37 +2653,37 @@
     <value>Колоды Стандарта в Вольном</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
-    <value>Шанс победы</value>
+    <value>Доля побед</value>
   </data>
   <data name="Enum_DeckPanel_Cards" xml:space="preserve">
     <value>Карты</value>
   </data>
   <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
-    <value>Кол-во карт</value>
+    <value>Число карт</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
     <value>Шанс взятия</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Усталость: </value>
+    <value>Счетчик усталости</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>Назв. колоды</value>
+    <value>Имя колоды</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Побед</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Многие переводы  отсутствуют или в стадии разработки . Если вы хотите помочь, вы можете помочь с этим здесь:</value>
+    <value>Многие переводы отсутствуют или в стадии разработки. Если вы хотите помочь, зайдите в</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Открыть реп. перевода в браузере</value>
+    <value>репозиторий перевода (открыть в браузере)</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Показ HearthStats меню</value>
+    <value>Показать меню HearthStats</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Колода найдена!</value>
+    <value>Обнаружена колода!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
     <value>Выберите действие</value>
@@ -2692,7 +2692,7 @@
     <value>Создать в Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Только сохр.</value>
+    <value>Только сохранить</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>Отмена</value>
