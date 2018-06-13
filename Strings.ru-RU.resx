@@ -634,7 +634,7 @@
     <value>Сброс</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Сброс позиции:</value>
+    <value>Сбросить настройки расположения:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Разблок. интерфейс</value>
@@ -643,7 +643,7 @@
     <value>Предупреждение:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>Может вызвать торможение указателя</value>
+    <value>Может влиять на плавность движения мыши</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>Оставлять включенным (не используйте без необходимости)</value>
