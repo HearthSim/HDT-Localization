@@ -454,7 +454,7 @@
     <value>Имя...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Имя занято</value>
+    <value>Имя уже существует</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>Включая вольные карты</value>
@@ -478,7 +478,7 @@
     <value>Расширенные настройки</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>Интерфейс</value>
+    <value>Наложение</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>Общие</value>
