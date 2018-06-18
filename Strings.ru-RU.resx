@@ -214,7 +214,7 @@
     <value>Из Арены</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>Из потасовочных</value>
+    <value>Из Потасовки</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>Прочее</value>
@@ -277,7 +277,7 @@
     <value>Загрузить из файла</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>Привязать учетную запись</value>
+    <value>Привязать учетку</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>Учетная запись</value>
@@ -454,7 +454,7 @@
     <value>Имя...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Имя занято</value>
+    <value>Имя уже существует</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>Включая вольные карты</value>
@@ -628,13 +628,13 @@
     <value>Прозрачность:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Изменять размер/передвигать объекты:</value>
+    <value>Изм. размер/расположение интерфейса:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Сброс</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Сброс позиции:</value>
+    <value>Сбросить настройки расположения:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Разблок. интерфейс</value>
@@ -643,7 +643,7 @@
     <value>Предупреждение:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>Может вызвать торможение указателя</value>
+    <value>Может влиять на плавность движения мыши</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>Оставлять включенным (не используйте без необходимости)</value>
@@ -1936,10 +1936,10 @@
     <value>Последняя</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Выбранная мажорная</value>
+    <value>Выбранная главная</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
-    <value>Последняя мажорная</value>
+    <value>Последняя главная</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
     <value>Всегда</value>
@@ -2791,7 +2791,7 @@
     <value>секунд.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Звук оповещения и вспышка, когда осталось X секунд</value>
+    <value>Сигнализировать звуком и моргать, когда осталось X секунд</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы имена колод отображались в нормальном регистре.</value>
@@ -3169,7 +3169,7 @@
     <value>Кобольды и катакомбы</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Колода содержит карты дополнения Кобольды и катакомбы</value>
+    <value>Колода содержит карты дополнения Кобольды и катакомбы.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>Кобольды и катакомбы</value>
@@ -3334,10 +3334,10 @@
     <value>Мои повторы</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Открытии или закрытии коллекции</value>
+    <value>• открытии или закрытии коллекции;</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Выходе из меню открытия комплектов</value>
+    <value>• выходе из меню открытия комплектов.</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
     <value>Просто запустите Hearthstone и откройте свою коллекцию.</value>

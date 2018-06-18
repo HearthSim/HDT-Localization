@@ -157,10 +157,10 @@
     <value>_Notizen bearbeiten</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>_Etiketten bearbeiten</value>
+    <value>Labels bearbeiten (_T)</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Etiketten setzen (_Q)</value>
+    <value>Label setzen (_Q)</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>In Arena verschieben</value>
@@ -349,7 +349,7 @@
     <value>Notizen</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Etiketten setzen</value>
+    <value>Labels Setzen</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
     <value>Fehler</value>
@@ -940,7 +940,7 @@
     <value>Web</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Decks beim Import etikettieren</value>
+    <value>Decks beim Import mit Label versehen</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Deck beim Import automatisch speichern</value>
@@ -1159,10 +1159,10 @@
     <value>_Notizen bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>E_tiketten bearbeiten</value>
+    <value>Labels bearbeiten (_T)</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>Etikett setzen (_Q)</value>
+    <value>Label setzen (_Q)</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>In Arena verschieben</value>
@@ -1750,7 +1750,7 @@
     <value>Archivierte Decks einbeziehen</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>Etikettenfilter anwenden</value>
+    <value>Labelfilter anwenden</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
     <value>Filter anwenden aus 'Deckauswahl' > 'Sortiere/Filtere Decks' (Doppelpfeil Button).</value>
@@ -2230,7 +2230,7 @@
     <value>Fehler melden / Features vorschlagen</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Schaut euch die</value>
+    <value>1) Sieh dir die</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
     <value>Probleme auf GitHub an.</value>
@@ -2245,7 +2245,7 @@
     <value>oder</value>
   </data>
   <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
-    <value>2) Sende eine Email an support@hsdecktracker.net (nur Englisch)</value>
+    <value>2) Sende eine E-Mail an support@hsdecktracker.net (nur Englisch)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub-Projekt</value>
@@ -2410,7 +2410,7 @@
     <value>Rang:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
-    <value>Legenden Rang:</value>
+    <value>Legendenrang:</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
     <value>Münze:</value>
@@ -2635,13 +2635,13 @@
     <value>Auswahl löschen</value>
   </data>
   <data name="SortFilter_Filter_Text_NewTag_Watermark" xml:space="preserve">
-    <value>Neues Etikett</value>
+    <value>Neues Label</value>
   </data>
   <data name="SortFilter_Filter_Button_Add" xml:space="preserve">
     <value>Hinzufügen</value>
   </data>
   <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
-    <value>Filteroperator:</value>
+    <value>Filteroperation:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
     <value>Und</value>
@@ -2680,7 +2680,7 @@
     <value>Lokalisierungs Repo im Browser öffnen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>HearthStats Menü anzeigen</value>
+    <value>HearthStats-Menü anzeigen</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Deck gefunden!</value>
@@ -2746,7 +2746,7 @@
     <value>Wieder aktivieren</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>Es ist ok, nicht wieder anzeigen</value>
+    <value>Alles klar, nicht mehr anzeigen</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>Automatische Deckauswahl ist zur Zeit deaktiviert.\n\nEs wird empfohlen diese Einstellung zu aktivieren, HDT funktioniert so am besten.</value>
@@ -2791,7 +2791,7 @@
     <value>Sekunden.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Alarmsignal ertönt und blinkt wenn nur noch &quot;X&quot; Sekunden verbleiben.</value>
+    <value>Alarmsignal ertönt und blinkt wenn nur noch &quot;X&quot; Sekunden verbleiben</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
