@@ -1030,7 +1030,7 @@
     <value>Сохранение данных в AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Автозапуск при входе в систему</value>
+    <value>Автозапуск при входе в Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Запускать в свернутом виде</value>
@@ -1039,7 +1039,7 @@
     <value>Скрыть в трей при сворачивании</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>Показывать заставку при загрузке</value>
+    <value>Показывать логотип при загрузке</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
     <value>Закрывать с Hearthstone</value>
@@ -2737,7 +2737,7 @@
     <value>Счетчик нефритовых големов:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>Скрывать затененные секреты</value>
+    <value>Скрывать проверенные секреты</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
     <value>Предупреждение</value>
@@ -3346,7 +3346,7 @@
     <value>Запуск Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Поднимите свою Twitch трансляцию на новый уровень!</value>
+    <value>Подключите HDT к Twitch!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
     <value>С расширенным интерфейсом, отслеживанием колод и прочим.</value>
