@@ -871,7 +871,7 @@
     <value>当竞技场结束后套牌自动归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>在套牌上显示何种日期：</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>格式：</value>
@@ -1909,13 +1909,13 @@
     <value>方案2</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>最近修改的</value>
+    <value>上次修改时间</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>最近使用的</value>
+    <value>上次使用时间</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>无</value>
+    <value>不显示</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>默认</value>
@@ -2293,10 +2293,10 @@
     <value>使用中</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>上次修改时间</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>上次使用时间</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>归档</value>
@@ -2785,10 +2785,10 @@
     <value>尝试开启此项当你在导出套牌/卡牌名字时遇到问题（在某些键盘布局下可能无效）</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value>嘀声于</value>
+    <value>在你的回合剩余</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>秒</value>
+    <value>秒时进行提示。</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
     <value>当你剩余“X”秒时，播放嘀声并闪烁屏幕</value>
