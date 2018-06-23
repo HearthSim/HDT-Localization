@@ -1099,7 +1099,7 @@
     <value>Режим Зрителя</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Прочее</value>
+    <value>Другое</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Показать</value>
@@ -1771,7 +1771,7 @@
     <value>Расширенные графики</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Собранные</value>
+    <value>Режим Игры</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>Сводка</value>
@@ -2311,7 +2311,7 @@
     <value>нет</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>данных</value>
+    <value>статистика</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Все</value>
@@ -2485,7 +2485,7 @@
     <value>Выберите тип колоды</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Собранная</value>
+    <value>Режим Игры</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Арена</value>
