@@ -553,7 +553,7 @@
     <value>Когда HS на переднем плане</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Подсказки при наведении на карту</value>
+    <value>Описание карт</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>Таймер</value>
@@ -607,7 +607,7 @@
     <value>Подсказки для меток на картах</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Затенять проверенные секреты</value>
+    <value>Автоматически скрывать проверенные секреты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Не сбрасывать колоду после игры</value>
