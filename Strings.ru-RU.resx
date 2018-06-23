@@ -208,7 +208,7 @@
     <value>Из интернета</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Из Собранных</value>
+    <value>Из Режима Игры</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
     <value>Из Арены</value>
@@ -217,7 +217,7 @@
     <value>Из Потасовки</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Прочее</value>
+    <value>Другое</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
     <value>Из файла</value>
@@ -244,10 +244,10 @@
     <value>Сохранить как XML</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>ID в буфер</value>
+    <value>Скопировать ID карт</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Список карт в буфер</value>
+    <value>Скопировать названия карт</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>В картинку</value>
@@ -2311,7 +2311,7 @@
     <value>нет</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>статистика</value>
+    <value>данных</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Все</value>
