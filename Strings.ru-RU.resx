@@ -1975,7 +1975,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Дружеская</value>
+    <value>Дружеский</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
     <value>Тренировка</value>
@@ -3274,7 +3274,7 @@
     <value>Просто загрузите свою коллекцию на HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Загружать мою коллекцию автоматически</value>
+    <value>Синхронизировать мою коллекцию</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
     <value>Коллекция обновлена!</value>
@@ -3292,7 +3292,7 @@
     <value>Запустите Hearthstone и откройте коллекцию</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Ваша коллекция будет автоматически обновляться, при</value>
+    <value>Ваша коллекция будет синхронизироваться, при</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>Учетная запись</value>
@@ -3334,10 +3334,10 @@
     <value>Мои повторы</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Открытии и закрытии коллекции</value>
+    <value>• открытии или закрытии коллекции;</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Выходе из меню открытия комплектов</value>
+    <value>• выходе из меню открытия комплектов.</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
     <value>Просто запустите Hearthstone и откройте свою коллекцию.</value>
