@@ -985,7 +985,7 @@
     <value>Показывать уведомление об отправке</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Автозагрузка повторов</value>
+    <value>Автоматически отправлять повторы:</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Рейтинг</value>
@@ -1000,7 +1000,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Дружеская</value>
+    <value>Дружеская дуэль</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Приключения / Тренировка</value>
@@ -1090,7 +1090,7 @@
     <value>Обычный</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Дружеская</value>
+    <value>Дружеская дуэль</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Приключения / Тренировка</value>
@@ -3214,7 +3214,7 @@
     <value>Новая функция HSReplay.net: Загрузка коллекции</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Найти лучшую колоду для твоей коллекции!</value>
+    <value>Найдите лучшую колоду с учетом коллекции!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Войдите, чтобы привязать свои повторы и включить все функции HSReplay.net</value>
