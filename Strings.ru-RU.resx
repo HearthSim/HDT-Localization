@@ -2971,7 +2971,7 @@
     <value>{0} д. назад</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} дн. назад</value>
+    <value>{0} дней назад</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
     <value>{0} ч. назад</value>
@@ -3238,7 +3238,7 @@
     <value>Повторы привязаны</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Премиум подписка активна</value>
+    <value>Премиум подписка</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>Включить сейчас</value>
@@ -3283,7 +3283,7 @@
     <value>Обновление коллекции в очереди...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Последнее обновление</value>
+    <value>Последняя синхронизация</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>Последний шаг для загрузки вашей коллекции:</value>
