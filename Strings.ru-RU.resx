@@ -985,13 +985,13 @@
     <value>Показывать уведомление об отправке</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Автоматически отправлять повторы:</value>
+    <value>Автозагрузка повторов</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Рейтинг</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
-    <value>Обычный (Солнышко)</value>
+    <value>Обычный</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -1000,7 +1000,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Дружеская дуэль</value>
+    <value>Дружеская</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Приключения / Тренировка</value>
@@ -1087,10 +1087,10 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
-    <value>Обычный (Солнышко)</value>
+    <value>Обычный</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Дружеская дуэль</value>
+    <value>Дружеская</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>Приключения / Тренировка</value>
@@ -1975,7 +1975,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Дружеский</value>
+    <value>Дружеская</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
     <value>Тренировка</value>
@@ -3214,7 +3214,7 @@
     <value>Новая функция HSReplay.net: Загрузка коллекции</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Найдите лучшую колоду с учетом коллекции!</value>
+    <value>Найти лучшую колоду для твоей коллекции!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Войдите, чтобы привязать свои повторы и включить все функции HSReplay.net</value>
