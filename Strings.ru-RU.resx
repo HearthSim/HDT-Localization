@@ -607,13 +607,13 @@
     <value>Подсказки для меток на картах</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Автоматически скрывать проверенные секреты</value>
+    <value>Затенять проверенные секреты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
     <value>Не сбрасывать колоду после игры</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Отображать прогресс получения золота за день</value>
+    <value>Всегда отображать прогресс получения золота (в меню)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Показать описание карты при наведении курсора</value>
@@ -3229,10 +3229,10 @@
     <value>Вы вошли как</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Коллекция выгружается</value>
+    <value>Загрузка коллекции</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Повторы выгружаются</value>
+    <value>Загрузка повторов</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Повторы привязаны</value>
