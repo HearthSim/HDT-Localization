@@ -163,7 +163,7 @@
     <value>Назначить метку</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
-    <value>Переместить а Арену</value>
+    <value>Переместить в Арену</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
     <value>Отправить в Собранные</value>
@@ -400,7 +400,7 @@
     <value>Стоимость</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
-    <value>Вид</value>
+    <value>Тип</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>Набор</value>
@@ -457,7 +457,7 @@
     <value>Имя уже существует</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Включая вольные карты</value>
+    <value>Включить вольные карты</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
     <value>Ограничить число карт</value>
@@ -1150,7 +1150,7 @@
     <value>Использовать колоду</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Изменить колоду</value>
+    <value>Редактировать колоду</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>Переименовать</value>
