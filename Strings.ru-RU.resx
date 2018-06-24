@@ -163,7 +163,7 @@
     <value>Назначить метку</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
-    <value>Отправить в Арену</value>
+    <value>Переместить в Арену</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
     <value>Отправить в Собранные</value>
@@ -208,7 +208,7 @@
     <value>Из интернета</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Из Собранных</value>
+    <value>Из Режима Игры</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
     <value>Из Арены</value>
@@ -217,7 +217,7 @@
     <value>Из Потасовки</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Прочее</value>
+    <value>Другое</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
     <value>Из файла</value>
@@ -244,16 +244,16 @@
     <value>Сохранить как XML</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>ID в буфер</value>
+    <value>Скопировать ID карт</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Список карт в буфер</value>
+    <value>Скопировать названия карт</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>В картинку</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>В картинку с информацией</value>
+    <value>В картинку (с инф.)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>Статистика</value>
@@ -262,7 +262,7 @@
     <value>Арена</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>Собранные</value>
+    <value>Режим игры</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
     <value>Повторы</value>
@@ -277,7 +277,7 @@
     <value>Загрузить из файла</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
-    <value>Привязать учетку</value>
+    <value>Привязать учетную запись</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>Учетная запись</value>
@@ -400,7 +400,7 @@
     <value>Стоимость</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
-    <value>Вид</value>
+    <value>Тип</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>Набор</value>
@@ -457,7 +457,7 @@
     <value>Имя уже существует</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Включая вольные карты</value>
+    <value>Включить вольные карты</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
     <value>Ограничить число карт</value>
@@ -553,7 +553,7 @@
     <value>Когда HS на переднем плане</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Подсказки при наведении на карту</value>
+    <value>Описание карт</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>Таймер</value>
@@ -613,7 +613,7 @@
     <value>Не сбрасывать колоду после игры</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Отображать прогресс получения золота за день</value>
+    <value>Всегда отображать прогресс получения золота (в меню)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Показать описание карты при наведении курсора</value>
@@ -757,7 +757,7 @@
     <value>Тема:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>Добавочный цвет:</value>
+    <value>Оттенок:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
     <value>Иконки классов:</value>
@@ -907,7 +907,7 @@
     <value>Нажмите клавишу</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Собранные (колоды вашей коллекции)</value>
+    <value>Режим игры</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
     <value>Проверяет ваши колоды на наличие изменений, всякий раз, когда вы заходите в меню «Игра».</value>
@@ -991,7 +991,7 @@
     <value>Рейтинг</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
-    <value>Обычный (Солнышко)</value>
+    <value>Обычный</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -1030,7 +1030,7 @@
     <value>Сохранение данных в AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Автозапуск при входе в систему</value>
+    <value>Автозапуск при входе в Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Запускать в свернутом виде</value>
@@ -1039,7 +1039,7 @@
     <value>Скрыть в трей при сворачивании</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>Показывать заставку при загрузке</value>
+    <value>Показывать логотип при загрузке</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
     <value>Закрывать с Hearthstone</value>
@@ -1087,7 +1087,7 @@
     <value>Потасовка</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
-    <value>Обычный (Солнышко)</value>
+    <value>Обычный</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
     <value>Дружеская дуэль</value>
@@ -1099,7 +1099,7 @@
     <value>Режим Зрителя</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Прочее</value>
+    <value>Другое</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Показать</value>
@@ -1150,7 +1150,7 @@
     <value>Использовать колоду</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Изменить колоду</value>
+    <value>Редактировать колоду</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>Переименовать</value>
@@ -1159,7 +1159,7 @@
     <value>Примечание</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Метки</value>
+    <value>Редактировать метки</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Назначить метку</value>
@@ -1678,7 +1678,7 @@
     <value>Деньги</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
-    <value>Автопоказ</value>
+    <value>Показывать автоматически</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
     <value>Сохранить</value>
@@ -1771,7 +1771,7 @@
     <value>Расширенные графики</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Собранные</value>
+    <value>Режим Игры</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>Сводка</value>
@@ -2485,7 +2485,7 @@
     <value>Выберите тип колоды</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Собранная</value>
+    <value>Режим Игры</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Арена</value>
@@ -2674,10 +2674,10 @@
     <value>Побед</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Многие переводы отсутствуют или в стадии разработки. Если вы хотите помочь, зайдите в</value>
+    <value>Перевод на некоторые языки отсутствует или находится в работе. Если вы хотите помочь, откройте</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>репозиторий перевода (открыть в браузере)</value>
+    <value>репозиторий перевода</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>Показать меню HearthStats</value>
@@ -2959,7 +2959,7 @@
     <value>Экспорт</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Редактор колоды</value>
+    <value>Редактировать колоду</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Из кода колоды</value>
@@ -3229,16 +3229,16 @@
     <value>Вы вошли как</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Коллекция выгружается</value>
+    <value>Загрузка коллекции</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Повторы выгружаются</value>
+    <value>Загрузка повторов</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Повторы привязаны</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Премиум подписка активна</value>
+    <value>Премиум подписка</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>Включить сейчас</value>
@@ -3274,7 +3274,7 @@
     <value>Просто загрузите свою коллекцию на HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Загружать мою коллекцию автоматически</value>
+    <value>Синхронизировать мою коллекцию</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
     <value>Коллекция обновлена!</value>
@@ -3283,7 +3283,7 @@
     <value>Обновление коллекции в очереди...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Последнее обновление</value>
+    <value>Последняя синхронизация</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>Последний шаг для загрузки вашей коллекции:</value>
@@ -3292,7 +3292,7 @@
     <value>Запустите Hearthstone и откройте коллекцию</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Ваша коллекция будет автоматически обновляться, при</value>
+    <value>Ваша коллекция будет синхронизироваться, при</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
     <value>Учетная запись</value>
@@ -3346,10 +3346,10 @@
     <value>Запуск Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Поднимите свою Twitch трансляцию на новый уровень!</value>
+    <value>Подключите HDT к Twitch!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>С расширенным интерфейсом, отслеживанием колод и прочим.</value>
+    <value>Расширенный интерфейс и многое другое.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
     <value>Войдите, чтобы начать.</value>
@@ -3382,7 +3382,7 @@
     <value>Ничего не делать</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Моргать</value>
+    <value>Мигать</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
     <value>Разворачивать игру</value>
