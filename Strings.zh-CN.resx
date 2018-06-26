@@ -967,7 +967,7 @@
     <value>回到主菜单时再显示</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
-    <value>可用插件</value>
+    <value>在GitHub寻找插件</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
     <value>插件文件夹</value>
@@ -3202,13 +3202,13 @@
     <value>下载</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
-    <value>暂不</value>
+    <value>暂不更新</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
     <value>发现新的测试版本</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>点击“下载”以自动更新。</value>
+    <value>点击“下载”，立即更新。</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
     <value>HSReplay.net新功能：收藏上传</value>
