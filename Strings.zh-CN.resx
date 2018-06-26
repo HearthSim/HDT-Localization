@@ -586,7 +586,7 @@
     <value>隐藏抽牌回合数</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>隐藏卡牌标记</value>
+    <value>隐藏卡牌标记（可在帮助中查看）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
     <value>隐藏奥秘</value>
@@ -727,7 +727,7 @@
     <value>橙色标记抽牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>如果卡牌用光，不显示在套牌中</value>
+    <value>不显示数量为0的卡牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>包括手牌创建的卡牌（例如幸运币）</value>
@@ -1942,13 +1942,13 @@
     <value>最新主要</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
-    <value>总是</value>
+    <value>总是显示</value>
   </data>
   <data name="Enum_DisplayMode_Auto" xml:space="preserve">
-    <value>自动</value>
+    <value>自动显示</value>
   </data>
   <data name="Enum_DisplayMode_Never" xml:space="preserve">
-    <value>从不</value>
+    <value>不显示</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
     <value>全部</value>
@@ -2200,13 +2200,13 @@
     <value>个性化</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
-    <value>几乎所有的东西都可以在内嵌选项中打开或关闭，移动和调整大小。</value>
+    <value>几乎所有在内嵌中的内容都可以选项中打开或关闭、移动位置和调整大小。</value>
   </data>
   <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
     <value>开/关：</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>可通过下列方式找到并修改：</value>
+    <value>开启或关闭的设置在</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
     <value>选项&gt;内嵌&gt;通用/玩家/对手</value>
@@ -2215,13 +2215,13 @@
     <value>移动/缩放：</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
-    <value>可通过下列方式找到并修改：</value>
+    <value>内嵌可在此处进行调整：</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
     <value>选项&gt;内嵌&gt;通用&gt;解锁</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
-    <value>（按钮在底部）。</value>
+    <value>（按钮在最下部）。</value>
   </data>
   <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
     <value>更多信息可以点击此处。</value>
@@ -2764,7 +2764,7 @@
     <value>自动选择套牌（推荐）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>显示被创建/回到手牌的卡牌（可知情况）</value>
+    <value>对信息已知的卡牌显示被创建/回到手牌的标记</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>在鼠标指针静止一段时间后将会隐藏。</value>
