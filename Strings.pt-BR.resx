@@ -247,7 +247,7 @@
     <value>Copiar _IDS para área de transferência</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copiar _nomes para área de transferência</value>
+    <value>Copiar _nome das cartas</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>_Captura de tela</value>
@@ -532,7 +532,7 @@
     <value>Aparência</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
-    <value>Definições</value>
+    <value>Preferências</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>nome ou descrição</value>
@@ -592,19 +592,19 @@
     <value>Ocultar segredos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Dicas de contexto das cartas</value>
+    <value>Mostrar descrição das cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Apenas para segredos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Dicas de contexto adicionais das cartas</value>
+    <value>Mostrar descrição adicional das cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
     <value>Usar animação nas cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Dicas de contexto das marcas das cartas</value>
+    <value>Mostrar informações sobre a origem das cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
     <value>Desabilitar segredos automaticamente</value>
@@ -829,7 +829,7 @@
     <value>Mostrar diálogo antes de exportar</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Alertas</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Idioma das cartas</value>
@@ -856,7 +856,7 @@
     <value>Classificação de cartões: cartões de classe primeiro</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Mostrar dicas de contexto das cartas</value>
+    <value>Mostrar descrição nas cartas</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostrar curva de mana</value>
@@ -871,7 +871,7 @@
     <value>Arquivar baralho quando a arena terminar</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>Mostrar data nos Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Formato:</value>
@@ -1114,7 +1114,7 @@
     <value>Modo:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
-    <value>Espaço de tempo</value>
+    <value>Espaço de tempo:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe_Since" xml:space="preserve">
     <value>Desde:</value>
@@ -1909,13 +1909,13 @@
     <value>Alternativo</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Última Edição</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Última Partida</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Não mostrar</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Padrão</value>
@@ -2218,7 +2218,7 @@
     <value>A sobreposição pode ser desbloqueada via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>opções&gt;sopreposição&gt;geral&gt;desbloquear sobreposição</value>
+    <value>opções&gt; sopreposição&gt; geral&gt; ajustar sobreposição</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(botão no fundo)</value>
@@ -2293,10 +2293,10 @@
     <value>Ativo</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>Última vez editada</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>Última vez jogada</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Arquivado</value>
@@ -2482,7 +2482,7 @@
     <value>Escolha o baralho</value>
   </data>
   <data name="DeckTypeDialog_Title" xml:space="preserve">
-    <value>Escolher o tipo de baralho</value>
+    <value>Selecione o tipo de baralho</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
     <value>Construído</value>
@@ -2773,10 +2773,10 @@
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de 'sobreposição&gt;geral&gt;desbloquear'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de ' sobreposição > geral > ajustar '.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de 'sobreposição&gt;geral&gt;desbloquear'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de ' sobreposição > geral > ajustar '.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Desmarque para desativar a maioria das animações para caixas de diálogo pop-up e flyouts</value>
@@ -3283,7 +3283,7 @@
     <value>Atualização de coleção na fila ...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Ultima atualização</value>
+    <value>Última atualização</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>Mais um passo para enviar sua coleção:</value>
@@ -3379,18 +3379,18 @@
     <value>Fechar para a bandeja</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nenhum</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>Pop-up</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Quando o turno começar:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Quando um amigo desafiar:</value>
   </data>
 </root>
