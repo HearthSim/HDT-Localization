@@ -2731,10 +2731,10 @@
     <value>Die Straßen von Gadgetzan</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Jadegolem-Zähler zeigen:</value>
+    <value>Jadegolem-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Jadegolem-Zähler zeigen:</value>
+    <value>Jadegolem-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Entferne ausgegraute Geheimnisse</value>
@@ -2869,7 +2869,7 @@
     <value>Titel:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Auf HDD speichern</value>
+    <value>Auf Festplatte speichern</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
     <value>Fehler beim Hochladen. Bitte später nochmal probieren und/oder manuell hochladen.</value>
@@ -2914,7 +2914,7 @@
     <value>Suche...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
-    <value>Suche Kartentext</value>
+    <value>Im Kartentext suchen</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
     <value>Filter</value>
@@ -3196,7 +3196,7 @@
     <value>Passive Karten einbeziehen</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Zeige Decks die als "Favorit" markiert sind zuerst</value>
+    <value>Decks mit "Favorite"-Label zuerst anzeigen</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
     <value>Herunterladen</value>
