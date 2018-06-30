@@ -3217,7 +3217,7 @@
     <value>寻找最适合你的收藏的套牌！</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>登录以记录回放数据并启用HSReplay.net的全部功能</value>
+    <value>登录以关联回放数据并启用HSReplay.net的全部功能</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>登录以启用HSReplay.net的全部功能</value>
@@ -3235,7 +3235,7 @@
     <value>回放上传中</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Replays claimed</value>
+    <value>回放已关联</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>订阅高级版</value>
@@ -3244,7 +3244,7 @@
     <value>立即启用</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Claim now</value>
+    <value>立即关联</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
     <value>感谢您对我们的支持！</value>
@@ -3259,10 +3259,10 @@
     <value>您确定要注销吗？</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>新产生的回放不会再添加到你的账户。</value>
+    <value>新产生的回放不会再关联到你的账户。</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>重新登录能够自动将回放添加回你的账户。</value>
+    <value>重新登录能够自动将回放关联到你的账户。</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>注销</value>
