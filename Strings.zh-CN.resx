@@ -3217,7 +3217,7 @@
     <value>寻找最适合你的收藏的套牌！</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+    <value>登录以记录回放数据并启用HSReplay.net的全部功能</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>登录以启用HSReplay.net的全部功能</value>
@@ -3262,7 +3262,7 @@
     <value>新产生的回放不会再添加到你的账户。</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Logging back in will claim all new replays retroactively.</value>
+    <value>重新登录能够自动将回放添加回你的账户。</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>注销</value>
@@ -3319,7 +3319,7 @@
     <value>电子邮件</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Successfully logged in</value>
+    <value>登录成功</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
     <value>登录</value>
