@@ -793,7 +793,7 @@
     <value>每天的第一次启动时自动创建备份。包含了套牌、游戏和配置。如果已有7个以上的备份（自动生成），最早的备份会被自动删除，让你至少有一周的备份。</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
-    <value>显示备份路径</value>
+    <value>打开备份文件夹</value>
   </data>
   <data name="Options_Tracker_Exporting_Label_Speed" xml:space="preserve">
     <value>速度：</value>
@@ -970,7 +970,7 @@
     <value>在GitHub寻找插件</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>插件文件夹</value>
+    <value>打开插件文件夹</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
     <value>启用</value>
