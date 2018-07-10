@@ -154,7 +154,7 @@
     <value>Переименовать</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>Изменить примечание</value>
+    <value>Изменить заметку</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
     <value>Изменить метки</value>
@@ -1156,7 +1156,7 @@
     <value>Переименовать</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>Примечание</value>
+    <value>Изменить заметку</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
     <value>Редактировать метки</value>
@@ -2269,7 +2269,7 @@
     <value>Версия:</value>
   </data>
   <data name="Help_Button_Updatenotes" xml:space="preserve">
-    <value>Описание обновления</value>
+    <value>Описание обновлений</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
     <value>Текущая колода:</value>
@@ -2959,7 +2959,7 @@
     <value>Экспорт</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Редактировать колоду</value>
+    <value>Редактор колоды</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
     <value>Из кода колоды</value>
@@ -3034,7 +3034,7 @@
     <value>Ищите что-то новое?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>Набирающие популярность колоды!</value>
+    <value>Показать популярные колоды!</value>
   </data>
   <data name="Druid" xml:space="preserve">
     <value>Друид</value>
@@ -3214,7 +3214,7 @@
     <value>Новая функция HSReplay.net: Загрузка коллекции</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Найдите лучшую колоду с учетом коллекции!</value>
+    <value>Показать лучшие колоды с учетом коллекции!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Войдите, чтобы привязать свои повторы и включить все функции HSReplay.net</value>
@@ -3355,7 +3355,7 @@
     <value>Войдите, чтобы начать.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Теперь давайте подключим вашу учетную запись Twitch к HSReplay.net.</value>
+    <value>Теперь давайте подключим вашу учетную запись Twitch к HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
     <value>Учетная запись Twitch:</value>
