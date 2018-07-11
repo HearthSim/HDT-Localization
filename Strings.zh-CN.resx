@@ -2944,7 +2944,7 @@
     <value>在《炉石传说》中新建套牌</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>只需要代码就可以导入套牌，“#”开头的行都会被忽略</value>
+    <value>只需要代码就可以导入套牌，“#”开头的行都会被忽略。</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>复制全部</value>
@@ -3217,10 +3217,10 @@
     <value>寻找最适合你的收藏的套牌！</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>登录以关联回放数据并启用HSReplay.net的全部功能</value>
+    <value>登录以关联回放数据并启用HSReplay.net的全部功能。</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>登录以启用HSReplay.net的全部功能</value>
+    <value>登录以启用HSReplay.net的全部功能。</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
     <value>Replays are uploaded to</value>
