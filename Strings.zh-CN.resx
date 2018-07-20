@@ -250,7 +250,7 @@
     <value>复制名称到剪贴板(_N)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>套牌图片(_S)</value>
+    <value>保存为图片(_S)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
     <value>套牌图片（包含信息）(_I)</value>
@@ -1657,7 +1657,7 @@
     <value>金币</value>
   </data>
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
-    <value>你可以输入例如 50+125 的值</value>
+    <value>你可以输入类似于50+125的值</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>奥术之尘</value>
@@ -1678,7 +1678,7 @@
     <value>战网点</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
-    <value>自动显示</value>
+    <value>结算时自动显示该窗口</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
     <value>保存</value>
@@ -2272,7 +2272,7 @@
     <value>查看更新说明</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
-    <value>可用套牌：</value>
+    <value>使用中的套牌：</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
     <value>无</value>
@@ -2869,10 +2869,10 @@
     <value>标题：</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>保存到磁盘</value>
+    <value>保存到本地</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>上传错误。请稍后再试或手动上传</value>
+    <value>上传时出错，请稍后再试或手动上传。</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
     <value>预览</value>
@@ -2944,7 +2944,7 @@
     <value>在《炉石传说》中新建套牌</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>只需要代码就可以导入套牌，“#”开头的行都会被忽略</value>
+    <value>只需要代码就可以导入套牌，“#”开头的行都会被忽略。</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
     <value>复制全部</value>
@@ -3184,7 +3184,7 @@
     <value>乱斗</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（地下城冒险、怪物狩猎）</value>
+    <value>冒险模式（地下城冒险、怪物狩猎、谜题实验室）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
@@ -3217,13 +3217,13 @@
     <value>寻找最适合你的收藏的套牌！</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>登录以关联回放数据并启用HSReplay.net的全部功能</value>
+    <value>登录以关联回放数据并启用HSReplay.net的全部功能。</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>登录以启用HSReplay.net的全部功能</value>
+    <value>登录以启用HSReplay.net的全部功能。</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>回放上传至</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Logged in as</value>
@@ -3283,7 +3283,7 @@
     <value>等待更新收藏信息……</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>最后更新</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>要上传你的收藏还有最后一步：</value>
