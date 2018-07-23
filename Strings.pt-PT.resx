@@ -457,7 +457,7 @@
     <value>Nome já existe</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Incluir cartas de Selvagem</value>
+    <value>Incluir cartas do modo Livre</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
     <value>Limite de cartas Construído</value>
@@ -934,7 +934,7 @@
     <value>Prever:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
@@ -982,7 +982,7 @@
     <value>Criado por</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Show share notification</value>
+    <value>Mostrar notificação de partilha</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Upload automático de repetições</value>
@@ -2650,7 +2650,7 @@
     <value>Ou</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>Incluir baralhos 'Padrão' em 'Selvagem'</value>
+    <value>Incluir decks Padrão em Livre</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Índice de vitórias</value>
@@ -2821,7 +2821,7 @@
     <value>Hall of Fame</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>This deck can only be used in 'Wild' mode</value>
+    <value>Este baralho só pode ser usado no modo "Livre"</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>This deck has global statistics and mulligan information available on HSReplay.net</value>
