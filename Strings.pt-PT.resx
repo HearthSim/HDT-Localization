@@ -646,7 +646,7 @@
     <value>Pode fazer o cursor congelar ocasionalmente</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>Force on (don't use this unless you need to)</value>
+    <value>Forçar início (não usar, a não ser que seja preciso)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>Funcionalidades:</value>
@@ -721,13 +721,13 @@
     <value>Centrar baralho verticalmente</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
-    <value>Highlight cards in hand</value>
+    <value>Destacar as cartas na mão</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
     <value>Destacar última carta sacada</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>Remove cards if none remaining</value>
+    <value>Remover as cartas se não restar nenhuma</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Include cards created in hand (e.g. The Coin)</value>
