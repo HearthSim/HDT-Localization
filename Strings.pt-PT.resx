@@ -136,16 +136,16 @@
     <value>_Paladino</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
-    <value>_Rogue</value>
+    <value>_Ladino</value>
   </data>
   <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
-    <value>_Shaman</value>
+    <value>_Xamã</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
-    <value>_Warlock</value>
+    <value>_Bruxo</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
-    <value>Wa_rrior</value>
+    <value>_Guerreiro</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
     <value>Editar _baralho</value>
@@ -250,7 +250,7 @@
     <value>Copiar _nomes para área de transferência</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>_Screenshot</value>
+    <value>_Captura de Ecrã</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
     <value>S_creenshot (com informação)</value>
@@ -430,25 +430,25 @@
     <value>Promoção</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
-    <value>Curse of Naxxramas</value>
+    <value>Maldição de Naxxramas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblins vs Gnomos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
-    <value>Blackrock Mountain</value>
+    <value>Montanha Rocha Negra</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>O Grande Torneio</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>League of Explorers</value>
+    <value>Liga dos Exploradores</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Sussurros dos Deuses Antigos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
-    <value>One Night in Karazhan</value>
+    <value>Uma Noite em Karazhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
     <value>Nome...</value>
@@ -526,7 +526,7 @@
     <value>Teclas de Atalho</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Backups</value>
+    <value>Cópias de segurança</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
     <value>Aparência</value>
@@ -643,7 +643,7 @@
     <value>Aviso:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>May cause the cursor to freeze occasionally</value>
+    <value>Pode fazer o cursor congelar ocasionalmente</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>Force on (don't use this unless you need to)</value>
