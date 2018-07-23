@@ -775,7 +775,7 @@
     <value>Joia colorida pela raridade da carta</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>Red/green text color in stats summary</value>
+    <value>Cor do texto vermelha/verde no resumo das estatísticas</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
     <value>Usar animações metro</value>
@@ -820,16 +820,16 @@
     <value>Limpar filtros automaticamente</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
-    <value>Force clear searchbox between cards</value>
+    <value>Forçar um campo de pesquisa vazio entre as cartas</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
-    <value>Paste names from clipboard</value>
+    <value>Colar nomes da área de transferência</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
     <value>Mostrar diálogo antes de exportar</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Alertas</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Idioma das cartas</value>
@@ -853,7 +853,7 @@
     <value>Automaticamente "USAR" baralhos. (desativa o botão nos baralhos)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
-    <value>Card sorting: Class cards first</value>
+    <value>Organização das cartas: Cartas de classe primeiro</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
     <value>Mostrar dicas de contexto das cartas</value>
@@ -871,7 +871,7 @@
     <value>Arquivar baralhos de arena quando a série terminar</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>Mostrar data nos Baralhos:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Formato:</value>
@@ -1957,7 +1957,7 @@
     <value>Padrão</value>
   </data>
   <data name="Enum_Format_Wild" xml:space="preserve">
-    <value>Selvagem</value>
+    <value>Livre</value>
   </data>
   <data name="Enum_GameMode_All" xml:space="preserve">
     <value>Todos</value>
@@ -2323,7 +2323,7 @@
     <value>Padrão</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>Selvagem</value>
+    <value>Livre</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>Skip</value>
