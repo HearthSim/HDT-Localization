@@ -730,13 +730,13 @@
     <value>Remover as cartas se não restar nenhuma</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
-    <value>Include cards created in hand (e.g. The Coin)</value>
+    <value>Incluir cartas criadas na mão (p. ex. A Moeda)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>Mostrar a janela de sobreposição possível de capturar</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Disable card opacity transitions (recommended)</value>
+    <value>Desativar as transições de opacidade das cartas (recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>Segundo plano:</value>
@@ -745,10 +745,10 @@
     <value>Isto vai adicionar uma cópia da sobreposição em chroma por trás da janela Hearthstone.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
+    <value>Nota: A cópia do overlay pode aparecer às vezes à frente do Hearthstone. Clicar nela irá ocultá-la pelo resto da sessão.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show instructions for getting started (opens wiki)</value>
+    <value>Mostrar instruções para começar (abre a wiki)</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Idioma:</value>
