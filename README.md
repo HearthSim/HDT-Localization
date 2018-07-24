@@ -4,7 +4,9 @@ This is the localization repo for [HearthSim/Hearthstone-Deck-Tracker](https://g
 
 ## How to contribute
 
-We use Crowdin: https://translate.hsdecktracker.net/
+We use [Crowdin](https://translate.hsdecktracker.net/).
+
+You can find the contribution guidelines [here](https://hsreplay.net/i18n/contribute/).
 
 
 ## License
