@@ -1288,13 +1288,13 @@
     <value>Clássico:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes:</value>
+    <value>Goblins vs Gnomos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
-    <value>The Grand Tournament:</value>
+    <value>O Grande Torneio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
-    <value>Whispers of the Old Gods:</value>
+    <value>Sussurros dos Deuses Antigos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards" xml:space="preserve">
     <value>Cartas</value>
@@ -1330,7 +1330,7 @@
     <value>Ouro</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Pó</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Pacotes</value>
@@ -1432,31 +1432,31 @@
     <value>Menos usado</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druida</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Caçador</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladino</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Ladino</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Xamã</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Bruxo</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerreiro</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
     <value>Índice de vitórias</value>
@@ -1597,7 +1597,7 @@
     <value>Jogado</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
-    <value>Played (%)</value>
+    <value>Jogado (%)</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Opponents" xml:space="preserve">
     <value>Adversários</value>
@@ -1660,7 +1660,7 @@
     <value>Pode inserir valores tais como 50+125</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Pó</value>
   </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
     <value>Pacotes</value>
@@ -1855,10 +1855,10 @@
     <value>Feitiços</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
-    <value>Minions</value>
+    <value>Lacaios</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
+    <value>Heróis</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Mecânicas</value>
@@ -1876,7 +1876,7 @@
     <value>Ataque</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
-    <value>Overload</value>
+    <value>Sobrecarga</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
     <value>Importar &amp; guardar automaticamente</value>
@@ -1894,13 +1894,13 @@
     <value>Clássico</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblins vs Gnomos</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>O Grande Torneio</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Sussurros dos Deuses Antigos</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
     <value>Clássico</value>
@@ -1909,13 +1909,13 @@
     <value>Alternativo</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Última Vez Editado</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Última Partida</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Não mostrar</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Predefinido</value>
