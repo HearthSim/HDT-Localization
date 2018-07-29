@@ -265,10 +265,10 @@
     <value>De_ckbau</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>Aufzeichnungen (_R)</value>
+    <value>Spiele (_R)</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>_Letzte Aufzeichnungen</value>
+    <value>_Letzte Spiele</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
     <value>Aus _Statistik auswählen</value>
@@ -508,7 +508,7 @@
     <value>Statistiken</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>Aufzeichnungen</value>
+    <value>Spiele</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>Export</value>
@@ -985,7 +985,7 @@
     <value>Benachrichtigung zum Teilen anzeigen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Aufzeichnungen automatisch hochladen</value>
+    <value>Spiele automatisch hochladen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Gewertet</value>
@@ -1015,7 +1015,7 @@
     <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufzeichnungen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
+    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Spiele zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
@@ -1129,7 +1129,7 @@
     <value>Spiele mit null Zügen verwerfen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Lokale Aufzeichnungen anlegen</value>
+    <value>Spiele lokal speichern</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Statistiken behalten wenn ein Deck gelöscht wird*</value>
@@ -1354,7 +1354,7 @@
     <value>Gegn. Deck anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Aufzeichnung anzeigen</value>
+    <value>Spiele anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>Spiel hinzufügen</value>
@@ -1387,7 +1387,7 @@
     <value>Zeit</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Aufzeichnung</value>
+    <value>Spiel</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -1552,7 +1552,7 @@
     <value>Region</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Aufzeichnung</value>
+    <value>Spiel</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -3064,7 +3064,7 @@
     <value>Krieger</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>Keine Aufzeichnungsdaten vorhanden</value>
+    <value>Keine Spieldaten vorhanden</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Wähle ein Deck um deine letzten Spiele anzusehen!</value>
@@ -3217,7 +3217,7 @@
     <value>Finde die besten Decks zu deiner Sammlung!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Melde dich zur Verknüpfung deiner Aufzeichnungen und der Aktivierung aller HSReplay.net-Funktionen an.</value>
+    <value>Melde dich zur Verknüpfung deiner Spiele und der Aktivierung aller HSReplay.net-Funktionen an.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Zur Aktivierung aller HSReplay.net-Funktionen anmelden.</value>
@@ -3235,7 +3235,7 @@
     <value>Hochladen von Aufzeichnungen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Aufzeichnungen beansprucht</value>
+    <value>Spiele beansprucht</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>Premium abonniert</value>
@@ -3262,7 +3262,7 @@
     <value>Neue Aufzeichnungen werden nicht mehr zu deinem Konto hinzugefügt.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Aufzeichnungen.</value>
+    <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Spiele.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>Abmelden</value>
@@ -3331,7 +3331,7 @@
     <value>Decks</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>Meine Aufzeichnungen</value>
+    <value>Meine Spiele</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• Öffnen oder Schließen der Sammlung</value>
