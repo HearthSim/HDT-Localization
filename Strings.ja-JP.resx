@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -658,7 +658,7 @@
     <value>クリックで秘策をグレーアウト</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>注: 「オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合場合があります。</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>有効</value>
@@ -1753,7 +1753,7 @@
     <value>タグ フィルターを適用</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>タグ filteres 'DeckPicker' で現在設定を適用 &gt; '並べ替え/フィルター デッキ' (二重矢印ボタン)。</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>メニュー</value>
@@ -2773,10 +2773,10 @@
     <value>モバイル デバイス (ラップトップ、タブレット、...) の端末のみ。</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます  : オーバーレイ &gt; 一般&gt; オーバーレイのロックを解除</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます : オーバーレイ &gt; 一般 &gt; オーバーレイのロックを解除</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>このチェック ボックスをオフにすると、ポップアップ ダイアログ ボックスのほとんどのアニメーションを無効にします</value>
@@ -2791,7 +2791,7 @@
     <value>秒.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>のこり"X"秒の際にアラートを鳴らす</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>デッキ選択で通常の場合を使用するをオフにします。</value>
@@ -2800,7 +2800,7 @@
     <value>ハースストーン以外のウインドウにオーバーレイ表示されないようにします。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>日付のフォーマットの詳細については「C# date format」で検索してください。</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>ランクの検出に問題がある場合、これを有効にしてください!。</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>On friendly challenge:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>

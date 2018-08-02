@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -658,7 +658,7 @@
     <value>Kliknij na sekret aby go oznaczyć jako użyty</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>UWAGA: Może nie działać poprawnie, jeżeli "Ustawienia &gt; Wygląd &gt; Ogólne &gt; Automatycznie oznacz użyte sekrety" jest włączone.</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Włączone</value>
@@ -1753,7 +1753,7 @@
     <value>Dołącz etykiety</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Dołącza etykiety ustawione w głównym oknie programu (guzik z podwójną strzałką).</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2773,10 +2773,10 @@
     <value>Działa tylko na urządzeniach przenośnych (Laptop, Tablet, ...)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Pokazuje okno talii pionowo w wybranym rejonie. Rejon można zmienić w "Wygląd &gt; Ogólne &gt; Odblokuj interfejs".</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Pokazuje okno talii pionowo w wybranym rejonie. Rejon można zmienić w "Wygląd &gt; Ogólne &gt; Odblokuj interfejs".</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Odznacz aby wyłączyć większość animacji powiadomień i wyskakujących okienek.</value>
@@ -2791,7 +2791,7 @@
     <value>sekund przed końcem tury</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Powiadomienie dźwiękowe i wizualne gdy pozostało "X" sekund na ruch.</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Odznacz aby nie używać tylko wielkich liter w nazwach talii.</value>
@@ -2800,7 +2800,7 @@
     <value>Ta opcja może zostać wyłączona, jeżeli interfejs pokazuje się w osobnym oknie niż Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Po więcej informacji o formacie daty wyszukaj w google "C# date format".</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Zaznacz tą opcję, jeżeli występują trudności z wykrywaniem gier rankingowych.</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>Gdy znajomy rzuci wyzwanie:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -658,7 +658,7 @@
     <value>Виключати секрети натисканням</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>Примітка: Може не працювати коректно, якщо &quot;Налаштування &gt; Накладення &gt; Загальні &gt; Автоматично виключати секрети&quot; увімкнено.</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Увімкнено</value>
@@ -1753,7 +1753,7 @@
     <value>Фільтр по приміткам</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Застосувати фільтри по приміткам, що встановлені при виборі колоди &gt; 'Впорідкувати/Фільтрувати колоди' (кнопка з подвійною стрілкою).</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Меню</value>
@@ -2773,10 +2773,10 @@
     <value>Працюватиме лише для мобільних пристроїв (ноутбук, планшет, тощо...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Зміщує карти до центру, а інформаційні панелі - вертикально - у рамцях обраної області для колод. Область може бути змінено через 'Накладення > Загальні > Зрушити накладення'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Зміщує карти до центру, а інформаційні панелі - вертикально - у рамцях обраної області для колод. Область може бути змінено через 'Накладення > Загальні > Зрушити накладення'.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Зніміть пташку, щоб вимкнути більшість анімацій для спливаючих вікон та сповіщень</value>
@@ -2791,7 +2791,7 @@
     <value>секунд.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Сповістити звуковим сигналом та блиманням вікна, коли у вас залишилося &quot;X&quot; секунд до кінця ходу</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Зніміть пташку, щоб назви колод у режимі 'Вибору колод' більше не скаладалися лише з великих літер.</value>
@@ -2800,7 +2800,7 @@
     <value>Це налаштування можна вимкнути, якщо Накладення з'являється на вікнах, що не належать Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Для додаткової інформації спробуйте пошукати &quot;C# date format&quot; у пошуковику Google.</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Спробуйте увімкнути це налаштування, якщо у вас є проблеми з виявленням рангу/рангових ігор.</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>On friendly challenge:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>

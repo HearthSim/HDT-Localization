@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -658,7 +658,7 @@
     <value>Затенять секреты при нажатии</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>Примечание: может не работать, если включена опция «Настройки → Интерфейс → Общие → Затенять проверенные секреты».</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Включено</value>
@@ -1753,7 +1753,7 @@
     <value>Фильтр по меткам</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Отфильтровать колоды по меткам можно в Фильтре колод (кнопка с двумя стрелками над списком колод).</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Меню</value>
@@ -2773,10 +2773,10 @@
     <value>Работает только для мобильных устройств (ноутбук, планшет).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → Разблокировать».</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → Разблокировать».</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы отключить большинство анимаций для всплывающих окон</value>
@@ -2791,7 +2791,7 @@
     <value>секунд.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Сигнализировать звуком и моргать, когда осталось X секунд</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Снимите флажок, чтобы имена колод отображались в нормальном регистре.</value>
@@ -2800,7 +2800,7 @@
     <value>Отключите, если интерфейс появляется вне окна Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Чтобы узнать больше о форматах дат, загугли «C# формат даты».</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Попробуйте включить этот параметр, если у вас возникли проблемы с обнаружением ранга.</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>При дружеской дуэли:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>

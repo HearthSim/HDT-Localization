@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -265,10 +265,10 @@
     <value>De_ckbau</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>Aufzeichnungen (_R)</value>
+    <value>Spiele (_R)</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>_Letzte Aufzeichnungen</value>
+    <value>_Letzte Spiele</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
     <value>Aus _Statistik auswählen</value>
@@ -508,7 +508,7 @@
     <value>Statistiken</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>Aufzeichnungen</value>
+    <value>Spiele</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>Export</value>
@@ -658,7 +658,7 @@
     <value>Geheimnisse zum Ausgrauen anklicken</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>HINWEIS: Funktioniert eventuell nicht richtig wenn "Optionen > Overlay > Allgemein > Geheimnisse automatisch ausgrauen" gewählt ist.</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
@@ -985,7 +985,7 @@
     <value>Benachrichtigung zum Teilen anzeigen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Aufzeichnungen automatisch hochladen</value>
+    <value>Spiele automatisch hochladen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Gewertet</value>
@@ -1015,7 +1015,7 @@
     <value>Konto beanspruchen</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Aufzeichnungen zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
+    <value>Logge dich mit deinen Battle.net-Zugangsdaten bei HSReplay.net ein, um deine bestehenden Spiele zu beanspruchen. Dies öffnet deinen Webbrowser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>Anonyme Daten senden</value>
@@ -1129,7 +1129,7 @@
     <value>Spiele mit null Zügen verwerfen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Lokale Aufzeichnungen anlegen</value>
+    <value>Spiele lokal speichern</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Statistiken behalten wenn ein Deck gelöscht wird*</value>
@@ -1354,7 +1354,7 @@
     <value>Gegn. Deck anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Aufzeichnung anzeigen</value>
+    <value>Spiele anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
     <value>Spiel hinzufügen</value>
@@ -1387,7 +1387,7 @@
     <value>Zeit</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Aufzeichnung</value>
+    <value>Spiel</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -1552,7 +1552,7 @@
     <value>Region</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Aufzeichnung</value>
+    <value>Spiel</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -1753,7 +1753,7 @@
     <value>Labelfilter anwenden</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Filter anwenden aus 'Deckauswahl' > 'Sortiere/Filtere Decks' (Doppelpfeil Button).</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menü</value>
@@ -2773,10 +2773,10 @@
     <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Haken entfernen um die meisten Animationen für Popup Dialoge und Flyouts zu deaktivieren.</value>
@@ -2791,7 +2791,7 @@
     <value>Sekunden.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Alarmsignal ertönt und blinkt wenn nur noch &quot;X&quot; Sekunden verbleiben</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
@@ -2800,7 +2800,7 @@
     <value>Kann deaktiviert werden, wenn das Overlay in Nicht-Hearthstone Fenstern angezeigt wird.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Für weitere Informationen zu Datumsformaten google nach "C# date format".</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
@@ -3064,7 +3064,7 @@
     <value>Krieger</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>Keine Aufzeichnungsdaten vorhanden</value>
+    <value>Keine Spieldaten vorhanden</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Wähle ein Deck um deine letzten Spiele anzusehen!</value>
@@ -3217,13 +3217,13 @@
     <value>Finde die besten Decks zu deiner Sammlung!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Melde dich zur Verknüpfung deiner Aufzeichnungen und der Aktivierung aller HSReplay.net-Funktionen an.</value>
+    <value>Melde dich zur Verknüpfung deiner Spiele und der Aktivierung aller HSReplay.net-Funktionen an.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Zur Aktivierung aller HSReplay.net-Funktionen anmelden.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Aufzeichnungen werden hochgeladen zu</value>
+    <value>Spiele werden hochgeladen zu</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Angemeldet als</value>
@@ -3235,7 +3235,7 @@
     <value>Hochladen von Aufzeichnungen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Aufzeichnungen beansprucht</value>
+    <value>Spiele beansprucht</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>Premium abonniert</value>
@@ -3262,7 +3262,7 @@
     <value>Neue Aufzeichnungen werden nicht mehr zu deinem Konto hinzugefügt.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Aufzeichnungen.</value>
+    <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Spiele.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>Abmelden</value>
@@ -3331,7 +3331,7 @@
     <value>Decks</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>Meine Aufzeichnungen</value>
+    <value>Meine Spiele</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
     <value>• Öffnen oder Schließen der Sammlung</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>Bei Freundesherausforderung:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>
