@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -658,7 +658,7 @@
     <value>Clique no segredo para desabilitar</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTA: Pode não funcionar corretamente se opções&gt; sobreposição&gt; geral&gt; desabilitar segredos automaticamente estiver ativado.</value>
+    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ligado</value>
@@ -1753,7 +1753,7 @@
     <value>Aplicar filtros de etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar baralhos' (botão dupla seta)</value>
+    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2773,10 +2773,10 @@
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de ' sobreposição > geral > ajustar '.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o baralho. Região pode ser alterada através de ' sobreposição > geral > ajustar '.</value>
+    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Desmarque para desativar a maioria das animações para caixas de diálogo pop-up e flyouts</value>
@@ -2791,7 +2791,7 @@
     <value>segundos.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Som de alerta e flash quando você tem "X" segundos restantes</value>
+    <value>Sound an alert and flash when you have "X" seconds remaining</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Desmarque para usar o modo normal no Selecionador de baralho.</value>
@@ -2800,7 +2800,7 @@
     <value>Isso pode ser desativado se a sobreposição aparecer em janelas não-Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>Para mais informações sobre formatos de data google "C# formato de data".</value>
+    <value>For more information on date formats google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Tente ativar isso se você estiver tendo problemas com a detecção de ranque(ado).</value>
@@ -3392,5 +3392,17 @@
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>Quando um amigo desafiar:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
+    <value>Deck contains cards from The Boomsday Project expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
+    <value>The Boomsday Project</value>
   </data>
 </root>
