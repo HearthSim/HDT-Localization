@@ -124,7 +124,7 @@
     <value>_Druide</value>
   </data>
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
-    <value>Jäger (_H)</value>
+    <value>Jäger</value>
   </data>
   <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
     <value>_Magier</value>
@@ -526,7 +526,7 @@
     <value>Tastenkürzel</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Backups</value>
+    <value>Sicherungen</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
     <value>Erscheinungsbild</value>
@@ -781,16 +781,16 @@
     <value>Metroanimationen verwenden</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>Ausgewähltes wiederherstellen</value>
+    <value>Ausgewählte Sicherung wiederherstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>Neue Sicherung erstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Delete" xml:space="preserve">
-    <value>Ausgewähltes löschen</value>
+    <value>Ausgewählte Sicherung löschen</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
+    <value>Sicherungen werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und die Konfiguration. Bei mehr als sieben (automatisch generierten) Sicherungen wird die älteste automatisch gelöscht, so dass immer die Sicherungen der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>Sicherungsverzeichnis anzeigen</value>
