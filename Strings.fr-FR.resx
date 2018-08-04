@@ -1753,7 +1753,7 @@
     <value>Appliquer les filtres d'étiquettes</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks > Trier / filtrer les decks (bouton avec 2 flèches).</value>
+    <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks &gt; Trier / filtrer les decks (bouton avec 2 flèches).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2773,10 +2773,10 @@
     <value>Ne fonctionne que pour les périphériques mobiles (portable, tablette…).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay &gt; général &gt; déverrouiller.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrer les cartes et panneaux d'information verticalement à l'intérieur de la région sélectionnée pour le deck. La région peut être modifiée via overlay &gt; général &gt; déverrouiller.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Décocher pour désactiver la plupart des animations des boîtes de dialogue et menus volants</value>
@@ -2791,7 +2791,7 @@
     <value>secondes.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Activer une alarme et un clignotement quand il reste X secondes</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Décocher pour utiliser la casse normale dans le sélecteur de decks.</value>
@@ -2800,7 +2800,7 @@
     <value>Peut être désactivé si l'overlay s'affiche dans des fenêtres non-Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Pour plus d'informations sur les formats de date, recherchez « format de date C# » sur Internet".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Essayez d'activer ceci si vous avez des problèmes avec la détection du rang.</value>
@@ -3397,12 +3397,12 @@
     <value>Deck contains cards from The Boomsday Project expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>Projet Armageboum :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Projet Armageboum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Projet Armageboum</value>
   </data>
 </root>
