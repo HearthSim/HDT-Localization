@@ -871,7 +871,7 @@
     <value>Archiver les decks d'arène quand la série est terminée</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Afficher la date :</value>
+    <value>Afficher une date sur les decks :</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format :</value>
@@ -1915,7 +1915,7 @@
     <value>Dernière partie</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>Aucun</value>
+    <value>Aucune</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Par défaut</value>
