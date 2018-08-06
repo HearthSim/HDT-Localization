@@ -2773,10 +2773,10 @@
     <value>仅对移动设备（笔记本、平板电脑等）有效。</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>在指定的区域中垂直居中显示卡牌和信息。区域可以在 “选项&gt;内嵌&gt;通用&gt;取消界面锁定” 中更改。</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>在指定的区域中垂直居中显示卡牌和信息。区域可以在 “选项&gt;内嵌&gt;通用&gt;取消界面锁定” 中更改。</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>取消勾选此项以禁用弹出窗口的动画</value>
@@ -2791,7 +2791,7 @@
     <value>秒时进行提示。</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>当你的出牌时间还剩“X”秒时，播放嘀声并闪烁屏幕</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>在卡牌选择器中不区分大小写。（大概没有什么用）</value>
@@ -2800,7 +2800,7 @@
     <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>更多信息请搜索“C#日期格式”。</value>
+    <value>关于时间的更多信息请搜索“C#日期格式”。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>尝试勾选此项当你在排名检测遇到问题。</value>
