@@ -658,7 +658,7 @@
     <value>Clique no segredo para desabilitar</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>NOTA: Pode não funcionar corretamente se "Opções → Sobreposição → Geral → Desabilitar segredos automaticamente" estiver ativado.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ligado</value>
@@ -871,7 +871,7 @@
     <value>Arquivar baralho quando a arena terminar</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Mostrar data nos Decks:</value>
+    <value>Data nos Decks:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Formato:</value>
@@ -1066,7 +1066,7 @@
     <value>Mudar localização do hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_Button_AppData" xml:space="preserve">
-    <value>Abrir past APPDATA</value>
+    <value>abrir pasta AppData</value>
   </data>
   <data name="Options_Tracker_Settings_Button_DataPath" xml:space="preserve">
     <value>Definir localização dos dados</value>
@@ -3121,7 +3121,7 @@
     <value>Cavaleiros do Trono de Gelo</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Selecionar Idioma</value>
+    <value>Selecione o idioma</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
     <value>Copiar</value>
@@ -3211,7 +3211,7 @@
     <value>Pressione "Download" para atualizar automaticamente.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>Novo recurso do HSReplay.net: Upload de Coleções</value>
+    <value>Novo recurso do HSReplay.net: Envie sua Coleção</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Encontre os melhores baralhos para sua coleção!</value>
@@ -3268,7 +3268,7 @@
     <value>Sair</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
-    <value>A maneira mais fácil de encontrar os melhores baralhos para você!</value>
+    <value>A maneira mais fácil de encontrar os melhores decks!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
     <value>Basta enviar sua coleção ao HSReplay.net</value>
@@ -3394,15 +3394,15 @@
     <value>Quando um amigo desafiar:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>Baralho contém cartas da expansão O Projeto Cabum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>O Projeto Cabum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>O Projeto Cabum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>O Projeto Cabum</value>
   </data>
 </root>

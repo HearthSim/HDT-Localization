@@ -124,7 +124,7 @@
     <value>_Druide</value>
   </data>
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
-    <value>Jäger (_H)</value>
+    <value>Jäger</value>
   </data>
   <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
     <value>_Magier</value>
@@ -142,7 +142,7 @@
     <value>_Schamane</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
-    <value>Hexenmeister (_W)</value>
+    <value>Hexenmeister</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
     <value>K_rieger</value>
@@ -157,10 +157,10 @@
     <value>_Notizen bearbeiten</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>Labels bearbeiten (_T)</value>
+    <value>Labels bearbeiten</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Label setzen (_Q)</value>
+    <value>Label setzen</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>In Arena verschieben</value>
@@ -385,7 +385,7 @@
     <value>Speichern</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
-    <value>(aktuelle)</value>
+    <value>(aktuell)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
     <value>Als neu speichern</value>
@@ -526,7 +526,7 @@
     <value>Tastenkürzel</value>
   </data>
   <data name="Options_Tracker_Backups_Header" xml:space="preserve">
-    <value>Backups</value>
+    <value>Sicherungen</value>
   </data>
   <data name="Options_Tracker_Appearance_Header" xml:space="preserve">
     <value>Erscheinungsbild</value>
@@ -658,7 +658,7 @@
     <value>Geheimnisse zum Ausgrauen anklicken</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>HINWEIS: Funktioniert eventuell nicht richtig wenn "Optionen > Overlay > Allgemein > Geheimnisse automatisch ausgrauen" aktiviert ist.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
@@ -781,16 +781,16 @@
     <value>Metroanimationen verwenden</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
-    <value>Ausgewähltes wiederherstellen</value>
+    <value>Ausgewählte Sicherung wiederherstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Create" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>Neue Sicherung erstellen</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Delete" xml:space="preserve">
-    <value>Ausgewähltes löschen</value>
+    <value>Ausgewählte Sicherung löschen</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>Backups werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und Konfiguration. Bei mehr als sieben automatisch erstellten Backups wird das älteste automatisch gelöscht, so dass immer die Backups der letzten sieben Tage vorhanden sind.</value>
+    <value>Sicherungen werden beim ersten Start des Tages automatisch erstellt. Sie enthalten Decks, Spiele und die Konfiguration. Bei mehr als sieben (automatisch generierten) Sicherungen wird die älteste automatisch gelöscht, so dass immer die Sicherungen der letzten sieben Tage vorhanden sind.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>Sicherungsverzeichnis anzeigen</value>
@@ -1159,7 +1159,7 @@
     <value>_Notizen bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Labels bearbeiten (_T)</value>
+    <value>Labels bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Label setzen (_Q)</value>
@@ -1753,7 +1753,7 @@
     <value>Labelfilter anwenden</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>Filter anwenden aus 'Deckauswahl' > 'Sortiere/Filtere Decks' (Doppelpfeil Button).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menü</value>
@@ -2773,10 +2773,10 @@
     <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Zentriert Karten und Informationsleisten vertikal innerhalb des gewählten Bereichs. Bereich ändern über Overlay &gt; Allgemein &gt; Entsperren.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Haken entfernen um die meisten Animationen für Popup Dialoge und Flyouts zu deaktivieren.</value>
@@ -2791,7 +2791,7 @@
     <value>Sekunden.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Alarmsignal ertönt und blinkt wenn nur noch "X" Sekunden verbleiben</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Haken entfernen um Kleinschreibung im Deckpicker zu verwenden.</value>
@@ -2800,7 +2800,7 @@
     <value>Kann deaktiviert werden, wenn das Overlay in Nicht-Hearthstone Fenstern angezeigt wird.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Für weitere Informationen zu Datumsformaten, google nach "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Aktivieren wenn es Probleme bei der Rang/ranked Erkennung gibt.</value>
@@ -3232,7 +3232,7 @@
     <value>Hochladen der Sammlung</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Hochladen von Aufzeichnungen</value>
+    <value>Hochladen von Spielen</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Spiele beansprucht</value>
@@ -3259,7 +3259,7 @@
     <value>Möchtest du dich wirklich abmelden?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>Neue Aufzeichnungen werden nicht mehr zu deinem Konto hinzugefügt.</value>
+    <value>Neue Spiele werden nicht mehr zu deinem Konto hinzugefügt.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
     <value>Erneutes Anmelden beansprucht rückwirkend alle neuen Spiele.</value>
@@ -3394,15 +3394,15 @@
     <value>Bei Freundesherausforderung:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>Deck enthält Karten der Erweiterung 'Dr. Bumms Geheimlabor'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>Dr. Bumms Geheimlabor:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Dr. Bumms Geheimlabor</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Dr. Bumms Geheimlabor</value>
   </data>
 </root>
