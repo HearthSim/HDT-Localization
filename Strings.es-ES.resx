@@ -730,22 +730,22 @@
     <value>Remover cartas si no queda ninguna</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
-    <value>Include cards created in hand (e.g. The Coin)</value>
+    <value>Incluir cartas creadas en mano (Moneda...)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show capturable overlay window</value>
+    <value>Mostrar ventana de superposición capturable</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Disable card opacity transitions (recommended)</value>
+    <value>Desactivar transición de opacidad de cartas (Recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Background:</value>
+    <value>Segundo plano:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
+    <value>Esto añadirá una copia Chroma de la superposición detrás de tu ventana de Hearthstone.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
+    <value>Nota: La copia de superposición puede aparecer sobre Hearthstone alguna vez. Haciendo clic se esconderá para el resto de la sesión.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Mostrar instrucciones para comenzar (Abre wiki)</value>
@@ -1801,85 +1801,85 @@
     <value>Activar importación automática</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazo</value>
   </data>
   <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
-    <value>Save to</value>
+    <value>Guardar en</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Start Hearthstone and enter the 'Play' menu.</value>
+    <value>Iniciar Hearthstone y entrar en modo "Jugar".</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
-    <value>Enter the 'Play' menu.</value>
+    <value>Entrar en el menú "Jugar".</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Start Hearthstone and enter the 'Tavern Brawl' menu.</value>
+    <value>Iniciar Hearthstone y entrar en el menú "Pelea de Taberna".</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>Enter the 'Tavern Brawl' menu.</value>
+    <value>Entrar en el menú "Pelea de taberna".</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
-    <value>No new decks found.</value>
+    <value>No se han encontrado nuevos mazos.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>Start Launcher / Hearthstone</value>
+    <value>Iniciar Launcher / Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>Waiting for Hearthstone...</value>
+    <value>Esperando a Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Deck contains cards from the Curse of Naxxramas expansion.</value>
+    <value>Este mazo contiene cartas de la expansión La Maldición de Naxxramas.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Deck contains cards from the Goblins vs Gnomes expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Goblins vs Gnomos.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Deck contains cards from the Blackrock Mountain expansion.</value>
+    <value>Este mazo contiene cartas de la expansión La Montaña de Rocanegra.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Deck contains cards from The Grand Tournament expansion.</value>
+    <value>Este mazo contiene cartas de la expansión El Gran Torneo.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Deck contains cards from the League of Explorers expansion.</value>
+    <value>Este mazo contiene cartas de la expansión La Liga de los Exploradores.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Deck contains cards from the Whispers of the Old Gods expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Susurros de los Dioses Antiguos.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Deck contains cards from the One Night in Karazhan expansion.</value>
+    <value>El mazo contiene cartas de la expansión Una Noche in Karazhan.</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
-    <value>Weapons</value>
+    <value>Armas</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Spells" xml:space="preserve">
-    <value>Spells</value>
+    <value>Hechizos</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
-    <value>Minions</value>
+    <value>Esbirros</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
+    <value>Héroes</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>Mechanics</value>
+    <value>Robots</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
-    <value>Hide</value>
+    <value>Ocultar</value>
   </data>
   <data name="Enum_StatType_Mana" xml:space="preserve">
-    <value>Mana</value>
+    <value>Maná</value>
   </data>
   <data name="Enum_StatType_Health" xml:space="preserve">
-    <value>Health</value>
+    <value>Salud</value>
   </data>
   <data name="Enum_StatType_Attack" xml:space="preserve">
-    <value>Attack</value>
+    <value>Ataque</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
-    <value>Overload</value>
+    <value>Sobrecarga</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Auto import&amp;save</value>
+    <value>Auto Importar&amp;Guardar</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
     <value>Auto ask to import</value>
