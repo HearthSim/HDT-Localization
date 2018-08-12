@@ -1468,34 +1468,34 @@
     <value>Por clase</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
-    <value>Winrate as</value>
+    <value>Porcentaje de Victorias como</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
-    <value>Winrate against</value>
+    <value>Porcentaje de Victoria contra</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>Ver.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>Deck:</value>
+    <value>Mazo:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
-    <value>Winrate:</value>
+    <value>Porcentaje de Victorias:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
-    <value>Time played:</value>
+    <value>Tiempo jugado:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
-    <value>Average game:</value>
+    <value>Promedio de partidas:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
-    <value>Best matchup:</value>
+    <value>Mejor partida:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
-    <value>Worst matchup:</value>
+    <value>Peor partida:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
     <value>None</value>
@@ -1648,154 +1648,154 @@
     <value>Class:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Region" xml:space="preserve">
-    <value>Region:</value>
+    <value>Región:</value>
   </data>
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
-    <value>Include archived runs</value>
+    <value>Incluir partidas archivadas</value>
   </data>
   <data name="ArenaRewards_Label_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Oro</value>
   </data>
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
-    <value>You can enter values as e.g. 50+125</value>
+    <value>Puede introducir valores como 50+125</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Paquetes</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
-    <value>Cards</value>
+    <value>Cartas</value>
   </data>
   <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>Payment method</value>
+    <value>Forma de pago</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Oro</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Money" xml:space="preserve">
-    <value>Money</value>
+    <value>Dinero</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
-    <value>Show automatically</value>
+    <value>Mostrar automáticamente</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="ArenaRewards_Card_Label_Golden" xml:space="preserve">
-    <value>Golden</value>
+    <value>Dorada</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
-    <value>Active deck only</value>
+    <value>Sólo mazo activo</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
-    <value>Time:</value>
+    <value>Tiempo:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Start" xml:space="preserve">
-    <value>Start:</value>
+    <value>Inicio:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_End" xml:space="preserve">
-    <value>End:</value>
+    <value>Fin:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>Seasons:</value>
+    <value>Temporadas:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
-    <value>to</value>
+    <value>para</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
-    <value>Class:</value>
+    <value>Clase:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>Contra:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modo:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Rank" xml:space="preserve">
-    <value>Rank:</value>
+    <value>Rango:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
-    <value>to</value>
+    <value>para</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>Format:</value>
+    <value>Formato:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
-    <value>Result:</value>
+    <value>Resultado:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Turns" xml:space="preserve">
-    <value>Turns:</value>
+    <value>Turnos:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
-    <value>to</value>
+    <value>para</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
-    <value>Coin:</value>
+    <value>Moneda:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Region" xml:space="preserve">
-    <value>Region:</value>
+    <value>Región:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
-    <value>Opponent name...</value>
+    <value>Nombre de oponente...</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
-    <value>Notes...</value>
+    <value>Notas...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Include archived decks</value>
+    <value>Incluir mazos archivados</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>Apply tag filters</value>
+    <value>Aplicar filtros de etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>Aplicar los filtros de etiqueta actualmente definidos en "Selección de mazo &gt; Ordenar/Filtar mazos" (Botón con 2 flechas).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
-    <value>Menu</value>
+    <value>Menú</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Partidas de Arena</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Resumen</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Runs &amp; matches</value>
+    <value>Arenas y partidas</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
-    <value>Advanced charts</value>
+    <value>Gráficas avanzadas</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Construído</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Resumen</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Matches" xml:space="preserve">
-    <value>Matches</value>
+    <value>Partidas</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Charts" xml:space="preserve">
-    <value>Charts</value>
+    <value>Gráficas</value>
   </data>
   <data name="Stats_Overview_Filters_CheckBox_AutoRefresh" xml:space="preserve">
-    <value>Auto refresh</value>
+    <value>Auto refresco</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Restablecer</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtros</value>
   </data>
   <data name="Importing_Constructed_Label_Title" xml:space="preserve">
-    <value>Select decks to import:</value>
+    <value>Seleccionar mazos a importar:</value>
   </data>
   <data name="Importing_Constructed_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importar</value>
   </data>
   <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
     <value>Enable auto importing</value>
@@ -1948,22 +1948,22 @@
     <value>Auto</value>
   </data>
   <data name="Enum_DisplayMode_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Nunca</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_Format_Standard" xml:space="preserve">
-    <value>Standard</value>
+    <value>Estándar</value>
   </data>
   <data name="Enum_Format_Wild" xml:space="preserve">
-    <value>Wild</value>
+    <value>Salvaje</value>
   </data>
   <data name="Enum_GameMode_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
-    <value>Ranked</value>
+    <value>Con rango</value>
   </data>
   <data name="Enum_GameMode_Casual" xml:space="preserve">
     <value>Casual</value>
@@ -1972,67 +1972,67 @@
     <value>Arena</value>
   </data>
   <data name="Enum_GameMode_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Taberna</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Friendly</value>
+    <value>Amistoso</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
-    <value>Practice</value>
+    <value>Práctica</value>
   </data>
   <data name="Enum_GameMode_Spectator" xml:space="preserve">
-    <value>Spectator</value>
+    <value>Espectador</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_GameResult_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>Victoria</value>
   </data>
   <data name="Enum_GameResult_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>Derrota</value>
   </data>
   <data name="Enum_GameResult_Draw" xml:space="preserve">
-    <value>Draw</value>
+    <value>Empate</value>
   </data>
   <data name="Enum_GameResult_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Enum_HeroClass_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_HeroClass_Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druida</value>
   </data>
   <data name="Enum_HeroClass_Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Cazador</value>
   </data>
   <data name="Enum_HeroClass_Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Enum_HeroClass_Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladín</value>
   </data>
   <data name="Enum_HeroClass_Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Enum_HeroClass_Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Pícaro</value>
   </data>
   <data name="Enum_HeroClass_Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Chamán</value>
   </data>
   <data name="Enum_HeroClass_Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Brujo</value>
   </data>
   <data name="Enum_HeroClass_Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerrero</value>
   </data>
   <data name="Enum_HeroClass_Archived" xml:space="preserve">
-    <value>Archived</value>
+    <value>Archivado</value>
   </data>
   <data name="Enum_IconStyle_Round" xml:space="preserve">
     <value>Round</value>
