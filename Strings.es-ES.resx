@@ -1612,40 +1612,40 @@
     <value>Total</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_HighestRank" xml:space="preserve">
-    <value>Highest rank:</value>
+    <value>Rango más alto:</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_MostPlayedDeck" xml:space="preserve">
-    <value>Most played deck</value>
+    <value>Mazo más jugado</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
-    <value>Best deck</value>
+    <value>Mejor mazo</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_FastestDeck" xml:space="preserve">
-    <value>Fastest deck</value>
+    <value>Mazo más rápido</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_SlowestDeck" xml:space="preserve">
-    <value>Slowest deck</value>
+    <value>Mazo más lento</value>
   </data>
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
-    <value>show as percent</value>
+    <value>mostrar como porcentajes</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
-    <value>Show legends</value>
+    <value>Mostrar leyendas</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Time" xml:space="preserve">
-    <value>Time:</value>
+    <value>Tiempo:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Start" xml:space="preserve">
-    <value>Start:</value>
+    <value>Inicio:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_End" xml:space="preserve">
-    <value>End:</value>
+    <value>Fin:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
-    <value>Seasons:</value>
+    <value>Temporadas:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
-    <value>Class:</value>
+    <value>Clase:</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Region" xml:space="preserve">
     <value>Región:</value>
@@ -1798,7 +1798,7 @@
     <value>Importar</value>
   </data>
   <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
-    <value>Enable auto importing</value>
+    <value>Activar importación automática</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
     <value>Deck</value>
@@ -2101,112 +2101,112 @@
     <value>This year</value>
   </data>
   <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
-    <value>Previous year</value>
+    <value>Año anterior</value>
   </data>
   <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
-    <value>All time</value>
+    <value>Desde siempre</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Hoy</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>This week</value>
+    <value>Esta semana</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>Current season</value>
+    <value>Temporada Actual</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
-    <value>Last season</value>
+    <value>Última Temporada</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
-    <value>Custom season</value>
+    <value>Temporada personalizada</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
-    <value>All time</value>
+    <value>Desde siempre</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
-    <value>Custom</value>
+    <value>Personalizado</value>
   </data>
   <data name="Enum_YesNo_Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sí</value>
   </data>
   <data name="Enum_YesNo_No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
-    <value>Class colors:</value>
+    <value>Colores de clase:</value>
   </data>
   <data name="DeckNotes_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
-    <value>Automatically saves when the dialog closes</value>
+    <value>Guardar automáticamente cuando se cierra la ventana</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importar</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>Preguntas frecuentes (FAQ)</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
-    <value>Go to the FAQ.</value>
+    <value>Ir a las preguntas frecuentes.</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
-    <value>The Overlay</value>
+    <value>La superposición</value>
   </data>
   <data name="Help_Overlay_Label_CardMarks" xml:space="preserve">
-    <value>Card marks</value>
+    <value>Marcas de las cartas</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Coin" xml:space="preserve">
-    <value>The Coin</value>
+    <value>La moneda</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Mulliganed</value>
+    <value>Mulligan</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
-    <value>Returned</value>
+    <value>Devuelta</value>
   </data>
   <data name="Help_Overlay_CardMarks_Label_Created" xml:space="preserve">
-    <value>Created</value>
+    <value>Creada</value>
   </data>
   <data name="Help_Overlay_Label_Percentages" xml:space="preserve">
-    <value>Percentages</value>
+    <value>Porcentajes</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_General" xml:space="preserve">
     <value>General:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_General" xml:space="preserve">
-    <value>The number of copies left in the deck for a specific card.</value>
+    <value>El número de copias que quedan en en el mazo de una carta específica.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Draw" xml:space="preserve">
-    <value>Draw chance:</value>
+    <value>Posibilidad de robar:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
-    <value>The chance of drawing a card with X copies left in the deck.</value>
+    <value>Las opciones de robar una carta con X copias restantes en el mazo.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>Holding chance:</value>
+    <value>Posibilidad de poseer:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>The chance of your opponent holding a card at the start of the next turn with X copies left in play.</value>
+    <value>La posibilidad de que un oponente posea una carta al comienzo del siguiente turno con X copias restantes en la partida.</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
-    <value>This includes the next draw but nothing beyond that.</value>
+    <value>Esto incluye el siguiente robo pero nada mas después de eso.</value>
   </data>
   <data name="Help_Overlay_Label_Customization" xml:space="preserve">
-    <value>Customization</value>
+    <value>Personalización</value>
   </data>
   <data name="Help_Overlay_Customization_Text_Intro" xml:space="preserve">
-    <value>Almost everything in the overlay can be turn on or off, moved and resized.</value>
+    <value>Casi todo en la ventana de superposición puede ser activado o desactivado, movido y redimensionado.</value>
   </data>
   <data name="Help_Overlay_Customization_Label_OnOff" xml:space="preserve">
-    <value>On/off:</value>
+    <value>Activado/Desactivado:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Options for this can be found under</value>
+    <value>Opciones para esto pueden encontrarse en</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
     <value>options &gt; overlay &gt; general / player / opponent</value>
