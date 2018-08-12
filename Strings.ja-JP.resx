@@ -1909,13 +1909,13 @@
     <value>代替</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>最後の編集</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>最後のプレイ</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>なし</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>デフォルト</value>
@@ -2149,7 +2149,7 @@
     <value>インポート</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>よくある質問</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>よくある質問に移動します。</value>
@@ -2293,10 +2293,10 @@
     <value>アクティブ</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>最後に編集した時間</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>最後にプレイした時間</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>アーカイブ</value>
