@@ -1882,67 +1882,67 @@
     <value>Auto Importar&amp;Guardar</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>Auto ask to import</value>
+    <value>Preguntar para importar automáticamente</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
     <value>Manual</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clásico</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblins vs. Gnomos</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>El Gran Torneo</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Susurros de los Dioses Antiguos</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clásico</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
-    <value>Alternative</value>
+    <value>Alternativa</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Última modificación</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Ultima partida</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
-    <value>Default</value>
+    <value>Por defecto</value>
   </data>
   <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
-    <value>Alternative</value>
+    <value>Alternativa</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Antiguo</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
-    <value>Selected</value>
+    <value>Seleccionado</value>
   </data>
   <data name="Enum_DisplayedStats_Latest" xml:space="preserve">
-    <value>Latest</value>
+    <value>Más reciente</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Selected Major</value>
+    <value>Versión mayor seleccionada</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
-    <value>Latest Major</value>
+    <value>La mas reciente Versión mayor</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
-    <value>Always</value>
+    <value>Siempre</value>
   </data>
   <data name="Enum_DisplayMode_Auto" xml:space="preserve">
     <value>Auto</value>
@@ -2098,7 +2098,7 @@
     <value>Mes anterior</value>
   </data>
   <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
-    <value>This year</value>
+    <value>Este año</value>
   </data>
   <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
     <value>Año anterior</value>
@@ -3001,151 +3001,151 @@
     <value>Derrotas:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Porcentaje de Victorias</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
+    <value>contra.</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+    <value>Subido</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
-    <value>No data.</value>
+    <value>Sin datos.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Play some games!</value>
+    <value>¡Juega algunas partidas!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
+    <value>Enfrentamientos</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Deck Statistics / Mulligan Guide</value>
+    <value>Estadísticas de mazo/Guía de mulligan</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>We don't have enough data for the selected deck.</value>
+    <value>No tenemos suficientes datos para el mazo seleccionado.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck with HSReplay.net icon to see global data here!</value>
+    <value>Selecciona un mazo con icono HSReplay.net para ver datos aquí!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Want to try something new?</value>
+    <value>¿Quieres probar algo nuevo?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>Check out our trending decks!</value>
+    <value>Revisa nuestra tendencia de mazos!</value>
   </data>
   <data name="Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druida</value>
   </data>
   <data name="Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Cazador</value>
   </data>
   <data name="Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladín</value>
   </data>
   <data name="Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Chamán</value>
   </data>
   <data name="Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Pícaro</value>
   </data>
   <data name="Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Brujo</value>
   </data>
   <data name="Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerrero</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>No replay data available</value>
+    <value>No hay datos de reproducción disponibles</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck to see your recent games!</value>
+    <value>Selecciona un mazo para ver tus partidas recientes!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Show my games panel</value>
+    <value>Mostrar el panel de Mis partidas</value>
   </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
-    <value>Missing cards</value>
+    <value>Cartas que faltan</value>
   </data>
   <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
-    <value>Total dust cost:</value>
+    <value>Costo total de polvo:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Start Hearthstone to see your missing cards!</value>
+    <value>Inicia Hearthstone para ver las cartas que te faltan!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
-    <value>You own all the required cards!</value>
+    <value>Tiene todas las cartas necesarias!</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Include deck version</value>
+    <value>Incluir versión del mazo</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
-    <value>Start Launcher/Hearthstone</value>
+    <value>Iniciar Launcher / Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>Modo sin mazo</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Autoselect deck</value>
+    <value>Selección automática de mazo</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Class cards first</value>
+    <value>Cartas de clase primero</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
-    <value>Show</value>
+    <value>Mostrar</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Salir</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Caballeros del Trono Helado.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne:</value>
+    <value>Caballeros del Trono Helado:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Caballeros del Trono Helado</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Caballeros del Trono Helado</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
+    <value>Seleccione Idioma</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copiar</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
+    <value>Error al copiar nombres de cartas en el portapapeles.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>The selected deck doesn't have any cards.</value>
+    <value>El mazo seleccionado no contiene cartas.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Link Twitch Account on HSReplay.net</value>
+    <value>Enlace cuenta de Twitch en HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Install/Configure Twitch Extension</value>
+    <value>Instalar/configurar extensión Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
+    <value>Habilitar integración con la extensión de Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
+    <value>Emisión:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>En directo</value>
@@ -3298,7 +3298,7 @@
     <value>Mi Cuenta</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
-    <value>Collection</value>
+    <value>Coleccion</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Iniciar sesión en HSReplay.net</value>
