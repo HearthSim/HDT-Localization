@@ -1198,154 +1198,154 @@
     <value>Mazo completo</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>Selected version</value>
+    <value>Versión seleccionada</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
-    <value>Link to ur_l</value>
+    <value>Enlace a ur_l</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link to new ur_l</value>
+    <value>Enlace a nueva ur_l</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Nota</value>
   </data>
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
-    <value>These charts render a bit slow. Press refresh to update them.</value>
+    <value>Estas gráficas renderizan un poco lento. Presione refrescar para actualizarlas.</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
-    <value>Class distribution by wins</value>
+    <value>Distribución de clases por victorias</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
-    <value>Win/Loss vs class</value>
+    <value>Victoria/Derrota vs clase</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
-    <value>Runs:</value>
+    <value>Arenas:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_PercentTotal" xml:space="preserve">
-    <value>% of total</value>
+    <value>% del total</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_TotalGames" xml:space="preserve">
-    <value>Total games:</value>
+    <value>Partidas totales:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_HoursPlayed" xml:space="preserve">
-    <value>Hours played:</value>
+    <value>Horas jugadas:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_AverageWins" xml:space="preserve">
-    <value>Average wins:</value>
+    <value>Media de victorias:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
-    <value>Win rate:</value>
+    <value>Tasa de victoria:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
-    <value>Best Run:</value>
+    <value>Mejor Arena:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRunFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchup" xml:space="preserve">
-    <value>Best matchup:</value>
+    <value>Mejor partida:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
-    <value>Worst matchup:</value>
+    <value>Peor partida:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Oro</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Total" xml:space="preserve">
     <value>Total:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
-    <value>Spent:</value>
+    <value>Gastado:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Total:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Paquetes</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Total" xml:space="preserve">
     <value>Total:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Classic" xml:space="preserve">
-    <value>Classic:</value>
+    <value>Clásico:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes:</value>
+    <value>Goblins vs. Gnomos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Tgt" xml:space="preserve">
-    <value>The Grand Tournament:</value>
+    <value>El Gran Torneo:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Wotog" xml:space="preserve">
-    <value>Whispers of the Old Gods:</value>
+    <value>Susurros de los Dioses Antiguos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards" xml:space="preserve">
-    <value>Cards</value>
+    <value>Cartas</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Total" xml:space="preserve">
     <value>Total:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Golden" xml:space="preserve">
-    <value>Golden:</value>
+    <value>Dorada:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Golden_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>Arena runs</value>
+    <value>Partidas de Arena</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
-    <value>Class</value>
+    <value>Clase</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Started" xml:space="preserve">
-    <value>Started</value>
+    <value>Iniciado</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>Victorias</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Losses" xml:space="preserve">
-    <value>Losses</value>
+    <value>Derrotas</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Oro</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
-    <value>Packs</value>
+    <value>Paquetes</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Cards" xml:space="preserve">
-    <value>Cards</value>
+    <value>Cartas</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Duration" xml:space="preserve">
-    <value>Duration</value>
+    <value>Duración</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Region" xml:space="preserve">
-    <value>Region</value>
+    <value>Región</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
-    <value>Edit rewards</value>
+    <value>Editar premios</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
     <value>Mostrar mazo propio</value>
@@ -2401,136 +2401,136 @@
     <value>Modo:</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
-    <value>Format:</value>
+    <value>Formato:</value>
   </data>
   <data name="AddGameDialog_Label_Region" xml:space="preserve">
-    <value>Region:</value>
+    <value>Región:</value>
   </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
-    <value>Rank:</value>
+    <value>Rango:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
-    <value>Legend Rank:</value>
+    <value>Rango de leyenda:</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
-    <value>Coin:</value>
+    <value>Moneda:</value>
   </data>
   <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
-    <value>Conceded:</value>
+    <value>Rendido:</value>
   </data>
   <data name="AddGameDialog_Label_Turns" xml:space="preserve">
-    <value>Turns:</value>
+    <value>Turnos:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
-    <value>Duration (min):</value>
+    <value>Duración (min):</value>
   </data>
   <data name="AddGameDialog_Label_Note" xml:space="preserve">
-    <value>Note:</value>
+    <value>Nota:</value>
   </data>
   <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
-    <value>Opponent:</value>
+    <value>Oponente:</value>
   </data>
   <data name="AddGameDialog_Label_Player" xml:space="preserve">
-    <value>Player:</value>
+    <value>Jugador:</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>Add game</value>
+    <value>Añadir partida</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
-    <value>Add new game</value>
+    <value>Añadir nueva partida</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>Edit game</value>
+    <value>Editar partida</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>Arena Rewards</value>
+    <value>Recompensas de Arena</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
-    <value>Crash Report</value>
+    <value>Informe de error</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker has crashed :(</value>
+    <value>Hdt se ha colgado :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Error:</value>
   </data>
   <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
-    <value>Show Stacktrace</value>
+    <value>Mostrar Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>To help us find a solution for this issue, please attach a description of what you were doing just before this crash occurred, as well as any other helpful information you can think of.</value>
+    <value>Para ayudarnos a encontrar una solución a este problema, por favor adjunte una descripción de lo que estaba haciendo justo antes del fallo, así como cualquier otra información que crea que pueda ayudarnos.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Send Report</value>
+    <value>Enviar informe</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Cerrar</value>
   </data>
   <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
-    <value>Additional information (optional)</value>
+    <value>Información adicional (opcional)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
-    <value>Wrong deck detected</value>
+    <value>Mazo incorrecto detectado</value>
   </data>
   <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
-    <value>Select your deck</value>
+    <value>Seleccione su mazo</value>
   </data>
   <data name="DeckTypeDialog_Title" xml:space="preserve">
-    <value>Select Deck Type</value>
+    <value>Seleccione tipo de mazo</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Construido</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Arena</value>
   </data>
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
-    <value>Tavern Brawl</value>
+    <value>Pelea de taberna</value>
   </data>
   <data name="DeckTypeDialog_Button_Create" xml:space="preserve">
-    <value>Create Deck</value>
+    <value>Crear mazo</value>
   </data>
   <data name="DeckTypeDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Discard game?</value>
+    <value>¿Descartar partida?</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>cards played do not match the selected deck</value>
+    <value>las cartas jugadas no corresponden con el mazo seleccionado</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>Discard</value>
+    <value>Descartar</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
-    <value>Keep</value>
+    <value>Mantener</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
-    <value>Move to other deck</value>
+    <value>Mover a otro mazo</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Delete game</value>
+    <value>Eliminar partida</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>¿Seguro?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Delete games</value>
+    <value>Eliminar partidas</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>This will delete the selected games</value>
+    <value>Esto eliminará las partidas seleccionadas</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
     <value>Restart required</value>
