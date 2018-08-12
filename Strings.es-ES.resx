@@ -166,7 +166,7 @@
     <value>Mover a Arena</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>Mover a construído</value>
+    <value>Mover a construido</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
     <value>Mostrar las cartas que faltan</value>
@@ -208,7 +208,7 @@
     <value>Desde _web</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Desde _Construído</value>
+    <value>Desde _Construido</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
     <value>Desde _Arena</value>
@@ -319,7 +319,7 @@
     <value>Cerrar sesión</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>_Extensiones</value>
+    <value>_Plugins</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>Vacío...</value>
@@ -961,34 +961,34 @@
     <value>Mostrar la ventana de recompensa de Arena cuando esta termina</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
-    <value>Show note dialog after game</value>
+    <value>Mostrar ventana de nota después de partida</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
-    <value>Wait until back in menu</value>
+    <value>Esperar hasta volver al menú</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
-    <value>Available Plugins</value>
+    <value>Plugins disponibles</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>Plugins Folder</value>
+    <value>Carpeta de Plugins</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Activado</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Desactivado</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Creado por</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Show share notification</value>
+    <value>Mostrar notificación de compartir</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Upload replays automatically</value>
+    <value>Subir las repeticiones automáticamente</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
-    <value>Ranked</value>
+    <value>Con rango</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
     <value>Casual</value>
@@ -997,55 +997,55 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Taberna</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly</value>
+    <value>Amistoso</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>Adventure/Practice</value>
+    <value>Aventura / práctica</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
-    <value>Spectator</value>
+    <value>Espectador</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
-    <value>Account Status:</value>
+    <value>Estado de la cuenta:</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
-    <value>Claim Account</value>
+    <value>Reclamar cuenta</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Log in with your Battle.net credentials on HSReplay.net to claim your existing replays. This will open your web browser.</value>
+    <value>Inicie sesión con sus credenciales de Battle.net en HSReplay.net para reclamar sus repeticiones existentes. Se abrirá su navegador de Internet.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Submit anonymous data</value>
+    <value>Compartir datos anónimos</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>This only tracks very basic information to help us improve HDT, like app and match starts.</value>
+    <value>Esto sólo rastrea información muy básica para ayudarnos a mejorar HDT, como aplicación e inicios de partidas.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
-    <value>Save config in AppData</value>
+    <value>Guardar configuración en AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveDataAppData" xml:space="preserve">
-    <value>Save data in AppData</value>
+    <value>Guardar datos en AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with windows</value>
+    <value>Iniciar con Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
-    <value>Start minimized</value>
+    <value>Iniciar minimizado</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>Minimize to tray</value>
+    <value>Minimizar a la bandeja</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>Show the loading splash screen</value>
+    <value>Mostrar la pantalla de bienvenida</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
-    <value>Close with Hearthstone</value>
+    <value>Cerrar con Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Start Hearthstone with HDT</value>
+    <value>Iniciar hearthstone con HDT</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Buscar actualizaciones</value>
@@ -1168,7 +1168,7 @@
     <value>Mover a Arena</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
-    <value>Mover a construído</value>
+    <value>Mover a construido</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
     <value>Mostrar las cartas que faltan</value>
@@ -1498,115 +1498,115 @@
     <value>Peor partida:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Stats_Constructed_Games_Label_Matches" xml:space="preserve">
-    <value>Matches</value>
+    <value>Partidas</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>Add new game to active deck</value>
+    <value>Añadir nueva partida al mazo activo</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
-    <value>Move selected</value>
+    <value>Mover seleccionados</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Delete selected</value>
+    <value>Eliminar seleccionado</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazo</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
-    <value>Class</value>
+    <value>Clase</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>Contra</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Result" xml:space="preserve">
-    <value>Result</value>
+    <value>Resultado</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Mode" xml:space="preserve">
-    <value>Mode</value>
+    <value>Modo</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Format" xml:space="preserve">
-    <value>Format</value>
+    <value>Formato</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
-    <value>Rank</value>
+    <value>Rango</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Turnos</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Coin" xml:space="preserve">
-    <value>Coin</value>
+    <value>Moneda</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
-    <value>Started</value>
+    <value>Iniciado</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
-    <value>Duration</value>
+    <value>Duración</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
-    <value>Region</value>
+    <value>Región</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Replay</value>
+    <value>Repetición</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Nota</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Replay</value>
+    <value>Repetición</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>Opp. deck</value>
+    <value>Mazo Op.</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_SelectDeck" xml:space="preserve">
-    <value>Select deck</value>
+    <value>Seleccionar mazo</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Nota</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
-    <value>Move</value>
+    <value>Mover</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
-    <value>You \ VS</value>
+    <value>Tu \ Contra</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
     <value>Total</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Charts" xml:space="preserve">
-    <value>Charts</value>
+    <value>Gráficas</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Porcentaje de Victorias</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Porcentaje de Victorias</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>Played</value>
+    <value>Jugado</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
-    <value>Played (%)</value>
+    <value>Jugado (%)</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Opponents" xml:space="preserve">
-    <value>Opponents</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Opponents" xml:space="preserve">
-    <value>Opponents</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
-    <value>Highlights</value>
+    <value>Destacados</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
     <value>Total</value>
@@ -1771,7 +1771,7 @@
     <value>Gráficas avanzadas</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Construído</value>
+    <value>Construido</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>Resumen</value>
@@ -2608,7 +2608,7 @@
     <value>Continuar...</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>Ordenar mazo: Todos/Construído</value>
+    <value>Ordenar mazo: Todos/Construido</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
     <value>Ordenar por clase</value>
