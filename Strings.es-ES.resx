@@ -598,136 +598,136 @@
     <value>Sólo para secretos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>Additional card tooltips</value>
+    <value>Tooltip adicional de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>Use card animations</value>
+    <value>Usar animaciones de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>Card mark tooltips</value>
+    <value>Tooltip de marca de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
-    <value>Automatically gray out secrets</value>
+    <value>Oscurecer secretos automáticamente</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Don't reset decks after a game</value>
+    <value>No restablecer mazos después de una partida</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
-    <value>Gold progress always visible (in menu)</value>
+    <value>Progreso de oro siempre visible (en menú)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Show card flavor text on mouseover (board/hand)</value>
+    <value>Mostrar texto extra de cartas al poner cursor encima (Mesa/Mano)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>Show battery status</value>
+    <value>Mostrar estado de la batería</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>Show percent</value>
+    <value>Mostrar porcentaje</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move/resize objects:</value>
+    <value>Mover/Redimensionar objetos:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Restablecer</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset positions:</value>
+    <value>Restablecer posiciones:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Unlock overlay</value>
+    <value>Desbloquear superposición</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
-    <value>Warning:</value>
+    <value>Atención:</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>May cause the cursor to freeze occasionally</value>
+    <value>Puede causar que el cursor se congele ocasionalmente</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>Force on (don't use this unless you need to)</value>
+    <value>Forzar (No usar esto a menos que lo necesite)</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
-    <value>Features:</value>
+    <value>Funciones:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>Hide deck when friendslist is open</value>
+    <value>Ocultar mazo cuando la lista de amigos esté abierta</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
-    <value>Click secrets to gray out</value>
+    <value>Clic en secretos para oscurecerlos</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>NOTA: Puede no funcionar correctamente si "opciones &gt; superposición &gt; general &gt; oscurecer secretos automáticamente" está activado.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Activado</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Desactivado</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Use same scaling for player/opponent</value>
+    <value>Usar la misma escala para Jugador/Oponente</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Escala:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_SecretScaling" xml:space="preserve">
-    <value>Secret scaling:</value>
+    <value>Escala de Secretos:</value>
   </data>
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
-    <value>Secret opacity:</value>
+    <value>Opacidad de Secretos:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Mostrar contador C'Thun:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Mostrar contador de hechizos:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Show board attack counter</value>
+    <value>Mostrar contador de ataque de mesa</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Centrar mazo verticalmente</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
-    <value>Include created cards</value>
+    <value>Incluir cartas creadas</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_DiscardedCards" xml:space="preserve">
-    <value>Highlight discarded from deck</value>
+    <value>Destacar cartas descartadas del mazo</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Use same scaling for player/opponent</value>
+    <value>Usar la misma escala para Jugador/Oponente</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>Scaling:</value>
+    <value>Escala:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Show C'Thun counter:</value>
+    <value>Mostrar contador C'Thun:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Show spell counter:</value>
+    <value>Mostrar contador de hechizos:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Show board attack counter</value>
+    <value>Mostrar contador de ataque de mesa</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Center deck vertically</value>
+    <value>Centrar mazo verticalmente</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
-    <value>Highlight cards in hand</value>
+    <value>Destacar cartas en la mano</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Highlight last drawn card</value>
+    <value>Destacar la última carta robada</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
-    <value>Remove cards if none remaining</value>
+    <value>Remover cartas si no queda ninguna</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Include cards created in hand (e.g. The Coin)</value>
@@ -3388,21 +3388,21 @@
     <value>Popup</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Al comienzo del turno:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>En desafío amistoso:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>El mazo contiene cartas de la expansión El Proyecto Armagebum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>El Proyecto Armagebum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>El Proyecto Armagebum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>El Proyecto Armagebum</value>
   </data>
 </root>
