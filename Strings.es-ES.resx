@@ -2863,139 +2863,139 @@
     <value>Captura de pantalla</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
+    <value>Solamente cartas</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>Title:</value>
+    <value>Título:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Save to disk</value>
+    <value>Guardar en el disco</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Error uploading. Please try again later and/or upload manually</value>
+    <value>Error subiendo archivo: Por favor inténtelo mas tarde y/o suba el archivo manualmente</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Preview</value>
+    <value>Vista previa</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>Copy to clipboard</value>
+    <value>Copiar a portapapeles</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>¡Copiado!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload to Imgur</value>
+    <value>Subir a Imgur</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Uploading...</value>
+    <value>Subiendo...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload successful</value>
+    <value>Subido con éxito</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>Open folder</value>
+    <value>Abrir carpeta</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
+    <value>Historial de versiones</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Version history</value>
+    <value>Historial de versiones</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
+    <value>Historial de versiones</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Card database</value>
+    <value>Base de datos de cartas</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>Search...</value>
+    <value>Buscar...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
-    <value>Search card text</value>
+    <value>Buscar texto de carta</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtros</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
-    <value>Deck has less than 30 cards.</value>
+    <value>El mazo tiene menos de 30 cartas.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
-    <value>Deck has more than 30 cards.</value>
+    <value>El mazo tiene más de 30 cartas.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>Name already exists.</value>
+    <value>El nombre ya existe.</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>Name is required.</value>
+    <value>Se requiere un nombre.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
-    <value>Save as</value>
+    <value>Guardar como</value>
   </data>
   <data name="DeckExport_Label_Instructions" xml:space="preserve">
-    <value>Instructions:</value>
+    <value>Instrucciones:</value>
   </data>
   <data name="DeckExport_Label_Step1" xml:space="preserve">
-    <value>Click the copy button below</value>
+    <value>Hacer clic en el botón copiar de abajo</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Create a new deck in Hearthstone</value>
+    <value>Crear un nuevo mazo en Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Only the code is required for importing to Hearthstone. Any line starting with a '#' is ignored.</value>
+    <value>Sólo es necesario el código para importar a Hearthstone. Cualquier línea que comience con "#" es ignorada.</value>
   </data>
   <data name="DeckExport_Button_CopyAll" xml:space="preserve">
-    <value>Copy all</value>
+    <value>Copiar todo</value>
   </data>
   <data name="DeckExport_Button_CopyCode" xml:space="preserve">
-    <value>Copy code only</value>
+    <value>Copiar solo el código</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>¡Copiado!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportar</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck editor</value>
+    <value>Editor de mazos</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
-    <value>From deck code</value>
+    <value>Desde código de mazo</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / My Games / Overlay</value>
+    <value>Mazos / Mis partidas / Superposición</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} day ago</value>
+    <value>hace {0} día</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>Hace {0} días</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>{0} hour ago</value>
+    <value>hace {0} hora</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>hace {0} horas</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0} minute ago</value>
+    <value>hace {0} minuto</value>
   </data>
   <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>hace {0} minutos</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Global statistics - HSReplay.net</value>
+    <value>Estadísticas globales - HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>My games</value>
+    <value>Mis partidas</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Has active filters</value>
+    <value>Tiene filtros activos</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
-    <value>Wins:</value>
+    <value>Victorias:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
     <value>Losses:</value>
@@ -3148,25 +3148,25 @@
     <value>Stream:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>Live</value>
+    <value>En directo</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>Desconectado</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Emisión en directo</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>Superposición capturable</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Extension</value>
+    <value>Extensión de Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>View full setup guide</value>
+    <value>Ver guía de configuración completa</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Kóbolds &amp; Catacumbas</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
     <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
