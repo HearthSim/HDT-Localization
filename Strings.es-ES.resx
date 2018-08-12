@@ -547,55 +547,55 @@
     <value>Oponente</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>Topmost</value>
+    <value>Siempre visible</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>Only if HS in foreground</value>
+    <value>Solo si HS está en primer plano</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Tooltips de cartas</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
-    <value>Timer</value>
+    <value>Contador</value>
   </data>
   <data name="Options_DeckWindows_Label_Background" xml:space="preserve">
-    <value>Background:</value>
+    <value>Segundo plano:</value>
   </data>
   <data name="Options_DeckWindows_Label_CustomHex" xml:space="preserve">
-    <value>Custom hex:</value>
+    <value>Hex personalizado:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCompletely" xml:space="preserve">
-    <value>Hide (completely)</value>
+    <value>Ocultar (Completamente)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>Hide in menu</value>
+    <value>Ocultar en menús</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>Hide in spectator</value>
+    <value>Ocultar en espectador</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>Hide if HS in background</value>
+    <value>Ocultar si HS está en segundo plano</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Hide decks</value>
+    <value>Ocultar mazos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
-    <value>Hide timers</value>
+    <value>Ocultar temporizadores</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Hide card-age</value>
+    <value>Ocultar antigüedad de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Hide card-marks</value>
+    <value>Ocultar marcas de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
-    <value>Hide secrets</value>
+    <value>Ocultar secretos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Card tooltips</value>
+    <value>Tooltips de cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>For secrets only</value>
+    <value>Sólo para secretos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
     <value>Additional card tooltips</value>
@@ -748,31 +748,31 @@
     <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show instructions for getting started (opens wiki)</value>
+    <value>Mostrar instrucciones para comenzar (Abre wiki)</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>Language:</value>
+    <value>Idioma:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
-    <value>Theme:</value>
+    <value>Tema:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>Accent:</value>
+    <value>Resaltado:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
-    <value>Class Icons:</value>
+    <value>Iconos de clase:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
-    <value>Card theme:</value>
+    <value>Tema de cartas:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
-    <value>Deck layout:</value>
+    <value>Aspecto de mazos:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
-    <value>Rarity-colored card frames</value>
+    <value>Colorear marcos de cartas según rareza</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityGems" xml:space="preserve">
-    <value>Rarity-colored card gems</value>
+    <value>Colorear gemas de cartas según rareza</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
     <value>Red/green text color in stats summary</value>
