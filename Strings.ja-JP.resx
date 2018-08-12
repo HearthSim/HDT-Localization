@@ -484,7 +484,7 @@
     <value>一般</value>
   </data>
   <data name="Options_Overlay_Windows_Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>ウィンドウ</value>
   </data>
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
     <value>プレーヤー</value>
@@ -658,7 +658,7 @@
     <value>クリックで秘策をグレーアウト</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>注: 「オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合があります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>有効</value>
