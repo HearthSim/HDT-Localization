@@ -1102,70 +1102,70 @@
     <value>Otros</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
-    <value>Display</value>
+    <value>Visualizar</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>(on decks and in overlay)</value>
+    <value>(En mazos y en superposición)</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
-    <value>Version(s):</value>
+    <value>Versión(es):</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modo:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
-    <value>Timeframe:</value>
+    <value>Periodo de tiempo:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe_Since" xml:space="preserve">
-    <value>Since:</value>
+    <value>Desde:</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
-    <value>Discard game if deck does not match cards</value>
+    <value>Descartar partida si las cartas no coinciden con el mazo</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
-    <value>Ask before discarding</value>
+    <value>Preguntar antes de descartar</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>Discard games with zero turns</value>
+    <value>Descartar partida con cero turnos</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Record local replays</value>
+    <value>Guardar repeticiones en local</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Keep stats when deleting a deck*</value>
+    <value>Mantener estadísticas cuando se eliminar un mazo*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>This will move stats to the 'class default deck' (the same matches in no-deck mode are saved to). That means, runs in the arena statistics will be lost when deleting arena decks!</value>
+    <value>Esto moverá las estadísticas al "mazo por defecto de la clase" (El mismo donde se guardan las partidas en modo no-mazo). Esto significa, las estadísticas de Arena se perderán cuando se borren los mazos de Arena!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Show deck stats in separate window</value>
+    <value>Mostrar estadísticas de mazos en ventana separada</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Analytics</value>
+    <value>Analíticas</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
-    <value>Search...</value>
+    <value>Buscar...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>_Use deck</value>
+    <value>_Usar mazo</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Edit _deck</value>
+    <value>_Editar mazo</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
-    <value>Edit na_me</value>
+    <value>Editar no_mbre</value>
   </data>
   <data name="DeckPicker_ContextMenu_Notes" xml:space="preserve">
-    <value>Edit _notes</value>
+    <value>Editar _notas</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Edit _tags</value>
+    <value>Editar e_tiquetas</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>_Quick set tag</value>
+    <value>Definición rápida de eti_quetas</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
-    <value>Move to Arena</value>
+    <value>Mover a Arena</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>Move to Constructed</value>
