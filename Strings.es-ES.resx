@@ -3169,64 +3169,64 @@
     <value>Kóbolds &amp; Catacumbas</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
+    <value>El mazo contiene cartas de la expansión Kóbolds &amp; Catacumbas.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Kóbolds &amp; Catacumbas</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs:</value>
+    <value>Kóbolds &amp; Catacumbas:</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
+    <value>Mazmorra</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Taberna</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
+    <value>Partidas de mazmorra</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Auto import new decks</value>
+    <value>Subir nuevos mazos automaticamente</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
+    <value>Plantilla de nombre de mazo de mazmorra</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
+    <value>Incluir cartas pasivas</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
+    <value>Mostrar mazos etiquetados como "Favorito" primero</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
+    <value>Descargar</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
+    <value>Ahora no</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
+    <value>Hay disponible una nueva actualización BETA</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
+    <value>Presionar "Descargar" para actualizar automáticamente.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>New HSReplay.net Feature: Collection Uploading</value>
+    <value>Nueva función HSReplay.net: Subir colección</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Find the best decks for your collection!</value>
+    <value>Encontrar el mejor mazo para tu colección!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+    <value>Iniciar sesión para visualizar tus repeticiones y activar todas las funciones de HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>Login to enable all HSReplay.net features.</value>
+    <value>Iniciar sesión para activar todas las funciones de HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>Las repeticiones son subidas a</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
-    <value>Logged in as</value>
+    <value>Sesión iniciada como</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
     <value>Collection uploading</value>
