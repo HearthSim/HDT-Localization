@@ -1168,34 +1168,34 @@
     <value>Mover a Arena</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
-    <value>Move to Constructed</value>
+    <value>Mover a construído</value>
   </data>
   <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>Show _Missing cards</value>
+    <value>Mostrar las cartas que faltan</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Update (web)</value>
+    <value>Act_ualizar (Web)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>Open _Website</value>
+    <value>Abrir sitio _web</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>Open HearthStats</value>
+    <value>Abrir HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
-    <value>_Archive</value>
+    <value>_Archivar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
-    <value>Unarchive</value>
+    <value>Desarchivar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>Clone</value>
+    <value>Clonar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>Entire deck</value>
+    <value>Mazo completo</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
     <value>Selected version</value>
@@ -1348,124 +1348,124 @@
     <value>Edit rewards</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>Show own deck</value>
+    <value>Mostrar mazo propio</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>Show opp. deck</value>
+    <value>Mostrar mazo del oponente</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Show replay</value>
+    <value>Mostrar repetición</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
-    <value>Add game</value>
+    <value>Añadir partida</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
-    <value>Edit game</value>
+    <value>Editar partida</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
-    <value>Delete game</value>
+    <value>Eliminar partida</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>Contra</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
-    <value>Started</value>
+    <value>Iniciado</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Result" xml:space="preserve">
-    <value>Result</value>
+    <value>Resultado</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Turnos</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Coin" xml:space="preserve">
-    <value>Coin</value>
+    <value>Moneda</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Tiempo</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Replay</value>
+    <value>Repetición</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>Note</value>
+    <value>Nota</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
-    <value>Charts</value>
+    <value>Gráficas</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Played" xml:space="preserve">
-    <value>Played</value>
+    <value>Jugado</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Opponents" xml:space="preserve">
-    <value>Opponents</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Arena_Summary_Label_AverageWinsClass" xml:space="preserve">
-    <value>Average wins per class</value>
+    <value>Victorias promedio por clase</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>Victorias</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
-    <value>Highlights</value>
+    <value>Destacados</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Classes" xml:space="preserve">
-    <value>Classes</value>
+    <value>Clases</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Rewards" xml:space="preserve">
-    <value>Rewards</value>
+    <value>Recompensas</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_Total" xml:space="preserve">
     <value>Total</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_Best" xml:space="preserve">
-    <value>Best</value>
+    <value>Mejor</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_Worst" xml:space="preserve">
-    <value>Worst</value>
+    <value>Peor</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_MostPicked" xml:space="preserve">
-    <value>Most picked</value>
+    <value>El mas elegido</value>
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
-    <value>Least picked</value>
+    <value>El menos elegido</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druida</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Cazador</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladín</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Pícaro</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Chamán</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Brujo</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerrero</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Porcentaje de Victorias</value>
   </data>
   <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Porcentaje de Victorias</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>By class</value>
+    <value>Por clase</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
     <value>Winrate as</value>
