@@ -169,7 +169,7 @@
     <value>Mover a construído</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Show _missing cards</value>
+    <value>Mostrar las cartas que faltan</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
     <value>Act_ualizar (Web)</value>
@@ -301,76 +301,76 @@
     <value>Subir nuevos mazos automaticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_UploadGames" xml:space="preserve">
-    <value>Auto upload games</value>
+    <value>Autocargar juegos</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
-    <value>Auto delete decks</value>
+    <value>Eliminar mazos automáticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
-    <value>Auto delete games</value>
+    <value>Eliminar partidas automáticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_SyncInBackground" xml:space="preserve">
-    <value>Auto Sync in background</value>
+    <value>Sincronizar automáticamente en segundo plano</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteSelected" xml:space="preserve">
-    <value>Delete selected decks</value>
+    <value>Eliminar mazos seleccionados</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Cerrar sesión</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>_Plugins</value>
+    <value>_Extensiones</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
-    <value>Empty...</value>
+    <value>Vacío...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Options</value>
+    <value>Opciones</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Ayuda</value>
   </data>
   <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
-    <value>Donate</value>
+    <value>Donar</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Options</value>
+    <value>Opciones</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
-    <value>Help</value>
+    <value>Ayuda</value>
   </data>
   <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
-    <value>Opponent Deck</value>
+    <value>Mazo del oponente</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Sort / Filter Decks</value>
+    <value>Ordenar / Filtro de mazos</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
-    <value>Notes</value>
+    <value>Notas</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Set Tags</value>
+    <value>Establecer Etiquetas</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
-    <value>Errors</value>
+    <value>Errores</value>
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
-    <value>Update Notes</value>
+    <value>Actualizar notas</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>Deck Importing</value>
+    <value>Importar mazos</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>Move to new window</value>
+    <value>Mover a una nueva ventana</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
-    <value>Stats</value>
+    <value>Estadísticas</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>A new update is available</value>
+    <value>Hay disponible una nueva actualización</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>Click here to update now</value>
+    <value>Haga clic aquí para actualizar ahora</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Start Launcher / Hearthstone</value>
@@ -460,7 +460,7 @@
     <value>Incluir solo cartas de salvaje</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>Limitar cartas de construído</value>
+    <value>Limitar cartas de construido</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
     <value>Mostrar historial de versiones</value>
@@ -3229,73 +3229,73 @@
     <value>Sesión iniciada como</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Collection uploading</value>
+    <value>Subir colección</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Replay uploading</value>
+    <value>Subir repeticiones</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Replays claimed</value>
+    <value>Repeticiones reclamadas</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Subscribed to Premium</value>
+    <value>Suscrito a Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>Activar ahora</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Claim now</value>
+    <value>Reclama ahora</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>¡Gracias por apoyarnos!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Find out more</value>
+    <value>Descubre más</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>Configuración de la cuenta</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>¿Estás seguro de que quieres salir?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>New replays will no longer be attached to your account.</value>
+    <value>Las nuevas repeticiones ya no serán vinculadas a tu cuenta.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Logging back in will claim all new replays retroactively.</value>
+    <value>Volver a iniciar sesión solicitará automáticamente todas las nuevas repeticiones de forma retroactiva.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Cerrar sesión</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
-    <value>The easiest way to find the best decks for you!</value>
+    <value>La forma mas fácil de encontrar el mejor mazo para ti!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Just upload your collection to HSReplay.net</value>
+    <value>Su colección se acaba de subir a HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Upload my collection automatically</value>
+    <value>Subir mi colección automáticamente</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
-    <value>Collection up-to-date!</value>
+    <value>Colección al día!</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
-    <value>Collection update queued...</value>
+    <value>Subida de colección en cola...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Última actualización</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
-    <value>One more step to upload your collection:</value>
+    <value>Un paso mas para subir su colección:</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>Start Hearthstone and open the collection</value>
+    <value>Iniciar Hearthstone y abrir la colección</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Your collection will automatically update when</value>
+    <value>Su colección se actualizará automáticamente cuando</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>My Account</value>
+    <value>Mi Cuenta</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Collection</value>
