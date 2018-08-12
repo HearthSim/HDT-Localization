@@ -1135,7 +1135,7 @@
     <value>Mantener estadísticas cuando se eliminar un mazo*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>Esto moverá las estadísticas al "mazo por defecto de la clase" (El mismo donde se guardan las partidas en modo no-mazo). Esto significa, las estadísticas de Arena se perderán cuando se borren los mazos de Arena!</value>
+    <value>Esto moverá las estadísticas al "mazo por defecto de la clase" (El mismo donde se guardan las partidas en modo sin mazo). Esto significa, las estadísticas de Arena se perderán cuando se borren los mazos de Arena!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Mostrar estadísticas de mazos en ventana separada</value>
@@ -2533,19 +2533,19 @@
     <value>Esto eliminará las partidas seleccionadas</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
-    <value>Restart required</value>
+    <value>Reinicio necesario</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT needs to be restarted for the changes to take effect.</value>
+    <value>HDT necesita reiniciarse para que los cambios surtan efecto.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
-    <value>Restart Now</value>
+    <value>Reiniciar Ahora</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
-    <value>Later</value>
+    <value>Más tarde</value>
   </data>
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
-    <value>Saved to</value>
+    <value>Guardado en</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
     <value>Aceptar</value>
@@ -2698,7 +2698,7 @@
     <value>Cancelar</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>No deck found</value>
+    <value>Ningún mazo seleccionado</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
     <value>El portapapeles no contiene una Url soportada o datos de mazo.</value>
@@ -2773,10 +2773,10 @@
     <value>Funciona solo en dispositivos moviles (Portatiles, tablets, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; gemerañ &gt; Desbloquar".</value>
+    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; general &gt; Desbloquar".</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; gemerañ &gt; Desbloquar".</value>
+    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; general &gt; Desbloquar".</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Desmarcar para desactivar la mayoría de las animaciones para las ventanas emergentes y flyouts</value>
