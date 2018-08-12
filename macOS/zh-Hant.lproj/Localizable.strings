@@ -1,0 +1,159 @@
+"Are you sure you want to close this deck ? Your changes will not be saved." = "確定要離開嗎？將不會保留任何更動。";
+"Are you sure you want to delete the deck %@ ?" = "確定要刪除 %@ 牌組嗎?";
+"Arena %@ %@" = "競技場 %@ %@";
+"Cancel" = "取消";
+"Clear" = "清除";
+"Deck Manager" = "牌組管理";
+"Deck name" = "牌組名稱";
+"Decks" = "牌組";
+"Delete deck" = "刪除牌組";
+"Do you want to add this deck on Hearthstats ?" = "要把這個牌組添加到 Hearthstats 嗎?";
+"Do you want to delete the deck on Hearthstats ?" = "要從 Hearthstats 刪除這個牌組嗎?";
+"Download Hearthstone cards" = "下載爐石戰記卡牌";
+"Loading Hearthstone builds" = "載入爐石戰記設定";
+"Downloading %@" = "下載 %@ 中";
+"Downloading images" = "下載卡牌圖片中";
+"Edit deck" = "修改牌組";
+"Game" = "遊戲";
+"General" = "一般";
+"Loading %@ cards" = "載入 %@ 卡牌";
+"Loading decks" = "載入牌組";
+"Lock windows" = "鎖定視窗";
+"OK" = "確定";
+"Please select your Hearthstone app" = "請選擇爐石戰記的應用程式";
+"Can't find Hearthstone, please select Hearthstone.app" = "找不到爐石戰記, 請選擇爐石戰記的應用程式(Hearthstone.app)";
+"Preferences" = "設定";
+"Rename deck" = "重新命名牌組";
+"Reset" = "重置";
+"server error" = "伺服器錯誤";
+"Trackers" = "記牌器";
+"Opponent tracker" = "對手的記牌器";
+"Player tracker" = "你的記牌器";
+"Unlock windows" = "解鎖視窗";
+"Use deck" = "使用本牌組";
+"Window" = "視窗";
+"You are now connected to Hearthstats" = "您已連結到 Hearthstats";
+"You must restart Hearthstone for logs to be used" = "為正常紀錄您的牌組，必須重新啟動爐石戰記";
+"You must restart HSTracker for the language change to take effect" = "必須重新啟動 HSTracker 以完成語言設定";
+"Are you sure you want to disconnect from Hearthstats ?" = "確定要與 Hearthstats 取消連結嗎?";
+"Save Opponent's Deck" = "儲存對手的牌組";
+"Save Current Deck" = "儲存現在的牌組";
+"Are you sure you want to archive the deck %@ ?" = "確定要儲存 %@ 牌組嗎?";
+"Are you sure you want to unarchive the deck %@ ?" = "確定要將 %@ 牌組從存檔中刪除嗎?";
+"Add Card" = "新增卡牌";
+"Remove Card" = "移除卡牌";
+"Fatigue : " = "疲勞: ";
+"It is 90% certain that the true winrate falls between these values." = "獲勝機率有 90% 的可能性落在這些值之間。";
+"There was an issue saving your arena deck. Try relaunching Hearthstone and clicking on 'Arena', and then try to save again." = "出了一些問題，你的競技場牌組無法儲存。請嘗試重新啟動爐石戰記並重新儲存牌組。";
+"Are you sure you want to delete the statistics for the deck %@ ?" = "確定要刪除 %@ 牌組的統計資料嗎?";
+"Do you want to add some notes for this game ?" = "要替本場賽局新增筆記嗎?";
+"Your arena deck count 30 cards, do you want to save it ?" = "競技場牌組已有 30 張卡, 要儲存嗎?";
+"Failed to import deck from \n" = "從 \n 讀取牌組失敗";
+"Login" = "登入";
+"Logout" = "登出";
+"Top deck:" = "下一抽抽中機率:";
+"In top 2:" = "下兩抽抽中機率:";
+"Connected" = "已連結";
+"Connected as %@" = "已連結，帳號為： %@";
+"HSTracker needs elevated privileges to read data from Hearthstone's memory. If macOS asks you for your system password, do not be alarmed, no changes to your computer will be performed." = "HSTracker 需要您的權限以讀取爐石戰記的資料，若系統要求您輸入密碼時請不必擔心，您電腦中的設定將不會被更改。";
+"I understand" = "我明白了";
+
+/* notifications */
+"Your game begins" = "遊戲開始";
+"Victory" = "勝利";
+"Hearthstone" = "爐石戰記";
+"Your opponent have conceded" = "你的對手投降了";
+"It's your turn to play" = "你的回合";
+
+/* classes */
+"shaman" = "薩滿";
+"hunter" = "獵人";
+"warlock" = "術士";
+"druid" = "德魯伊";
+"warrior" = "戰士";
+"mage" = "法師";
+"paladin" = "聖騎士";
+"priest" = "牧師";
+"rogue" = "盜賊";
+"All classes" = "所有職業";
+"Archived" = "已存檔";
+
+/* rarity */
+"all_rarities" = "所有";
+"neutral" = "中立";
+"free" = "基本";
+"common" = "普通";
+"rare" = "精良";
+"epic" = "史詩";
+"legendary" = "傳說";
+
+/* sets */
+"ALL" = "所有";
+"CORE" = "基本";
+"EXPERT1" = "經典";
+"NAXX" = "納克薩瑪斯的詛咒";
+"GVG" = "哥哥打地地";
+"BRM" = "勇闖黑石山";
+"TGT" = "銀白聯賽";
+"LOE" = "探險者協會";
+"OG" = "古神碎碎念";
+"PROMO" = "促銷";
+"KARA" = "夜夜卡拉贊";
+"GANGS" = "黑街英雄之加基森風雲";
+"UNGORO" = "安戈洛歷險記";
+"ICECROWN" = "冰封王座";
+"LOOTAPALOOZA" = "狗頭人與地下城";
+
+/* card type */
+"all_types" = "所有";
+"spell" = "法術";
+"minion" = "手下";
+"weapon" = "武器";
+
+/* races */
+"all_races" = "所有";
+"demon" = "惡魔";
+"dragon" = "龍類";
+"mechanical" = "機械";
+"beast" = "野獸";
+"murloc" = "魚人";
+"pirate" = "海盜";
+"totem" = "圖騰";
+"elemental" = "元素";
+
+/* sorting */
+"name" = "名字";
+"creation date" = "建立日期";
+"win percentage" = "勝率";
+"wins" = "勝場數";
+"losses" = "敗場數";
+"games played" = "總場數";
+"games" = "遊戲";
+"ascending" = "升冪排列";
+"descending" = "降冪排列";
+
+/* game modes */
+"mode_all"       = "所有";
+"mode_ranked"    = "排名模式";
+"mode_casual"    = "休閒模式";
+"mode_arena"     = "競技場模式";
+"mode_brawl"     = "旅店大亂鬥";
+"mode_friendly"  = "友誼模式";
+"mode_practice"  = "練習模式 / 冒險模式";
+"mode_spectator" = "觀戰模式";
+"mode_none"      = "無";
+
+/* Stats tabs */
+"Statistics" = "統計";
+"The Climb" = "排名統計";
+"all_seasons" = "所有賽季";
+"season" = "賽季 %@";
+
+"Vs %@" = "Vs %@";
+"%@ vs %@" = "%@ vs %@";
+"Your replay has been uploaded on HSReplay" = "已將本場賽局上傳至 HSReplay";
+"View" = "看本場賽局的影像";
+"To export a deck to Hearthstone, create a new deck with the correct class in your collection, then click OK and switch to Hearthstone.\nDo not touch your mouse or keyboard during the import." = "如果想將本牌組匯出到爐石戰記中，請建立一個相同職業的牌組，點擊OK後切換到爐石戰記。\n。在匯入過程中，請不要觸碰滑鼠或鍵盤。\n警告，目前此功能僅為測試功能。";
+"The followings cards were missing : " = "以下卡牌缺失 : ";
+"Can't get card collection" = "無法取得你的卡牌, 請確認爐石戰記正在執行。";
+"Deck string has been copied in your clipboard." = "卡牌代碼已複製到剪貼簿中。";

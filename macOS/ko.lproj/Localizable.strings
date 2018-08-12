@@ -1,0 +1,155 @@
+"Are you sure you want to close this deck ? Your changes will not be saved." = "이 덱을 닫겠습니까? 수정한 내용은 저장되지 않습니다.";
+"Are you sure you want to delete the deck %@ ?" = " %@ 덱을 삭제하겠습니까?";
+"Arena %@ %@" = "투기장 %@ %@";
+"Cancel" = "취소";
+"Clear" = "초기화";
+"Deck Manager" = "덱 관리자";
+"Deck name" = "덱 이름";
+"Decks" = "덱";
+"Delete deck" = "덱 삭제";
+"Do you want to add this deck on Hearthstats ?" = "Hearthstats 에 이 덱을 추가하시겠습니까?";
+"Do you want to delete the deck on Hearthstats ?" = "Hearthstats 에서 이 덱을 삭제하시겠습니까?";
+"Download Hearthstone cards" = "하스스톤 카드 다운로드";
+"Loading Hearthstone builds" = "Hearthstone 빌드 로딩중";
+"Downloading %@" = "%@ 다운로드중";
+"Downloading images" = "이미지 다운로드중";
+"Edit deck" = "덱 수정";
+"Game" = "게임";
+"General" = "일반";
+"You must restart HSTracker for the language change to take effect" = "수정된 언어 반영을 위해 HSTracker를 다시 시작해야 합니다";
+"Loading %@ cards" = " %@ 카드 로딩중";
+"Loading decks" = "덱 로딩중";
+"Lock windows" = "창 고정";
+"OK" = "OK";
+"Please select your Hearthstone app" = "하스스톤 앱을 선택해주세요";
+"Can't find Hearthstone, please select Hearthstone.app" = "하스스톤을 찾을 수 없습니다. Hearthstone.app 을 선택해주세요";
+"Preferences" = "설정";
+"Rename deck" = "덱 이름 수정";
+"Reset" = "초기화";
+"server error" = "서버 에러";
+"Trackers" = "트래커";
+"Opponent tracker" = "상대방 트래커";
+"Player tracker" = "플레이어 트래커";
+"Unlock windows" = "창 고정 해제";
+"Use deck" = "덱 사용하기";
+"Window" = "창";
+"You are now connected to Hearthstats" = "Hearthstats 에 연결되어 있지 않습니다.";
+"You must restart Hearthstone for logs to be used" = "Hearthstone 의 로그를 사용하기 위해 다시 시작해야 합니다.";
+"Are you sure you want to disconnect from Hearthstats ?" = "Hearthstats과 연결을 해제하시겠습니까 ?";
+"Save Opponent's Deck" = "상대방 덱 저장";
+"Save Current Deck" = "현재 덱 저장";
+"Save Arena Deck" = "투기장 덱 저장";
+"Are you sure you want to archive the deck %@ ?" = "%@ 덱을 아카이빙 하시겠습니까?";
+"Are you sure you want to unarchive the deck %@ ?" = "%@ 덱의 아카이빙을 해제하시겠습니까?";
+"Add Card" = "카드 추가";
+"Remove Card" = "카드 삭제";
+"Fatigue : " = "탈진 : ";
+"It is 90% certain that the true winrate falls between these values." = "90% 정확도로 승률이 이 값들 사이에 분포합니다.";
+"There was an issue saving your arena deck. Try relaunching Hearthstone and clicking on 'Arena', and then try to save again." = "투기장 덱을 저장하지 못했습니다. 하스스톤을 다시 시작해서 투기장에 진입하고 저장을 다시 시도해보세요.";
+"Are you sure you want to delete the statistics for the deck %@ ?" = "%@ 덱의 통계를 삭제하시겠습니까?";
+"Do you want to add some notes for this game ?" = "이번 게임에 코멘트를 추가하겠습니까? ?";
+"Your arena deck count 30 cards, do you want to save it ?" = "투기장 카드수가 30장이 되었습니다. 저장하시겠습니까?";
+"Are you sure you want to disconnect from Track-o-Bot ?" = "Track-o-Bot 과 연결을 끊겠습니까?";
+"You are now connected to Track-o-Bot" = "Track-o-Bot과 연결되었습니다";
+"Failed to import deck from \n" = "에서 \n 덱을 가져오는데 실패했습니다";
+"Login" = "로그인";
+"Logout" = "로그아웃";
+"Top deck:" = "상위 덱:";
+"In top 2:" = "상위 2:";
+"Connected" = "연결됨";
+"Connected as %@" = "%@로 연결됨";
+
+/* notifications */
+"Your game begins" = "게임 시작 되었습니다.";
+"Victory" = "승리";
+"Hearthstone" = "Hearthstone";
+"Your opponent have conceded" = "상대가 항복했습니다.";
+"It's your turn to play" = "플레이할 차례입니다.";
+
+/* classes */
+"shaman" = "주술사";
+"hunter" = "사냥꾼";
+"warlock" = "흑마법사";
+"druid" = "드루이드";
+"warrior" = "전사";
+"mage" = "마법사";
+"paladin" = "성기사";
+"priest" = "사제";
+"rogue" = "도적";
+"All classes" = "모든 직업";
+"Archived" = "Archived";
+
+/* rarity */
+"all_rarities" = "모든 등급";
+"neutral" = "중립";
+"free" = "일반";
+"common" = "공용";
+"rare" = "희귀";
+"epic" = "영웅";
+"legendary" = "전설";
+
+/* sets */
+"ALL" = "모든 셋트";
+"CORE" = "기본";
+"EXPERT1" = "오리지날";
+"NAXX" = "낙스라마스의 저주";
+"GVG" = "고블린 대 노움";
+"BRM" = "검은 바위산";
+"TGT" = "대 마상시합";
+"LOE" = "탐험가 연맹";
+"OG" = "고대신의 속삭임";
+"PROMO" = "프로모션";
+"KARA" = "한여름밤의 카라잔";
+"GANGS" = "비열한 거리의 가젯잔";
+
+/* card type */
+"all_types" = "모든 타입";
+"spell" = "주문";
+"minion" = "하수인";
+"weapon" = "무기";
+
+/* races */
+"all_races" = "모든 종족";
+"demon" = "악마";
+"dragon" = "용족";
+"mechanical" = "기계";
+"beast" = "야수";
+"murloc" = "멀록";
+"pirate" = "해적";
+"totem" = "토템";
+
+/* sorting */
+"name" = "이름";
+"creation date" = "생성일";
+"win percentage" = "승률";
+"wins" = "승수";
+"losses" = "패배수";
+"games played" = "플레이 횟수";
+"games" = "게임";
+"ascending" = "순차";
+"descending" = "역순";
+
+/* game modes */
+"mode_all"       = "모든 모드";
+"mode_ranked"    = "등급전";
+"mode_casual"    = "일반전";
+"mode_arena"     = "투기장";
+"mode_brawl"     = "선술집 난투";
+"mode_friendly"  = "친선전";
+"mode_practice"  = "연습/모험모드";
+"mode_spectator" = "관전";
+"mode_none"      = "없음";
+
+/* Stats tabs */
+"Statistics" = "통계";
+"The Climb" = "등급";
+"all_seasons" = "모든 시즌";
+"season" = "%@ 시즌";
+
+"Vs %@" = "%@ 상대";
+"%@ vs %@" = "%@ 대 %@";
+"Your replay has been uploaded on HSReplay" = "HSReplay에 리플레이가 저장되었습니다.";
+"View" = "View";
+"To export a deck to Hearthstone, create a new deck with the correct class in your collection, then click OK and switch to Hearthstone.\nDo not touch your mouse or keyboard during the import." = "하스스톤에 덱을 내보내기 위해 정확한 직업으로 덱을 만들어주세요. 그 후 OK 누르고 하스스톤으로 돌아가세요. 덱을 읽는 동안 마우스나 키보드를 건드리지 마세요. 이 기능은 아직 정식 기능이 아닙니다!";
+"The followings cards were missing : " = "다음 카드들이 빠졌습니다.  : ";
+"Can't get card collection" = "Can't get card collection, is Hearthstone running ?";

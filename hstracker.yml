@@ -1,0 +1,18 @@
+project_identifier: "hearthstone-deck-tracker"
+api_key_env: "CROWDIN_API_KEY"
+
+files:
+  - source: "macOS/Base.lproj/Localizable.strings"
+    translation: "macOS/%locale%.lproj/%original_file_name%"
+    languages_mapping:
+      locale:
+        de: "de"
+        es-ES: "es"
+        fr: "fr"
+        it: "it"
+        ja: "ja"
+        ko: "ko"
+        pl: "pl"
+        ru: "ru"
+        zh-TW: "zh-Hant"
+        zh-CN: "zh-Hans"

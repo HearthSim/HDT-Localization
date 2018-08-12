@@ -1,0 +1,159 @@
+"Are you sure you want to close this deck ? Your changes will not be saved." = "Êtes-vous sur de vouloir fermer ce deck ? Vos modifications ne seront pas sauvegardées.";
+"Are you sure you want to delete the deck %@ ?" = "Êtes-vous sur de vouloir supprimer le deck %@ ?";
+"Arena %@ %@" = "Arène %@ %@";
+"Cancel" = "Annuler";
+"Clear" = "Vider";
+"Deck Manager" = "Deck Manager";
+"Deck name" = "Nom du deck";
+"Decks" = "Decks";
+"Delete deck" = "Supprimer le deck";
+"Do you want to add this deck on Hearthstats ?" = "Voulez-vous ajouter ce deck sur Hearthstats ?";
+"Do you want to delete the deck on Hearthstats ?" = "Voulez-vous supprimer ce deck sur Hearthstats ?";
+"Download Hearthstone cards" = "Téléchargement des cartes Hearthstone";
+"Loading Hearthstone builds" = "Chargement des patches Hearthstone";
+"Downloading %@" = "Téléchargement de %@";
+"Downloading images" = "Téléchargement des images";
+"Edit deck" = "Editer le deck";
+"Game" = "Jeu";
+"General" = "Général";
+"Loading %@ cards" = "Chargement des cartes %@";
+"Loading decks" = "Chargement des decks";
+"Lock windows" = "Verrouiller les fenêtres";
+"OK" = "OK";
+"Please select your Hearthstone app" = "Veuillez sélectionner votre application Hearthstone";
+"Can't find Hearthstone, please select Hearthstone.app" = "Impossible de trouver Hearthstone, veuillez sélectionner Hearthstone.app";
+"Preferences" = "Préférences";
+"Rename deck" = "Renommer le deck";
+"Reset" = "Reset";
+"server error" = "Erreur serveur";
+"Trackers" = "Trackers";
+"Opponent tracker" = "Tracker adversaire";
+"Player tracker" = "Tracker joueur";
+"Unlock windows" = "Déverrouiller les fenêtres";
+"Use deck" = "Utiliser le deck";
+"Window" = "Fenêtre";
+"You are now connected to Hearthstats" = "Vous êtes connecté avec Hearthstats";
+"You must restart Hearthstone for logs to be used" = "Vous devez redémarrer Hearthstone pour que les logs soient utilisés";
+"You must restart HSTracker for the language change to take effect" = "Vous devez redémarrer HSTracker pour que le changement de langue soit effectif";
+"Are you sure you want to disconnect from Hearthstats ?" = "Êtes-vous certain de vouloir vous déconnecter de Hearthstats ?";
+"Save Opponent's Deck" = "Enregistrer le deck de l'adversaire";
+"Save Current Deck" = "Enregistrer le deck actuel";
+"Save Arena Deck" = "Save Arena Deck";
+"Are you sure you want to archive the deck %@ ?" = "Êtes-vous certain de vouloir archiver le deck %@ ?";
+"Are you sure you want to unarchive the deck %@ ?" = "Êtes-vous certain de vouloir désarchiver le deck %@ ?";
+"Add Card" = "Ajout carte";
+"Remove Card" = "Suppression carte";
+"Fatigue : " = "Fatigue : ";
+"It is 90% certain that the true winrate falls between these values." = "Il est à 90% certain que le véritable taux de victoire soit entre ces deux valeurs.";
+"There was an issue saving your arena deck. Try relaunching Hearthstone and clicking on 'Arena', and then try to save again." = "There was an issue saving your arena deck. Try relaunching Hearthstone and clicking on 'Arena', and then try to save again.";
+"Are you sure you want to delete the statistics for the deck %@ ?" = "Êtes-vous certain de vouloir supprimer les statistiques du deck %@ ?";
+"Do you want to add some notes for this game ?" = "Voulez-vous ajouter une note sur cette partie ?";
+"Your arena deck count 30 cards, do you want to save it ?" = "Votre deck d'arène compte 30 cartes, voulez-vous le sauvegarder ?";
+"Failed to import deck from \n" = "Impossible d'importer le deck depuis \n";
+"Login" = "Se connecter";
+"Logout" = "Se déconnecter";
+"Top deck:" = "Top deck:";
+"In top 2:" = "In top 2:";
+"Connected" = "Connecté";
+"Connected as %@" = "Connecté en tant que %@";
+"HSTracker needs elevated privileges to read data from Hearthstone's memory. If macOS asks you for your system password, do not be alarmed, no changes to your computer will be performed." = "HSTracker a besoin de privilèges spéciaux pour lire les données depuis la mémoire de Hearthstone. Si macOS vous demande votre mot de passe système, ne soyez pas alarmés, aucune modification ne sera faite à votre système.";
+"I understand" = "Je comprends";
+
+/* notifications */
+"Your game begins" = "Votre partie commence";
+"Victory" = "Victoire";
+"Hearthstone" = "Hearthstone";
+"Your opponent have conceded" = "Votre adversaire a concedé";
+"It's your turn to play" = "C'est à votre tour de jouer";
+
+/* classes */
+"shaman" = "Chaman";
+"hunter" = "Chasseur";
+"warlock" = "Démoniste";
+"druid" = "Druide";
+"warrior" = "Guerrier";
+"mage" = "Mage";
+"paladin" = "Paladin";
+"priest" = "Prêtre";
+"rogue" = "Voleur";
+"All classes" = "Toutes les classes";
+"Archived" = "Archivés";
+
+/* rarity */
+"all_rarities" = "Tout";
+"neutral" = "Neutre";
+"free" = "Libre";
+"common" = "Commune";
+"rare" = "Rare";
+"epic" = "Épique";
+"legendary" = "Légendaire";
+
+/* sets */
+"ALL" = "Tout";
+"CORE" = "Base";
+"EXPERT1" = "Classique";
+"NAXX" = "La malédiction de Naxxramas";
+"GVG" = "Gobelins et Gnomes";
+"BRM" = "Mont Rochenoire";
+"TGT" = "Le Grand Tournoi";
+"LOE" = "Ligue Des Explorateurs";
+"OG" = "Les murmures des Dieux très anciens";
+"PROMO" = "Promotion";
+"KARA" = "Une nuit à Karazhan";
+"GANGS" = "Main basse sur Gadgetzan";
+"UNGORO" = "Voyage au centre d'Un'Goro";
+"ICECROWN" = "Chevaliers du Trône de glace";
+"LOOTAPALOOZA" = "Kobolds et Catacombes";
+
+/* card type */
+"all_types" = "Tout";
+"spell" = "Sort";
+"minion" = "Créature";
+"weapon" = "Arme";
+
+/* races */
+"all_races" = "Tout";
+"demon" = "Démon";
+"dragon" = "Dragon";
+"mechanical" = "Mecanique";
+"beast" = "Bête";
+"murloc" = "Murloc";
+"pirate" = "Pirate";
+"totem" = "Totem";
+
+/* sorting */
+"name" = "Nom";
+"creation date" = "Date de création";
+"win percentage" = "Pourcentage de victoire";
+"wins" = "Victoires";
+"losses" = "Défaites";
+"games played" = "Parties jouées";
+"games" = "Parties";
+"ascending" = "Montant";
+"descending" = "Descendant";
+
+/* game modes */
+"mode_all"       = "Tous";
+"mode_ranked"    = "Classé";
+"mode_casual"    = "Non-classé";
+"mode_arena"     = "Arène";
+"mode_brawl"     = "Bras de fer";
+"mode_friendly"  = "Amical";
+"mode_practice"  = "Entraînement/Aventure";
+"mode_spectator" = "Spectateur";
+"mode_none"      = "Aucun";
+
+/* Stats tabs */
+"Statistics" = "Statistiques";
+"The Climb" = "La montée";
+"all_seasons" = "Toutes les saisons";
+"season" = "Saison %@";
+
+"Vs %@" = "Contre %@";
+"%@ vs %@" = "%@ contre %@";
+"Your replay has been uploaded on HSReplay" = "Votre replay a été sauvegardé sur HSReplay";
+"View" = "Voir";
+"To export a deck to Hearthstone, create a new deck with the correct class in your collection, then click OK and switch to Hearthstone.\nDo not touch your mouse or keyboard during the import." = "Pour exporter un deck dans Hearthstone, créez un nouveau deck avec la bonne classe dans votre collection, puis, cliquez sur OK et retournez sur Hearthstone.\nNe touchez pas votre souris ou votre clavier pendant l'import.\nATTENTION, ceci est une fonctionnalité en beta !";
+"The followings cards were missing : " = "Les cartes suivantes sont manquantes dans votre collection : ";
+"Can't get card collection" = "Impossible de récupérer la collection, est-ce que Hearthstone est lancé ?";
+"Deck string has been copied in your clipboard." = "Le deck a été copié dans votre presse-papier.";

@@ -1,0 +1,158 @@
+"Are you sure you want to close this deck ? Your changes will not be saved." = "确定要退出吗？您的修改将不会被保存。";
+"Are you sure you want to delete the deck %@ ?" = "确定要删除 %@ 卡组吗?";
+"Arena %@ %@" = "竞技场 %@ %@";
+"Cancel" = "取消";
+"Clear" = "清除";
+"Deck Manager" = "卡组管理";
+"Deck name" = "卡组名称";
+"Decks" = "卡组";
+"Delete deck" = "删除卡组";
+"Do you want to add this deck on Hearthstats ?" = "要把这个卡组添加到 Hearthstats 吗?";
+"Do you want to delete the deck on Hearthstats ?" = "要从 Hearthstats 删除这个卡组吗?";
+"Download Hearthstone cards" = "下载炉石传说卡牌";
+"Loading Hearthstone builds" = "载入炉石传说版本";
+"Downloading %@" = "下载 %@ 中";
+"Downloading images" = "下载卡牌图片中";
+"Edit deck" = "修改卡组";
+"Game" = "游戏";
+"General" = "通用";
+"Loading %@ cards" = "载入 %@ 卡牌";
+"Loading decks" = "载入卡组";
+"Lock windows" = "锁定窗口";
+"OK" = "确定";
+"Please select your Hearthstone app" = "请选择炉石传说的程序";
+"Can't find Hearthstone, please select Hearthstone.app" = "无法找到炉石传说, 请选择炉石传说程序";
+"Preferences" = "设置";
+"Rename deck" = "重命名卡组";
+"Reset" = "重置";
+"server error" = "服务器错误";
+"Trackers" = "记牌器";
+"Opponent tracker" = "对手的记牌器";
+"Player tracker" = "你的记牌器";
+"Unlock windows" = "解锁窗口";
+"Use deck" = "使用本卡组";
+"Window" = "窗口";
+"You are now connected to Hearthstats" = "您已连接到 Hearthstats";
+"You must restart Hearthstone for logs to be used" = "为正常记录您的对局，必须重新启动炉石传说";
+"You must restart HSTracker for the language change to take effect" = "必须重启 HSTracker 使语言设置生效";
+"Are you sure you want to disconnect from Hearthstats ?" = "确定要从 Hearthstats 断开吗?";
+"Save Opponent's Deck" = "保存对手的卡组";
+"Save Current Deck" = "保存现在的卡组";
+"Are you sure you want to archive the deck %@ ?" = "确定要将 %@ 卡组存档吗?";
+"Are you sure you want to unarchive the deck %@ ?" = "确定要将 %@ 卡组从存档中删除吗?";
+"Add Card" = "添加卡牌";
+"Remove Card" = "移除卡牌";
+"Fatigue : " = "疲劳: ";
+"It is 90% certain that the true winrate falls between these values." = "真实胜率有 90% 的可能落在这些值之间。";
+"There was an issue saving your arena deck. Try relaunching Hearthstone and clicking on 'Arena', and then try to save again." = "出了一些问题，你的竞技场卡组没有保存。请尝试重启炉石传说和重新保存卡组。";
+"Are you sure you want to delete the statistics for the deck %@ ?" = "确定要删除 %@ 卡组的统计数据吗?";
+"Do you want to add some notes for this game ?" = "要给本场对局添加一些备注吗?";
+"Your arena deck count 30 cards, do you want to save it ?" = "竞技场卡组已有 30 张卡, 要保存吗?";
+"Failed to import deck from \n" = "从 \n 获取卡组失败";
+"Login" = "登录";
+"Logout" = "注销";
+"Top deck:" = "下一抽抽中概率:";
+"In top 2:" = "下两抽抽中概率:";
+"Connected" = "已连接";
+"Connected as %@" = "已连接，帐号为： %@";
+"HSTracker needs elevated privileges to read data from Hearthstone's memory. If macOS asks you for your system password, do not be alarmed, no changes to your computer will be performed." = "HSTracker needs elevated privileges to read data from Hearthstone's memory. If macOS asks you for your system password, do not be alarmed, no changes to your computer will be performed.";
+"I understand" = "I understand";
+
+/* notifications */
+"Your game begins" = "游戏开始";
+"Victory" = "胜利";
+"Hearthstone" = "炉石传说";
+"Your opponent have conceded" = "你的对手投降了";
+"It's your turn to play" = "你的回合";
+
+/* classes */
+"shaman" = "萨满";
+"hunter" = "猎人";
+"warlock" = "术士";
+"druid" = "德鲁伊";
+"warrior" = "战士";
+"mage" = "法师";
+"paladin" = "圣骑士";
+"priest" = "牧师";
+"rogue" = "盗贼";
+"All classes" = "所有英雄";
+"Archived" = "已归档";
+
+/* rarity */
+"all_rarities" = "所有";
+"neutral" = "中立";
+"free" = "免费";
+"common" = "普通";
+"rare" = "稀有";
+"epic" = "史诗";
+"legendary" = "传说";
+
+/* sets */
+"ALL" = "所有";
+"CORE" = "基本";
+"EXPERT1" = "经典";
+"NAXX" = "纳克萨玛斯的诅咒";
+"GVG" = "地精大战侏儒";
+"BRM" = "黑石山的火焰";
+"TGT" = "冠军的试炼";
+"LOE" = "探险者协会";
+"OG" = "上古之神";
+"PROMO" = "促销";
+"KARA" = "卡拉赞之夜";
+"GANGS" = "龙争虎斗加基森";
+"UNGORO" = "勇闯安戈洛";
+"ICECROWN" = "Knights of the Frozen Throne";
+"LOOTAPALOOZA" = "Kobolds and Catacombs";
+
+/* card type */
+"all_types" = "所有";
+"spell" = "法术";
+"minion" = "随从";
+"weapon" = "武器";
+
+/* races */
+"all_races" = "所有";
+"demon" = "恶魔";
+"dragon" = "龙";
+"mechanical" = "机械";
+"beast" = "野兽";
+"murloc" = "鱼人";
+"pirate" = "海盗";
+"totem" = "图腾";
+
+/* sorting */
+"name" = "名字";
+"creation date" = "创建日期";
+"win percentage" = "胜率";
+"wins" = "胜场数";
+"losses" = "负场数";
+"games played" = "总场数";
+"games" = "游戏";
+"ascending" = "升序";
+"descending" = "降序";
+
+/* game modes */
+"mode_all"       = "所有";
+"mode_ranked"    = "排名模式";
+"mode_casual"    = "休闲模式";
+"mode_arena"     = "竞技场模式";
+"mode_brawl"     = "旅店大乱斗";
+"mode_friendly"  = "友好模式";
+"mode_practice"  = "练习模式 / 冒险模式";
+"mode_spectator" = "观战模式";
+"mode_none"      = "无";
+
+/* Stats tabs */
+"Statistics" = "统计";
+"The Climb" = "排名统计";
+"all_seasons" = "所有赛季";
+"season" = "赛季 %@";
+
+"Vs %@" = "Vs %@";
+"%@ vs %@" = "%@ vs %@";
+"Your replay has been uploaded on HSReplay" = "已将本场对局上传至 HSReplay";
+"View" = "看本场对局的录像";
+"To export a deck to Hearthstone, create a new deck with the correct class in your collection, then click OK and switch to Hearthstone.\nDo not touch your mouse or keyboard during the import." = "如果想将本卡组导出到炉石传说中, 请创建一个与卡组英雄对应的新卡组, 点 OK , 切换到炉石传说。\n。在导入过程中，请不要按鼠标或键盘。\n警告, 这只是一个测试功能!";
+"The followings cards were missing : " = "以下卡牌缺失 : ";
+"Can't get card collection" = "无法获取你的卡牌, 请确保炉石传说正在运行。";
+"Deck string has been copied in your clipboard." = "Deck string has been copied in your clipboard.";
