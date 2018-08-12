@@ -829,7 +829,7 @@
     <value>エクスポートする前にダイアログを表示</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>警告</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>カードの言語</value>
@@ -871,13 +871,13 @@
     <value>闘技場が終わった時デッキをアーカイブ</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>デッキの日付を表示</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>形式:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>Mod</value>
+    <value>モッド</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>キー</value>
@@ -892,7 +892,7 @@
     <value>新機能</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>Mod:</value>
+    <value>モッド:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
     <value>キー:</value>
@@ -937,7 +937,7 @@
     <value>編集</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
+    <value>ウェブ</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>インポートしたデッキにタグをつける</value>
