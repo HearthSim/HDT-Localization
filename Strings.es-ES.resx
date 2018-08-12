@@ -373,79 +373,79 @@
     <value>Haga clic aquí para actualizar ahora</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
-    <value>Start Launcher / Hearthstone</value>
+    <value>Iniciar Launcher / Hearthstone</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
-    <value>Selected version:</value>
+    <value>Versión seleccionada:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
-    <value>Cards:</value>
+    <value>Cartas:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
-    <value>(current)</value>
+    <value>(actual)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Save as new</value>
+    <value>Guardar como nuevo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
-    <value>Cost</value>
+    <value>Coste</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
-    <value>Type</value>
+    <value>Tipo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>Set</value>
+    <value>Conjunto</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
-    <value>Class only</value>
+    <value>Solo de clase</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
-    <value>Neutral only</value>
+    <value>Solo neutral</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Basic" xml:space="preserve">
-    <value>Basic</value>
+    <value>Básico</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clásico</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Promo" xml:space="preserve">
-    <value>Promotion</value>
+    <value>Promocional</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
-    <value>Curse of Naxxramas</value>
+    <value>La Maldición de Naxxramas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblins vs. Gnomos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
-    <value>Blackrock Mountain</value>
+    <value>Montaña Roca Negra</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>El Gran Torneo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>League of Explorers</value>
+    <value>Liga de los Expedicionarios</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Susurros de los Dioses Antiguos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
     <value>Una noche en Karazhan</value>
@@ -898,67 +898,67 @@
     <value>Tecla:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Action" xml:space="preserve">
-    <value>Action:</value>
+    <value>Acción:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_AddNew" xml:space="preserve">
-    <value>Add new</value>
+    <value>Añadir nueva</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
-    <value>Press key</value>
+    <value>Pulsa una tecla</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Construido</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>This will check for new and/or modified decks each time you enter the 'Play' menu.</value>
+    <value>Esto comprobará si hay nuevos mazos o modificaciones cada vez que entre en el menú "Jugar".</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>Auto import new decks</value>
+    <value>Importar automáticamente nuevos mazos</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Auto update modified decks</value>
+    <value>Actualizar automáticamente mazos modificados</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>Importing Behavior:</value>
+    <value>Comportamiento de importación:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Arena deck name template</value>
+    <value>Plantilla de nombre de mazos de Arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
-    <value>Templates:</value>
+    <value>Plantillas:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
-    <value>Preview:</value>
+    <value>Vista previa:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Web</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Tag decks on import</value>
+    <value>Etiquetar mazos al importar</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Auto save deck on import</value>
+    <value>Auto guardar mazos importados</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
-    <value>Game result</value>
+    <value>Resultado de partida</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ShowNotifications" xml:space="preserve">
-    <value>Show notifications</value>
+    <value>Mostrar notificaciones</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration" xml:space="preserve">
-    <value>Show for</value>
+    <value>Mostrar para</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration2" xml:space="preserve">
-    <value>seconds</value>
+    <value>segundos</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Show arena reward dialog when run is over</value>
+    <value>Mostrar la ventana de recompensa de Arena cuando esta termina</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>Show note dialog after game</value>
