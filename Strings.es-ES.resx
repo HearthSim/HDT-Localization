@@ -2794,58 +2794,58 @@
     <value>Suena una alerta y hace un flash cuando tiene "X" segundos restantes</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Uncheck to use normal case in Deck Picker.</value>
+    <value>Desmarcar para usar letras minúsculas en el selector de mazos.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
+    <value>Esto puede ser desactivado si la superposición aparece en otras ventanas que no son Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Para mas información sobre formatos de fecha, buscar en google "C# date format".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>Try enabling this if you are having trouble with rank(ed) detection.</value>
+    <value>Pruebe activar esto si está teniendo problemas con la detección de rangos.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck contains cards from the Journey to Un'Goro expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Viaje a Un'Goro.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro:</value>
+    <value>Viaje a Un'Goro:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Viaje a Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Viaje a Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
-    <value>Hall of Fame</value>
+    <value>Salón de la fama</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>This deck can only be used in 'Wild' mode</value>
+    <value>Este mazo solo puede ser usado en modo "Salvaje"</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
-    <value>This deck has global statistics and mulligan information available on HSReplay.net</value>
+    <value>Este mazo tiene estadísticas globales e información sobre mulligan disponible en HSReplay.net</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay Mulligan Guide</value>
+    <value>Guía sobre Mulligan HSReplay</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>Captura de pantalla</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
+    <value>Solamente cartas</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>With info</value>
+    <value>Con información</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>Includes deck name, class, sets and dust cost</value>
+    <value>Incluir nombre de mazo, clase, conjunto y coste de polvo</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>Import from web</value>
+    <value>Importar de la web</value>
   </data>
   <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
     <value>Introducir URL del mazo:</value>
@@ -2998,7 +2998,7 @@
     <value>Victorias:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>Losses:</value>
+    <value>Derrotas:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
     <value>Winrate</value>
@@ -3301,85 +3301,85 @@
     <value>Collection</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login to HSReplay.net</value>
+    <value>Iniciar sesión en HSReplay.net</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>Waiting for authorization from HSReplay.net...</value>
+    <value>Esperando autorización de HSReplay.net...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Try again</value>
+    <value>Inténtelo de nuevo</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Trouble logging in? Contact us:</value>
+    <value>¿Problemas para iniciar sesión? Contáctenos:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>E-Mail</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Successfully logged in</value>
+    <value>Sesión iniciada correctamente</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Iniciar sesión</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
-    <value>Decks</value>
+    <value>Mazos</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>My Replays</value>
+    <value>Mis repeticiones</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Opening or closing the collection</value>
+    <value>Abrir o cerrar la colección</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Closing the pack opening screen</value>
+    <value>Cerrando la ventana de apertura de paquetes</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
-    <value>Just start Hearthstone and open your collection.</value>
+    <value>Iniciar Hearthstone y abrir la colección.</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>Start Hearthstone</value>
+    <value>Iniciar Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Take your Twitch stream to the next level!</value>
+    <value>Lleva tu retrasmisión de Twitch al siguiente nivel!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>With an interactive overlay, live deck tracking and more.</value>
+    <value>Con una superposición interactiva, rastreo de mazos en vivo y mas.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Login to get started.</value>
+    <value>Inicia sesión para comenzar.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Now let's get your Twitch account linked up to HSReplay.net.</value>
+    <value>Ahora permite enlazar tu cuenta de twitch con HSReplay.net.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch account:</value>
+    <value>Cuenta de Twitch:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck contains cards from the Witchwood expansion.</value>
+    <value>Este mazo contiene cartas de la expansión El Bosque Embrujado.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
-    <value>The Witchwood:</value>
+    <value>El Bosque Embrujado:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>El Bosque Embrujado</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>El Bosque Embrujado</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Código de mazo</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>Cerrar a la bandeja</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
