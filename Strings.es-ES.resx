@@ -2740,58 +2740,58 @@
     <value>Eliminar secretos sombreados</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
-    <value>Warning</value>
+    <value>Atención</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>Turn back on</value>
+    <value>Volver a activar</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>It's fine, don't show again</value>
+    <value>Está bien, no volver a mostrar</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>Automatic deck selection is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La selección automática de mazos está actualmente desactivada.\n\nSe recomienta volver a activar esta función para que HDT funcione mejor.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La importación automática de nuevos mazos en Construido esta actualmente desactivada.\n\nSe recomienda volver a activar esta función para que HDT funcione mejor.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La importación automática de cambios de mazos de Construido está actualmente desactivada.\n\nSe recomienta volver a activar esta función para que HDT funcione mejor.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Automatic importing of Arena decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La importación de mazos de Arena esta actualmente desactivada.\n\nSe recomienda volver a activar esta función para que HDT funcione mejor.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Automatically select decks (recommended)</value>
+    <value>Seleccionar mazos automáticamente (Recomendado)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Displays the created/returned card, if the information is available.</value>
+    <value>Muestra las cartas creadas/devueltas, si esta información está disponible.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Will only appear if the cursor stays still on a card for a short period of time.</value>
+    <value>Solo aparecerá is el cursor se mantiene fijo en una carta por un corto periodo de tiempo.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
+    <value>Funciona solo en dispositivos moviles (Portatiles, tablets, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; gemerañ &gt; Desbloquar".</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra las cartas y los paneles de información verticalmente dentro de la región seleccionada para el mazo. La región puede ser cambiada en "Superposición &gt; gemerañ &gt; Desbloquar".</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
+    <value>Desmarcar para desactivar la mayoría de las animaciones para las ventanas emergentes y flyouts</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Try this if you have problems exporting certain card/deck names - May not work with all keyboard layouts</value>
+    <value>Intentar esto si tiene problemas exportando algunos nombres de carta/mazo - Puede no funcionar con todas las distribuciones de teclado</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value>Alert at</value>
+    <value>Alertar en</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>seconds.</value>
+    <value>segundos.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Suena una alerta y hace un flash cuando tiene "X" segundos restantes</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Uncheck to use normal case in Deck Picker.</value>
