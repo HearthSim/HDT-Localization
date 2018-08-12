@@ -2209,43 +2209,43 @@
     <value>Opciones para esto pueden encontrarse en</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general / player / opponent</value>
+    <value>opciones &gt; Superposición &gt; general / Jugador / Oponente</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
-    <value>Moving/resizing:</value>
+    <value>Mover/Redimensionar:</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text1" xml:space="preserve">
-    <value>The overlay can be unlocked via</value>
+    <value>La superposición puedes ser desbloqueada via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general &gt; unlock</value>
+    <value>opciones &gt; superposición &gt; general &gt; Desbloquear</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
-    <value>(button at the bottom).</value>
+    <value>(Botón abajo del todo).</value>
   </data>
   <data name="Help_Overlay_Customization_Hyperlink" xml:space="preserve">
-    <value>Additional information can be found here.</value>
+    <value>Puede encontrar información adicional aquí.</value>
   </data>
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
-    <value>Reporting bugs / requesting features</value>
+    <value>Informar de fallos / Solicitar funciones</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Check out the</value>
+    <value>1) Consulte el</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>issues on GitHub.</value>
+    <value>problemas en GitHub.</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue</value>
+    <value>Si no hay problemas de este tipo, puede abrir uno nuevo y/o incluso solucionarlo usted mismo y crear un Pull Request. Para mas información sobre que puede querer incluir en el problema</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>click here.</value>
+    <value>haga clic aquí.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
-    <value>or</value>
+    <value>o</value>
   </data>
   <data name="Help_BugsFeatures_Option2_Text_Email" xml:space="preserve">
-    <value>2) Send an email to support@hsdecktracker.net (English only)</value>
+    <value>2) Envíe un email a support@hsdecktracker.net (Sólo en Inglés)</value>
   </data>
   <data name="Help_Label_Github" xml:space="preserve">
     <value>Proyecto en GitHub</value>
@@ -2398,7 +2398,7 @@
     <value>Contra:</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modo:</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -2701,43 +2701,43 @@
     <value>No deck found</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>Clipboard contains no supported url or deck data.</value>
+    <value>El portapapeles no contiene una Url soportada o datos de mazo.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Paste behavior</value>
+    <value>Comportamiento de Pegar</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+    <value>El comportamiento cuando se Pega (ctrl+v) una URL o un mazo en HDT</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>Manual</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Sólo Guardar</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Crear en Hearthstone</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Deck contains cards from the Mean Streets of Gadgetzan expansion.</value>
+    <value>El mazo contiene cartas de la expansión Mafias de Gadgetzan.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan:</value>
+    <value>Mafias de Gadgetzan:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Mafias de Gadgetzan</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Mafias de Gadgetzan</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostrar contador de Golem de Jade:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostrar contador de Golem de Jade:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>Remove grayed out secrets</value>
+    <value>Eliminar secretos sombreados</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
     <value>Warning</value>
