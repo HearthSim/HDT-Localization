@@ -508,7 +508,7 @@
     <value>统计</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>录像</value>
+    <value>回放</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>导出</value>
@@ -745,7 +745,7 @@
     <value>在你的炉石窗口后复制一个带调色钮的辅助器。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>注意：复制出的内嵌可能会在游戏界面前出现一次。单击它可使其隐藏。</value>
+    <value>注意：复制出的界面可能会在游戏界面前出现一次。单击它可使其隐藏。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>使用说明（点击打开GitHub）</value>
@@ -982,28 +982,28 @@
     <value>作者：</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>显示分享通知</value>
+    <value>显示分享提示</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>自动上传录像</value>
+    <value>自动上传回放</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
-    <value>排名</value>
+    <value>排名模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
-    <value>休闲</value>
+    <value>休闲模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
     <value>竞技模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
-    <value>乱斗</value>
+    <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
     <value>好友对战</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>冒险/练习</value>
+    <value>冒险/练习模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>观众模式</value>
@@ -1015,7 +1015,7 @@
     <value>关联账户</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>你可以在HSReplay.net上关联你的战网号（非国服）。这会打开你的网页浏览器。</value>
+    <value>你可以在HSReplay.net上关联你的战网号。这会打开你的网页浏览器。</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
     <value>提交匿名数据</value>
@@ -1114,10 +1114,10 @@
     <value>模式：</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
-    <value>时间段：</value>
+    <value>时间范围：</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe_Since" xml:space="preserve">
-    <value>从：</value>
+    <value>起始时间：</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
     <value>如果游戏中的卡牌与记牌器中的套牌不匹配，则不记录游戏</value>
@@ -1132,7 +1132,7 @@
     <value>记录本地录像</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>当删除套牌时保留统计数据*</value>
+    <value>删除套牌时保留统计数据*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
     <value>这会将数据移动到”职业默认套牌“中（相应的匹配数据会以无套牌状态保存）。这意味着删除竞技模式套牌的同时会删除竞技模式的统计数据！</value>
@@ -1972,7 +1972,7 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_GameMode_Brawl" xml:space="preserve">
-    <value>乱斗</value>
+    <value>乱斗模式</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
     <value>好友对战</value>
@@ -2218,7 +2218,7 @@
     <value>内嵌位置和大小的调整在</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>选项&gt;内嵌&gt;通用&gt;解锁</value>
+    <value>选项&gt;内嵌&gt;通用&gt;取消界面锁定</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>（按钮在最下部）。</value>
@@ -2491,7 +2491,7 @@
     <value>竞技模式</value>
   </data>
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
-    <value>乱斗</value>
+    <value>乱斗模式</value>
   </data>
   <data name="DeckTypeDialog_Button_Create" xml:space="preserve">
     <value>创建套牌</value>
@@ -2965,7 +2965,7 @@
     <value>从套牌代码</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>套牌、我的对局</value>
+    <value>套牌、我的对战记录</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0}天前</value>
@@ -3181,7 +3181,7 @@
     <value>冒险</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>乱斗</value>
+    <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>冒险模式（地下城冒险、怪物狩猎）</value>
@@ -3349,7 +3349,7 @@
     <value>让你的Twitch直播变得更加高级！</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>启用一个可交互层，实时记录套牌，以及更多功能。</value>
+    <value>启用一个可交互窗口，实时记录套牌，以及更多功能。</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
     <value>登录后就能开始。</value>
