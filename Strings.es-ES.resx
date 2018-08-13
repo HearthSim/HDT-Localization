@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_Menu_New" xml:space="preserve">
-    <value>_Nuevo</value>
+    <value>Nuevo</value>
   </data>
   <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
     <value>Druida</value>
@@ -130,10 +130,10 @@
     <value>Mago</value>
   </data>
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
-    <value>_Sacerdote</value>
+    <value>Sacerdote</value>
   </data>
   <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>P_aladín</value>
+    <value>Paladin</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
     <value>Pícaro</value>
@@ -148,7 +148,7 @@
     <value>Guerrero</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Editar</value>
+    <value>Editar mazo</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
     <value>Editar nombre</value>
@@ -160,7 +160,7 @@
     <value>Editar Etiquetas</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Añadir etiqueta</value>
+    <value>Añadir etiqueta rapida</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>Mover a Arena</value>
@@ -172,7 +172,7 @@
     <value>Mostrar las cartas que faltan</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
-    <value>Act_ualizar (Web)</value>
+    <value>Actualizar (Web)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
     <value>Abrir sitio _web</value>
@@ -205,25 +205,25 @@
     <value>_Importar</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>Desde _web</value>
+    <value>Desde web</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Desde _Construido</value>
+    <value>Desde construido</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>Desde _Arena</value>
+    <value>Desde Arena</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>Desde _Taberna</value>
+    <value>Desde Taberna</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>Otros</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
-    <value>Desde Archivo</value>
+    <value>Desde archivo</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>Desde Ids</value>
+    <value>Desde ids</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
     <value>Desde portapapeles</value>
@@ -232,22 +232,22 @@
     <value>Desde última partida</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>E_xportar</value>
+    <value>Exportar</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>A _Hearthstone</value>
+    <value>A Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>A Hearthstone desde _web</value>
+    <value>A Hearthstone desde web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Guardar como _Xml</value>
+    <value>Guardar como Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copiar IDs al Portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copiar _nombres al portapapeles</value>
+    <value>Copiar nombres al portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>Captura de pantalla</value>
@@ -256,22 +256,22 @@
     <value>Captura de pantalla (Con info)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>E_stadísticas</value>
+    <value>Estadísticas</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>_Arena</value>
+    <value>Arena</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>_Construído</value>
+    <value>Construído</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>_Repeticiones</value>
+    <value>Repeticiones</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>Ú_ltimas repeticiones</value>
+    <value>Últimas repeticiones</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>_Seleccionar desde estadísticas</value>
+    <value>Seleccionar desde estadísticas</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
     <value>Cargar desde archivo</value>
@@ -319,7 +319,7 @@
     <value>Cerrar sesión</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>_Plugins</value>
+    <value>Plugins</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>Vacío...</value>
@@ -343,7 +343,7 @@
     <value>Mazo del oponente</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Ordenar / Filtro de mazos</value>
+    <value>Ordenar/Filtrar mazos</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
     <value>Notas</value>
@@ -412,7 +412,7 @@
     <value>Todos</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
-    <value>Solo de clase</value>
+    <value>Solamente de clase</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
     <value>Solo neutral</value>
