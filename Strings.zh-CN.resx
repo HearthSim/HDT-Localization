@@ -166,7 +166,7 @@
     <value>移动到竞技模式</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>移动到构筑</value>
+    <value>移动到对战模式</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
     <value>显示缺少的卡牌(_M)</value>
@@ -868,7 +868,7 @@
     <value>使用大写套牌名称</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>当竞技场结束后套牌自动归档</value>
+    <value>当竞技模式结束后套牌自动归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
     <value>在套牌上显示何种日期：</value>
@@ -919,13 +919,13 @@
     <value>自动更新修改过的套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
     <value>导入方式：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>竞技场套牌名称模板</value>
+    <value>竞技模式套牌名称模板</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>可用格式：</value>
@@ -958,7 +958,7 @@
     <value>秒</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>竞技场结束时显示奖励统计对话框</value>
+    <value>竞技模式结束时显示奖励统计对话框</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
     <value>对战结束后显示说明框</value>
@@ -994,7 +994,7 @@
     <value>休闲</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
     <value>乱斗</value>
@@ -1081,7 +1081,7 @@
     <value>排名</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
     <value>乱斗</value>
@@ -1135,7 +1135,7 @@
     <value>当删除套牌时保留统计数据*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>这会将数据移动到”职业默认套牌“中（相应的匹配数据会以无套牌状态保存）。这意味着删除竞技场套牌的同时会删除竞技场的统计数据！</value>
+    <value>这会将数据移动到”职业默认套牌“中（相应的匹配数据会以无套牌状态保存）。这意味着删除竞技模式套牌的同时会删除竞技模式的统计数据！</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>在单独的窗口中显示统计结果</value>
@@ -1165,7 +1165,7 @@
     <value>快速设置标签(_Q)</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
-    <value>移动到竞技场</value>
+    <value>移动到竞技模式</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>移动到构筑</value>
@@ -1312,7 +1312,7 @@
     <value>平均：</value>
   </data>
   <data name="Stats_Arena_Runs_Label" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式次数</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Class" xml:space="preserve">
     <value>职业</value>
@@ -1759,7 +1759,7 @@
     <value>菜单</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
     <value>总结</value>
@@ -1969,7 +1969,7 @@
     <value>休闲</value>
   </data>
   <data name="Enum_GameMode_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Enum_GameMode_Brawl" xml:space="preserve">
     <value>乱斗</value>
@@ -2317,7 +2317,7 @@
     <value>全部</value>
   </data>
   <data name="Enum_DeckType_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
     <value>标准</value>
@@ -2449,7 +2449,7 @@
     <value>保存</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>竞技场记录</value>
+    <value>竞技模式记录</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>错误报告</value>
@@ -2488,7 +2488,7 @@
     <value>构筑</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
-    <value>竞技场</value>
+    <value>竞技模式</value>
   </data>
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
     <value>乱斗</value>
@@ -2614,7 +2614,7 @@
     <value>筛选种类</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>套牌筛选：竞技场</value>
+    <value>套牌筛选：竞技模式</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>筛选</value>
@@ -2758,7 +2758,7 @@
     <value>自动导入套牌更新已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>自动导入竞技场套牌已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入竞技模式套牌功能已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>自动选择套牌（推荐）</value>
