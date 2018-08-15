@@ -484,7 +484,7 @@
     <value>一般</value>
   </data>
   <data name="Options_Overlay_Windows_Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>ウィンドウ</value>
   </data>
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
     <value>プレーヤー</value>
@@ -658,7 +658,7 @@
     <value>クリックで秘策をグレーアウト</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>注: 「オプション &gt; オーバーレイ &gt; 一般 &gt; 秘策を自動的にグレーアウト」が有効になっていると正しく機能しない場合があります。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>有効</value>
@@ -829,7 +829,7 @@
     <value>エクスポートする前にダイアログを表示</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>警告</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>カードの言語</value>
@@ -871,13 +871,13 @@
     <value>闘技場が終わった時デッキをアーカイブ</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>デッキの日付を表示</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>形式:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>Mod</value>
+    <value>モッド</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>キー</value>
@@ -892,7 +892,7 @@
     <value>新機能</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>Mod:</value>
+    <value>モッド:</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
     <value>キー:</value>
@@ -937,7 +937,7 @@
     <value>編集</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
+    <value>ウェブ</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>インポートしたデッキにタグをつける</value>
@@ -1753,7 +1753,7 @@
     <value>タグ フィルターを適用</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>'デッキピッカー'&gt; '並べ替え/フィルター デッキ' (二重矢印ボタン) で設定されているタグフィルターを適用。</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>メニュー</value>
@@ -1837,7 +1837,7 @@
     <value>デッキにブラック ロックマウンテンからのカードが含まれています。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>デッキにグランド トーナメントのからのカードが含まれています。</value>
+    <value>デッキにグランド トーナメントからのカードが含まれています。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
     <value>デッキにリーグ・オブ・エクスプローラーからのカードが含まれています。</value>
@@ -1909,13 +1909,13 @@
     <value>代替</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>最後の編集</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>最後のプレイ</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>なし</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>デフォルト</value>
@@ -2149,7 +2149,7 @@
     <value>インポート</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>よくある質問</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>よくある質問に移動します。</value>
@@ -2293,10 +2293,10 @@
     <value>アクティブ</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>最後に編集した時間</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>最後にプレイした時間</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>アーカイブ</value>
@@ -2773,10 +2773,10 @@
     <value>モバイル デバイス (ラップトップ、タブレット、...) の端末のみ。</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます: オーバーレイ &gt; 一般&gt; オーバーレイのロックを解除</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>デッキのために選択した場所の中でカードと情報を上下中央揃えにします。場所は次の箇所で変更できます: オーバーレイ &gt; 一般&gt; オーバーレイのロックを解除</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>このチェック ボックスをオフにすると、ポップアップ ダイアログ ボックスのほとんどのアニメーションを無効にします</value>
@@ -2791,7 +2791,7 @@
     <value>秒.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>のこり"X"秒の際にアラートを鳴らす</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>デッキ選択で通常の場合を使用するをオフにします。</value>
@@ -2800,7 +2800,7 @@
     <value>ハースストーン以外のウインドウにオーバーレイ表示されないようにします。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>日付のフォーマットの詳細については「C# date format」で検索してください。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>ランクの検出に問題がある場合、これを有効にしてください!。</value>
@@ -3361,7 +3361,7 @@
     <value>Twitchアカウント</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>デッキは妖の森ウィッチウッドのカードを含んでいる</value>
+    <value>デッキに妖の森ウィッチウッドからのカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
     <value>妖の森ウィッチウッド:</value>
@@ -3373,36 +3373,36 @@
     <value>妖の森ウィッチウッド</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>デッキ コード</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>トレイを閉じる</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>なし</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>フラッシュ</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>ポップアップ</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>ターン開始時:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>親善試合時:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>デッキに博士のメカメカ大作戦からのカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>博士のメカメカ大作戦:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>博士のメカメカ大作戦</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>博士のメカメカ大作戦</value>
   </data>
 </root>
