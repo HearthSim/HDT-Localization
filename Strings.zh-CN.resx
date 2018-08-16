@@ -451,7 +451,7 @@
     <value>卡拉赞之夜</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>名称……</value>
+    <value>请输入名称</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>存在重复的名称</value>
@@ -1963,10 +1963,10 @@
     <value>全部</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
-    <value>排名</value>
+    <value>排名模式</value>
   </data>
   <data name="Enum_GameMode_Casual" xml:space="preserve">
-    <value>休闲</value>
+    <value>休闲模式</value>
   </data>
   <data name="Enum_GameMode_Arena" xml:space="preserve">
     <value>竞技模式</value>
@@ -2113,7 +2113,7 @@
     <value>本周</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>当前赛季</value>
+    <value>本赛季</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
     <value>上赛季</value>
@@ -2320,10 +2320,10 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>标准</value>
+    <value>标准模式</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>狂野</value>
+    <value>狂野模式</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>跳过</value>
@@ -2749,7 +2749,7 @@
     <value>不再显示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择套牌已被禁用。\n\n建议开启此功能。</value>
+    <value>自动选择套牌功能已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
     <value>自动导入对战模式套牌功能已被禁用。\n\n建议开启此功能。</value>
@@ -2929,7 +2929,7 @@
     <value>名称已存在</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>需要名称</value>
+    <value>名称不能为空</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
     <value>另存为</value>
@@ -3178,7 +3178,7 @@
     <value>狗头人与地下世界：</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>冒险</value>
+    <value>冒险模式</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>乱斗模式</value>
