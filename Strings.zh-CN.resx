@@ -1885,7 +1885,7 @@
     <value>提醒导入</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
-    <value>手动</value>
+    <value>手动操作</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
     <value>无</value>
@@ -2686,13 +2686,13 @@
     <value>套牌已找到！</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
-    <value>请选择：</value>
+    <value>请选择操作：</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>导入《炉石传说》</value>
+    <value>在《炉石传说》中创建套牌</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>仅保存在HDT上</value>
+    <value>保存在HDT中</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>取消</value>
@@ -2704,19 +2704,19 @@
     <value>无法识别当前剪贴板中的网址或套牌信息。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>粘贴行为：</value>
+    <value>粘贴时的操作：</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
     <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的反应</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>手动操作</value>
+    <value>手动选择</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>仅保存在HDT上</value>
+    <value>保存在HDT中</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>导入《炉石传说》</value>
+    <value>在《炉石传说》中创建套牌</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
     <value>包含“龙争虎斗加基森”系列的卡牌。</value>
@@ -2752,10 +2752,10 @@
     <value>自动选择套牌已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>自动导入新构建套牌已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入对战模式套牌功能已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>自动导入套牌更新已被禁用。\n\n建议开启此功能。</value>
+    <value>自动更新套牌功能已被禁用。\n\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>自动导入竞技模式套牌功能已被禁用。\n\n建议开启此功能。</value>
