@@ -190,13 +190,13 @@
     <value>删除(_D)</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
-    <value>复制</value>
+    <value>创建套牌副本</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>完整套牌</value>
+    <value>全部版本</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
-    <value>已选版本</value>
+    <value>当前版本</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
     <value>套牌</value>
@@ -238,7 +238,7 @@
     <value>到《炉石传说》(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>到《炉石传说》 来自网页(_W)</value>
+    <value>到《炉石传说》 通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
     <value>保存为XML(_X)</value>
@@ -253,7 +253,7 @@
     <value>保存为图片(_S)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>套牌图片（包含信息）(_I)</value>
+    <value>保存为图片（包含信息）(_I)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>统计(_S)</value>
