@@ -289,7 +289,7 @@
     <value>战况 （网页）</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
-    <value>现在同步</value>
+    <value>立即同步</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
     <value>强制全部同步</value>
@@ -1192,13 +1192,13 @@
     <value>删除</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>复制</value>
+    <value>创建套牌副本</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>完整套牌</value>
+    <value>全部版本</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>已选版本</value>
+    <value>当前版本</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>链接到网页(_L)</value>
@@ -2284,7 +2284,7 @@
     <value>自动</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>无套牌模式</value>
+    <value>不使用套牌</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
     <value>未使用</value>
@@ -2833,16 +2833,16 @@
     <value>导出</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>截图</value>
+    <value>保存为图片</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>仅卡牌</value>
+    <value>仅显示卡牌</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>含资料</value>
+    <value>包含信息</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>包含套牌名称、类别、组成和消耗的奥术之尘</value>
+    <value>包含套牌名称、职业、卡牌组成和合成时消耗的奥术之尘</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
     <value>从网站导入</value>
@@ -2863,7 +2863,7 @@
     <value>截图</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>仅卡牌</value>
+    <value>仅显示卡牌</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
     <value>标题：</value>
