@@ -865,7 +865,7 @@
     <value>新建套牌时使用全称搜索</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>使用大写套牌名称</value>
+    <value>套牌名称使用大写字母</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>当竞技模式结束后套牌自动归档</value>
@@ -2794,7 +2794,7 @@
     <value>当你的出牌时间还剩“X”秒时，播放嘀声并闪烁屏幕</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>在卡牌选择器中不区分大小写。（大概没有什么用）</value>
+    <value>不勾选时会在套牌列表中显示原字母。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
