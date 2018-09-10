@@ -1750,10 +1750,10 @@
     <value>包括已删除的套牌</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>应用标签筛选器</value>
+    <value>使用标签筛选器</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>使用“套牌选择器&gt;分类/筛选套牌”（双箭头）中设置正确的筛选规则。</value>
+    <value>使用“套牌列表&gt;分类/筛选套牌（双箭头按钮）”中设置的筛选规则。</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>菜单</value>
@@ -2608,13 +2608,13 @@
     <value>更多……</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>套牌筛选：所有/对战模式</value>
+    <value>套牌分类：所有/对战模式</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
-    <value>筛选种类</value>
+    <value>按职业分类</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>套牌筛选：竞技模式</value>
+    <value>套牌分类：竞技模式</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>筛选</value>
@@ -2860,7 +2860,7 @@
     <value>取消</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>截图</value>
+    <value>保存为图片</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
     <value>仅显示卡牌</value>
