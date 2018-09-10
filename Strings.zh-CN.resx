@@ -685,7 +685,7 @@
     <value>克苏恩计数器：</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>法术计数器：</value>
+    <value>法术（尤格萨隆）计数器：</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
@@ -712,7 +712,7 @@
     <value>克苏恩计数器：</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>法术计数器：</value>
+    <value>法术（尤格萨隆）计数器：</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
@@ -2668,7 +2668,7 @@
     <value>疲劳计数器</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>套牌名</value>
+    <value>套牌名称</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>胜</value>
@@ -3406,9 +3406,9 @@
     <value>砰砰计划</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>蹦蹦兔计数器：</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>蹦蹦兔计数器：</value>
   </data>
 </root>
