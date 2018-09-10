@@ -451,7 +451,7 @@
     <value>卡拉赞之夜</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>请输入名称</value>
+    <value>请输入套牌名称</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>存在重复的名称</value>
@@ -2926,10 +2926,10 @@
     <value>卡牌多于30张</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>名称已存在</value>
+    <value>名称重复。</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>名称不能为空</value>
+    <value>名称不能为空。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
     <value>另存为</value>
