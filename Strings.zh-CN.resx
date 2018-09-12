@@ -541,16 +541,16 @@
     <value>搜索</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
-    <value>玩家</value>
+    <value>玩家卡牌</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>对手</value>
+    <value>对手卡牌</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>最上方显示</value>
+    <value>窗口置顶</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>只有当炉石在上方时</value>
+    <value>只在《炉石》窗口激活时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡牌提示</value>
@@ -2674,10 +2674,10 @@
     <value>胜</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>许多翻译仍然缺少或者进行中。如果你想要帮忙，你可以点这里</value>
+    <value>有些语言仍然缺失或在翻译完善中。如果你想要提供帮助，可以点这里：</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>用浏览器打开翻译repo</value>
+    <value>用浏览器打开翻译代码库</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>显示HearthStats菜单</value>
