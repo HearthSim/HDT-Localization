@@ -775,7 +775,7 @@
     <value>卡牌法力值显示稀有度颜色</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>统计汇总中使用 红/绿 颜色字体</value>
+    <value>数据总结中使用 红/绿 颜色字体</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
     <value>使用metro动画</value>
@@ -1021,7 +1021,7 @@
     <value>提交匿名数据</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>该项仅记录用于改善HDT的基础信息，如app信息和比赛开始时的信息。</value>
+    <value>该项仅记录用于改善HDT的基础信息，如app信息和对战匹配的信息。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>保存设置到AppData</value>
@@ -2779,7 +2779,7 @@
     <value>在指定的区域中垂直居中显示卡牌和信息。区域可以在 “选项&gt;内嵌&gt;通用&gt;取消界面锁定” 中更改。</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>取消勾选此项以禁用弹出窗口的动画</value>
+    <value>取消勾选此项以禁用大多数对话框弹出动画</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
     <value>尝试开启此项当你在导出套牌/卡牌名字时遇到问题（在某些键盘布局下可能无效）</value>
@@ -2797,13 +2797,13 @@
     <value>不勾选时会在套牌列表中显示原字母。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
+    <value>当内嵌显示在《炉石传说》以外的窗口上时可以取消勾选此项。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>关于时间的更多信息请搜索“C#日期格式”。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>尝试勾选此项当你在排名检测遇到问题。</value>
+    <value>当你在排名检测遇到问题时可以勾选此项。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
     <value>包含“勇闯安戈洛”系列的卡牌。</value>
