@@ -1753,7 +1753,7 @@
     <value>Aplicar filtros de etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar decks' (botão dupla seta).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -2773,10 +2773,10 @@
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o deck. Região pode ser alterada através de ' sobreposição &gt; geral &gt; ajustar '.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o deck. Região pode ser alterada através de ' sobreposição &gt; geral &gt; ajustar '.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Desmarque para desativar a maioria das animações para caixas de diálogo pop-up e flyouts</value>
@@ -2791,7 +2791,7 @@
     <value>segundos.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Som de alerta e flash quando você tem "X" segundos restantes</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Desmarque para usar o modo normal no Selecionador de baralho.</value>
@@ -2800,7 +2800,7 @@
     <value>Isso pode ser desativado se a sobreposição aparecer em janelas não-Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Para mais informações sobre formatos de data, google "C# formato de data".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Tente ativar isso se você estiver tendo problemas com a detecção de ranque(ado).</value>
@@ -3406,9 +3406,9 @@
     <value>O Projeto Cabum</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostrar contador Pogo-Hopper:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostrar contador Pogo-Hopper:</value>
   </data>
 </root>
