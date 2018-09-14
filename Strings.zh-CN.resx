@@ -835,10 +835,10 @@
     <value>卡牌语言</value>
   </data>
   <data name="Options_Tracker_General_Label_Primary" xml:space="preserve">
-    <value>主语言：</value>
+    <value>首选语言：</value>
   </data>
   <data name="Options_Tracker_General_Label_Secondary" xml:space="preserve">
-    <value>次语言：</value>
+    <value>第二语言：</value>
   </data>
   <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
     <value>（下方小字显示）</value>
@@ -871,10 +871,10 @@
     <value>当竞技模式结束后套牌自动归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>在套牌上显示何种日期：</value>
+    <value>套牌列表上显示日期：</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
-    <value>格式：</value>
+    <value>日期格式：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
     <value>特殊键</value>
@@ -1474,7 +1474,7 @@
     <value>对战职业胜率</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>版本：</value>
+    <value>版本</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>套牌：</value>
@@ -1690,7 +1690,7 @@
     <value>无</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
-    <value>只显示当前套牌</value>
+    <value>只显示使用中的套牌</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
     <value>时间：</value>
