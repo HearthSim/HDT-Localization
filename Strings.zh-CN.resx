@@ -571,7 +571,7 @@
     <value>菜单界面隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>观看状态隐藏</value>
+    <value>观众模式隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
     <value>炉石最小化时隐藏</value>
@@ -910,7 +910,7 @@
     <value>对战模式</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>每当你进入“对战模式”时，程序将自动检测套牌更新。</value>
+    <value>每当你点击“对战模式”时，程序将自动检测套牌更新。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
