@@ -1504,7 +1504,7 @@
     <value>匹配</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>添加新游戏到可用套牌</value>
+    <value>为当前套牌添加游戏记录</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
     <value>移动所选</value>
@@ -1657,7 +1657,7 @@
     <value>金币</value>
   </data>
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
-    <value>你可以输入类似于“50+125”的值</value>
+    <value>你可以输入形如“50+125”的值</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>奥术之尘</value>
@@ -2056,16 +2056,16 @@
     <value>未知</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
-    <value>北美洲</value>
+    <value>美服</value>
   </data>
   <data name="Enum_Region_EU" xml:space="preserve">
-    <value>欧洲</value>
+    <value>欧服</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
-    <value>亚洲</value>
+    <value>亚服</value>
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
-    <value>中国</value>
+    <value>国服</value>
   </data>
   <data name="Enum_TagFilterOperation_And" xml:space="preserve">
     <value>和</value>
@@ -2395,7 +2395,7 @@
     <value>结果：</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS：</value>
+    <value>对手职业：</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>模式：</value>
