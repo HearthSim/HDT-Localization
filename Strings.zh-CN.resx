@@ -190,13 +190,13 @@
     <value>删除(_D)</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
-    <value>复制</value>
+    <value>创建套牌副本</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>完整套牌</value>
+    <value>全部版本</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
-    <value>已选版本</value>
+    <value>当前版本</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
     <value>套牌</value>
@@ -238,7 +238,7 @@
     <value>到《炉石传说》(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>到《炉石传说》 来自网页(_W)</value>
+    <value>到《炉石传说》 通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
     <value>保存为XML(_X)</value>
@@ -253,7 +253,7 @@
     <value>保存为图片(_S)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>套牌图片（包含信息）(_I)</value>
+    <value>保存为图片（包含信息）(_I)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>统计(_S)</value>
@@ -289,7 +289,7 @@
     <value>战况 （网页）</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
-    <value>现在同步</value>
+    <value>立即同步</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
     <value>强制全部同步</value>
@@ -451,7 +451,7 @@
     <value>卡拉赞之夜</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>请输入名称</value>
+    <value>请输入套牌名称</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
     <value>存在重复的名称</value>
@@ -541,16 +541,16 @@
     <value>搜索</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
-    <value>玩家</value>
+    <value>玩家卡牌</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>对手</value>
+    <value>对手卡牌</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
-    <value>最上方显示</value>
+    <value>窗口置顶</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>只有当炉石在上方时</value>
+    <value>只在《炉石》窗口激活时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡牌提示</value>
@@ -571,7 +571,7 @@
     <value>菜单界面隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>观看状态隐藏</value>
+    <value>观众模式隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
     <value>炉石最小化时隐藏</value>
@@ -685,7 +685,7 @@
     <value>克苏恩计数器：</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>法术计数器：</value>
+    <value>法术（尤格萨隆）计数器：</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
@@ -712,7 +712,7 @@
     <value>克苏恩计数器：</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>法术计数器：</value>
+    <value>法术（尤格萨隆）计数器：</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
@@ -775,7 +775,7 @@
     <value>卡牌法力值显示稀有度颜色</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>统计汇总中使用 红/绿 颜色字体</value>
+    <value>数据总结中使用 红/绿 颜色字体</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
     <value>使用metro动画</value>
@@ -835,10 +835,10 @@
     <value>卡牌语言</value>
   </data>
   <data name="Options_Tracker_General_Label_Primary" xml:space="preserve">
-    <value>主语言：</value>
+    <value>首选语言：</value>
   </data>
   <data name="Options_Tracker_General_Label_Secondary" xml:space="preserve">
-    <value>次语言：</value>
+    <value>第二语言：</value>
   </data>
   <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
     <value>（下方小字显示）</value>
@@ -865,16 +865,16 @@
     <value>新建套牌时使用全称搜索</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>使用大写套牌名称</value>
+    <value>套牌名称使用大写字母</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>当竞技模式结束后套牌自动归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>在套牌上显示何种日期：</value>
+    <value>套牌列表上显示日期：</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
-    <value>格式：</value>
+    <value>日期格式：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
     <value>特殊键</value>
@@ -910,7 +910,7 @@
     <value>对战模式</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>每当你进入“对战模式”时，程序将自动检测套牌更新。</value>
+    <value>每当你点击“对战模式”时，程序将自动检测套牌更新。</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
@@ -1021,7 +1021,7 @@
     <value>提交匿名数据</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>该项仅记录用于改善HDT的基础信息，如app信息和比赛开始时的信息。</value>
+    <value>该项仅记录用于改善HDT的基础信息，如app信息和对战匹配的信息。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>保存设置到AppData</value>
@@ -1192,13 +1192,13 @@
     <value>删除</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>复制</value>
+    <value>创建套牌副本</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>完整套牌</value>
+    <value>全部版本</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>已选版本</value>
+    <value>当前版本</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>链接到网页(_L)</value>
@@ -1474,7 +1474,7 @@
     <value>对战职业胜率</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>版本：</value>
+    <value>版本</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>套牌：</value>
@@ -1627,7 +1627,7 @@
     <value>最慢套牌</value>
   </data>
   <data name="Stats_Constructed_Summary_CheckBox_Percent" xml:space="preserve">
-    <value>用百分比显示</value>
+    <value>显示胜率</value>
   </data>
   <data name="Stats_CheckBox_ShowLegends" xml:space="preserve">
     <value>显示图例</value>
@@ -1657,7 +1657,7 @@
     <value>金币</value>
   </data>
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
-    <value>你可以输入类似于50+125的值</value>
+    <value>你可以输入类似于“50+125”的值</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>奥术之尘</value>
@@ -1678,7 +1678,7 @@
     <value>战网点</value>
   </data>
   <data name="ArenaRewards_Label_ShowAuto" xml:space="preserve">
-    <value>结算时自动显示该窗口</value>
+    <value>结束时自动显示该窗口</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
     <value>保存</value>
@@ -1690,7 +1690,7 @@
     <value>无</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
-    <value>只显示当前套牌</value>
+    <value>只显示使用中的套牌</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
     <value>时间：</value>
@@ -1750,10 +1750,10 @@
     <value>包括已删除的套牌</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>应用标签筛选器</value>
+    <value>使用标签筛选器</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>使用“套牌选择器&gt;分类/筛选套牌”（双箭头）中设置正确的筛选规则。</value>
+    <value>使用“套牌列表&gt;分类/筛选套牌（双箭头按钮）”中设置的筛选规则。</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>菜单</value>
@@ -1786,7 +1786,7 @@
     <value>自动刷新</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>复位</value>
+    <value>重置</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>筛选</value>
@@ -2278,13 +2278,13 @@
     <value>无</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>点击“未使用”来使用套牌</value>
+    <value>点击“未使用”或双击套牌来使用套牌</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>自动</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>无套牌模式</value>
+    <value>不使用套牌</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
     <value>未使用</value>
@@ -2353,7 +2353,7 @@
     <value>玩家</value>
   </data>
   <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
-    <value>下一抽疲劳伤害值：</value>
+    <value>下一次疲劳伤害值：</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>对手</value>
@@ -2449,7 +2449,7 @@
     <value>保存</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>竞技模式记录</value>
+    <value>竞技模式奖励</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
     <value>错误报告</value>
@@ -2608,13 +2608,13 @@
     <value>更多……</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
-    <value>套牌筛选：所有/对战模式</value>
+    <value>套牌分类：全部/对战模式</value>
   </data>
   <data name="SortFilter_CheckBox_SortByClass" xml:space="preserve">
-    <value>筛选种类</value>
+    <value>按职业分类</value>
   </data>
   <data name="SortFilter_Label_Arena" xml:space="preserve">
-    <value>套牌筛选：竞技模式</value>
+    <value>套牌分类：竞技模式</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
     <value>筛选</value>
@@ -2641,10 +2641,10 @@
     <value>添加</value>
   </data>
   <data name="SortFilter_Filter_Label_FilterOperation" xml:space="preserve">
-    <value>标签管理：</value>
+    <value>筛选条目控制：</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>和</value>
+    <value>且</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
     <value>或</value>
@@ -2668,16 +2668,16 @@
     <value>疲劳计数器</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>套牌名</value>
+    <value>套牌名称</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>胜</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>许多翻译仍然缺少或者进行中。如果你想要帮忙，你可以点这里</value>
+    <value>有些语言仍然缺失或在翻译完善中。如果你想要提供帮助，可以点这里：</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>用浏览器打开翻译repo</value>
+    <value>用浏览器打开翻译代码库</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
     <value>显示HearthStats菜单</value>
@@ -2779,7 +2779,7 @@
     <value>在指定的区域中垂直居中显示卡牌和信息。区域可以在 “选项&gt;内嵌&gt;通用&gt;取消界面锁定” 中更改。</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>取消勾选此项以禁用弹出窗口的动画</value>
+    <value>取消勾选此项以禁用大多数对话框弹出动画</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
     <value>尝试开启此项当你在导出套牌/卡牌名字时遇到问题（在某些键盘布局下可能无效）</value>
@@ -2794,16 +2794,16 @@
     <value>当你的出牌时间还剩“X”秒时，播放嘀声并闪烁屏幕</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>在卡牌选择器中不区分大小写。（大概没有什么用）</value>
+    <value>不勾选时会在套牌列表中显示原字母。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>当HDT显示在非炉石的窗口上时可以取消勾选。</value>
+    <value>当内嵌显示在《炉石传说》以外的窗口上时可以取消勾选此项。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>关于时间的更多信息请搜索“C#日期格式”。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>尝试勾选此项当你在排名检测遇到问题。</value>
+    <value>当你在排名检测遇到问题时可以勾选此项。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
     <value>包含“勇闯安戈洛”系列的卡牌。</value>
@@ -2833,16 +2833,16 @@
     <value>导出</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>截图</value>
+    <value>保存为图片</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>仅卡牌</value>
+    <value>仅显示卡牌</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>含资料</value>
+    <value>包含信息</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>包含套牌名称、类别、组成和消耗的奥术之尘</value>
+    <value>包含套牌名称、职业、卡牌组成和合成时消耗的奥术之尘</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
     <value>从网站导入</value>
@@ -2860,13 +2860,13 @@
     <value>取消</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>截图</value>
+    <value>保存为图片</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>仅卡牌</value>
+    <value>仅显示卡牌</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>标题：</value>
+    <value>套牌名称：</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
     <value>保存到本地</value>
@@ -2926,10 +2926,10 @@
     <value>卡牌多于30张</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>名称已存在</value>
+    <value>名称重复。</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>名称不能为空</value>
+    <value>名称不能为空。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
     <value>另存为</value>
@@ -3007,7 +3007,7 @@
     <value>VS</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>已上传</value>
+    <value>数据已上传</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
     <value>无数据。</value>
@@ -3404,5 +3404,11 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>砰砰计划</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
+    <value>蹦蹦兔计数器：</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
+    <value>蹦蹦兔计数器：</value>
   </data>
 </root>

@@ -853,7 +853,7 @@
     <value>Automaticamente "USAR" baralhos.(desativa o botão nos baralhos)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
-    <value>Classificação de cartões: cartões de classe primeiro</value>
+    <value>Ordenar cards por: cards de classe primeiro</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
     <value>Mostrar descrição nas cartas</value>
@@ -1753,7 +1753,7 @@
     <value>Aplicar filtros de etiquetas</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>Aplicar filtros de etiquetas atualmente definidos em 'DeckPicker' &gt; 'Ordenar/Filtrar decks' (botão dupla seta).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>Menu</value>
@@ -1807,16 +1807,16 @@
     <value>Guardar para</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>Iniciar o Hearthstone e entrar no menu 'Jogar'.</value>
+    <value>Inicie o Hearthstone e entre no menu 'Jogar'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
-    <value>Entrar no menu 'Jogar'.</value>
+    <value>Entre no menu 'Jogar'.</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>Iniciar o Hearthstone e entrear no menu 'Taverna'.</value>
+    <value>Inicie o Hearthstone e entre no menu 'Taverna'.</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
-    <value>Entrar no menu 'Taverna'.</value>
+    <value>Entre no menu 'Taverna'.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
     <value>Não foram encontrados novos baralhos.</value>
@@ -2209,7 +2209,7 @@
     <value>Opções para isso podem ser encontradas em</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>opções&gt;sopreposição&gt; geral/ jogador/ oponente</value>
+    <value>Opções → Sobreposição → Geral / jogador / adversário</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Movendo/Redimensionando:</value>
@@ -2218,7 +2218,7 @@
     <value>A sobreposição pode ser desbloqueada via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>opções&gt; sopreposição&gt; geral&gt; ajustar sobreposição</value>
+    <value>Opções → Sobreposição → Geral → ajustar sobreposição</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(botão no fundo)</value>
@@ -2773,10 +2773,10 @@
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o deck. Região pode ser alterada através de ' sobreposição &gt; geral &gt; ajustar '.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centrar cartas e painéis de informação verticalmente dentro da região selecionada para o deck. Região pode ser alterada através de ' sobreposição &gt; geral &gt; ajustar '.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Desmarque para desativar a maioria das animações para caixas de diálogo pop-up e flyouts</value>
@@ -2791,7 +2791,7 @@
     <value>segundos.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Som de alerta e flash quando você tem "X" segundos restantes</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Desmarque para usar o modo normal no Selecionador de baralho.</value>
@@ -2800,7 +2800,7 @@
     <value>Isso pode ser desativado se a sobreposição aparecer em janelas não-Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Para mais informações sobre formatos de data, google "C# formato de data".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Tente ativar isso se você estiver tendo problemas com a detecção de ranque(ado).</value>
@@ -3100,7 +3100,7 @@
     <value>Seleção automática</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Cartas de classe primeiro</value>
+    <value>Cards de classe primeiro</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Mostrar</value>
@@ -3214,7 +3214,7 @@
     <value>Novo recurso do HSReplay.net: Envie sua Coleção</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Encontre os melhores baralhos para sua coleção!</value>
+    <value>Encontre os melhores decks para a sua coleção!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Entre para ver seus replays e habilitar todos os recursos do HSReplay.net.</value>
@@ -3283,7 +3283,7 @@
     <value>Atualização de coleção na fila ...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Última atualização</value>
+    <value>Última atualização há</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>Mais um passo para enviar sua coleção:</value>
@@ -3404,5 +3404,11 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>O Projeto Cabum</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
+    <value>Mostrar contador Pogo-Hopper:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
+    <value>Mostrar contador Pogo-Hopper:</value>
   </data>
 </root>
