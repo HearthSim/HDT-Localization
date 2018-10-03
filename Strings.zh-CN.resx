@@ -1213,7 +1213,7 @@
     <value>图表的渲染速度有点慢。点击刷新按钮可手动刷新。</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
-    <value>职业胜场分布</value>
+    <value>各职业胜场分布情况</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
     <value>对各职业胜负情况</value>
@@ -1318,7 +1318,7 @@
     <value>职业</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Wins" xml:space="preserve">
     <value>胜</value>
@@ -1345,31 +1345,31 @@
     <value>服务器</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
-    <value>编辑奖励</value>
+    <value>修改奖励</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>显示己方套牌</value>
+    <value>查看己方套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>显示对手套牌</value>
+    <value>查看对手套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>显示回放</value>
+    <value>查看回放</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
-    <value>添加游戏</value>
+    <value>添加游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
-    <value>编辑游戏</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
-    <value>删除游戏</value>
+    <value>删除游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
     <value>VS</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Result" xml:space="preserve">
     <value>结果</value>
@@ -1543,7 +1543,7 @@
     <value>幸运币（后手）</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
     <value>对战时长</value>
@@ -2443,7 +2443,7 @@
     <value>新增游戏</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>编辑游戏</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
     <value>保存</value>
@@ -2515,7 +2515,7 @@
     <value>移动到其他套牌</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>删除游戏</value>
+    <value>删除游戏记录</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>是否确定？</value>
