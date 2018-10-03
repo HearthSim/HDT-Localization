@@ -1558,10 +1558,10 @@
     <value>说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>回放</value>
+    <value>查看回放</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>对手套牌</value>
+    <value>查看对手套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_SelectDeck" xml:space="preserve">
     <value>选择套牌</value>
@@ -1570,7 +1570,7 @@
     <value>编辑</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>说明</value>
+    <value>修改说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>移动</value>
@@ -1642,7 +1642,7 @@
     <value>结束：</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
-    <value>赛季：</value>
+    <value>月数：</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
     <value>职业：</value>
@@ -1702,7 +1702,7 @@
     <value>结束：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>赛季：</value>
+    <value>月数：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
     <value>到</value>
@@ -2113,13 +2113,13 @@
     <value>本周</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>本赛季</value>
+    <value>本月</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
-    <value>上赛季</value>
+    <value>上月</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
-    <value>自定义赛季</value>
+    <value>自定义月数</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
     <value>全部时间</value>
