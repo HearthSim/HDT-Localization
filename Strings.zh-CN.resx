@@ -1366,7 +1366,7 @@
     <value>删除游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>对手职业</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>开始时间</value>
@@ -1519,7 +1519,7 @@
     <value>职业</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>对手职业</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>对手战网昵称</value>
@@ -1567,19 +1567,19 @@
     <value>选择套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
-    <value>编辑</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
     <value>修改说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
-    <value>移动</value>
+    <value>修改套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
     <value>删除</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
-    <value>你 \ VS</value>
+    <value>你 \ 对手</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
     <value>总计</value>
@@ -1711,7 +1711,7 @@
     <value>职业：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS：</value>
+    <value>对手职业：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>模式：</value>
@@ -2383,10 +2383,10 @@
     <value>隐藏对手套牌</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
-    <value>选择目标套牌</value>
+    <value>选择正确的套牌</value>
   </data>
   <data name="MoveGameDialog_Button_Move" xml:space="preserve">
-    <value>移动到所选位置</value>
+    <value>设定为所选套牌</value>
   </data>
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
     <value>版本：</value>
