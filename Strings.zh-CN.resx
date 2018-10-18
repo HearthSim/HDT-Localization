@@ -868,7 +868,7 @@
     <value>套牌名称使用大写字母</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>当竞技模式结束后套牌自动归档</value>
+    <value>竞技模式结束后自动将套牌归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
     <value>套牌列表上显示日期：</value>
@@ -1213,10 +1213,10 @@
     <value>图表的渲染速度有点慢。点击刷新按钮可手动刷新。</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_Distribution" xml:space="preserve">
-    <value>职业胜场分布</value>
+    <value>各职业胜场分布情况</value>
   </data>
   <data name="Stats_Arena_Advanced_Label_WinLoss" xml:space="preserve">
-    <value>胜/负 vs 职业</value>
+    <value>对各职业胜负情况</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Runs" xml:space="preserve">
     <value>入场次数：</value>
@@ -1318,7 +1318,7 @@
     <value>职业</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Wins" xml:space="preserve">
     <value>胜</value>
@@ -1345,31 +1345,31 @@
     <value>服务器</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
-    <value>编辑奖励</value>
+    <value>修改奖励</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Deck" xml:space="preserve">
-    <value>显示己方套牌</value>
+    <value>查看己方套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>显示对手套牌</value>
+    <value>查看对手套牌</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>显示回放</value>
+    <value>查看回放</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
-    <value>添加游戏</value>
+    <value>添加游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
-    <value>编辑游戏</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
-    <value>删除游戏</value>
+    <value>删除游戏记录</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>对手职业</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Result" xml:space="preserve">
     <value>结果</value>
@@ -1504,7 +1504,7 @@
     <value>匹配</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>添加新游戏到可用套牌</value>
+    <value>为当前套牌添加游戏记录</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
     <value>移动所选</value>
@@ -1519,7 +1519,7 @@
     <value>职业</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>对手职业</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>对手战网昵称</value>
@@ -1543,7 +1543,7 @@
     <value>幸运币（后手）</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
-    <value>开始日期</value>
+    <value>开始时间</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
     <value>对战时长</value>
@@ -1558,28 +1558,28 @@
     <value>说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>回放</value>
+    <value>查看回放</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
-    <value>对手套牌</value>
+    <value>查看对手套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_SelectDeck" xml:space="preserve">
     <value>选择套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
-    <value>编辑</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>说明</value>
+    <value>修改说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
-    <value>移动</value>
+    <value>修改套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
     <value>删除</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
-    <value>你 \ VS</value>
+    <value>你 \ 对手</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
     <value>总计</value>
@@ -1642,7 +1642,7 @@
     <value>结束：</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Season" xml:space="preserve">
-    <value>赛季：</value>
+    <value>月数：</value>
   </data>
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
     <value>职业：</value>
@@ -1657,7 +1657,7 @@
     <value>金币</value>
   </data>
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
-    <value>你可以输入类似于“50+125”的值</value>
+    <value>你可以输入形如“50+125”的值</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>奥术之尘</value>
@@ -1702,7 +1702,7 @@
     <value>结束：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>赛季：</value>
+    <value>月数：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
     <value>到</value>
@@ -1711,19 +1711,19 @@
     <value>职业：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS：</value>
+    <value>对手职业：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>模式：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Rank" xml:space="preserve">
-    <value>排名：</value>
+    <value>等级/排名：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
     <value>到</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>格式：</value>
+    <value>类型：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
     <value>结果：</value>
@@ -2032,7 +2032,7 @@
     <value>战士</value>
   </data>
   <data name="Enum_HeroClass_Archived" xml:space="preserve">
-    <value>归档</value>
+    <value>已归档套牌</value>
   </data>
   <data name="Enum_IconStyle_Round" xml:space="preserve">
     <value>圆形</value>
@@ -2056,16 +2056,16 @@
     <value>未知</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
-    <value>北美洲</value>
+    <value>美服</value>
   </data>
   <data name="Enum_Region_EU" xml:space="preserve">
-    <value>欧洲</value>
+    <value>欧服</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
-    <value>亚洲</value>
+    <value>亚服</value>
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
-    <value>中国</value>
+    <value>国服</value>
   </data>
   <data name="Enum_TagFilterOperation_And" xml:space="preserve">
     <value>和</value>
@@ -2113,13 +2113,13 @@
     <value>本周</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>本赛季</value>
+    <value>本月</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
-    <value>上赛季</value>
+    <value>上月</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
-    <value>自定义赛季</value>
+    <value>自定义月数</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
     <value>全部时间</value>
@@ -2299,7 +2299,7 @@
     <value>上次使用时间</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
-    <value>归档</value>
+    <value>已归档</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
     <value>该套牌可以在标准模式下使用。</value>
@@ -2383,10 +2383,10 @@
     <value>隐藏对手套牌</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
-    <value>选择目标套牌</value>
+    <value>选择正确的套牌</value>
   </data>
   <data name="MoveGameDialog_Button_Move" xml:space="preserve">
-    <value>移动到所选位置</value>
+    <value>设定为所选套牌</value>
   </data>
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
     <value>版本：</value>
@@ -2395,13 +2395,13 @@
     <value>结果：</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS：</value>
+    <value>对手职业：</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>模式：</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
-    <value>格式：</value>
+    <value>类型：</value>
   </data>
   <data name="AddGameDialog_Label_Region" xml:space="preserve">
     <value>服务器：</value>
@@ -2443,7 +2443,7 @@
     <value>新增游戏</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>编辑游戏</value>
+    <value>修改游戏记录</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
     <value>保存</value>
@@ -2515,7 +2515,7 @@
     <value>移动到其他套牌</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>删除游戏</value>
+    <value>删除游戏记录</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>是否确定？</value>
