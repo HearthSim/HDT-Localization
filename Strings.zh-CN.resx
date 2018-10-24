@@ -223,10 +223,10 @@
     <value>通过文件</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>通过ID</value>
+    <value>通过剪贴板中的卡牌ID</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>通过剪贴板：卡牌名称</value>
+    <value>通过剪贴板中的卡牌名称</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
     <value>上一局对战</value>
@@ -241,13 +241,13 @@
     <value>到《炉石传说》 通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>保存为XML(_X)</value>
+    <value>保存为xml(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>复制ID到剪贴板(_C)</value>
+    <value>复制卡牌ID到剪贴板(_C)</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>复制名称到剪贴板(_N)</value>
+    <value>复制卡牌名称到剪贴板(_N)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>保存为图片(_S)</value>
