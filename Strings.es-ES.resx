@@ -148,31 +148,31 @@
     <value>_Guerrero</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Editar mazo</value>
+    <value>Editar _mazo</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
-    <value>Editar nombre</value>
+    <value>Editar _nombre</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>Editar Notas</value>
+    <value>Editar no_tas</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>Editar Etiquetas</value>
+    <value>Editar eti_quetas</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Añadir etiqueta rápida</value>
+    <value>Definición rápida de eti_quetas</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>Mover a Arena</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToContrstucted" xml:space="preserve">
-    <value>Mover a construido</value>
+    <value>Mover a construído</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
     <value>Mostrar las cartas que faltan</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
-    <value>Actualizar (Web)</value>
+    <value>Act_ualizar (Web)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenWebsite" xml:space="preserve">
     <value>Abrir sitio _web</value>
@@ -181,13 +181,13 @@
     <value>Abrir HearthStats</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
-    <value>Archivar</value>
+    <value>_Archivar</value>
   </data>
   <data name="MainWindow_Menu_Deck_Unarchive" xml:space="preserve">
     <value>Desarchivar</value>
   </data>
   <data name="MainWindow_Menu_Deck_DeleteDeck" xml:space="preserve">
-    <value>Eliminar</value>
+    <value>_Eliminar</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone" xml:space="preserve">
     <value>Clonar</value>
@@ -205,25 +205,25 @@
     <value>_Importar</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
-    <value>Desde web</value>
+    <value>Desde _web</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>Desde construido</value>
+    <value>Desde _Construído</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>Desde Arena</value>
+    <value>Desde _Arena</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>Desde Taberna</value>
+    <value>Desde _Taberna</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>Otros</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
-    <value>Desde archivo</value>
+    <value>Desde Archivo</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>Desde ids</value>
+    <value>Desde Ids</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
     <value>Desde portapapeles</value>
@@ -232,22 +232,22 @@
     <value>Desde última partida</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>Exportar</value>
+    <value>E_xportar</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>A Hearthstone</value>
+    <value>A _Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>A Hearthstone desde web</value>
+    <value>A Hearthstone desde _web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Guardar como Xml</value>
+    <value>Guardar como _Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copiar IDs al Portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copiar nombres al portapapeles</value>
+    <value>Copiar _nombres al portapapeles</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>Captura de pantalla</value>
@@ -256,16 +256,16 @@
     <value>Captura de pantalla (Con info)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
-    <value>Estadísticas</value>
+    <value>E_stadísticas</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>Arena</value>
+    <value>_Arena</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
     <value>_Construido</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>Repeticiones</value>
+    <value>_Repeticiones</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
     <value>Últimas repeticiones</value>
