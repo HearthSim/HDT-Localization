@@ -2872,7 +2872,7 @@
     <value>디스크에 저장</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Error uploading. Please try again later and/or upload manually</value>
+    <value>업로드 오류. 나중에 다시 시도하거나 수동으로 업로드하여 주십시오</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
     <value>미리보기</value>
@@ -2887,10 +2887,10 @@
     <value>Imgur에 업로드</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Uploading...</value>
+    <value>업로드 중...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload successful</value>
+    <value>업로드 성공</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Open folder</value>
@@ -3316,7 +3316,7 @@
     <value>트위터</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>이메일</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
     <value>Successfully logged in</value>
