@@ -2860,7 +2860,7 @@
     <value>Cancel</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>스크린샷</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
     <value>Cards only</value>
@@ -2872,7 +2872,7 @@
     <value>디스크에 저장</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Error uploading. Please try again later and/or upload manually</value>
+    <value>업로드 오류. 나중에 다시 시도하거나 수동으로 업로드하여 주십시오</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
     <value>미리보기</value>
@@ -2887,10 +2887,10 @@
     <value>Imgur에 업로드</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Uploading...</value>
+    <value>업로드 중...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload successful</value>
+    <value>업로드 성공</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
     <value>Open folder</value>
@@ -2965,7 +2965,7 @@
     <value>덱 코드로부터</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / My Games / Overlay</value>
+    <value>덱 / 내 게임 / 오버레이</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0} 일 전</value>
@@ -3016,7 +3016,7 @@
     <value>게임을 하세요</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>로딩 중...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>대전</value>
@@ -3100,7 +3100,7 @@
     <value>Autoselect deck</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Class cards first</value>
+    <value>직업 카드 먼저</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Show</value>
@@ -3151,7 +3151,7 @@
     <value>Live</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>오프라인</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>스트리밍</value>
@@ -3178,19 +3178,19 @@
     <value>코볼트와 지하미궁:</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>던전</value>
+    <value>미궁</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>난투</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>던전 런</value>
+    <value>미궁 탐험</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>자동으로 새 덱 불러오기</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>던전 덱 이름 형식</value>
+    <value>미궁 덱 이름 형식</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>지속효과 카드 포함하기</value>
@@ -3313,13 +3313,13 @@
     <value>Trouble logging in? Contact us:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>트위터</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>이메일</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Successfully logged in</value>
+    <value>로그인 성공</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
     <value>로그인</value>
@@ -3358,7 +3358,7 @@
     <value>이제 트위치 계정을 HSReplay.net에 연결시킬 수 있습니다.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch account:</value>
+    <value>트위치 계정:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
     <value>덱에 마녀숲 확장팩 카드가 포함되어 있습니다.</value>
@@ -3373,7 +3373,7 @@
     <value>마녀숲</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>덱 코드</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
     <value>Close to tray</value>
@@ -3397,18 +3397,18 @@
     <value>Deck contains cards from The Boomsday Project expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>박사 붐의 폭심만만 프로젝트:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>박사 붐의 폭심만만 프로젝트</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>박사 붐의 폭심만만 프로젝트</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>토깽이 콩콩 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>토깽이 콩콩 카운터 보기:</value>
   </data>
 </root>

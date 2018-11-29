@@ -223,10 +223,10 @@
     <value>通过文件</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Ids" xml:space="preserve">
-    <value>通过ID</value>
+    <value>通过剪贴板中的卡牌ID</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>通过剪贴板：卡牌名称</value>
+    <value>通过剪贴板中的卡牌名称</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
     <value>上一局对战</value>
@@ -241,13 +241,13 @@
     <value>到《炉石传说》 通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>保存为XML(_X)</value>
+    <value>保存为xml(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>复制ID到剪贴板(_C)</value>
+    <value>复制卡牌ID到剪贴板(_C)</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>复制名称到剪贴板(_N)</value>
+    <value>复制卡牌名称到剪贴板(_N)</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
     <value>保存为图片(_S)</value>
@@ -850,7 +850,7 @@
     <value>重启以应用语言更改。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>自动选择“未使用”套牌。（可以禁用）</value>
+    <value>自动选择“未使用”的套牌（可以禁用）</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>卡牌排序：职业卡优先</value>
@@ -1669,7 +1669,7 @@
     <value>卡牌</value>
   </data>
   <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>付款方法</value>
+    <value>入场费付款方法</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>金币</value>
@@ -2125,7 +2125,7 @@
     <value>全部时间</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
-    <value>自定义</value>
+    <value>自定义日期</value>
   </data>
   <data name="Enum_YesNo_Yes" xml:space="preserve">
     <value>是</value>
@@ -2188,7 +2188,7 @@
     <value>表示当前回合从牌库中抽到某张牌的概率。</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
-    <value>拥有概率：</value>
+    <value>持有概率：</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
     <value>表示本回合手牌中持有某张牌的概率。</value>
@@ -2302,7 +2302,7 @@
     <value>已归档</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>该套牌可以在标准模式下使用。</value>
+    <value>该套牌可以在标准模式中使用。</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
     <value>无记录</value>
@@ -2599,7 +2599,7 @@
     <value>关闭</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>尝试以管理员身份运行HDT。</value>
+    <value>请尝试以管理员身份运行HDT。</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
     <value>如果没有得到帮助，请单击“显示说明”，查看如何手动更新它。</value>
@@ -2962,7 +2962,7 @@
     <value>套牌编辑器</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
-    <value>从套牌代码</value>
+    <value>通过套牌代码</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
     <value>套牌、我的对战记录</value>
@@ -3019,7 +3019,7 @@
     <value>载入中……</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>对职业胜率</value>
+    <value>分职业胜率</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
     <value>查看套牌相关数据</value>
