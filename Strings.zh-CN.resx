@@ -2743,22 +2743,22 @@
     <value>警告</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>重新开启</value>
+    <value>立即开启</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>不再显示</value>
+    <value>保持现状，不再显示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动选择套牌功能已被禁用。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>自动导入对战模式套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入对战模式新套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>自动更新套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动更新套牌功能已被禁用。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>自动导入竞技模式套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入竞技模式新套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>自动选择套牌（推荐）</value>
