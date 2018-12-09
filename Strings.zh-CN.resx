@@ -2320,10 +2320,10 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>标准模式</value>
+    <value>对战模式-标准</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>狂野模式</value>
+    <value>对战模式-狂野</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>跳过</value>
@@ -2743,22 +2743,22 @@
     <value>警告</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>重新开启</value>
+    <value>立即开启</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>不再显示</value>
+    <value>保持现状，不再显示</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>自动选择套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动选择套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>自动导入对战模式套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入对战模式新套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>自动更新套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动更新对战模式套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>自动导入竞技模式套牌功能已被禁用。\n\n建议开启此功能。</value>
+    <value>自动导入竞技模式新套牌功能已被关闭。\n建议开启此功能。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>自动选择套牌（推荐）</value>
@@ -3184,7 +3184,7 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（地下城冒险、怪物狩猎）</value>
+    <value>冒险模式（地下城冒险、怪物狩猎等）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
@@ -3410,5 +3410,17 @@
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
     <value>蹦蹦兔计数器：</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
+    <value>包含“拉斯塔哈的大乱斗”系列的卡牌。</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
+    <value>拉斯塔哈的大乱斗：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
+    <value>拉斯塔哈的大乱斗</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
+    <value>拉斯塔哈的大乱斗</value>
   </data>
 </root>
