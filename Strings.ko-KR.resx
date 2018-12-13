@@ -829,7 +829,7 @@
     <value>내보내기 전 대화상자 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>알림</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>카드 언어</value>
@@ -871,7 +871,7 @@
     <value>투기장이 끝날 때 덱을 보관 처리</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>덱에 날짜 표시:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>포맷:</value>
@@ -3085,7 +3085,7 @@
     <value>모든 카드를 가지고 있습니다!</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>저장</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>덱 버전 포함</value>
@@ -3094,7 +3094,7 @@
     <value>Start Launcher/Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>덱 없음 모드</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
     <value>Autoselect deck</value>
@@ -3382,16 +3382,16 @@
     <value>None</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>깜빡임</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>팝업</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>턴 시작 시:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>친선전에서:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
     <value>Deck contains cards from The Boomsday Project expansion.</value>
@@ -3415,12 +3415,12 @@
     <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>라스타칸의 대난투:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>라스타칸의 대난투</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>라스타칸의 대난투</value>
   </data>
 </root>
