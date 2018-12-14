@@ -877,7 +877,7 @@
     <value>日期格式：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>特殊键</value>
+    <value>组合键</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>按键</value>
@@ -892,7 +892,7 @@
     <value>新建</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>特殊键：</value>
+    <value>组合键：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
     <value>按键：</value>
@@ -901,7 +901,7 @@
     <value>操作：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_AddNew" xml:space="preserve">
-    <value>新建</value>
+    <value>新建快捷键</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
     <value>按下 按键</value>
