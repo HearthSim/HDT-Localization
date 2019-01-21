@@ -568,13 +568,13 @@
     <value>隐藏（全部）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>菜单界面隐藏</value>
+    <value>菜单界面处隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>观众模式隐藏</value>
+    <value>观众模式下隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>炉石最小化时隐藏</value>
+    <value>《炉石》最小化时隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
     <value>隐藏记牌器</value>
@@ -601,7 +601,7 @@
     <value>附加卡牌提示</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>使用卡牌动画</value>
+    <value>卡牌变动时闪烁卡牌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>卡牌标记提示</value>
@@ -616,10 +616,10 @@
     <value>金币奖励进度始终可见（在菜单页）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>鼠标悬停时显示卡牌描述（包括场上/手中）</value>
+    <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>显示电池状态*</value>
+    <value>显示电池状态</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
     <value>显示百分比</value>
@@ -2764,10 +2764,10 @@
     <value>自动选择套牌（推荐）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>对信息已知的卡牌显示被创建/回到手牌的标记</value>
+    <value>对信息已知的卡牌显示被创建/回到手牌的标记。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>在鼠标指针静止一段时间后将会隐藏。</value>
+    <value>当鼠标静止一会后才会显示。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>仅对移动设备（笔记本、平板电脑等）有效。</value>
