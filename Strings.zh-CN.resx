@@ -592,13 +592,13 @@
     <value>隐藏奥秘</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>卡牌提示</value>
+    <value>显示卡牌信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>只提示奥秘</value>
+    <value>只显示奥秘信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>附加卡牌提示</value>
+    <value>附加卡牌信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
     <value>卡牌变动时闪烁卡牌</value>
