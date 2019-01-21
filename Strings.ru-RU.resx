@@ -724,7 +724,7 @@
     <value>Выделять карты в руке</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Выделять взятую карту</value>
+    <value>Выделять последнюю взятую карту</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
     <value>Скрывать карты, которых не осталось</value>
@@ -1159,7 +1159,7 @@
     <value>Изменить заметку</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Редактировать метки</value>
+    <value>Изменить метки</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Назначить метку</value>
@@ -3424,6 +3424,6 @@
     <value>Растахановы игрища</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>Показать дополнение</value>
   </data>
 </root>
