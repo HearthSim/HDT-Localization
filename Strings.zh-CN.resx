@@ -1807,13 +1807,13 @@
     <value>另存为</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>打开《炉石传说》并进入“对战模式”。</value>
+    <value>打开炉石传说并进入“对战模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
     <value>进入“对战模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>打开《炉石传说》并进入“乱斗模式”。</value>
+    <value>打开炉石传说并进入“乱斗模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
     <value>进入“乱斗模式”。</value>
@@ -1825,7 +1825,7 @@
     <value>启动战网/炉石传说</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>等待《炉石传说》启动……</value>
+    <value>等待炉石传说启动……</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
     <value>包含“纳克萨玛斯的诅咒”系列的卡牌。</value>
@@ -2191,7 +2191,7 @@
     <value>持有概率：</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>表示本回合手牌中持有某张牌的概率。</value>
+    <value>表示你的对手下回合抽到某张牌的概率。</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
     <value>只考虑当前回合抽牌所引起的变化，不考虑其他影响。</value>
@@ -2236,7 +2236,7 @@
     <value>GitHub上的问题反馈专区</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
+    <value>如果没有找到相关问题报告，我们欢迎您新建一个；或者亲自动手修复它，并提交修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>点击这里。</value>
