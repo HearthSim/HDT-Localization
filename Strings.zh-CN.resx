@@ -178,7 +178,7 @@
     <value>打开网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
-    <value>打开HearthStats</value>
+    <value>打开 HearthStats</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
     <value>归档(_A)</value>
@@ -208,13 +208,13 @@
     <value>通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>通过游戏 对战模式(_C)</value>
+    <value>通过对战模式(_C)</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>通过游戏 竞技模式(_A)</value>
+    <value>通过竞技模式(_A)</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>通过游戏 乱斗模式(_T)</value>
+    <value>通过乱斗模式(_T)</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>其他</value>
@@ -235,10 +235,10 @@
     <value>导出(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>到《炉石传说》(_H)</value>
+    <value>到炉石传说(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>到《炉石传说》 通过网页(_W)</value>
+    <value>到炉石传说（通过网页）(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
     <value>保存为xml(_X)</value>
@@ -550,7 +550,7 @@
     <value>窗口置顶</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>只在《炉石》窗口激活时</value>
+    <value>只在炉石传说窗口活跃时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡牌提示</value>
@@ -574,7 +574,7 @@
     <value>观众模式下隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>《炉石》最小化时隐藏</value>
+    <value>炉石传说最小化时隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
     <value>隐藏记牌器</value>
