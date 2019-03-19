@@ -1123,22 +1123,22 @@
     <value>Elimina partita se al mazzo non corrispondono delle carte</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
-    <value>Chiedi prima di concedere</value>
+    <value>Chiedi prima di scartare</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
     <value>Eliminare partite con zero turni</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Record local replays</value>
+    <value>Registrazione locale dei replay</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Keep stats when deleting a deck*</value>
+    <value>Mantenere statistiche quando si elimina un mazzo*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
-    <value>This will move stats to the 'class default deck' (the same matches in no-deck mode are saved to). That means, runs in the arena statistics will be lost when deleting arena decks!</value>
+    <value>Questo sposterà le statistiche al 'mazzo di classe predefinito' (anche le partite in modalità senza mazzo vi sono salvate). Questo significa che le statistiche arena andranno perse all'eliminazione dei mazzi Arena!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Show deck stats in separate window</value>
+    <value>Mostra le statistiche mazzo in una finestra separata</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>Analytics</value>
