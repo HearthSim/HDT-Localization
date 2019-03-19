@@ -253,7 +253,7 @@
     <value>В картинку</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>В картинку (с инф.)</value>
+    <value>Скриншот (с информацией)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>Статистика</value>
@@ -289,7 +289,7 @@
     <value>Новости (сеть)</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Sync" xml:space="preserve">
-    <value>Синхр. сейчас</value>
+    <value>Синхронизировать сейчас</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_ForceSync" xml:space="preserve">
     <value>Принудительная синхронизация</value>
@@ -724,7 +724,7 @@
     <value>Выделять карты в руке</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>Выделять взятую карту</value>
+    <value>Выделять последнюю взятую карту</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
     <value>Скрывать карты, которых не осталось</value>
@@ -1159,7 +1159,7 @@
     <value>Изменить заметку</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Редактировать метки</value>
+    <value>Изменить метки</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>Назначить метку</value>
@@ -3412,15 +3412,18 @@
     <value>Счетчик Прыг-скокеров:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
+    <value>Колода содержит карты дополнения Растахановы игрища.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>Растахановы игрища:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>Растахановы игрища</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>Растахановы игрища</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
+    <value>Показать дополнение</value>
   </data>
 </root>

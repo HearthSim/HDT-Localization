@@ -178,7 +178,7 @@
     <value>打开网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Deck_OpenHearthStats" xml:space="preserve">
-    <value>打开HearthStats</value>
+    <value>打开 HearthStats</value>
   </data>
   <data name="MainWindow_Menu_Deck_Archive" xml:space="preserve">
     <value>归档(_A)</value>
@@ -208,13 +208,13 @@
     <value>通过网页(_W)</value>
   </data>
   <data name="MainWindow_Menu_Import_Constructed" xml:space="preserve">
-    <value>通过游戏 对战模式(_C)</value>
+    <value>通过对战模式(_C)</value>
   </data>
   <data name="MainWindow_Menu_Import_Arena" xml:space="preserve">
-    <value>通过游戏 竞技模式(_A)</value>
+    <value>通过竞技模式(_A)</value>
   </data>
   <data name="MainWindow_Menu_Import_Brawl" xml:space="preserve">
-    <value>通过游戏 乱斗模式(_T)</value>
+    <value>通过乱斗模式(_T)</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
     <value>其他</value>
@@ -235,10 +235,10 @@
     <value>导出(_X)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>到《炉石传说》(_H)</value>
+    <value>到炉石传说(_H)</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>到《炉石传说》 通过网页(_W)</value>
+    <value>到炉石传说（通过网页）(_W)</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
     <value>保存为xml(_X)</value>
@@ -550,7 +550,7 @@
     <value>窗口置顶</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>只在《炉石》窗口激活时</value>
+    <value>只在炉石传说窗口活跃时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡牌提示</value>
@@ -568,13 +568,13 @@
     <value>隐藏（全部）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInMenu" xml:space="preserve">
-    <value>菜单界面隐藏</value>
+    <value>菜单界面处隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInSpectator" xml:space="preserve">
-    <value>观众模式隐藏</value>
+    <value>观众模式下隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideInBackground" xml:space="preserve">
-    <value>炉石最小化时隐藏</value>
+    <value>炉石传说最小化时隐藏</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
     <value>隐藏记牌器</value>
@@ -592,16 +592,16 @@
     <value>隐藏奥秘</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>卡牌提示</value>
+    <value>显示卡牌信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
-    <value>只提示奥秘</value>
+    <value>只显示奥秘信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_AdditionalCardTooltips" xml:space="preserve">
-    <value>附加卡牌提示</value>
+    <value>附加卡牌信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>使用卡牌动画</value>
+    <value>卡牌变动时闪烁卡牌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
     <value>卡牌标记提示</value>
@@ -616,10 +616,10 @@
     <value>金币奖励进度始终可见（在菜单页）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>鼠标悬停时显示卡牌描述（包括场上/手中）</value>
+    <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>显示电池状态*</value>
+    <value>显示电池状态</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
     <value>显示百分比</value>
@@ -877,7 +877,7 @@
     <value>日期格式：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>特殊键</value>
+    <value>组合键</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>按键</value>
@@ -886,13 +886,13 @@
     <value>操作</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>删除已选项目</value>
+    <value>删除所选项目</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>新建</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>特殊键：</value>
+    <value>组合键：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
     <value>按键：</value>
@@ -901,10 +901,10 @@
     <value>操作：</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_AddNew" xml:space="preserve">
-    <value>新建</value>
+    <value>新建快捷键</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Text_Key_Watermark" xml:space="preserve">
-    <value>按下 按键</value>
+    <value>按下按键</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
     <value>对战模式</value>
@@ -1807,13 +1807,13 @@
     <value>另存为</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
-    <value>打开《炉石传说》并进入“对战模式”。</value>
+    <value>打开炉石传说并进入“对战模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterPlay" xml:space="preserve">
     <value>进入“对战模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstoneBrawl" xml:space="preserve">
-    <value>打开《炉石传说》并进入“乱斗模式”。</value>
+    <value>打开炉石传说并进入“乱斗模式”。</value>
   </data>
   <data name="Importing_Constructed_Text_EnterBrawl" xml:space="preserve">
     <value>进入“乱斗模式”。</value>
@@ -1825,7 +1825,7 @@
     <value>启动战网/炉石传说</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
-    <value>等待《炉石传说》启动……</value>
+    <value>等待炉石传说启动……</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
     <value>包含“纳克萨玛斯的诅咒”系列的卡牌。</value>
@@ -2191,7 +2191,7 @@
     <value>持有概率：</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>表示本回合手牌中持有某张牌的概率。</value>
+    <value>表示你的对手下回合抽到某张牌的概率。</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
     <value>只考虑当前回合抽牌所引起的变化，不考虑其他影响。</value>
@@ -2236,7 +2236,7 @@
     <value>GitHub上的问题反馈专区</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>。如果没有找到相关内容，我们欢迎您建立一个新的项目，或者亲自动手修复它，并推送修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
+    <value>如果没有找到相关问题报告，我们欢迎您新建一个；或者亲自动手修复它，并提交修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
     <value>点击这里。</value>
@@ -2320,10 +2320,10 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>对战模式-标准</value>
+    <value>对战-标准</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>对战模式-狂野</value>
+    <value>对战-狂野</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>跳过</value>
@@ -2764,10 +2764,10 @@
     <value>自动选择套牌（推荐）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>对信息已知的卡牌显示被创建/回到手牌的标记</value>
+    <value>对信息已知的卡牌显示被创建/回到手牌的标记。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>在鼠标指针静止一段时间后将会隐藏。</value>
+    <value>当鼠标静止一会后才会显示。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>仅对移动设备（笔记本、平板电脑等）有效。</value>
@@ -3184,7 +3184,7 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（地下城冒险、怪物狩猎等）</value>
+    <value>冒险模式（地下城冒险）</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
@@ -3422,5 +3422,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
     <value>拉斯塔哈的大乱斗</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
+    <value>显示卡牌所属扩展包</value>
   </data>
 </root>

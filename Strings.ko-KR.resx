@@ -3301,7 +3301,7 @@
     <value>내 카드</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login to HSReplay.net</value>
+    <value>HSReplay.net에 로그인</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
     <value>Waiting for authorization from HSReplay.net...</value>
@@ -3422,5 +3422,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
     <value>라스타칸의 대난투</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
+    <value>Display card set</value>
   </data>
 </root>
