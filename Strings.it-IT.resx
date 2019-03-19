@@ -1462,76 +1462,76 @@
     <value>Tasso di vittoria</value>
   </data>
   <data name="Stats_Constructed_Charts_ChartTitle_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Tasso di vittoria</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_ByClass" xml:space="preserve">
-    <value>By class</value>
+    <value>Per classe</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAs" xml:space="preserve">
-    <value>Winrate as</value>
+    <value>Tasso di vittoria come</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
-    <value>Winrate against</value>
+    <value>Tasso di vittoria contro</value>
   </data>
   <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
     <value>Ver.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>Deck:</value>
+    <value>Mazzo:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
-    <value>Winrate:</value>
+    <value>Tasso di vittoria:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_TimePlayed" xml:space="preserve">
-    <value>Time played:</value>
+    <value>Tempo giocato:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_AverageGame" xml:space="preserve">
-    <value>Average game:</value>
+    <value>Partite medie:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchup" xml:space="preserve">
-    <value>Best matchup:</value>
+    <value>Matchup migliore:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
-    <value>Worst matchup:</value>
+    <value>Matchup peggiore:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Stats_Constructed_Games_Label_Matches" xml:space="preserve">
-    <value>Matches</value>
+    <value>Partite</value>
   </data>
   <data name="Stats_Constructed_Games_Button_AddGame" xml:space="preserve">
-    <value>Add new game to active deck</value>
+    <value>Aggiungere nuova partita al mazzo attivo</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Move" xml:space="preserve">
-    <value>Move selected</value>
+    <value>Sposta selezionati</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Delete selected</value>
+    <value>Elimina selezionati</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazzo</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
-    <value>Class</value>
+    <value>Classe</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>CONTRO</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nome</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Result" xml:space="preserve">
-    <value>Result</value>
+    <value>Risultato</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Mode" xml:space="preserve">
-    <value>Mode</value>
+    <value>Modalità</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Format" xml:space="preserve">
-    <value>Format</value>
+    <value>Formato</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
     <value>Rank</value>
@@ -1684,103 +1684,103 @@
     <value>Save</value>
   </data>
   <data name="ArenaRewards_Card_Label_Golden" xml:space="preserve">
-    <value>Golden</value>
+    <value>Dorata</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
-    <value>Active deck only</value>
+    <value>Solo mazzo attivo</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Time" xml:space="preserve">
-    <value>Time:</value>
+    <value>Tempo:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Start" xml:space="preserve">
-    <value>Start:</value>
+    <value>Inizio:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_End" xml:space="preserve">
-    <value>End:</value>
+    <value>Fine:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Seasons" xml:space="preserve">
-    <value>Seasons:</value>
+    <value>Stagioni:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_SeasonTo" xml:space="preserve">
-    <value>to</value>
+    <value>a</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
-    <value>Class:</value>
+    <value>Classe:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>CONTRO:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modalità:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Rank" xml:space="preserve">
-    <value>Rank:</value>
+    <value>Grado:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
-    <value>to</value>
+    <value>a</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>Format:</value>
+    <value>Formato:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
-    <value>Result:</value>
+    <value>Risultato:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Turns" xml:space="preserve">
-    <value>Turns:</value>
+    <value>Turni:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_TurnsTo" xml:space="preserve">
-    <value>to</value>
+    <value>a</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
-    <value>Coin:</value>
+    <value>Moneta:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Region" xml:space="preserve">
-    <value>Region:</value>
+    <value>Regione:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
-    <value>Opponent name...</value>
+    <value>Nome avversario...</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
-    <value>Notes...</value>
+    <value>Note...</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_Archived" xml:space="preserve">
-    <value>Include archived decks</value>
+    <value>Includi mazzi archiviati</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters" xml:space="preserve">
-    <value>Apply tag filters</value>
+    <value>Applicare filtri a tag</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>Applicare filtri di tag attualmente impostati in ' DeckPicker &gt; ordinamento/filtro mazzi' (bottone doppia freccia).</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
-    <value>Menu</value>
+    <value>Menú</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
-    <value>Arena Runs</value>
+    <value>Partite in Arena</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Riepilogo</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
     <value>Runs &amp; matches</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
-    <value>Advanced charts</value>
+    <value>Grafici avanzati</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Standard</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Riepilogo</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Matches" xml:space="preserve">
-    <value>Matches</value>
+    <value>Partite</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Charts" xml:space="preserve">
-    <value>Charts</value>
+    <value>Grafici</value>
   </data>
   <data name="Stats_Overview_Filters_CheckBox_AutoRefresh" xml:space="preserve">
     <value>Auto refresh</value>
