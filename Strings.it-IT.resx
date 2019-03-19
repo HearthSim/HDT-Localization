@@ -853,7 +853,7 @@
     <value>"Utilizza" automaticamente mazzi. (disabilita bottone su mazzi)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
-    <value>Card sorting: Class cards first</value>
+    <value>Ordinamento carte: Carte di classe per prime</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
     <value>Mostra tooltip delle carte</value>
@@ -862,16 +862,16 @@
     <value>Mostra bilanciamento del mana</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
-    <value>Full text search in deck builder</value>
+    <value>Ricerca a testo completo in creazione mazzi</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Use upper case deck names</value>
+    <value>Utilizzare lettere maiuscole per i nomi dei mazzi</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Archive Arena decks when run is over</value>
+    <value>Archivia mazzi Arena alla scadenza</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>Mostra data sui mazzi:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Formato:</value>
@@ -907,10 +907,10 @@
     <value>Premi il tasto</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Standard</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_Description" xml:space="preserve">
-    <value>This will check for new and/or modified decks each time you enter the 'Play' menu.</value>
+    <value>Questo si verifica per tutti i mazzi nuovi e/o modificati ogni volta che entri nel menù "Gioco".</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
     <value>Importa automaticamente i nuovi mazzi</value>
@@ -922,10 +922,10 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>Importing Behavior:</value>
+    <value>Settaggi per l'importazione:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Arena deck name template</value>
+    <value>Modello nomi del mazzo Arena</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Template:</value>
@@ -940,7 +940,7 @@
     <value>Web</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>Tag decks on import</value>
+    <value>Etichetta mazzi nell'importazione</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Auto save deck on import</value>
@@ -1084,49 +1084,49 @@
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Rissa</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
-    <value>Casual</value>
+    <value>Amichevole</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly</value>
+    <value>Amichevole</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
-    <value>Adventure / Practice</value>
+    <value>Avventura / Pratica</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Spectator" xml:space="preserve">
-    <value>Spectator</value>
+    <value>Spettatore</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Other</value>
+    <value>Atro</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
-    <value>Display</value>
+    <value>Mostra</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>(on decks and in overlay)</value>
+    <value>(sui mazzi e in sovrapposizione)</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
-    <value>Version(s):</value>
+    <value>Versione(i):</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modalità:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe" xml:space="preserve">
-    <value>Timeframe:</value>
+    <value>Tempo di esecuzione:</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Timeframe_Since" xml:space="preserve">
-    <value>Since:</value>
+    <value>Da:</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
-    <value>Discard game if deck does not match cards</value>
+    <value>Elimina partita se al mazzo non corrispondono delle carte</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
-    <value>Ask before discarding</value>
+    <value>Chiedi prima di concedere</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>Discard games with zero turns</value>
+    <value>Eliminare partite con zero turni</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
     <value>Record local replays</value>
