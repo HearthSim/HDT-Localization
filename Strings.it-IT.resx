@@ -1843,97 +1843,97 @@
     <value>Il mazzo contiene carte dell'espansione 'La Lega degli esploratori''.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Deck contains cards from the Whispers of the Old Gods expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione 'I Sussurri degli Dei Antichi''.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Deck contains cards from the One Night in Karazhan expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione 'Una Notte a Karazhan'.</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
-    <value>Weapons</value>
+    <value>Armi</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Spells" xml:space="preserve">
-    <value>Spells</value>
+    <value>Magie</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
-    <value>Minions</value>
+    <value>Servitori</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
+    <value>Eroi</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
-    <value>Mechanics</value>
+    <value>Robot</value>
   </data>
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
-    <value>Hide</value>
+    <value>Nascondi</value>
   </data>
   <data name="Enum_StatType_Mana" xml:space="preserve">
     <value>Mana</value>
   </data>
   <data name="Enum_StatType_Health" xml:space="preserve">
-    <value>Health</value>
+    <value>Salute</value>
   </data>
   <data name="Enum_StatType_Attack" xml:space="preserve">
-    <value>Attack</value>
+    <value>Attacco</value>
   </data>
   <data name="Enum_StatType_Overload" xml:space="preserve">
-    <value>Overload</value>
+    <value>Sovraccarico</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Auto import&amp;save</value>
+    <value>Importazione/Salvataggio automatici</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>Auto ask to import</value>
+    <value>Richiesta automatica d'importazione</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>Manuale</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Classiche</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Goblin vs Gnomi</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>Il Gran Torneo</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
-    <value>Whispers of the Old Gods</value>
+    <value>Sussurri degli Dei Antichi</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Classica</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
-    <value>Alternative</value>
+    <value>Alternativa</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>Ultimo modificato</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>Ultimo giocato</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
-    <value>Default</value>
+    <value>Predefinito</value>
   </data>
   <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
-    <value>Alternative</value>
+    <value>Alternativo</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Vecchio stile</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutte</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
-    <value>Selected</value>
+    <value>Selezionate</value>
   </data>
   <data name="Enum_DisplayedStats_Latest" xml:space="preserve">
-    <value>Latest</value>
+    <value>Più recenti</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
     <value>Selected Major</value>
@@ -1942,25 +1942,25 @@
     <value>Latest Major</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
-    <value>Always</value>
+    <value>Sempre</value>
   </data>
   <data name="Enum_DisplayMode_Auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automatico</value>
   </data>
   <data name="Enum_DisplayMode_Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Mai</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutti</value>
   </data>
   <data name="Enum_Format_Standard" xml:space="preserve">
     <value>Standard</value>
   </data>
   <data name="Enum_Format_Wild" xml:space="preserve">
-    <value>Wild</value>
+    <value>Selvaggio</value>
   </data>
   <data name="Enum_GameMode_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutti</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
     <value>Ranked</value>
