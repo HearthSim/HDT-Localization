@@ -736,7 +736,7 @@
     <value>Show capturable overlay window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Disable card opacity transitions (recommended)</value>
+    <value>Disabilita le transizioni di opacità delle carte (consigliato)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>Sfondo:</value>
@@ -745,7 +745,7 @@
     <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
+    <value>Nota: La copia di overlay può presentarsi sovrapposta ad Hearthstone una volta. Facendo clic su di essa verrà nascosta per il resto della sessione.</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Visualizza le istruzioni per iniziare (apre wiki)</value>
@@ -757,10 +757,10 @@
     <value>Tema:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>Accent:</value>
+    <value>Lingua:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
-    <value>Class Icons:</value>
+    <value>Icone di classe:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_CardTheme" xml:space="preserve">
     <value>Tema dorso:</value>
@@ -769,16 +769,16 @@
     <value>Layout del mazzo:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
-    <value>Rarity-colored card frames</value>
+    <value>Bordi delle carte colorati per rarità</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityGems" xml:space="preserve">
-    <value>Rarity-colored card gems</value>
+    <value>Gemme delle carte colorate per rarità</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RedGreenStats" xml:space="preserve">
-    <value>Red/green text color in stats summary</value>
+    <value>Colore testo rosso/verde nel riepilogo delle statistiche</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro" xml:space="preserve">
-    <value>Use metro animations</value>
+    <value>Usa animazione carte</value>
   </data>
   <data name="Options_Tracker_Backups_Button_Restore" xml:space="preserve">
     <value>Ripristina selezionato</value>
@@ -814,22 +814,22 @@
     <value>Includere il numero di versione nel nome</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
-    <value>Auto clear cards</value>
+    <value>Auto svuotamento carte</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearFilters" xml:space="preserve">
-    <value>Auto clear filters</value>
+    <value>Auto cancellazione filtri</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
     <value>Force clear searchbox between cards</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
-    <value>Paste names from clipboard</value>
+    <value>Incollare nomi dagli appunti</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
-    <value>Show dialog before exporting</value>
+    <value>Visualizza la finestra di dialogo prima dell'esportazione</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Avvisi</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>Lingua delle carte</value>
@@ -844,13 +844,13 @@
     <value>(tooltips)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
-    <value>Use default font for non-latin languages</value>
+    <value>Utilizzare il tipo di carattere predefinito per lingue non latine</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
-    <value>Restart to apply language changes.</value>
+    <value>Riavviare per applicare le modifiche alla lingua.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>Automatically "USE" decks. (disables button on decks)</value>
+    <value>"Utilizza" automaticamente mazzi. (disabilita bottone su mazzi)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>Card sorting: Class cards first</value>
