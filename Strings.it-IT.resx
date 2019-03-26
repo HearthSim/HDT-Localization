@@ -2284,37 +2284,37 @@
     <value>Automatico</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>Modalità senza mazzo</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
-    <value>Use</value>
+    <value>Uso</value>
   </data>
   <data name="DeckPicker_Deck_Label_Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Attivo</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>Data ultima modifica</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>Data ultima giocata</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
-    <value>Archived</value>
+    <value>Archiviato</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
-    <value>This deck can be used in 'Standard' mode.</value>
+    <value>Questo mazzo può essere utilizzato in modalità 'Standard'.</value>
   </data>
   <data name="Deck_StatsString_NoStats" xml:space="preserve">
-    <value>No stats</value>
+    <value>Nessuna statistica</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
     <value>no</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>stats</value>
+    <value>statistiche</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_DeckType_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -2323,37 +2323,37 @@
     <value>Standard</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>Wild</value>
+    <value>Selvaggio</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
-    <value>Skip</value>
+    <value>Salta</value>
   </data>
   <data name="SplashScreen_Text_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Caricamento...</value>
   </data>
   <data name="SplashScreen_Text_Updating" xml:space="preserve">
-    <value>Updating...</value>
+    <value>Aggiornamento...</value>
   </data>
   <data name="SplashScreen_Text_Installing" xml:space="preserve">
-    <value>Installing...</value>
+    <value>Installazione...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Timer</value>
+    <value>Cronometro</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>Stats</value>
+    <value>Statistiche</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Opponent Deck</value>
+    <value>Mazzo dell'avversario</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
-    <value>Move to main window</value>
+    <value>Sposta nella finestra principale</value>
   </data>
   <data name="PlayerWindow_Title" xml:space="preserve">
-    <value>Player</value>
+    <value>Giocatore</value>
   </data>
   <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
-    <value>Next draw fatigues for:</value>
+    <value>Fatica per la prossima pescata:</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>Opponent</value>
@@ -2506,106 +2506,106 @@
     <value>cards played do not match the selected deck</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
-    <value>Discard</value>
+    <value>Scarta</value>
   </data>
   <data name="DiscardGameDialog_Button_Keep" xml:space="preserve">
-    <value>Keep</value>
+    <value>Tieni</value>
   </data>
   <data name="DiscardGameDialog_Button_Move" xml:space="preserve">
-    <value>Move to other deck</value>
+    <value>Sposta in un altro mazzo</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Delete game</value>
+    <value>Elimina partita</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Sei sicuro?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Elimina</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Delete games</value>
+    <value>Elimina partite</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>This will delete the selected games</value>
+    <value>Questo cancellerà le partite selezionate</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
-    <value>Restart required</value>
+    <value>Riavvio richiesto</value>
   </data>
   <data name="MessageDialogs_Restart_Text" xml:space="preserve">
-    <value>HDT needs to be restarted for the changes to take effect.</value>
+    <value>HDT ha bisogno di essere riavviato per rendere effettive le modifiche.</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Restart" xml:space="preserve">
-    <value>Restart Now</value>
+    <value>Riavvia Adesso</value>
   </data>
   <data name="MessageDialogs_Restart_Button_Later" xml:space="preserve">
-    <value>Later</value>
+    <value>Più tardi</value>
   </data>
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
-    <value>Saved to</value>
+    <value>Salvato in</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
     <value>Ok</value>
   </data>
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
-    <value>Open folder</value>
+    <value>Apri cartella</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
-    <value>Saved to</value>
+    <value>Salvato in</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
-    <value>Uploaded to</value>
+    <value>Caricato a</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
     <value>Ok</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
-    <value>Open in browser</value>
+    <value>Apri nel browser</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Button_Clipboard" xml:space="preserve">
-    <value>Copy url to clipboard</value>
+    <value>Copia Url negli appunti</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Title" xml:space="preserve">
-    <value>Select Operation</value>
+    <value>Seleziona Operazione</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>"upload" will automatically upload the image to imgur.com</value>
+    <value>"carica" caricherà automaticamente l'immagine su imgur.com</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
-    <value>Save &amp; upload</value>
+    <value>Salva e carica</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Carica</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
-    <value>There was a problem updating the log.config</value>
+    <value>Si è verificato un problema durante l'aggiornamento del file log.config</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
-    <value>New log.config settings are required for HDT to function correctly.</value>
+    <value>Sono necessarie nuove impostazioni di log.config per il funzionamento corretto di HDT.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Instructions" xml:space="preserve">
-    <value>Show instructions</value>
+    <value>Visualizza le istruzioni</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
-    <value>close</value>
+    <value>chiudi</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>Try starting HDT as administrator.</value>
+    <value>Prova ad avviare HDT come amministratore.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>If that does not help, click "show instructions" to see how to update it manually.</value>
+    <value>Se questo non risolve il problema, fare clic su "Visualizza le istruzioni" per vedere come aggiornare manualmente.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
-    <value>Continue...</value>
+    <value>Continua...</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
     <value>Deck sorting: All/Constructed</value>
