@@ -733,7 +733,7 @@
     <value>Include le carte create in mano (es. Moneta)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show capturable overlay window</value>
+    <value>Visualizza finestra sovrapposta catturabile</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Disabilita le transizioni di opacità delle carte (consigliato)</value>
@@ -742,7 +742,7 @@
     <value>Sfondo:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
+    <value>Questo aggiungerà una copia di chroma-key-able della sovrapposizione posta dietro la finestra di Hearthstone.</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
     <value>Nota: La copia di overlay può presentarsi sovrapposta ad Hearthstone una volta. Facendo clic su di essa verrà nascosta per il resto della sessione.</value>
@@ -820,7 +820,7 @@
     <value>Auto cancellazione filtri</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
-    <value>Force clear searchbox between cards</value>
+    <value>Forza la cancellazione della ricerca tra le carte</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
     <value>Incollare nomi dagli appunti</value>
@@ -943,100 +943,100 @@
     <value>Etichetta mazzi nell'importazione</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Auto save deck on import</value>
+    <value>Auto salvataggio del mazzo all'importazione</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
-    <value>Game result</value>
+    <value>Risultato della partita</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ShowNotifications" xml:space="preserve">
-    <value>Show notifications</value>
+    <value>Mostra notifiche</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration" xml:space="preserve">
-    <value>Show for</value>
+    <value>Mostra per</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Duration2" xml:space="preserve">
-    <value>seconds</value>
+    <value>secondi</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_ArenaReward" xml:space="preserve">
-    <value>Show arena reward dialog when run is over</value>
+    <value>Mostra finestra di ricompensa dell'arena quando essa termina</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
-    <value>Show note dialog after game</value>
+    <value>Mostra finestra di dialogo dopo la partita</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
-    <value>Wait until back in menu</value>
+    <value>Si prega di attendere fino al ritorno al menù</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Avilable" xml:space="preserve">
-    <value>Available Plugins</value>
+    <value>Plugin disponibili</value>
   </data>
   <data name="Options_Tracker_Plugins_Button_Folder" xml:space="preserve">
-    <value>Plugins Folder</value>
+    <value>Cartella dei plugin</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Abilitato</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Disabilitato</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Creato da</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Show share notification</value>
+    <value>Visualizza notifica di condivisione</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Upload replays automatically</value>
+    <value>Carica i replay automaticamente</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
-    <value>Ranked</value>
+    <value>Classificata</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
-    <value>Casual</value>
+    <value>Amichevole</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
     <value>Arena</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Rissa</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly</value>
+    <value>Amichevole</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>Adventure/Practice</value>
+    <value>Avventura/Pratica</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
-    <value>Spectator</value>
+    <value>Spettatore</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
-    <value>Account Status:</value>
+    <value>Stato dell'account:</value>
   </data>
   <data name="Options_Tracker_Replays_Button_Claim" xml:space="preserve">
-    <value>Claim Account</value>
+    <value>Rivendica account</value>
   </data>
   <data name="Options_Tracker_Replays_Claim_Description" xml:space="preserve">
-    <value>Log in with your Battle.net credentials on HSReplay.net to claim your existing replays. This will open your web browser.</value>
+    <value>Accedi con le tue credenziali di Battle.net su HSReplay.net per reclamare i tuoi replay esistenti. Questo aprirà il tuo browser web.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Submit anonymous data</value>
+    <value>Invia dati anonimi</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>This only tracks very basic information to help us improve HDT, like app and match starts.</value>
+    <value>Questo traccia solo informazioni molto basilari per aiutarci a migliorare HDT, come l'app e l'avvio delle partite.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
-    <value>Save config in AppData</value>
+    <value>Salva configurazione in AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveDataAppData" xml:space="preserve">
-    <value>Save data in AppData</value>
+    <value>Salva dati in AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with windows</value>
+    <value>Lancia l'applicazione all'avvio di Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
-    <value>Start minimized</value>
+    <value>Avvia minimizzato</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>Minimize to tray</value>
+    <value>Riduci alla barra delle applicazioni</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>Show the loading splash screen</value>
