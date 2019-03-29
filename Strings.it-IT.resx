@@ -1369,19 +1369,19 @@
     <value>CONTRO</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
-    <value>Started</value>
+    <value>Iniziato</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Result" xml:space="preserve">
-    <value>Result</value>
+    <value>Risultato</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nome</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Turni</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Coin" xml:space="preserve">
-    <value>Coin</value>
+    <value>Moneta</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Time" xml:space="preserve">
     <value>Tempo</value>
@@ -1765,7 +1765,7 @@
     <value>Riepilogo</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Runs &amp; matches</value>
+    <value>Partite &amp; incontri</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Grafici avanzati</value>
@@ -1936,7 +1936,7 @@
     <value>Più recenti</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Selected Major</value>
+    <value>Principale selezionato</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
     <value>Latest Major</value>
@@ -2356,154 +2356,154 @@
     <value>Fatica per la prossima pescata:</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
-    <value>Opponent</value>
+    <value>Avversario</value>
   </data>
   <data name="Overlay_Label_Warning" xml:space="preserve">
-    <value>Warning!</value>
+    <value>Attenzione!</value>
   </data>
   <data name="Overlay_Label_CardsNotFound" xml:space="preserve">
-    <value>Cards not found in deck:</value>
+    <value>Carte non trovate nel mazzo:</value>
   </data>
   <data name="Overlay_Label_Restart" xml:space="preserve">
-    <value>Hearthstone restart required!</value>
+    <value>Riavvio di Hearthstone richiesto!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
-    <value>Note for this game</value>
+    <value>Nota per questa partita</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Set</value>
+    <value>Imposta</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
-    <value>Save with ENTER</value>
+    <value>Salva con INVIO</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>Show opp. deck</value>
+    <value>Mostrare il mazzo dell'avversario</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Hide opp. deck</value>
+    <value>Nascondi il mazzo dell'avversario</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
-    <value>Select target deck</value>
+    <value>Seleziona il mazzo di destinazione</value>
   </data>
   <data name="MoveGameDialog_Button_Move" xml:space="preserve">
-    <value>Move to selected</value>
+    <value>Spostare in selezionati</value>
   </data>
   <data name="MoveGameDialog_Label_Version" xml:space="preserve">
-    <value>Version:</value>
+    <value>Versione:</value>
   </data>
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
-    <value>Result:</value>
+    <value>Risultato:</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>CONTRO:</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
-    <value>Mode:</value>
+    <value>Modalità:</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
-    <value>Format:</value>
+    <value>Formato:</value>
   </data>
   <data name="AddGameDialog_Label_Region" xml:space="preserve">
-    <value>Region:</value>
+    <value>Zona:</value>
   </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
-    <value>Rank:</value>
+    <value>Grado:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
-    <value>Legend Rank:</value>
+    <value>Classifica Legend:</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
-    <value>Coin:</value>
+    <value>Moneta:</value>
   </data>
   <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
-    <value>Conceded:</value>
+    <value>Resa:</value>
   </data>
   <data name="AddGameDialog_Label_Turns" xml:space="preserve">
-    <value>Turns:</value>
+    <value>Turni:</value>
   </data>
   <data name="AddGameDialog_Label_Duration" xml:space="preserve">
-    <value>Duration (min):</value>
+    <value>Durata (min):</value>
   </data>
   <data name="AddGameDialog_Label_Note" xml:space="preserve">
-    <value>Note:</value>
+    <value>Nota:</value>
   </data>
   <data name="AddGameDialog_Label_Opponent" xml:space="preserve">
-    <value>Opponent:</value>
+    <value>Avversario:</value>
   </data>
   <data name="AddGameDialog_Label_Player" xml:space="preserve">
-    <value>Player:</value>
+    <value>Giocatore:</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>Add game</value>
+    <value>Aggiungi partita</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
-    <value>Add new game</value>
+    <value>Aggiungi una nuova partita</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>Edit game</value>
+    <value>Modifica partita</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
-    <value>Arena Rewards</value>
+    <value>Ricompense Arena</value>
   </data>
   <data name="CrashDialog_Title" xml:space="preserve">
-    <value>Crash Report</value>
+    <value>Report dei crash</value>
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
-    <value>Hearthstone Deck Tracker has crashed :(</value>
+    <value>Hearthstone Deck Tracker è crashato :(</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
-    <value>Error:</value>
+    <value>Errore:</value>
   </data>
   <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
-    <value>Show Stacktrace</value>
+    <value>Visualizza Stacktrace</value>
   </data>
   <data name="CrashDialog_Text" xml:space="preserve">
-    <value>To help us find a solution for this issue, please attach a description of what you were doing just before this crash occurred, as well as any other helpful information you can think of.</value>
+    <value>Per aiutarci a trovare una soluzione per questo problema, si prega di allegare una descrizione di ciò che stava facendo poco prima che si verificasse questo crash, nonché di qualsiasi altra informazione utile.</value>
   </data>
   <data name="CrashDialog_Button_Send" xml:space="preserve">
-    <value>Send Report</value>
+    <value>Invia report</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Chiudi</value>
   </data>
   <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
-    <value>Additional information (optional)</value>
+    <value>Ulteriori informazioni (opzionale)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
-    <value>Wrong deck detected</value>
+    <value>Rilevato mazzo errato</value>
   </data>
   <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
-    <value>Select your deck</value>
+    <value>Seleziona il tuo mazzo</value>
   </data>
   <data name="DeckTypeDialog_Title" xml:space="preserve">
-    <value>Select Deck Type</value>
+    <value>Selezionare tipo di mazzo</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Constructed</value>
+    <value>Standard</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Arena</value>
   </data>
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
-    <value>Tavern Brawl</value>
+    <value>Rissa</value>
   </data>
   <data name="DeckTypeDialog_Button_Create" xml:space="preserve">
-    <value>Create Deck</value>
+    <value>Crea mazzo</value>
   </data>
   <data name="DeckTypeDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Discard game?</value>
+    <value>Eliminare la partita?</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
-    <value>cards played do not match the selected deck</value>
+    <value>le carte giocate non corrispondono al mazzo selezionato</value>
   </data>
   <data name="DiscardGameDialog_Button_Discard" xml:space="preserve">
     <value>Scarta</value>
