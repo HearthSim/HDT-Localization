@@ -1936,7 +1936,7 @@
     <value>Più recenti</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Principale selezionato</value>
+    <value>Selected Major</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
     <value>Latest Major</value>
@@ -1981,145 +1981,145 @@
     <value>Allenamento</value>
   </data>
   <data name="Enum_GameMode_Spectator" xml:space="preserve">
-    <value>Spectator</value>
+    <value>Spettatore</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_GameResult_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>Vittoria</value>
   </data>
   <data name="Enum_GameResult_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>Sconfitta</value>
   </data>
   <data name="Enum_GameResult_Draw" xml:space="preserve">
-    <value>Draw</value>
+    <value>Pesca</value>
   </data>
   <data name="Enum_GameResult_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nessuno</value>
   </data>
   <data name="Enum_HeroClass_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_HeroClass_Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druido</value>
   </data>
   <data name="Enum_HeroClass_Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Cacciatore</value>
   </data>
   <data name="Enum_HeroClass_Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Enum_HeroClass_Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladino</value>
   </data>
   <data name="Enum_HeroClass_Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Enum_HeroClass_Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Ladro</value>
   </data>
   <data name="Enum_HeroClass_Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Sciamano</value>
   </data>
   <data name="Enum_HeroClass_Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Stregone</value>
   </data>
   <data name="Enum_HeroClass_Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerriero</value>
   </data>
   <data name="Enum_HeroClass_Archived" xml:space="preserve">
-    <value>Archived</value>
+    <value>Archiviato</value>
   </data>
   <data name="Enum_IconStyle_Round" xml:space="preserve">
-    <value>Round</value>
+    <value>Rotonda</value>
   </data>
   <data name="Enum_IconStyle_Square" xml:space="preserve">
-    <value>Square</value>
+    <value>Quadrato</value>
   </data>
   <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
     <value>HearthStats</value>
   </data>
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
-    <value>Light</value>
+    <value>Chiaro</value>
   </data>
   <data name="Enum_MetroTheme_BaseDark" xml:space="preserve">
-    <value>Dark</value>
+    <value>Scuro</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tutte</value>
   </data>
   <data name="Enum_Region_Unknown" xml:space="preserve">
-    <value>Unknown</value>
+    <value>Sconosciuto</value>
   </data>
   <data name="Enum_Region_US" xml:space="preserve">
-    <value>US</value>
+    <value>USA</value>
   </data>
   <data name="Enum_Region_EU" xml:space="preserve">
-    <value>EU</value>
+    <value>EUROPA</value>
   </data>
   <data name="Enum_Region_Asia" xml:space="preserve">
     <value>Asia</value>
   </data>
   <data name="Enum_Region_China" xml:space="preserve">
-    <value>China</value>
+    <value>Cina</value>
   </data>
   <data name="Enum_TagFilterOperation_And" xml:space="preserve">
-    <value>And</value>
+    <value>E</value>
   </data>
   <data name="Enum_TagFilterOperation_Or" xml:space="preserve">
-    <value>Or</value>
+    <value>O</value>
   </data>
   <data name="Enum_TimeFrame_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Oggi</value>
   </data>
   <data name="Enum_TimeFrame_Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Ieri</value>
   </data>
   <data name="Enum_TimeFrame_Last24Hours" xml:space="preserve">
-    <value>Last 24 hours</value>
+    <value>Ultime 24 ore</value>
   </data>
   <data name="Enum_TimeFrame_ThisWeek" xml:space="preserve">
-    <value>This week</value>
+    <value>Questa settimana</value>
   </data>
   <data name="Enum_TimeFrame_PreviousWeek" xml:space="preserve">
-    <value>Previous week</value>
+    <value>Settimana precedente</value>
   </data>
   <data name="Enum_TimeFrame_Last7Days" xml:space="preserve">
-    <value>Last 7 days</value>
+    <value>Ultimi 7 giorni</value>
   </data>
   <data name="Enum_TimeFrame_ThisMonth" xml:space="preserve">
-    <value>This month</value>
+    <value>Questo mese</value>
   </data>
   <data name="Enum_TimeFrame_PreviousMonth" xml:space="preserve">
-    <value>Previous month</value>
+    <value>Mese precedente</value>
   </data>
   <data name="Enum_TimeFrame_ThisYear" xml:space="preserve">
-    <value>This year</value>
+    <value>Quest'anno</value>
   </data>
   <data name="Enum_TimeFrame_PreviousYear" xml:space="preserve">
-    <value>Previous year</value>
+    <value>Anno precedente</value>
   </data>
   <data name="Enum_TimeFrame_AllTime" xml:space="preserve">
-    <value>All time</value>
+    <value>Di sempre</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Oggi</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>This week</value>
+    <value>Questa settimana</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
-    <value>Current season</value>
+    <value>Stagione corrente</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_LastSeason" xml:space="preserve">
-    <value>Last season</value>
+    <value>Ultima stagione</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CustomSeason" xml:space="preserve">
-    <value>Custom season</value>
+    <value>Stagione personalizzata</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
     <value>Di sempre</value>
@@ -2800,139 +2800,139 @@
     <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>Per ulteriori informazioni sui formati di data google "C# formato data".</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>Try enabling this if you are having trouble with rank(ed) detection.</value>
+    <value>Prova ad abilitarlo se hai problemi con il rilevamento di rank(ed).</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck contains cards from the Journey to Un'Goro expansion.</value>
+    <value>Mazzo contiene carte dell'espansione viaggio a Un'Goro.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro:</value>
+    <value>Viaggio a Un'Goro:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Viaggio a Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
+    <value>Viaggio a Un'Goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
-    <value>Hall of Fame</value>
+    <value>Vecchie Glorie</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>This deck can only be used in 'Wild' mode</value>
+    <value>Questo mazzo può essere utilizzato solo in modalità 'Selvaggio'</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
-    <value>This deck has global statistics and mulligan information available on HSReplay.net</value>
+    <value>Questo mazzo ha statistiche globali e informazioni mulligan disponibili su HSReplay.net</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay Mulligan Guide</value>
+    <value>Guida HSReplay Mulligan</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Esporta</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>Schermata</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
+    <value>Solo carte</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>With info</value>
+    <value>Con informazioni</value>
   </data>
   <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>Includes deck name, class, sets and dust cost</value>
+    <value>Include nome del mazzo, classe, espansioni e costo in polvere</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>Import from web</value>
+    <value>Importa dal web</value>
   </data>
   <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
-    <value>Enter deck URL:</value>
+    <value>Inserisci URL mazzo:</value>
   </data>
   <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
-    <value>Find all supported websites</value>
+    <value>Trova tutti i siti web supportati</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importa</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>Screenshot</value>
+    <value>Schermata</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
+    <value>Solo carte</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>Title:</value>
+    <value>Titolo:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Save to disk</value>
+    <value>Salva su disco</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Error uploading. Please try again later and/or upload manually</value>
+    <value>Errore durante il caricamento. Riprova più tardi e/o carica manualmente</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Preview</value>
+    <value>Anteprima</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>Copy to clipboard</value>
+    <value>Copia negli appunti</value>
   </data>
   <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>Copiato!</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload to Imgur</value>
+    <value>Carica su Imgur</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Uploading...</value>
+    <value>Caricamento in corso...</value>
   </data>
   <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload successful</value>
+    <value>Upload riuscito con successo</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>Open folder</value>
+    <value>Apri cartella</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
+    <value>Cronologia delle versioni</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Version history</value>
+    <value>Cronologia delle versioni</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
+    <value>Cronologia delle versioni</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>Mazzo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Card database</value>
+    <value>Database delle carte</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>Search...</value>
+    <value>Ricerca...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
-    <value>Search card text</value>
+    <value>Cerca testo carta</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtri</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
-    <value>Deck has less than 30 cards.</value>
+    <value>Il mazzo ha meno di 30 carte.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
-    <value>Deck has more than 30 cards.</value>
+    <value>Il mazzo ha più di 30 carte.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>Name already exists.</value>
+    <value>Nome già esistente.</value>
   </data>
   <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>Name is required.</value>
+    <value>Il campo nome è richiesto.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
-    <value>Save as</value>
+    <value>Salva come</value>
   </data>
   <data name="DeckExport_Label_Instructions" xml:space="preserve">
     <value>Instructions:</value>
