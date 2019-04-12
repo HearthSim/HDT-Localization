@@ -3426,4 +3426,16 @@
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
     <value>显示卡牌所属扩展包</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
+    <value>包含“暗影崛起”系列的卡牌。</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
+    <value>暗影崛起：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
+    <value>暗影崛起</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
+    <value>暗影崛起</value>
+  </data>
 </root>
