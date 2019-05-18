@@ -643,7 +643,7 @@
     <value>警告：</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>偶尔可能会导致光标冻结</value>
+    <value>可能导致光标偶尔冻结</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
     <value>强制开启（最好不用，除非开不了）</value>
@@ -2152,7 +2152,7 @@
     <value>FAQ</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
-    <value>查看GitHub上的FAQ。</value>
+    <value>查看位于GitHub上的FAQ。</value>
   </data>
   <data name="Help_Label_Overlay" xml:space="preserve">
     <value>内嵌</value>
@@ -3184,13 +3184,13 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>冒险模式（地下城冒险）</value>
+    <value>冒险模式</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自动导入新套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>冒险模式套牌名称模板</value>
+    <value>地下城冒险套牌名称模板</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>包括被动卡牌</value>
