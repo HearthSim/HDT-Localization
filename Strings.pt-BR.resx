@@ -3438,4 +3438,16 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
     <value>Ascensão das Sombras</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
+    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
+    <value>Saviors of Uldum:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
+    <value>Saviors of Uldum</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
+    <value>Saviors of Uldum</value>
+  </data>
 </root>
