@@ -2293,10 +2293,10 @@
     <value>Ativo</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Última vez editada</value>
+    <value>Última edição</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Última vez jogada</value>
+    <value>Última partida</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>Arquivado</value>
@@ -3424,7 +3424,7 @@
     <value>Ringue do Rastakhan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>Mostrar conjunto de card</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
     <value>Baralho contém cartas da expansão Ascensão das Sombras.</value>
@@ -3439,15 +3439,15 @@
     <value>Ascensão das Sombras</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+    <value>Baralho contém cartas da expansão Salvadores de Uldum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>Salvadores de Uldum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvadores de Uldum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvadores de Uldum</value>
   </data>
 </root>
