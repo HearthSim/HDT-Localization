@@ -2776,28 +2776,28 @@
     <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Try this if you have problems exporting certain card/deck names - May not work with all keyboard layouts</value>
+    <value>Prova questo se hai problemi nell'esportare di alcuni nomi di carte/mazzi - Potrebbe non funzionare con tutti i layout della tastiera</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value>Alert at</value>
+    <value>Avviso a</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>seconds.</value>
+    <value>secondi.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Fai suonare una notifica audio e un flash quando hai "X" secondi rimanenti</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>Uncheck to use normal case in Deck Picker.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
+    <value>Questo può essere disattivato se l'overlay appare nelle finestre non di Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>Per ulteriori informazioni sui formati di data google "C# formato data".</value>
@@ -3082,70 +3082,70 @@
     <value>Start Hearthstone to see your missing cards!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
-    <value>You own all the required cards!</value>
+    <value>Possiedi tutte le carte richieste!</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Include deck version</value>
+    <value>Includi la versione del mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
-    <value>Start Launcher/Hearthstone</value>
+    <value>Avvia Launcher/Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>Modalità senza mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Autoselect deck</value>
+    <value>Selezione automatica mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Class cards first</value>
+    <value>Prima le carte di classe</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
-    <value>Show</value>
+    <value>Mostra</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Esci</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione I Cavalieri del Trono di Ghiaccio.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne:</value>
+    <value>Cavalieri del Trono di Ghiaccio:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Cavalieri del Trono di Ghiaccio</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Cavalieri del Trono di Ghiaccio</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
+    <value>Seleziona una lingua</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copia</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
+    <value>Si è verificato un errore durante la copia dei nomi delle carte negli appunti.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>The selected deck doesn't have any cards.</value>
+    <value>Il mazzo selezionato non contiene carte.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Link Twitch Account on HSReplay.net</value>
+    <value>Collega l'account Twitch su HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Install/Configure Twitch Extension</value>
+    <value>Installa/Configura estensione di Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
+    <value>Abilita integrazione estensione Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
+    <value>Trasmissione:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>Live</value>
