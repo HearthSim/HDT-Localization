@@ -1936,10 +1936,10 @@
     <value>Più recenti</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Selected Major</value>
+    <value>Versione maggiore selezionata</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
-    <value>Latest Major</value>
+    <value>Ultima maggiore</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
     <value>Sempre</value>
@@ -2662,34 +2662,34 @@
     <value>Contatore carte</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Draw chances</value>
+    <value>Possibilità di pescata</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Fatigue counter</value>
+    <value>Contatore di fatica</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>Deck title</value>
+    <value>Titolo del mazzo</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>Vittorie</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Many translations are still missing or are work-in-progress. If you would like to help out, you can do so here:</value>
+    <value>Molte traduzioni sono ancora mancanti o in corso d'opera. Se volessi aiutare, puoi farlo qui:</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Open localization repo in browser</value>
+    <value>Apri archivio traduzioni su browser</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Show HearthStats menu</value>
+    <value>Mostra menu HearthStats</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Deck found!</value>
+    <value>Mazzo trovato!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
-    <value>Choose an action</value>
+    <value>Scegli un'azione</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Crea su Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
     <value>Save only</value>
