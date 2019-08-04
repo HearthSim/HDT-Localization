@@ -2692,7 +2692,7 @@
     <value>Crea su Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Salva solo</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>Annulla</value>
@@ -2713,7 +2713,7 @@
     <value>Manuale</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Salva solo</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>Crea su Hearthstone</value>
@@ -2755,7 +2755,7 @@
     <value>L'importazione automatica del mazzo è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica delle modifiche ai mazzi della modaliità "Gioco" è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
     <value>L'importazione automatica dei mazzi Arena è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione su HDT per funzionare al meglio.</value>
@@ -2779,7 +2779,7 @@
     <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
+    <value>Deseleziona per disattivare la maggior parte delle animazioni per i popup e i flyout</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
     <value>Prova questo se hai problemi nell'esportare di alcuni nomi di carte/mazzi - Potrebbe non funzionare con tutti i layout della tastiera</value>
@@ -2794,7 +2794,7 @@
     <value>Fai suonare una notifica audio e un flash quando hai "X" secondi rimanenti</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Uncheck to use normal case in Deck Picker.</value>
+    <value>Deseleziona per utilizzare il caso normale nel selettore del mazzo.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>Questo può essere disattivato se l'overlay appare nelle finestre non di Hearthstone.</value>
@@ -3010,7 +3010,7 @@
     <value>Caricato</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
-    <value>No data.</value>
+    <value>Nessun dato.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
     <value>Gioca qualche partita!</value>
@@ -3190,7 +3190,7 @@
     <value>Importa automaticamente i nuovi mazzi</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
+    <value>Modello nome del mazzo Avventura</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>Includi carte passive</value>
@@ -3232,13 +3232,13 @@
     <value>La collezione è in caricamento</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Replay uploading</value>
+    <value>Caricamento Replay</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Replays claimed</value>
+    <value>Replay reclamati</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Subscribed to Premium</value>
+    <value>Iscritto a Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>Enable now</value>
@@ -3388,7 +3388,7 @@
     <value>A comparsa</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>All'inizio del turno:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
     <value>Su sfida amichevole:</value>
