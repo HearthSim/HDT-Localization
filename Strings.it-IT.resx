@@ -2704,7 +2704,7 @@
     <value>Gli appunti non contengono alcun url o dati supportati.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Paste behavior</value>
+    <value>Comportamento quando si incolla</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
     <value>Comportamento quando si incolla (ctrl-v) un url o un mazzo in HDT</value>
@@ -3157,7 +3157,7 @@
     <value>Diretta</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>Overlay registrabile</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Estensione Twitch</value>
@@ -3184,13 +3184,13 @@
     <value>Rissa</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
+    <value>Spedizioni</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Importa automaticamente i nuovi mazzi</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Modello nome del mazzo Avventura</value>
+    <value>Nome del modello del mazzo Spedizioni</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>Includi carte passive</value>
@@ -3241,61 +3241,61 @@
     <value>Iscritto a Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>Abilita ora</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Claim now</value>
+    <value>Richiedi ora</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>Grazie per il tuo supporto!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Find out more</value>
+    <value>Per saperne di più</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>Impostazioni Account</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>Sei sicuro di voler uscire?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>New replays will no longer be attached to your account.</value>
+    <value>I nuovi replay non saranno più collegati al tuo account.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Logging back in will claim all new replays retroactively.</value>
+    <value>Avvedere nuovamente richiederà tutti i nuovi replay retroattivamente.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Disconnetti</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
-    <value>The easiest way to find the best decks for you!</value>
+    <value>Il modo più semplice per trovare i migliori mazzi per te!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Just upload your collection to HSReplay.net</value>
+    <value>Carica la tua collezione su HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Upload my collection automatically</value>
+    <value>Carica la mia collezione automaticamente</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
-    <value>Collection up-to-date!</value>
+    <value>La collezione è aggiornata!</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
-    <value>Collection update queued...</value>
+    <value>Aggiornamento della collezione in coda...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Ultimo aggiornamento</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
-    <value>One more step to upload your collection:</value>
+    <value>Un altro passo per caricare la tua collezione:</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>Start Hearthstone and open the collection</value>
+    <value>Avvia Hearthstone e apri la collezione</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Your collection will automatically update when</value>
+    <value>La tua collezione si aggiornerà automaticamente quando</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>My Account</value>
+    <value>Il mio profilo</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Collection</value>
