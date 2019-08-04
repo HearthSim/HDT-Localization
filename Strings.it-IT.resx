@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_Menu_New" xml:space="preserve">
-    <value>Nuovo</value>
+    <value>_Nuovo</value>
   </data>
   <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
-    <value>Druido</value>
+    <value>_Druido</value>
   </data>
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
-    <value>Cacciatore</value>
+    <value>_Cacciatore</value>
   </data>
   <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
-    <value>Mago</value>
+    <value>_Mago</value>
   </data>
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
-    <value>Sacerdote</value>
+    <value>_Sacerdote</value>
   </data>
   <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>Paladino</value>
+    <value>P_aladino</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
-    <value>Ladro</value>
+    <value>_Ladro</value>
   </data>
   <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
-    <value>Sciamano</value>
+    <value>_Sciamano</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
-    <value>Stregone</value>
+    <value>_Stregone</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
     <value>Guerriero</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Modifica mazzo</value>
+    <value>Modifica _mazzo</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
-    <value>Modifica nome</value>
+    <value>Modifica no_me</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>Modifica note</value>
+    <value>Modifica _note</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>Modifica tag</value>
+    <value>Modifica _tags</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Tag veloce</value>
+    <value>_Impostazione rapida tag</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>Sposta in arena</value>
@@ -2950,76 +2950,76 @@
     <value>Copia tutto</value>
   </data>
   <data name="DeckExport_Button_CopyCode" xml:space="preserve">
-    <value>Copy code only</value>
+    <value>Copia solo codice</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>Copiato!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
+    <value>Esporta</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck editor</value>
+    <value>Editor del mazzo</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
-    <value>From deck code</value>
+    <value>Dal codice mazzo</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / My Games / Overlay</value>
+    <value>Mazzi / I miei giochi / Overlay</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} day ago</value>
+    <value>giorno fa</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>giorni fa</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>{0} hour ago</value>
+    <value>ora fa</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>ore fa</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0} minute ago</value>
+    <value>minuto fa</value>
   </data>
   <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>minuti fa</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Global statistics - HSReplay.net</value>
+    <value>Statistiche globali - HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>My games</value>
+    <value>I miei giochi</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Has active filters</value>
+    <value>Filtri attivi</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
-    <value>Wins:</value>
+    <value>Vittorie:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>Losses:</value>
+    <value>Sconfitte:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Percentuale di Vittorie</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+    <value>Caricato</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
     <value>No data.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Play some games!</value>
+    <value>Gioca qualche partita!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Caricamento...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
+    <value>Abbinamenti</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
     <value>Deck Statistics / Mulligan Guide</value>
@@ -3406,48 +3406,48 @@
     <value>Operazione Apocalisse</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostra contatore Saltabot:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostra contatore Saltabot:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione La sfida di Rastakhan.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>La sfida di Rastakhan:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>La sfida di Rastakhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>La sfida di Rastakhan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>Mostra set di carte</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione L'ascesa delle ombre.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows:</value>
+    <value>L'ascesa delle ombre:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>L'ascesa delle ombre</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>L'ascesa delle ombre</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Salvatori di Uldum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>Salvatori di Uldum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvatori di Uldum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvatori di Uldum</value>
   </data>
 </root>
