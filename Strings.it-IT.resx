@@ -3151,85 +3151,85 @@
     <value>Live</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>Non in linea</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Diretta</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Capturable Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Extension</value>
+    <value>Estensione Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>View full setup guide</value>
+    <value>Mostra la guida di configurazione completa</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Coboldi &amp; Catacombe</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Coboldi &amp; Catacombe.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Coboldi &amp; Catacombe</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs:</value>
+    <value>Coboldi &amp; Catacombe:</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
+    <value>Sotterraneo</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Rissa</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
     <value>Dungeon Runs</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Auto import new decks</value>
+    <value>Importa automaticamente i nuovi mazzi</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Dungeon deck name template</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
+    <value>Includi carte passive</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
+    <value>Mostra prima i mazzi taggati come "Preferiti"</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
     <value>Download</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
+    <value>Non ora</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
+    <value>E' disponibile un nuovo aggiornamento BETA</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
+    <value>Premi "Download" per aggiornare automaticamente.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>New HSReplay.net Feature: Collection Uploading</value>
+    <value>Nuova funzione HSReplay.net: Caricamento Collezione</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Find the best decks for your collection!</value>
+    <value>Trova i mazzi migliori per la tua collezione!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+    <value>Accedi per richiedere i tuoi replay e abilitare tutte le funzioni HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>Login to enable all HSReplay.net features.</value>
+    <value>Accedi per abilitare tutte le funzioni di HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>I Replay sono caricati in</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
-    <value>Logged in as</value>
+    <value>Accesso eseguito come</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Collection uploading</value>
+    <value>La collezione è in caricamento</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
     <value>Replay uploading</value>
@@ -3373,37 +3373,37 @@
     <value>The Witchwood</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Codice del mazzo</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>Riduci a icona nell'area di notifica</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nulla</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>A comparsa</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
     <value>On turn start:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Su sfida amichevole:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione Operazione Apocalisse.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>Operazione Apocalisse:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Operazione Apocalisse</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Operazione Apocalisse</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
     <value>Show Pogo-Hopper counter:</value>
