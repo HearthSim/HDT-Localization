@@ -2749,31 +2749,31 @@
     <value>Ho capito, non mostrare più</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>Automatic deck selection is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La selezione automatica del mazzo è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica del mazzo è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
     <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Automatic importing of Arena decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica dei mazzi Arena è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione su HDT per funzionare al meglio.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Automatically select decks (recommended)</value>
+    <value>Seleziona automatica dei mazzi (consigliato)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Displays the created/returned card, if the information is available.</value>
+    <value>Visualizza la carta creata/tornata in mano, se le informazioni sono disponibili.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Will only appear if the cursor stays still on a card for a short period of time.</value>
+    <value>Apparirà solo se si sofferma il cursore su una carta per un breve periodo di tempo.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
+    <value>Funziona solo per dispositivi mobili (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
