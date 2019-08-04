@@ -217,7 +217,7 @@
     <value>Da rissa</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Atro</value>
+    <value>Altro</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
     <value>Da file</value>
@@ -241,7 +241,7 @@
     <value>In Hearthstone dal web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Salva come XML</value>
+    <value>Salva come _Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copia ID</value>
@@ -376,7 +376,7 @@
     <value>Avvia Hearthstone</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
-    <value>Versione selezionata</value>
+    <value>Versione selezionata:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>Carte:</value>
@@ -454,7 +454,7 @@
     <value>Nome...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Nome già esistente</value>
+    <value>Il nome esiste già</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>Includi solo carte selvagge</value>
@@ -469,7 +469,7 @@
     <value>Storico mazzo:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
-    <value>Nuove:</value>
+    <value>Notizie:</value>
   </data>
   <data name="Options_Search_Header" xml:space="preserve">
     <value>Cerca</value>
