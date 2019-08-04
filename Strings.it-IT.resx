@@ -2695,58 +2695,58 @@
     <value>Save only</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>No deck found</value>
+    <value>Nessun mazzo trovato</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>Clipboard contains no supported url or deck data.</value>
+    <value>Gli appunti non contengono alcun url o dati supportati.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
     <value>Paste behavior</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+    <value>Comportamento quando si incolla (ctrl-v) un url o un mazzo in HDT</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>Manuale</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>Save only</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Crea su Hearthstone</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Deck contains cards from the Mean Streets of Gadgetzan expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione I bassifondi di Meccania.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan:</value>
+    <value>Bassifondi di Meccania:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Bassifondi di Meccania</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Bassifondi di Meccania</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostra contatore Golem di Giada:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostra contatore Golem di Giada:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>Remove grayed out secrets</value>
+    <value>Rimuovi segreti oscurati</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
-    <value>Warning</value>
+    <value>Avviso</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>Turn back on</value>
+    <value>Ri-attiva</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>It's fine, don't show again</value>
+    <value>Ho capito, non mostrare più</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
     <value>Automatic deck selection is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
