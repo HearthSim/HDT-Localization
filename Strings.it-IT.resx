@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_Menu_New" xml:space="preserve">
-    <value>Nuovo</value>
+    <value>_Nuovo</value>
   </data>
   <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
-    <value>Druido</value>
+    <value>_Druido</value>
   </data>
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
-    <value>Cacciatore</value>
+    <value>_Cacciatore</value>
   </data>
   <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
-    <value>Mago</value>
+    <value>_Mago</value>
   </data>
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
-    <value>Sacerdote</value>
+    <value>_Sacerdote</value>
   </data>
   <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>Paladino</value>
+    <value>P_aladino</value>
   </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
-    <value>Ladro</value>
+    <value>_Ladro</value>
   </data>
   <data name="MainWindow_Menu_Class_Shaman" xml:space="preserve">
-    <value>Sciamano</value>
+    <value>_Sciamano</value>
   </data>
   <data name="MainWindow_Menu_Class_Warlock" xml:space="preserve">
-    <value>Stregone</value>
+    <value>_Stregone</value>
   </data>
   <data name="MainWindow_Menu_Class_Warrior" xml:space="preserve">
     <value>Guerriero</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Modifica mazzo</value>
+    <value>Modifica _mazzo</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
-    <value>Modifica nome</value>
+    <value>Modifica no_me</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditNotes" xml:space="preserve">
-    <value>Modifica note</value>
+    <value>Modifica _note</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditTags" xml:space="preserve">
-    <value>Modifica tag</value>
+    <value>Modifica _tags</value>
   </data>
   <data name="MainWindow_Menu_Deck_QuickSetTag" xml:space="preserve">
-    <value>Tag veloce</value>
+    <value>_Impostazione rapida tag</value>
   </data>
   <data name="MainWindow_Menu_Deck_MoveToArena" xml:space="preserve">
     <value>Sposta in arena</value>
@@ -217,7 +217,7 @@
     <value>Da rissa</value>
   </data>
   <data name="MainWindow_Menu_Import_Other" xml:space="preserve">
-    <value>Atro</value>
+    <value>Altro</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_File" xml:space="preserve">
     <value>Da file</value>
@@ -241,7 +241,7 @@
     <value>In Hearthstone dal web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Salva come XML</value>
+    <value>Salva come _Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copia ID</value>
@@ -376,7 +376,7 @@
     <value>Avvia Hearthstone</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
-    <value>Versione selezionata</value>
+    <value>Versione selezionata:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
     <value>Carte:</value>
@@ -454,7 +454,7 @@
     <value>Nome...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Nome già esistente</value>
+    <value>Il nome esiste già</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
     <value>Includi solo carte selvagge</value>
@@ -469,7 +469,7 @@
     <value>Storico mazzo:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
-    <value>Nuove:</value>
+    <value>Notizie:</value>
   </data>
   <data name="Options_Search_Header" xml:space="preserve">
     <value>Cerca</value>
@@ -1936,10 +1936,10 @@
     <value>Più recenti</value>
   </data>
   <data name="Enum_DisplayedStats_SelectedMajor" xml:space="preserve">
-    <value>Selected Major</value>
+    <value>Versione maggiore selezionata</value>
   </data>
   <data name="Enum_DisplayedStats_LatestMajor" xml:space="preserve">
-    <value>Latest Major</value>
+    <value>Ultima maggiore</value>
   </data>
   <data name="Enum_DisplayMode_Always" xml:space="preserve">
     <value>Sempre</value>
@@ -2656,148 +2656,148 @@
     <value>Tasso di vittoria</value>
   </data>
   <data name="Enum_DeckPanel_Cards" xml:space="preserve">
-    <value>Cards</value>
+    <value>Carte</value>
   </data>
   <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
-    <value>Card counter</value>
+    <value>Contatore carte</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Draw chances</value>
+    <value>Possibilità di pescata</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
-    <value>Fatigue counter</value>
+    <value>Contatore di fatica</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>Deck title</value>
+    <value>Titolo del mazzo</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
-    <value>Wins</value>
+    <value>Vittorie</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Many translations are still missing or are work-in-progress. If you would like to help out, you can do so here:</value>
+    <value>Molte traduzioni sono ancora mancanti o in corso d'opera. Se volessi aiutare, puoi farlo qui:</value>
   </data>
   <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Open localization repo in browser</value>
+    <value>Apri archivio traduzioni su browser</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_HearthStats" xml:space="preserve">
-    <value>Show HearthStats menu</value>
+    <value>Mostra menu HearthStats</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Deck found!</value>
+    <value>Mazzo trovato!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
-    <value>Choose an action</value>
+    <value>Scegli un'azione</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_Export" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Crea su Hearthstone</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Salva solo</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>No deck found</value>
+    <value>Nessun mazzo trovato</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>Clipboard contains no supported url or deck data.</value>
+    <value>Gli appunti non contengono alcun url o dati supportati.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Paste behavior</value>
+    <value>Comportamento quando si incolla</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+    <value>Comportamento quando si incolla (ctrl-v) un url o un mazzo in HDT</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Manual</value>
+    <value>Manuale</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>Salva solo</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>Crea su Hearthstone</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>Deck contains cards from the Mean Streets of Gadgetzan expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione I bassifondi di Meccania.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan:</value>
+    <value>Bassifondi di Meccania:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_MeanStreetsOfGadgetzan" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Bassifondi di Meccania</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
-    <value>Mean Streets of Gadgetzan</value>
+    <value>Bassifondi di Meccania</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostra contatore Golem di Giada:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Show Jade Golem counter:</value>
+    <value>Mostra contatore Golem di Giada:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
-    <value>Remove grayed out secrets</value>
+    <value>Rimuovi segreti oscurati</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
-    <value>Warning</value>
+    <value>Avviso</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
-    <value>Turn back on</value>
+    <value>Ri-attiva</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>It's fine, don't show again</value>
+    <value>Ho capito, non mostrare più</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>Automatic deck selection is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>La selezione automatica del mazzo è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica del mazzo è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica delle modifiche ai mazzi della modaliità "Gioco" è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione per HDT per funzionare al meglio.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Automatic importing of Arena decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>L'importazione automatica dei mazzi Arena è attualmente disabilitata.\n\nÈ consigliato abilitare questa impostazione su HDT per funzionare al meglio.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>Automatically select decks (recommended)</value>
+    <value>Seleziona automatica dei mazzi (consigliato)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Displays the created/returned card, if the information is available.</value>
+    <value>Visualizza la carta creata/tornata in mano, se le informazioni sono disponibili.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Will only appear if the cursor stays still on a card for a short period of time.</value>
+    <value>Apparirà solo se si sofferma il cursore su una carta per un breve periodo di tempo.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
+    <value>Funziona solo per dispositivi mobili (Laptop, Tablet, ...).</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>Centra le carte e il pannello delle informazioni verticalmente all'interno della zona selezionata per il mazzo. La zona può essere cambiata tramite 'overlay &gt; generale &gt; sblocco'.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
+    <value>Deseleziona per disattivare la maggior parte delle animazioni per i popup e i flyout</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Try this if you have problems exporting certain card/deck names - May not work with all keyboard layouts</value>
+    <value>Prova questo se hai problemi nell'esportare di alcuni nomi di carte/mazzi - Potrebbe non funzionare con tutti i layout della tastiera</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value>Alert at</value>
+    <value>Avviso a</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
-    <value>seconds.</value>
+    <value>secondi.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>Fai suonare una notifica audio e un flash quando hai "X" secondi rimanenti</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Uncheck to use normal case in Deck Picker.</value>
+    <value>Deseleziona per utilizzare il caso normale nel selettore del mazzo.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
-    <value>This can be turned off if the overlay shows up in non-Hearthstone windows.</value>
+    <value>Questo può essere disattivato se l'overlay appare nelle finestre non di Hearthstone.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
     <value>Per ulteriori informazioni sui formati di data google "C# formato data".</value>
@@ -2950,367 +2950,367 @@
     <value>Copia tutto</value>
   </data>
   <data name="DeckExport_Button_CopyCode" xml:space="preserve">
-    <value>Copy code only</value>
+    <value>Copia solo codice</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>Copied!</value>
+    <value>Copiato!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
+    <value>Esporta</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck editor</value>
+    <value>Editor del mazzo</value>
   </data>
   <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
-    <value>From deck code</value>
+    <value>Dal codice mazzo</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / My Games / Overlay</value>
+    <value>Mazzi / I miei giochi / Overlay</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} day ago</value>
+    <value>giorno fa</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>giorni fa</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>{0} hour ago</value>
+    <value>ora fa</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>ore fa</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0} minute ago</value>
+    <value>minuto fa</value>
   </data>
   <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>minuti fa</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Global statistics - HSReplay.net</value>
+    <value>Statistiche globali - HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>My games</value>
+    <value>I miei giochi</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Has active filters</value>
+    <value>Filtri attivi</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
-    <value>Wins:</value>
+    <value>Vittorie:</value>
   </data>
   <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>Losses:</value>
+    <value>Sconfitte:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
+    <value>Percentuale di Vittorie</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+    <value>Caricato</value>
   </data>
   <data name="DeckCharts_Label_NoData" xml:space="preserve">
-    <value>No data.</value>
+    <value>Nessun dato.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Play some games!</value>
+    <value>Gioca qualche partita!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Caricamento...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
+    <value>Abbinamenti</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Deck Statistics / Mulligan Guide</value>
+    <value>Statistiche Mazzo / Guida Mulligan</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>We don't have enough data for the selected deck.</value>
+    <value>Non abbiamo abbastanza dati per il mazzo selezionato.</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck with HSReplay.net icon to see global data here!</value>
+    <value>Scegli un mazzo da icona HSReplay.net per veder i dati globali!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Want to try something new?</value>
+    <value>Vuoi provare qualcosa di nuovo?</value>
   </data>
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>Check out our trending decks!</value>
+    <value>Dai un'occhiata ai nostri mazzi di popolari!</value>
   </data>
   <data name="Druid" xml:space="preserve">
-    <value>Druid</value>
+    <value>Druido</value>
   </data>
   <data name="Hunter" xml:space="preserve">
-    <value>Hunter</value>
+    <value>Cacciatore</value>
   </data>
   <data name="Mage" xml:space="preserve">
-    <value>Mage</value>
+    <value>Mago</value>
   </data>
   <data name="Paladin" xml:space="preserve">
-    <value>Paladin</value>
+    <value>Paladino</value>
   </data>
   <data name="Priest" xml:space="preserve">
-    <value>Priest</value>
+    <value>Sacerdote</value>
   </data>
   <data name="Shaman" xml:space="preserve">
-    <value>Shaman</value>
+    <value>Sciamano</value>
   </data>
   <data name="Rogue" xml:space="preserve">
-    <value>Rogue</value>
+    <value>Ladro</value>
   </data>
   <data name="Warlock" xml:space="preserve">
-    <value>Warlock</value>
+    <value>Stregone</value>
   </data>
   <data name="Warrior" xml:space="preserve">
-    <value>Warrior</value>
+    <value>Guerriero</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>No replay data available</value>
+    <value>Nessun replay disponibile</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck to see your recent games!</value>
+    <value>Seleziona un mazzo per vedere le tue partite recenti!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Show my games panel</value>
+    <value>Visualizza il pannello delle mie partite</value>
   </data>
   <data name="DeckExport_Header_MissingCards" xml:space="preserve">
-    <value>Missing cards</value>
+    <value>Carte mancanti</value>
   </data>
   <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
-    <value>Total dust cost:</value>
+    <value>Costo totale polvere:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Start Hearthstone to see your missing cards!</value>
+    <value>Avvia Hearthstone per vedere le tue carte mancanti!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
-    <value>You own all the required cards!</value>
+    <value>Possiedi tutte le carte richieste!</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Include deck version</value>
+    <value>Includi la versione del mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
-    <value>Start Launcher/Hearthstone</value>
+    <value>Avvia Launcher/Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>No-deck mode</value>
+    <value>Modalità senza mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Autoselect deck</value>
+    <value>Selezione automatica mazzo</value>
   </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Class cards first</value>
+    <value>Prima le carte di classe</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
-    <value>Show</value>
+    <value>Mostra</value>
   </data>
   <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Esci</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione I Cavalieri del Trono di Ghiaccio.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne:</value>
+    <value>Cavalieri del Trono di Ghiaccio:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Cavalieri del Trono di Ghiaccio</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
+    <value>Cavalieri del Trono di Ghiaccio</value>
   </data>
   <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
+    <value>Seleziona una lingua</value>
   </data>
   <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copia</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annulla</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
+    <value>Si è verificato un errore durante la copia dei nomi delle carte negli appunti.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>The selected deck doesn't have any cards.</value>
+    <value>Il mazzo selezionato non contiene carte.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Link Twitch Account on HSReplay.net</value>
+    <value>Collega l'account Twitch su HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Install/Configure Twitch Extension</value>
+    <value>Installa/Configura estensione di Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
+    <value>Abilita integrazione estensione Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
+    <value>Trasmissione:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>Live</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
+    <value>Non in linea</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Diretta</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>Overlay registrabile</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Extension</value>
+    <value>Estensione Twitch</value>
   </data>
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>View full setup guide</value>
+    <value>Mostra la guida di configurazione completa</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Coboldi &amp; Catacombe</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Coboldi &amp; Catacombe.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
+    <value>Coboldi &amp; Catacombe</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs:</value>
+    <value>Coboldi &amp; Catacombe:</value>
   </data>
   <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
+    <value>Sotterraneo</value>
   </data>
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
-    <value>Brawl</value>
+    <value>Rissa</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
+    <value>Spedizioni</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Auto import new decks</value>
+    <value>Importa automaticamente i nuovi mazzi</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
+    <value>Nome del modello del mazzo Spedizioni</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
+    <value>Includi carte passive</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
+    <value>Mostra prima i mazzi taggati come "Preferiti"</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
     <value>Download</value>
   </data>
   <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
+    <value>Non ora</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
+    <value>E' disponibile un nuovo aggiornamento BETA</value>
   </data>
   <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
+    <value>Premi "Download" per aggiornare automaticamente.</value>
   </data>
   <data name="Banner_CollectionSyncing_Header" xml:space="preserve">
-    <value>New HSReplay.net Feature: Collection Uploading</value>
+    <value>Nuova funzione HSReplay.net: Caricamento Collezione</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>Find the best decks for your collection!</value>
+    <value>Trova i mazzi migliori per la tua collezione!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
-    <value>Login to claim your replays and enable all HSReplay.net features.</value>
+    <value>Accedi per richiedere i tuoi replay e abilitare tutte le funzioni HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
-    <value>Login to enable all HSReplay.net features.</value>
+    <value>Accedi per abilitare tutte le funzioni di HSReplay.net.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>I Replay sono caricati in</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
-    <value>Logged in as</value>
+    <value>Accesso eseguito come</value>
   </data>
   <data name="Options_HSReplay_Account_CollectionUploading" xml:space="preserve">
-    <value>Collection uploading</value>
+    <value>La collezione è in caricamento</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayUploading" xml:space="preserve">
-    <value>Replay uploading</value>
+    <value>Caricamento Replay</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Replays claimed</value>
+    <value>Replay reclamati</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Subscribed to Premium</value>
+    <value>Iscritto a Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>Abilita ora</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Claim now</value>
+    <value>Richiedi ora</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>Grazie per il tuo supporto!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Find out more</value>
+    <value>Per saperne di più</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>Impostazioni Account</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>Sei sicuro di voler uscire?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>New replays will no longer be attached to your account.</value>
+    <value>I nuovi replay non saranno più collegati al tuo account.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Logging back in will claim all new replays retroactively.</value>
+    <value>Avvedere nuovamente richiederà tutti i nuovi replay retroattivamente.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Disconnetti</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
-    <value>The easiest way to find the best decks for you!</value>
+    <value>Il modo più semplice per trovare i migliori mazzi per te!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Just upload your collection to HSReplay.net</value>
+    <value>Carica la tua collezione su HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
-    <value>Upload my collection automatically</value>
+    <value>Carica la mia collezione automaticamente</value>
   </data>
   <data name="Options_HSReplay_Collection_UpToDate" xml:space="preserve">
-    <value>Collection up-to-date!</value>
+    <value>La collezione è aggiornata!</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdatePending" xml:space="preserve">
-    <value>Collection update queued...</value>
+    <value>Aggiornamento della collezione in coda...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Ultimo aggiornamento</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
-    <value>One more step to upload your collection:</value>
+    <value>Un altro passo per caricare la tua collezione:</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>Start Hearthstone and open the collection</value>
+    <value>Avvia Hearthstone e apri la collezione</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
-    <value>Your collection will automatically update when</value>
+    <value>La tua collezione si aggiornerà automaticamente quando</value>
   </data>
   <data name="Options_HSReplay_Account_Header" xml:space="preserve">
-    <value>My Account</value>
+    <value>Il mio profilo</value>
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
-    <value>Collection</value>
+    <value>Collezione</value>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
-    <value>Login to HSReplay.net</value>
+    <value>Accedi a HSReplay.net</value>
   </data>
   <data name="OAuthLogin_WaitingForAuthorization" xml:space="preserve">
-    <value>Waiting for authorization from HSReplay.net...</value>
+    <value>In attesa di autorizzazione da HSReplay.net...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>Try again</value>
+    <value>Riprova</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>Trouble logging in? Contact us:</value>
+    <value>Problemi di accesso? Contattaci:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>Twitter</value>
@@ -3319,135 +3319,135 @@
     <value>Email</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
-    <value>Successfully logged in</value>
+    <value>Accesso effettuato con successo</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Accedi</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
-    <value>Decks</value>
+    <value>Mazzi</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
-    <value>My Replays</value>
+    <value>I miei Replay</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_1" xml:space="preserve">
-    <value>• Opening or closing the collection</value>
+    <value>• Apertura o chiusura della collezione</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_2" xml:space="preserve">
-    <value>• Closing the pack opening screen</value>
+    <value>• Chiusura della schermata di apertura del pacchetto</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle_Authenticated" xml:space="preserve">
-    <value>Just start Hearthstone and open your collection.</value>
+    <value>Avvia Hearthstone e apri la tua collezione.</value>
   </data>
   <data name="StartHearthstoneButton_Text" xml:space="preserve">
-    <value>Start Hearthstone</value>
+    <value>Avvia Hearthstone</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Header" xml:space="preserve">
-    <value>Take your Twitch stream to the next level!</value>
+    <value>Porta le tue trasmissioni Twitch ad un livello superiore!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>With an interactive overlay, live deck tracking and more.</value>
+    <value>Con un overlay interattivo, tracciamento del mazzo in diretta e altro ancora.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
-    <value>Login to get started.</value>
+    <value>Accedi per iniziare.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Now let's get your Twitch account linked up to HSReplay.net.</value>
+    <value>Ora collega il tuo account Twitch a HSReplay.net.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
-    <value>Twitch account:</value>
+    <value>Account Twitch:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck contains cards from the Witchwood expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Boscotetro.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
-    <value>The Witchwood:</value>
+    <value>Boscotetro:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>Boscotetro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>Boscotetro</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>Codice del mazzo</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>Riduci a icona nell'area di notifica</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Nulla</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>A comparsa</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>All'inizio del turno:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>Su sfida amichevole:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione Operazione Apocalisse.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>Operazione Apocalisse:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Operazione Apocalisse</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>Operazione Apocalisse</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostra contatore Saltabot:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>Mostra contatore Saltabot:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione La sfida di Rastakhan.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>La sfida di Rastakhan:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>La sfida di Rastakhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>La sfida di Rastakhan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>Mostra set di carte</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione L'ascesa delle ombre.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows:</value>
+    <value>L'ascesa delle ombre:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>L'ascesa delle ombre</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>L'ascesa delle ombre</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Salvatori di Uldum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>Salvatori di Uldum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvatori di Uldum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvatori di Uldum</value>
   </data>
 </root>
