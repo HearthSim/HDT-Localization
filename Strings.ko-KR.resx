@@ -814,13 +814,13 @@
     <value>이름에 버전 숫자 포함</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearCards" xml:space="preserve">
-    <value>Auto clear cards</value>
+    <value>자동으로 카드 초기화</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearFilters" xml:space="preserve">
-    <value>Auto clear filters</value>
+    <value>자동으로 필터 초기화</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_ClearSearchbox" xml:space="preserve">
-    <value>Force clear searchbox between cards</value>
+    <value>강제로 검색창과 카드 초기화</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard" xml:space="preserve">
     <value>클립보드에서 이름 붙여넣기</value>
@@ -862,7 +862,7 @@
     <value>마나 커브 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
-    <value>Full text search in deck builder</value>
+    <value>덱 검색 시 전문 검색</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>대문자 덱 이름 사용</value>
@@ -1753,7 +1753,7 @@
     <value>태그 필터 적용</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>Apply tag filters currently set in 'DeckPicker &gt; Sort/Filter Decks' (double arrow button).</value>
+    <value>'덱 선택' &amp; '덱 정렬/필터링'에 현재 설정되어 있는 태그 필터 적용</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>메뉴</value>
@@ -2293,10 +2293,10 @@
     <value>사용 중</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>최근 변경 됨</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>최근 플레이 됨</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>보관됨</value>
@@ -2692,7 +2692,7 @@
     <value>Hearthstone에서 만들기</value>
   </data>
   <data name="ImportingChoiceDialogg_Button_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>저장하기</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
     <value>취소</value>
@@ -2713,7 +2713,7 @@
     <value>수동</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>Save only</value>
+    <value>저장하기</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>하스스톤에서 만들기</value>
@@ -2992,7 +2992,7 @@
     <value>내 게임</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Has active filters</value>
+    <value>활성화 필터들</value>
   </data>
   <data name="DeckCharts_Label_Wins" xml:space="preserve">
     <value>승리:</value>
