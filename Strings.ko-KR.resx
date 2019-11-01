@@ -1909,7 +1909,7 @@
     <value>제 2안</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>최근 수정 날짜</value>
+    <value>최근 변경 날짜</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
     <value>최근 플레이 날짜</value>
@@ -2704,10 +2704,10 @@
     <value>지원되는 url 또는 덱 데이터가 클립보드에 존재하지 않습니다.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
-    <value>Paste behavior</value>
+    <value>불러오기</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Tooltip_PasteBehavior" xml:space="preserve">
-    <value>Behavior when pasting (ctrl-v) a url or deck object into HDT</value>
+    <value>url 또는 덱 오브젝트 붙여넣기 (ctrl-v) 시 HDT에 적용하기</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
     <value>수동</value>
@@ -2749,7 +2749,7 @@
     <value>괜찮습니다. 다시 표시하지 마세요.</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>Automatic deck selection is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>자동으로 덱 선택하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
     <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
@@ -2854,10 +2854,10 @@
     <value>Find all supported websites</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>불러오기</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
     <value>스크린샷</value>
