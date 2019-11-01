@@ -1909,13 +1909,13 @@
     <value>제 2안</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>최근 수정 날짜</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>최근 플레이 날짜</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>표시하지 않음</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>기본</value>
@@ -2683,7 +2683,7 @@
     <value>HearthStats 메뉴 표시</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Deck found!</value>
+    <value>덱을 찾았습니다!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
     <value>작업 선택</value>
@@ -2716,7 +2716,7 @@
     <value>Save only</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
-    <value>Create in Hearthstone</value>
+    <value>하스스톤에서 만들기</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
     <value>덱에 비열한 거리의 가젯잔 확장팩 카드가 포함되어 있습니다.</value>
