@@ -2752,25 +2752,25 @@
     <value>자동으로 덱 선택하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>Automatic importing of new Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>자동으로 신규 생성 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>Automatic importing of changes to Constructed decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>자동으로 덱 변경점 적용하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>Automatic importing of Arena decks is currently disabled.\n\nIt's recommended to enable this setting for HDT to work best.</value>
+    <value>자동으로 투기장 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>자동으로 덱을 선택 (추천)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
-    <value>Displays the created/returned card, if the information is available.</value>
+    <value>활성화 시, 제작/가루변환 된 카드를 표시합니다.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
-    <value>Will only appear if the cursor stays still on a card for a short period of time.</value>
+    <value>커서가 잠시 카드 위에 있을 때만 표시됩니다.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
+    <value>모바일 기기 (노트북, 타블렛, ...) 에서만 작동합니다.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
@@ -3130,7 +3130,7 @@
     <value>취소</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
+    <value>카드 이름을 클립보드에 복사하는 동안 오류가 발생했습니다.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>The selected deck doesn't have any cards.</value>
@@ -3145,7 +3145,7 @@
     <value>트위치 확장 기능 통합 사용하기</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
+    <value>방송:</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
     <value>Live</value>
