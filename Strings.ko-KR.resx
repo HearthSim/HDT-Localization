@@ -2773,16 +2773,16 @@
     <value>모바일 기기 (노트북, 타블렛, ...) 에서만 작동합니다.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이>일반>선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>Center cards and information panels vertically within the selected region for the deck. Region can be changed via 'overlay &gt; general &gt; unlock'.</value>
+    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이>일반>선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
-    <value>Uncheck to disable most animations for popup dialogs and flyouts</value>
+    <value>체크 해제시 팝업 알림창 애니메이션이 비활성 됩니다.</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>Try this if you have problems exporting certain card/deck names - May not work with all keyboard layouts</value>
+    <value>카드/덱 이름이 포함된 덱 내보내기에 문제가 있을 시 시도하십시오. - 모든 키보드 레이아웃에 대응해 동작하지 않을 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
     <value> </value>
@@ -2791,16 +2791,16 @@
     <value>초가 지나면 경고하기</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>"X" 초가 남았을 때 경고음이 울리고 하스스톤 아이콘 깜빡입니다.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
-    <value>Uncheck to use normal case in Deck Picker.</value>
+    <value>체크 해제시 저장된 덱 이름이 표시됩니다.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch_Tooltip" xml:space="preserve">
     <value>하스스톤이 아닌 창에 오버레이가 나타나면 이 기능을 끌 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>더 많은 정보는 구글 "C# date format"을 참조하십시오.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>등급 감지에 문제가 있는 경우 이 기능을 활성화 하십시오.</value>
@@ -2821,13 +2821,13 @@
     <value>명예의 전당</value>
   </data>
   <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>This deck can only be used in 'Wild' mode</value>
+    <value>이 덱은 "야생"에서만 사용할 수 있습니다.</value>
   </data>
   <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
     <value>이 덱은 HSReplay.net에서 이용할 수 있는 글로벌 통계와 멀리건 정보가 있습니다.</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay Mulligan Guide</value>
+    <value>HSReplay의 멀리건 가이드</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>내보내기</value>
@@ -2845,13 +2845,13 @@
     <value>덱 이름, 직업, 확장팩, 가루 비용 포함</value>
   </data>
   <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>Import from web</value>
+    <value>웹에서 가져오기</value>
   </data>
   <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
     <value>Enter deck URL:</value>
   </data>
   <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
-    <value>Find all supported websites</value>
+    <value>지원되는 모든 웹사이트 찾기</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
     <value>불러오기</value>
