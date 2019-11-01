@@ -3223,7 +3223,7 @@
     <value>로그인 하여 HSReplay.net 기능 활성화.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+    <value>리플레이가 업로드 됩니다.</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>로그인됨</value>
@@ -3235,19 +3235,19 @@
     <value>리플레이 업로드</value>
   </data>
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
-    <value>Replays claimed</value>
+    <value>리플레이 수령 완료</value>
   </data>
   <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
     <value>프리미엄 구독</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
-    <value>Enable now</value>
+    <value>활성화 완료</value>
   </data>
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
-    <value>Claim now</value>
+    <value>즉시 받기</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>지원해 주셔서 감사합니다!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
     <value>더 찾아보기</value>
@@ -3256,22 +3256,22 @@
     <value>계정 설정</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
-    <value>Are you sure you want to logout?</value>
+    <value>정말로 로그아웃하시겠습니까?</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info1" xml:space="preserve">
-    <value>New replays will no longer be attached to your account.</value>
+    <value>더 이상 새 리플레이가 계정에 연동되지 않습니다.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>Logging back in will claim all new replays retroactively.</value>
+    <value>다시 로그인 하여 저장된 모든 리플레이를 받아보십시오.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>로그아웃</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
-    <value>The easiest way to find the best decks for you!</value>
+    <value>당신에게 알맞는 덱을 찾는 가장 쉬운 방법입니다!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>Just upload your collection to HSReplay.net</value>
+    <value>당신의 카드목록을 HSReplay.net에 업로드 하십시오.</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
     <value>자동으로 내 카드 업로드</value>
@@ -3394,7 +3394,7 @@
     <value>친선전에서:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>덱에 박사붐의 폭심만만 프로젝트 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
     <value>박사 붐의 폭심만만 프로젝트:</value>
@@ -3412,7 +3412,7 @@
     <value>토깽이 콩콩 카운터 보기:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
+    <value>덱에 라스타칸의 대난투 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
     <value>라스타칸의 대난투:</value>
@@ -3424,7 +3424,7 @@
     <value>라스타칸의 대난투</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>확장팩 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
     <value>덱에 어둠의 반격 확장팩 카드가 포함되어 있습니다.</value>
