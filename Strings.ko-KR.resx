@@ -862,7 +862,7 @@
     <value>마나 커브 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
-    <value>덱 검색 시 전문 검색</value>
+    <value>덱 생성에서 검색 시 전문 검색</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
     <value>대문자 덱 이름 사용</value>
@@ -1753,7 +1753,7 @@
     <value>태그 필터 적용</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>'덱 선택' &amp; '덱 정렬/필터링'에 현재 설정되어 있는 태그 필터 적용</value>
+    <value>'덱 선택' > '덱 정렬/필터링'에 현재 설정되어 있는 태그 필터 적용</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>메뉴</value>
@@ -3449,5 +3449,23 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
     <value>울둠의 구원자</value>
+  </data>
+  <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
+    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
+    <value>Descent of Dragons:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
+    <value>Descent of Dragons</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
+    <value>Descent of Dragons</value>
   </data>
 </root>
