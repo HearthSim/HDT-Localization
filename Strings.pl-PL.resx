@@ -3450,4 +3450,22 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
     <value>Wybawcy Uldum</value>
   </data>
+  <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
+    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
+    <value>Descent of Dragons:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
+    <value>Descent of Dragons</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
+    <value>Descent of Dragons</value>
+  </data>
 </root>
