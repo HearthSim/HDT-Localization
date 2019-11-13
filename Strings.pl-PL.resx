@@ -3468,4 +3468,22 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
     <value>Descent of Dragons</value>
   </data>
+  <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
+    <value>Last known board:</value>
+  </data>
+  <data name="GameTag_Taunt" xml:space="preserve">
+    <value>Taunt</value>
+  </data>
+  <data name="GameTag_DivineShield" xml:space="preserve">
+    <value>Divine Shield</value>
+  </data>
+  <data name="GameTag_Poisonous" xml:space="preserve">
+    <value>Poisonous</value>
+  </data>
+  <data name="GameTag_Windfury" xml:space="preserve">
+    <value>Windfury</value>
+  </data>
+  <data name="GameTag_Deathrattle" xml:space="preserve">
+    <value>Deathrattle</value>
+  </data>
 </root>
