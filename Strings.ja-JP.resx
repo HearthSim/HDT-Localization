@@ -3486,4 +3486,7 @@
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>Deathrattle</value>
   </data>
+  <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
+    <value>{0} turn(s) ago</value>
+  </data>
 </root>
