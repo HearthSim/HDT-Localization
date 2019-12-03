@@ -3486,4 +3486,10 @@
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>Deathrattle</value>
   </data>
+  <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
+    <value>{0} turn(s) ago</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
+    <value>Show Battlegrounds Tiers</value>
+  </data>
 </root>

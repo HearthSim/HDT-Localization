@@ -3451,39 +3451,45 @@
     <value>울둠의 구원자</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>전장</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>전장</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>덱에 용의 강림 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>용의 강림:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>용의 강림</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>용의 강림</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>마지막으로 본 전장</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>도발</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>천상의 보호막</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>독성</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>질풍</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>죽음의 메아리</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
+    <value>{0}턴 전</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
+    <value>Show Battlegrounds Tiers</value>
   </data>
 </root>
