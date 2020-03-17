@@ -3451,51 +3451,57 @@
     <value>Wybawcy Uldum</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Ustawka</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Ustawka</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>Talia zawiera karty z dodatku "Wejście Smoków".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>Wejście Smoków:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>Wejście Smoków</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>Wejście Smoków</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>Ostatnia znana plansza:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>Prowokacja</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>Boska Tarcza</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>Trucizna</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>Furia Wichru</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>Agonia</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} turn(s) ago</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>Pokaż Poziomy Ustawki</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Pokaż licznik Galakronda:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Pokaż licznik Galakronda:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
+    <value>Talia zawiera karty z przygody "Przebudzenie Galakronda".</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
+    <value>Przebudzenie Galakronda</value>
   </data>
 </root>
