@@ -3516,4 +3516,19 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
     <value>Ashes of Outland</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
+    <value>Show Battlegrounds Turn Counter</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
+    <value>Show hero notification at start of Battlegrounds game</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
+    <value>Turn {0}</value>
+  </data>
+  <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
+    <value>Compare Heroes</value>
+  </data>
+  <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
+    <value>HSReplay.net - Battlegrounds</value>
+  </data>
 </root>
