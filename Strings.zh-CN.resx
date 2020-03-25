@@ -601,10 +601,10 @@
     <value>附加卡牌信息</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAnimations" xml:space="preserve">
-    <value>卡牌变动时闪烁卡牌</value>
+    <value>卡牌变动时闪烁提示</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips" xml:space="preserve">
-    <value>卡牌标记提示</value>
+    <value>卡牌标记提示*</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Secrets" xml:space="preserve">
     <value>自动排除奥秘</value>
@@ -616,13 +616,13 @@
     <value>金币奖励进度始终可见（在菜单页）</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）</value>
+    <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）*</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
-    <value>显示电池状态</value>
+    <value>显示电池状态*</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>显示百分比</value>
+    <value>显示百分比数字</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
     <value>不透明度：</value>
@@ -3503,5 +3503,44 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>迦拉克隆的觉醒</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
+    <value>包含“外域的灰烬”系列的卡牌。</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
+    <value>外域的灰烬：</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
+    <value>外域的灰烬</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
+    <value>外域的灰烬</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
+    <value>酒馆战旗回合计数器</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
+    <value>在酒馆战旗游戏开始时显示英雄提示</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
+    <value>第{0}回合</value>
+  </data>
+  <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
+    <value>对比英雄</value>
+  </data>
+  <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
+    <value>HSReplay.net - 酒馆战旗</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
+    <value>D_emon Hunter</value>
   </data>
 </root>

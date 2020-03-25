@@ -3504,4 +3504,43 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>Пробуждение Галакронда</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
+    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
+    <value>Ashes of Outland:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
+    <value>Ashes of Outland</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
+    <value>Ashes of Outland</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
+    <value>Show Battlegrounds Turn Counter</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
+    <value>Show hero notification at start of Battlegrounds game</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
+    <value>Turn {0}</value>
+  </data>
+  <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
+    <value>Compare Heroes</value>
+  </data>
+  <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
+    <value>HSReplay.net - Battlegrounds</value>
+  </data>
+  <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
+    <value>Demon Hunter</value>
+  </data>
+  <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
+    <value>D_emon Hunter</value>
+  </data>
 </root>
