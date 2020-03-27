@@ -3567,4 +3567,28 @@
   <data name="Rank_Legend" xml:space="preserve">
     <value>Legend {0}</value>
   </data>
+  <data name="Enum_League_All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Enum_League_Bronze" xml:space="preserve">
+    <value>Bronze</value>
+  </data>
+  <data name="Enum_League_Silver" xml:space="preserve">
+    <value>Silver</value>
+  </data>
+  <data name="Enum_League_Gold" xml:space="preserve">
+    <value>Gold</value>
+  </data>
+  <data name="Enum_League_Platinum" xml:space="preserve">
+    <value>Platinum</value>
+  </data>
+  <data name="Enum_League_Diamond" xml:space="preserve">
+    <value>Diamond</value>
+  </data>
+  <data name="Enum_League_Legend" xml:space="preserve">
+    <value>Legend</value>
+  </data>
+  <data name="Enum_League_Legacy" xml:space="preserve">
+    <value>Legacy</value>
+  </data>
 </root>
