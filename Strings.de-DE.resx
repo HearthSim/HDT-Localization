@@ -3549,4 +3549,22 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>Demon Hunter Initiate</value>
   </data>
+  <data name="Rank_League_Bronze" xml:space="preserve">
+    <value>Bronze {0}</value>
+  </data>
+  <data name="Rank_League_Silver" xml:space="preserve">
+    <value>Silver {0}</value>
+  </data>
+  <data name="Rank_League_Gold" xml:space="preserve">
+    <value>Gold {0}</value>
+  </data>
+  <data name="Rank_League_Platinum" xml:space="preserve">
+    <value>Platinum {0}</value>
+  </data>
+  <data name="Rank_League_Diamond" xml:space="preserve">
+    <value>Diamond {0}</value>
+  </data>
+  <data name="Rank_Legend" xml:space="preserve">
+    <value>Legend {0}</value>
+  </data>
 </root>
