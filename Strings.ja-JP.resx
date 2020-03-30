@@ -3543,4 +3543,61 @@
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
     <value>D_emon Hunter</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
+    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
+    <value>Demon Hunter Initiate</value>
+  </data>
+  <data name="Rank_League_Bronze" xml:space="preserve">
+    <value>Bronze {0}</value>
+  </data>
+  <data name="Rank_League_Silver" xml:space="preserve">
+    <value>Silver {0}</value>
+  </data>
+  <data name="Rank_League_Gold" xml:space="preserve">
+    <value>Gold {0}</value>
+  </data>
+  <data name="Rank_League_Platinum" xml:space="preserve">
+    <value>Platinum {0}</value>
+  </data>
+  <data name="Rank_League_Diamond" xml:space="preserve">
+    <value>Diamond {0}</value>
+  </data>
+  <data name="Rank_Legend" xml:space="preserve">
+    <value>Legend {0}</value>
+  </data>
+  <data name="Enum_League_All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Enum_League_Bronze" xml:space="preserve">
+    <value>Bronze</value>
+  </data>
+  <data name="Enum_League_Silver" xml:space="preserve">
+    <value>Silver</value>
+  </data>
+  <data name="Enum_League_Gold" xml:space="preserve">
+    <value>Gold</value>
+  </data>
+  <data name="Enum_League_Platinum" xml:space="preserve">
+    <value>Platinum</value>
+  </data>
+  <data name="Enum_League_Diamond" xml:space="preserve">
+    <value>Diamond</value>
+  </data>
+  <data name="Enum_League_Legend" xml:space="preserve">
+    <value>Legend</value>
+  </data>
+  <data name="Enum_League_Legacy" xml:space="preserve">
+    <value>Legacy</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
+    <value>League:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
+    <value>New filter: League</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
+    <value>Select 'Legacy' to see games from the old rank system.</value>
+  </data>
 </root>
