@@ -3591,4 +3591,13 @@
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy</value>
   </data>
+  <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
+    <value>League:</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
+    <value>New filter: League</value>
+  </data>
+  <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
+    <value>Select 'Legacy' to see games from the old rank system.</value>
+  </data>
 </root>
