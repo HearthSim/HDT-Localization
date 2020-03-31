@@ -3568,7 +3568,7 @@
     <value>Legend {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All</value>
+    <value>All Leagues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
     <value>Bronze</value>
@@ -3589,7 +3589,7 @@
     <value>Legend</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Legacy Only</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
     <value>League:</value>
@@ -3599,5 +3599,8 @@
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
     <value>Select 'Legacy' to see games from the old rank system.</value>
+  </data>
+  <data name="Enum_League_Legacy_All" xml:space="preserve">
+    <value>All Leagues + Legacy</value>
   </data>
 </root>
