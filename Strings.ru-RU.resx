@@ -3589,7 +3589,7 @@
     <value>Легенда</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Только старые</value>
+    <value>Только Наследие</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
     <value>Лига:</value>
@@ -3598,9 +3598,9 @@
     <value>Новый фильтр: Лига</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>Выберите 'Наследие', чтобы увидеть игры в старой системе рейтинга.</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>Все Лиги + Наследие</value>
   </data>
 </root>
