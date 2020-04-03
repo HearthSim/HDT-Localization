@@ -3589,18 +3589,18 @@
     <value>传说</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>旧版本排位</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>赛季：</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>新建过滤器：赛季</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>选择“旧版本排位”来查看旧版本排位系统中的对战记录。</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>所有赛季(包含旧版本排位)</value>
   </data>
 </root>
