@@ -3502,19 +3502,19 @@
     <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
-    <value>Galakrond's Awakening</value>
+    <value>갈라크론드의 부활</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>덱에 황폐한 아웃랜드 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>황폐한 아웃랜드:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>황폐한 아웃랜드</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>황폐한 아웃랜드</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>Show Battlegrounds Turn Counter</value>
@@ -3523,7 +3523,7 @@
     <value>Show hero notification at start of Battlegrounds game</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>{0}턴</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
     <value>Compare Heroes</value>
@@ -3532,13 +3532,13 @@
     <value>HSReplay.net - Battlegrounds</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>악마사냥꾼</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>악마사냥꾼</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>악마사냥꾼</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
     <value>D_emon Hunter</value>
@@ -3550,19 +3550,19 @@
     <value>Demon Hunter Initiate</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>브론즈 {0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>실버 {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>골드 {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>플래티넘 {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>다이아몬드 {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
     <value>Legend {0}</value>
@@ -3571,22 +3571,22 @@
     <value>All Leagues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>브론즈</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>실버</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>골드</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>플래티넘</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>다이아몬드</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>전설</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
