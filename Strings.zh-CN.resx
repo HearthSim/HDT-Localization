@@ -3532,75 +3532,75 @@
     <value>HSReplay.net - 酒馆战棋</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>恶魔猎手</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>恶魔猎手</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>恶魔猎手</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>恶魔猎手</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>卡组包含来自恶魔猎人序章的卡牌</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>恶魔猎手序章</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>青铜{0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>白银{0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>黄金{0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>白金{0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>钻石{0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>传说{0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>所有赛季</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>青铜</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>白银</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>黄金</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>白金</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>钻石</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>传说</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>旧版本排位</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>赛季：</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>新建过滤器：赛季</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>选择“旧版本排位”来查看旧版本排位系统中的对战记录。</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>所有赛季(包含旧版本排位)</value>
   </data>
 </root>
