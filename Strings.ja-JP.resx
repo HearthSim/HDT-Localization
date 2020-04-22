@@ -3508,13 +3508,13 @@
     <value>Deck contains cards from the Ashes of Outland expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>灰に舞う降魔の狩人:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>灰に舞う降魔の狩人</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>灰に舞う降魔の狩人</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>Show Battlegrounds Turn Counter</value>
@@ -3532,13 +3532,13 @@
     <value>HSReplay.net - Battlegrounds</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>デーモンハンター</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>デーモンハンター</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>デーモンハンター</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
     <value>D_emon Hunter</value>
@@ -3550,43 +3550,43 @@
     <value>Demon Hunter Initiate</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>ブロンズ {0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>シルバー {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>ゴールド {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>プラチナ {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>ダイヤモンド {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>レジェンド {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>ブロンズ</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>シルバー</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>ゴールド</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>プラチナ</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>ダイヤモンド</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>レジェンド</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
@@ -3602,5 +3602,71 @@
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
     <value>All Leagues + Legacy</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
+    <value>Bob's Buddy</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
+    <value>Run combat simulations</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
+    <value>Show results during combat phase</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
+    <value>Show results during shopping phase</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
+    <value>Update Required: v{0}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
+    <value>Could not get accurate results</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
+    <value>Secrets are not yet supported</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
+    <value>Waiting For Combat...</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
+    <value>Current Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
+    <value>Show Current Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
+    <value>Previous Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
+    <value>Lethal</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
+    <value>Win</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
+    <value>Tie</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
+    <value>Loss</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
+    <value>Bob's Buddy</value>
+  </data>
+  <data name="Label_Beta" xml:space="preserve">
+    <value>Beta</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
+    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
+    <value>Learn more.</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
+    <value>Found unknown cards</value>
   </data>
 </root>

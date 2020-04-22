@@ -3603,4 +3603,70 @@
   <data name="Enum_League_Legacy_All" xml:space="preserve">
     <value>Tutte le Leghe + Legacy</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
+    <value>Battlegrounds</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
+    <value>Bob's Buddy</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
+    <value>Run combat simulations</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
+    <value>Show results during combat phase</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
+    <value>Show results during shopping phase</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
+    <value>Update Required: v{0}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
+    <value>Could not get accurate results</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
+    <value>Secrets are not yet supported</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
+    <value>Waiting For Combat...</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
+    <value>Current Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
+    <value>Show Current Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
+    <value>Previous Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
+    <value>Lethal</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
+    <value>Win</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
+    <value>Tie</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
+    <value>Loss</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
+    <value>Bob's Buddy</value>
+  </data>
+  <data name="Label_Beta" xml:space="preserve">
+    <value>Beta</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
+    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+  </data>
+  <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
+    <value>Learn more.</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
+    <value>Found unknown cards</value>
+  </data>
 </root>
