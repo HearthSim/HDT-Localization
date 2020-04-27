@@ -3451,222 +3451,222 @@
     <value>Les Aventuriers d’Uldum</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Champs de bataille</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Champs de bataille</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>Le deck contient des cartes de l'extension Envol des Dragons.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>Envol des Dragons :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>Envol des Dragons</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>Envol des Dragons</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>Dernier board connu :</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>Provocation</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>Bouclier divin</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>Toxicité</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>Furie des vents</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>Râle d'agonie</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
-    <value>{0} turn(s) ago</value>
+    <value>Il y a {0} tour(s)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>Afficher le classement des Champs de bataille</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Afficher le compteur Galakrond :</value>
   </data>
   <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Afficher le compteur Galakrond :</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>Le deck contient des cartes de l'aventure Réveil de Galakrond.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
-    <value>Galakrond's Awakening</value>
+    <value>Réveil de Galakrond</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>Le deck contient des cartes de l'extension Cendres de l'Outreterre.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>Cendres de l'Outreterre :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cendres de l'Outreterre</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cendres de l'Outreterre</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>Afficher le compteur des tours en Champs de bataille</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>Afficher la notification du héros au début de la partie de Champs de Bataille</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>Tour {0}</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>Comparer les héros</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Battlegrounds</value>
+    <value>HSReplay.net - Champs de bataille</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Chasseur de démons</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Chasseur de démons</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Chasseur de démons</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>C_hasseur de démons</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>Le deck contient des cartes du set de départ du Chasseur de démons.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>Chasseur de démon débutant</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
     <value>Bronze {0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>Argent {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>Or {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>Platine {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>Diamant {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>Légende {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>Toutes les ligues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
     <value>Bronze</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>Argent</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Or</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>Platine</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>Diamant</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>Légende</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>Ancien classement seulement</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>Ligue :</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>Nouveau filtre : ligue</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>Sélectionnez 'Ancien classement' pour voir les parties de l'ancien système de classement.</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>Toutes les ligues + ancien classement</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Champs de bataille</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>Le pote de Bob</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>Activer les simulations de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>Afficher les résultats en phase de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>Afficher les résultats en phase d'achat</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>Mise à jour nécessaire : v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>Impossible d'obtenir des résultats précis</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>Les secrets ne sont pas encore supportés</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>En attente du combat...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>Combat actuel</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>Afficher le combat actuel</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>Combat précédent</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Afficher le combat précédent</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>Léthal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>Victoire</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>Égalité</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>Défaite</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>Le pote de Bob</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
-    <value>Beta</value>
+    <value>Bêta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>Voyez vos chances de gagner ou de perdre chaque round de combat dans Champs de bataille.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>En savoir plus.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>Cartes inconnues trouvées</value>
   </data>
 </root>
