@@ -3604,69 +3604,69 @@
     <value>所有赛季(包含旧版本排位)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>酒馆战棋</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鲍勃之友</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>启用战斗模拟</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>在战斗阶段中显示结果</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>在购买阶段中显示结果</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>需要升级：v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>无法获得精确结果</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>暂不支持奥秘模拟</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>等待战斗…</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>当前战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>显示当前战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>上一场战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>显示上一场战斗</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>抬走</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>胜利</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>平局</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>失利</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鲍勃之友</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>Beta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>在酒馆战棋中一窥您在每轮对战中胜利、平局或失利的概率。</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>了解更多。</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>发现未知卡牌</value>
   </data>
 </root>
