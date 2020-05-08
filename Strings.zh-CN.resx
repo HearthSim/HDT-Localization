@@ -841,13 +841,13 @@
     <value>第二语言：</value>
   </data>
   <data name="Options_Tracker_General_Label_Tooltips" xml:space="preserve">
-    <value>（下方小字显示）</value>
+    <value>（显示在首选语言下方）</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Font" xml:space="preserve">
     <value>对于非拉丁语系语言使用默认字体</value>
   </data>
   <data name="Options_Tracker_General_Label_Restart" xml:space="preserve">
-    <value>重启以应用语言更改。</value>
+    <value>重启HDT后语言更改生效。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>自动选择“未使用”的套牌（可以禁用）</value>
@@ -3544,10 +3544,10 @@
     <value>恶魔猎手(_E)</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>卡组包含来自恶魔猎人序章的卡牌</value>
+    <value>包含"恶魔猎手新兵"系列的卡牌。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>恶魔猎手序章</value>
+    <value>恶魔猎手新兵</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
     <value>青铜{0}</value>
