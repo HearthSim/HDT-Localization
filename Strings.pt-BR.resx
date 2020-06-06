@@ -3565,7 +3565,7 @@
     <value>Diamante {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>Lenda {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
@@ -3574,19 +3574,19 @@
     <value>Bronze</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>Prata</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Ouro</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>Platina</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>Diamante</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>Lenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
@@ -3604,7 +3604,7 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Campos de Batalha</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3619,7 +3619,7 @@
     <value>Show results during shopping phase</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>Atualização necessária: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
@@ -3670,6 +3670,6 @@
     <value>Found unknown cards</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Criado por</value>
   </data>
 </root>
