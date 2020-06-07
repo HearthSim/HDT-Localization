@@ -3487,7 +3487,7 @@
     <value>Agonia</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
-    <value>{0} turn(s) ago</value>
+    <value>{0} tur(y) temu</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
     <value>Pokaż Poziomy Ustawki</value>
@@ -3505,97 +3505,97 @@
     <value>Przebudzenie Galakronda</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>Talia zawiera karty z dodatku "Popioły Rubieży".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>Popioły Rubieży:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Popioły Rubieży</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Popioły Rubieży</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>Show Battlegrounds Turn Counter</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>Pokaż powiadomienia bohatera na początku Ustawki</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>Tura {0}</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>Porównaj Bohaterów</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Battlegrounds</value>
+    <value>HSReplay.net - Ustawka</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Łowca Demonów</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Łowca Demonów</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Łowca Demonów</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>Ł_owca Demonów</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>Talia zawiera karty z początkowego zestawu Łowcy Demonów.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>Podstawowy Łowca Demonów</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>Brąz {0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>Srebro {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>Złoto {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>Platyna {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>Diament {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>Legenda {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>Wszystkie Ligi</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>Brąz</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>Srebro</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Złoto</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>Platyna</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>Diament</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>Legenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>Tylko starsze</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>Liga:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>Nowy filtr: Liga</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
     <value>Select 'Legacy' to see games from the old rank system.</value>
@@ -3664,12 +3664,12 @@
     <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>Dowiedz się więcej.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>Znaleziono nieznane karty</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Stworzony przez</value>
   </data>
 </root>
