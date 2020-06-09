@@ -3505,16 +3505,16 @@
     <value>Despertar de Galakrond</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>Deck contém cards da expansão Cinzas de Terralém.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>Cinzas de Terralém:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cinzas de Terralém</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cinzas de Terralém</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>Show Battlegrounds Turn Counter</value>
@@ -3532,16 +3532,16 @@
     <value>HSReplay.net - Battlegrounds</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Caçador de Demônios</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Caçador de Demônios</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>Caçador de Demônios</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>_Caçador de Demônios</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
     <value>Deck contains cards from the Demon Hunter Initiate set.</value>
@@ -3553,19 +3553,19 @@
     <value>Bronze {0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>Prata {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>Ouro {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>Platina {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>Diamante {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>Lenda {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
@@ -3574,19 +3574,19 @@
     <value>Bronze</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>Prata</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Ouro</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>Platina</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>Diamante</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>Lenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
@@ -3604,7 +3604,7 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Campos de Batalha</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3619,7 +3619,7 @@
     <value>Show results during shopping phase</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>Atualização necessária: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
@@ -3670,6 +3670,9 @@
     <value>Found unknown cards</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Criado por</value>
+  </data>
+  <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
+    <value>Not Available</value>
   </data>
 </root>
