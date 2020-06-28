@@ -3499,7 +3499,7 @@
     <value>ガラクロンド カウンターを表示</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>デッキには"ガラクロンドの目覚め"のカードが含まれています。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>ガラクロンドの目覚め</value>
@@ -3523,7 +3523,7 @@
     <value>Show hero notification at start of Battlegrounds game</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>ターン {0}</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
     <value>ヒーロー比較</value>
@@ -3625,7 +3625,7 @@
     <value>Could not get accurate results</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>秘策はまだサポートされていません</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Waiting For Combat...</value>
@@ -3673,6 +3673,6 @@
     <value>Created by</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>利用できません</value>
   </data>
 </root>
