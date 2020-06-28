@@ -3517,7 +3517,7 @@
     <value>灰に舞う降魔の狩人</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>経過ターン数を表示</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero notification at start of Battlegrounds game</value>
@@ -3604,7 +3604,7 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>バトルグラウンド</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3646,19 +3646,19 @@
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>勝利</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>引き分け</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>敗北</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
-    <value>Beta</value>
+    <value>ベータ</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
     <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
