@@ -3610,13 +3610,13 @@
     <value>ボブの相棒</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>戦闘シミュレーションを有効化</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>戦闘フェーズ中に結果を表示</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>雇用フェーズ中に結果を表示</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Update Required: v{0}</value>
@@ -3628,19 +3628,19 @@
     <value>秘策はまだサポートされていません</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>戦闘待機中...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>現在の戦闘</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>現在の戦闘を表示</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>前回の戦闘</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>前回の戦闘を表示</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>リーサル</value>
