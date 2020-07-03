@@ -3469,7 +3469,7 @@
     <value>激闘！ドラゴン大決戦</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>前回の盤面:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
     <value>挑発</value>
@@ -3619,10 +3619,10 @@
     <value>雇用フェーズ中に結果を表示</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>更新が必要です: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>正確な結果を取得できませんでした</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
     <value>秘策はまだサポートされていません</value>
