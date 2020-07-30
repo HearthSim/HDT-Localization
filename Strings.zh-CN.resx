@@ -3676,6 +3676,18 @@
     <value>无法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>捕捉战棋窗口</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
+    <value>Scholomance Academy:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
+    <value>Deck contains cards from the Scholomance Academy expansion</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
+    <value>Scholomance Academy</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
+    <value>Scholomance Academy</value>
   </data>
 </root>
