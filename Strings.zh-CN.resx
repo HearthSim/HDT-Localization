@@ -3643,16 +3643,16 @@
     <value>显示上一场战斗</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>抬走</value>
+    <value>击杀</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>胜利</value>
+    <value>胜</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>平局</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>失利</value>
+    <value>败</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>鲍勃之友</value>
@@ -3661,7 +3661,7 @@
     <value>公测</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>在酒馆战棋中一窥您在每轮对战中胜利、平局或失利的概率。</value>
+    <value>在酒馆战棋中一览您在每个回合对战中胜利、平局或失败的概率。</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>了解更多。</value>
@@ -3676,6 +3676,18 @@
     <value>无法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>捕捉战棋窗口</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
+    <value>通灵学园:</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
+    <value>包含“通灵学园”系列的卡牌。</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
+    <value>通灵学园</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
+    <value>通灵学园</value>
   </data>
 </root>
