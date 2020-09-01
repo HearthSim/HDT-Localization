@@ -3469,7 +3469,7 @@
     <value>용의 강림</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>마지막으로 본 전장</value>
+    <value>마지막으로 본 전장:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
     <value>도발</value>
@@ -3604,7 +3604,7 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>전장</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3631,7 +3631,7 @@
     <value>Waiting For Combat...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>현재 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
     <value>Show Current Combat</value>
@@ -3646,13 +3646,13 @@
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>승리</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>무승부</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>패배</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3679,15 +3679,15 @@
     <value>Capture Battlegrounds Overlay</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>스칼로맨스 아카데미:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
     <value>Deck contains cards from the Scholomance Academy expansion</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>스칼로맨스 아카데미</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>스칼로맨스 아카데미</value>
   </data>
 </root>
