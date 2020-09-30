@@ -3613,7 +3613,7 @@
     <value>Enable combat simulations</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>전투 단계 도중에 결과 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
     <value>Show results during shopping phase</value>
@@ -3634,7 +3634,7 @@
     <value>현재 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>현재 전투 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>이전 전투</value>
@@ -3643,7 +3643,7 @@
     <value>이전 전투 보기</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>죽음</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>승리</value>
@@ -3661,7 +3661,7 @@
     <value>Beta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>전장의 각 전투 라운드에서 승리, 무승부 또는 패배할 확률을 확인하십시오.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>Learn more.</value>
