@@ -3613,7 +3613,7 @@
     <value>Enable combat simulations</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>전투 단계 도중에 결과 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
     <value>Show results during shopping phase</value>
@@ -3628,22 +3628,22 @@
     <value>Secrets are not yet supported</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>전투 기다리는 중...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
     <value>현재 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>현재 전투 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>이전 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>이전 전투 보기</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>죽음</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>승리</value>
@@ -3661,7 +3661,7 @@
     <value>Beta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>전장의 각 전투 라운드에서 승리, 무승부 또는 패배할 확률을 확인하십시오.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>Learn more.</value>
@@ -3692,5 +3692,17 @@
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Unavailable</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
+    <value>Always show average damage</value>
+  </data>
+  <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
+    <value>AVG DMG</value>
+  </data>
+  <data name="AverageDamage_Info_Title" xml:space="preserve">
+    <value>Average Damage</value>
+  </data>
+  <data name="AverageDamage_Info_Description" xml:space="preserve">
+    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
   </data>
 </root>
