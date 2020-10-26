@@ -643,10 +643,10 @@
     <value>警告：</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>可能导致光标偶尔冻结</value>
+    <value>此功能可能导致光标意外冻结</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>强制开启（不建议使用，除非你真的需要此功能）</value>
+    <value>强制开启（不建议使用，除非你真的需要这样做）</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>效果：</value>
@@ -2800,7 +2800,7 @@
     <value>当内嵌显示在《炉石传说》以外的窗口上时可以取消勾选此项。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>关于时间的更多信息请搜索“C#日期格式”。</value>
+    <value>更多关于时间格式的信息请搜索“C#日期格式”。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>当你在排名检测遇到问题时可以勾选此项。</value>
