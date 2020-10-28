@@ -643,10 +643,10 @@
     <value>警告：</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Freezing" xml:space="preserve">
-    <value>可能导致光标偶尔冻结</value>
+    <value>此功能可能导致光标意外冻结</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_ForceOn" xml:space="preserve">
-    <value>强制开启（不建议使用，除非你真的需要此功能）</value>
+    <value>强制开启（不建议使用，除非你真的需要这样做）</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Features" xml:space="preserve">
     <value>效果：</value>
@@ -790,7 +790,7 @@
     <value>删除已选项目</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>每天的第一次启动时自动创建备份。包含了套牌、游戏和配置。如果已有7个以上的备份（自动生成），最早的备份会被自动删除，让你至少有一周的备份。</value>
+    <value>每日首次启动时将会自动创建数据备份，其中包含你的套牌、游戏数据和软件设置信息。如果已有超过7个（自动生成的）备份，则会自动删除日期最早的那一个，以保证至少有一周的数据备份。</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>打开备份文件夹</value>
@@ -2800,7 +2800,7 @@
     <value>当内嵌显示在《炉石传说》以外的窗口上时可以取消勾选此项。</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>关于时间的更多信息请搜索“C#日期格式”。</value>
+    <value>更多关于时间格式的信息请搜索“C#日期格式”。</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>当你在排名检测遇到问题时可以勾选此项。</value>
@@ -3691,7 +3691,7 @@
     <value>通灵学园</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>暂不可用</value>
+    <value>本局禁用</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
     <value>总是显示大致伤害范围</value>
