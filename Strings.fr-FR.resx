@@ -3705,4 +3705,10 @@
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>Ces panneaux montrent le 80e centile milieu des éventuels dommages.</value>
   </data>
+  <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
+    <value>You have not fought this opponent</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
+    <value>No minions on board</value>
+  </data>
 </root>
