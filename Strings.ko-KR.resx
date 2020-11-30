@@ -3490,7 +3490,7 @@
     <value>{0}턴 전</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>전장 티어 보기</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>갈라크론드 카운터 보기:</value>
@@ -3517,7 +3517,7 @@
     <value>황폐한 아웃랜드</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>전장 턴 카운터 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero notification at start of Battlegrounds game</value>
@@ -3694,7 +3694,7 @@
     <value>Unavailable</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>항상 평균 데미지 보기</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
@@ -3730,12 +3730,12 @@
     <value>덱에 다크문 축제 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>다크문 축제:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>다크문 축제</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>다크문 축제</value>
   </data>
 </root>
