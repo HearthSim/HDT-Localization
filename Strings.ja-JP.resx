@@ -3694,13 +3694,13 @@
     <value>Unavailable</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>平均ダメージを常に表示</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>平均ダメージ</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>平均ダメージ</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
@@ -3737,5 +3737,14 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
     <value>ダークムーン・フェア</value>
+  </data>
+  <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
+    <value>Show Experience Counter</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
+    <value>Turn</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
+    <value>Turns</value>
   </data>
 </root>
