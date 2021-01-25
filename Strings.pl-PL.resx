@@ -856,7 +856,7 @@
     <value>Sortowanie kart: Klasowe karty zawsze pierwsze</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Pokaż podpowiedzi karty (to okno)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Pokaż panel z mechanikami kart</value>
@@ -3673,10 +3673,10 @@
     <value>Stworzony przez</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>Niedostępne</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Przechwyć Nakładkę Ustawki</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>Scholomance Academy:</value>
@@ -3691,16 +3691,16 @@
     <value>Scholomance Academy</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>Niedostępne</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Zawsze pokazuj średnie obrażenia</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Średnie Obrażenia</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
@@ -3721,7 +3721,7 @@
     <value>Starcia</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Format nazwy talii do Starcia</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Starcia</value>
@@ -3739,24 +3739,24 @@
     <value>Darkmoon Faire</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Pokaż Licznik Doświadczenia</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Tura</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Tury</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Użyj obrazów kart o wysokiej rozdzielczości</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Skalowanie Obrazu Karty</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Podpowiedzi na karcie</value>
   </data>
 </root>
