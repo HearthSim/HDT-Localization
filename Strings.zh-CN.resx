@@ -855,8 +855,8 @@
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>卡牌排序：职业卡优先</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>显示卡牌提示</value>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
+    <value>Show card tooltips (this window)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>显示法力值曲线</value>
@@ -3748,9 +3748,15 @@
     <value>Turns</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use High Resolution Card Images</value>
+    <value>Use high resolution card images</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Size</value>
+    <value>Card Image Scaling</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
+    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+  </data>
+  <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
+    <value>Card Tooltips</value>
   </data>
 </root>
