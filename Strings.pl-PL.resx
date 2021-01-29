@@ -855,6 +855,9 @@
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>Sortowanie kart: Klasowe karty zawsze pierwsze</value>
   </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
+    <value>Pokaż podpowiedzi karty (to okno)</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Pokaż panel z mechanikami kart</value>
   </data>
@@ -3670,78 +3673,90 @@
     <value>Stworzony przez</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>Niedostępne</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Przechwyć Nakładkę Ustawki</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>Scholomancjum:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
-    <value>Deck contains cards from the Scholomance Academy expansion</value>
+    <value>Talia zawiera karty z dodatku "Scholomancjum".</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Scholomancjum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Scholomancjum</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>Niedostępne</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Zawsze pokazuj średnie obrażenia</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Średnie Obrażenia</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>Te panele pokazują w 80 procentowym przybliżeniu możliwe otrzymane obrażenia.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Nie walczyłeś z tym przeciwnikiem</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>Brak stronników na planszy</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Starcia</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Starcia</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Starcia</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Format nazwy talii do Starcia</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Starcia</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Talia zawiera karty z dodatku "Festyn Lunomroku".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>Festyn Lunomroku:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Festyn Lunomroku</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Festyn Lunomroku</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Pokaż Licznik Doświadczenia</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Tura</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Tury</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
+    <value>Użyj obrazów kart o wysokiej rozdzielczości</value>
+  </data>
+  <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
+    <value>Skalowanie Obrazu Karty</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
+    <value>Tylko w tym oknie. Osobne ustawienia dla okien talii i nakładki można znaleźć w 'Wygląd &gt; Ogólne' i 'Wygląd &gt; Okno'</value>
+  </data>
+  <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
+    <value>Podpowiedzi na karcie</value>
   </data>
 </root>

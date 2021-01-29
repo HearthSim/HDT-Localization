@@ -855,6 +855,9 @@
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>カード分類法: クラス カードを最初に</value>
   </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
+    <value>Show card tooltips (this window)</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>マナカーブを表示します。</value>
   </data>
@@ -3743,5 +3746,17 @@
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
     <value>Turns</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
+    <value>Use high resolution card images</value>
+  </data>
+  <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
+    <value>Card Image Scaling</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
+    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+  </data>
+  <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
+    <value>Card Tooltips</value>
   </data>
 </root>
