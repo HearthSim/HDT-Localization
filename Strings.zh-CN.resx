@@ -553,7 +553,7 @@
     <value>只在炉石传说窗口活跃时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
-    <value>卡牌提示</value>
+    <value>显示卡牌信息</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Timer" xml:space="preserve">
     <value>计时器</value>
@@ -856,7 +856,7 @@
     <value>卡牌排序：职业卡优先</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>显示卡牌信息*（主窗口内）</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>显示法力值曲线</value>
@@ -3703,7 +3703,7 @@
     <value>平均伤害</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>此栏目显示了中间80个百分位造成的伤害范围。</value>
+    <value>这个区域中显示了在80%的情况下造成的伤害范围。</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>您未曾与这名对手交手</value>
@@ -3754,9 +3754,15 @@
     <value>卡图缩放</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>只控制主窗口内套牌的卡牌信息显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>卡牌提示</value>
+    <value>卡牌信息图</value>
+  </data>
+  <data name="Enum_Format_Classic" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="Enum_DeckType_Classic" xml:space="preserve">
+    <value>Classic</value>
   </data>
 </root>
