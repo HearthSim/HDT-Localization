@@ -3427,7 +3427,7 @@
     <value>Mostra set di carte</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Il mazzo contiene carte dall'espansione L'ascesa delle ombre.</value>
+    <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>L'ascesa delle ombre:</value>
@@ -3764,5 +3764,32 @@
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
     <value>Classic</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
+    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
+    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
+    <value>Deck contains cards from the Legacy set.</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
+    <value>Deck contains cards from the Core set.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
+    <value>Forged in the Barrens;</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
+    <value>Forged in the Barrens</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
+    <value>Forged in the Barrens</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
+    <value>Wailing Caverns</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
+    <value>Legacy</value>
   </data>
 </root>
