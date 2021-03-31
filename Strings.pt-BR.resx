@@ -3469,7 +3469,7 @@
     <value>Despontar dos Dragões</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>Último quadro conhecido:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
     <value>Provocar</value>
@@ -3490,7 +3490,7 @@
     <value>{0} turno(s) atrás</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>Mostrar Níveis dos Campos de Batalha</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Mostrar contador Galakrond:</value>
@@ -3517,10 +3517,10 @@
     <value>Cinzas de Terralém</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>Mostrar contador de turno dos Campos de Batalha</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>Mostrar notificação do herói ao iníciar uma partida nos Campos de Batalha</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>Turno {0}</value>
@@ -3529,7 +3529,7 @@
     <value>Comparar Heróis</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Battlegrounds</value>
+    <value>HSReplay.net - Campos de Batalha</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
     <value>Caçador de Demônios</value>
@@ -3544,10 +3544,10 @@
     <value>_Caçador de Demônios</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>Deck contém cards do conjunto Caçador de Demônios.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>Caçador de Demônios Inicial</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
     <value>Bronze {0}</value>
@@ -3568,7 +3568,7 @@
     <value>Lenda {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>Todas as Ligas</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
     <value>Bronze</value>
@@ -3589,46 +3589,46 @@
     <value>Lenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>Somente Legado</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>Liga:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>Novo filtro: Liga</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>Selecione 'Legado" para ver os jogos do sistema de ranques antigo.</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>Todas as Ligas + Legado</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>Campos de Batalha</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>Bob's Amigo</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>Habilitar simulações de combate</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>Mostrar resultados durante o combate</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>Mostrar resultados durante fase de compra</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Atualização necessária: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>Não foi possível obter resultados precisos</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>Segredos ainda não são suportados</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>Esperando pelo Combate...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
     <value>Combate Atual</value>
@@ -3637,10 +3637,10 @@
     <value>Mostrar Combate Atual</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>Combate Anterior</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Mostrar Combate Anterior</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Letal</value>
@@ -3655,19 +3655,19 @@
     <value>Derrota</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>Bob's Amigo</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>Beta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>Veja suas chances de vencer, empatar ou perder em Campos de Batalha.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>Saiba mais.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>Cards desconhecidos encontrados</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
     <value>Criado por</value>
@@ -3676,7 +3676,7 @@
     <value>Indisponível</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Capturar sobreposição de Campos de Batalha</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>Universidade de Scolomântia:</value>
@@ -3694,19 +3694,19 @@
     <value>Indisponível</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Sempre mostrar dano médio</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Dano Médio</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>Esses painéis mostram uma média de 80% dos possíveis danos sofridos.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Você não lutou contra este oponente</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
     <value>Nenhum lacaio no campo</value>
@@ -3721,7 +3721,7 @@
     <value>Duelos</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Modelo de nome dos decks de Duelos</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Duelos</value>
@@ -3748,10 +3748,10 @@
     <value>Turnos</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Usar imagens de cards de alta resolução</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Redimensionar imagem do card</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
@@ -3760,36 +3760,36 @@
     <value>Card Tooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clássico</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clássico</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Deck contém cards da expansão Forjado nos Sertões.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Deck contém cards da expansão Caverna Ululante.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Deck contém cards do conjunto Legado.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Deck contém cards do conjunto Essencial.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>Forjado nos Sertões:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forjado nos Sertões</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forjado nos Sertões</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Caverna Ululante</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Legado</value>
   </data>
 </root>
