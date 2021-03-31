@@ -3754,7 +3754,7 @@
     <value>卡图缩放</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>只控制主窗口内套牌的卡牌信息显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
+    <value>只控制主窗口内套牌的卡牌信息图显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>卡牌信息图</value>
@@ -3766,7 +3766,7 @@
     <value>Classic</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>包含“贫瘠之地的锤炼”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
