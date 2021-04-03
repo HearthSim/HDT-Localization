@@ -2320,10 +2320,10 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>标准对战</value>
+    <value>标准模式</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>狂野对战</value>
+    <value>狂野模式</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>跳过</value>
@@ -3754,42 +3754,42 @@
     <value>卡图缩放</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>只控制主窗口内套牌的卡牌信息显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
+    <value>只控制主窗口内套牌的卡牌信息图显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>卡牌信息图</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>经典</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>经典模式</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>包含“贫瘠之地的锤炼”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>包含“哀嚎洞穴”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>包含“怀旧”系列的卡牌。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>包含“核心”系列的卡牌。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>贫瘠之地的锤炼：</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>贫瘠之地的锤炼</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>贫瘠之地的锤炼</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>怀旧</value>
   </data>
 </root>
