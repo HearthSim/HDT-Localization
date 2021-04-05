@@ -3526,10 +3526,10 @@
     <value>{0}턴</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>영웅 비교하기</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Battlegrounds</value>
+    <value>HSReplay.net - 전장</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
     <value>악마사냥꾼</value>
@@ -3610,13 +3610,13 @@
     <value>밥의 동료</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>전투 시뮬레이션 활성화</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
     <value>전투 단계 도중에 결과 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>구매 단계 도중에 결과 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Update Required: v{0}</value>
@@ -3781,7 +3781,7 @@
     <value>불모의 땅;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>불모의 땅</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
     <value>불모의 땅</value>
