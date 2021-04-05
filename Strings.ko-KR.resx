@@ -3772,7 +3772,7 @@
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>덱에 핵심 세트 카드가 포함되어 있습니다.</value>
@@ -3790,6 +3790,6 @@
     <value>Wailing Caverns</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>고전</value>
   </data>
 </root>
