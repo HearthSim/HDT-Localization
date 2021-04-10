@@ -3526,10 +3526,10 @@
     <value>{0}턴</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>영웅 비교하기</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Battlegrounds</value>
+    <value>HSReplay.net - 전장</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
     <value>악마사냥꾼</value>
@@ -3610,13 +3610,13 @@
     <value>밥의 동료</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>전투 시뮬레이션 활성화</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
     <value>전투 단계 도중에 결과 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>구매 단계 도중에 결과 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Update Required: v{0}</value>
@@ -3763,33 +3763,33 @@
     <value>클래식</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>클래식</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>덱에 불모의 땅 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>덱에 핵심 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>불모의 땅;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>불모의 땅</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>불모의 땅</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
     <value>Wailing Caverns</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>고전</value>
   </data>
 </root>
