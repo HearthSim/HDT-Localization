@@ -3771,11 +3771,20 @@
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
   </data>
+  <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
+    <value>Show mulligan notification at start of Constructed game</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Deck contains cards from the Legacy set.</value>
   </data>
+  <data name="Toast_Mulligan_Available" xml:space="preserve">
+    <value>What should I keep?</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>Deck contains cards from the Core set.</value>
+  </data>
+  <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
+    <value>No data for this deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
     <value>Forged in the Barrens;</value>
@@ -3791,5 +3800,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>Legacy</value>
+  </data>
+  <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
+    <value>HSReplay.net - Mulligan Guide</value>
   </data>
 </root>
