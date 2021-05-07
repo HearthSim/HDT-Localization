@@ -3709,7 +3709,7 @@
     <value>この対戦相手と戦っていません</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>盤面にミニオンがいません</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>デュエル</value>
@@ -3748,7 +3748,7 @@
     <value>Turns</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>高解像度の画像を使用する</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>Card Image Scaling</value>
@@ -3802,6 +3802,6 @@
     <value>レガシー</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - マリガンガイド</value>
   </data>
 </root>
