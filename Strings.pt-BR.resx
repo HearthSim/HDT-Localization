@@ -856,7 +856,7 @@
     <value>Ordenar cards por: cards de classe primeiro</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Mostrar dicas de cartas (esta janela)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostrar curva de mana</value>
@@ -3427,7 +3427,7 @@
     <value>Mostrar conjunto de card</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
+    <value>Stats_Arena_Recompensas_Marcadores_Pacotes_TheBarrens</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>Ascensão das Sombras:</value>
@@ -3697,7 +3697,7 @@
     <value>Sempre mostrar dano médio</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>DANO MED</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Dano Médio</value>
@@ -3754,10 +3754,10 @@
     <value>Redimensionar imagem do card</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>Apenas esta janela. Configurações separadas para a sobreposição e janelas de decks podem ser encontradas em 'Sobreposição &gt; Geral' e 'Sobreposição &gt; Janelas'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Mostrar descrição das cartas</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
     <value>Clássico</value>
@@ -3772,19 +3772,19 @@
     <value>Deck contém cards da expansão Caverna Ululante.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>Mostrar notificação de mulligan no início do jogo em modo ranqueado</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Deck contém cards do conjunto Legado.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>O que devo manter?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>Deck contém cards do conjunto Essencial.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Sem dados para este deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
     <value>Forjado nos Sertões:</value>
@@ -3802,9 +3802,9 @@
     <value>Legado</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - Guia de Mulligan</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Mostrar contador de redução de custo dos incunábulos:</value>
   </data>
 </root>
