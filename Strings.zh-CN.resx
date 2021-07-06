@@ -3814,4 +3814,25 @@
     <value>Awaiting Shopping Phase
 </value>
   </data>
+  <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
+    <value>Know your opponent's deck?</value>
+  </data>
+  <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
+    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+  </data>
+  <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
+    <value>Set deck from clipboard</value>
+  </data>
+  <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
+    <value>Dismiss</value>
+  </data>
+  <data name="LinkOpponentDeck_Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
+    <value>No valid deck code found on clipboard</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
+    <value>Enable setting opponent deck in non-friendly matches</value>
+  </data>
 </root>
