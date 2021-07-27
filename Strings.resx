@@ -3807,6 +3807,9 @@
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
   </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
+    <value>United in Stormwind</value>
+  </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
   </data>
@@ -3818,7 +3821,7 @@
     <value>Know your opponent's deck?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>You can now set a deck list for the opponent. Simply copy a deck code to your clipboard and click the button below. Hover the opponent deck to reveal this panel.</value>
+    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>Set deck from clipboard</value>
@@ -3828,5 +3831,20 @@
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>Clear</value>
+  </data>
+  <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
+    <value>No valid deck code found on clipboard</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
+    <value>United in Stormwind</value>
+  </data>
+  <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
+    <value>Enable setting opponent deck in non-friendly matches</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
+    <value>United in Stormwind</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
+    <value>Deck contains cards from the United In Stormwind expansion</value>
   </data>
 </root>

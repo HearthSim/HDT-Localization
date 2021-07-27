@@ -3847,4 +3847,7 @@
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
     <value>Deck contains cards from the United In Stormwind expansion</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
+    <value>Enable setting opponent deck in non-friendly matches</value>
+  </data>
 </root>
