@@ -3544,7 +3544,7 @@
     <value>デーモンハンター</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>デッキにはデーモンハンター開始セットのカードが含まれています。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>Demon Hunter Initiate</value>
@@ -3691,7 +3691,7 @@
     <value>魔法学院スクロマンス</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>利用不可</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
     <value>平均ダメージを常に表示</value>
@@ -3796,25 +3796,25 @@
     <value>荒ぶる大地の強者たち</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>慟哭の洞窟</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>レガシー</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - マリガンガイド</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>風集うストームウィンド</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>聖典コスト減少カウンターを表示:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase
+    <value>買い物フェーズ待機中
 </value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
@@ -3824,30 +3824,27 @@
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>クリップボードからデッキを設定</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
     <value>Dismiss</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>クリア</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>クリップボードに有効なデッキコードが見つかりません</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>風集うストームウィンド</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
     <value>Enable setting opponent deck in non-friendly matches</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>風集うストームウィンド</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
-  </data>
-  <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>デッキに風集うストームウィンドからのカードが含まれています。</value>
   </data>
 </root>
