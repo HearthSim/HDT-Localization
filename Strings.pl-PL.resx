@@ -3824,7 +3824,7 @@
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Ustaw talię ze schowka</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
     <value>Dismiss</value>
@@ -3846,8 +3846,5 @@
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
     <value>Deck contains cards from the United In Stormwind expansion</value>
-  </data>
-  <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
   </data>
 </root>
