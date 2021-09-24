@@ -3157,7 +3157,7 @@
     <value>實況</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>可捕捉的覆蓋</value>
+    <value>可捕捉的內嵌</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch 附加功能</value>
@@ -3364,13 +3364,13 @@
     <value>Deck contains cards from the Witchwood expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
-    <value>The Witchwood:</value>
+    <value>黑巫森林:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>黑巫森林</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>黑巫森林</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
     <value>套牌代碼</value>
@@ -3397,58 +3397,58 @@
     <value>Deck contains cards from The Boomsday Project expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>爆爆計畫:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>爆爆計畫</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>爆爆計畫</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>顯示蹦蹦兔計數器:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>顯示蹦蹦兔計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>拉斯塔哈大混戰:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>拉斯塔哈大混戰</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>拉斯塔哈大混戰</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>顯示牌組</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
     <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows:</value>
+    <value>反派大進擊:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>反派大進擊</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>反派大進擊</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
     <value>Deck contains cards from the Saviors of Uldum expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>奧丹姆守護者:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>奧丹姆守護者</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>奧丹姆守護者</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
     <value>英雄戰場</value>
@@ -3457,19 +3457,19 @@
     <value>英雄戰場</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>套牌包含降臨！遠古巨龍的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>降臨！遠古巨龍:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>降臨！遠古巨龍</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>降臨！遠古巨龍</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>上次的場面</value>
+    <value>上次對戰的場面</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
     <value>嘲諷</value>
@@ -3544,7 +3544,7 @@
     <value>惡魔獵人</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>套牌包含惡魔獵人的核心卡牌</value>
+    <value>套牌包含惡魔獵人核心的卡片</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>核心惡魔獵人</value>
@@ -3628,10 +3628,10 @@
     <value>Secrets are not yet supported</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>等待戰鬥階段...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>目前戰鬥階段</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
     <value>Show Current Combat</value>
@@ -3661,7 +3661,7 @@
     <value>測試版</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>在英雄戰場上觀看你每回合贏，平手或輸的機率。</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>了解更多.</value>
@@ -3676,7 +3676,7 @@
     <value>無法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>擷取英雄戰場內嵌</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>Scholomance Academy:</value>
