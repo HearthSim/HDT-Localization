@@ -3451,10 +3451,10 @@
     <value>Saviors of Uldum</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
     <value>Deck contains cards from the Descent of Dragons expansion.</value>
@@ -3472,25 +3472,25 @@
     <value>Last known board:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>嘲諷</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>聖盾</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>致命劇毒</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>風怒</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>死亡之聲</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
-    <value>{0} turn(s) ago</value>
+    <value>{0} 回合前</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>顯示英雄戰場排行</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Show Galakrond counter:</value>
@@ -3523,25 +3523,25 @@
     <value>Show hero notification at start of Battlegrounds game</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>回合{0}</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>英雄比較</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Battlegrounds</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
     <value>Deck contains cards from the Demon Hunter Initiate set.</value>
