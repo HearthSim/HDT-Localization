@@ -2791,7 +2791,7 @@
     <value>秒數</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>當時間剩"X"秒時發出音效與閃爍的警告</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>使用一般名稱</value>
@@ -2800,7 +2800,7 @@
     <value>當內嵌畫面不在爐石視窗中，可以關閉此功能</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>更多關於日期格式的資訊請 google "C# date format"</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>如果你在排名在檢測中有問題，請嘗試開啟此功能</value>
@@ -3313,7 +3313,7 @@
     <value>登入有問題?聯絡我們:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>推特</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
     <value>郵件</value>
@@ -3361,7 +3361,7 @@
     <value>Twitch帳戶:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck contains cards from the Witchwood expansion.</value>
+    <value>套牌包含黑巫森林的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
     <value>黑巫森林:</value>
@@ -3382,16 +3382,16 @@
     <value>無</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>閃爍</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
     <value>彈出</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>在回合開始時:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>在好友邀請對戰時:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
     <value>Deck contains cards from The Boomsday Project expansion.</value>
@@ -3493,10 +3493,10 @@
     <value>顯示英雄戰場排行</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
@@ -3508,13 +3508,13 @@
     <value>Deck contains cards from the Ashes of Outland expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>外域之燼:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>外域之燼</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>外域之燼</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>顯示英雄戰場回合計數器</value>
@@ -3721,13 +3721,13 @@
     <value>決鬥擂台</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>臨時決鬥擂台套牌名稱</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>決鬥擂台</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>套牌包含暗月馬戲團的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
     <value>暗月馬戲團:</value>
@@ -3760,16 +3760,16 @@
     <value>Card Tooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>經典</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>經典</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>套牌包含貧瘠之地的卡片</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>套牌包含哀嚎洞穴的卡片</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
     <value>Show mulligan notification at start of Constructed game</value>
