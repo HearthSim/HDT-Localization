@@ -856,7 +856,7 @@
     <value>卡片順序:職業卡優先</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>顯示卡片資訊(此視窗)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>顯示水晶消耗曲線</value>
@@ -1858,7 +1858,7 @@
     <value>生物</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
+    <value>英雄</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>組成</value>
@@ -1909,13 +1909,13 @@
     <value>可選</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>最後編輯紀錄</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>最後遊玩紀錄</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>無</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>預設</value>
@@ -2149,7 +2149,7 @@
     <value>匯入</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>常見問題</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>前往FAQ</value>
@@ -2293,10 +2293,10 @@
     <value>啟用中</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>最後編輯紀錄</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>最後遊玩紀錄</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>建檔</value>
@@ -2395,7 +2395,7 @@
     <value>結果:</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>對上:</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>模式:</value>
@@ -3004,7 +3004,7 @@
     <value>勝率</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
+    <value>對上.</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
     <value>已上傳</value>
@@ -3316,7 +3316,7 @@
     <value>Twitter</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>郵件</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
     <value>成功登入</value>
@@ -3373,10 +3373,10 @@
     <value>The Witchwood</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>套牌代碼</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>關閉到工作列</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
     <value>None</value>
