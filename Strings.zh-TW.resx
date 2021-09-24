@@ -3379,7 +3379,7 @@
     <value>關閉到工作列</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>無</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
@@ -3544,55 +3544,55 @@
     <value>惡魔獵人</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>套牌包含惡魔獵人的核心卡牌</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>核心惡魔獵人</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>青銅{0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>白銀{0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>黃金{0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>白金{0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>鑽石{0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>傳說{0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>青銅</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>白銀</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>黃金</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>白金</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>鑽石</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>傳說</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>聯賽:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
     <value>New filter: League</value>
@@ -3646,10 +3646,10 @@
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>勝利</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>平手</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
     <value>Loss</value>
