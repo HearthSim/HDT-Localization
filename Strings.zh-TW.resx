@@ -3469,7 +3469,7 @@
     <value>Descent of Dragons</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>上次的場面</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
     <value>嘲諷</value>
@@ -3517,10 +3517,10 @@
     <value>Ashes of Outland</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>顯示英雄戰場回合計數器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>在英雄戰場開始時顯示英雄通知</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>回合{0}</value>
@@ -3604,22 +3604,22 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>啟用模擬戰鬥</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>在戰鬥階段顯示結果</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>在招募階段顯示結果</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>需要更新: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
@@ -3646,34 +3646,34 @@
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>勝利</value>
+    <value>贏</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>平手</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>輸</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
-    <value>Beta</value>
+    <value>測試版</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
     <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>了解更多.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>找到未知的卡牌</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>作者</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>無法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
     <value>Capture Battlegrounds Overlay</value>
@@ -3691,13 +3691,13 @@
     <value>Scholomance Academy</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>無法使用</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>永遠顯示平均傷害</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>平均傷害</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Average Damage</value>
@@ -3706,10 +3706,10 @@
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>你從未與此對手交手</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>場上沒有手下</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Duels</value>
@@ -3742,10 +3742,10 @@
     <value>Show Experience Counter</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>回合</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>回合</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>Use high resolution card images</value>
@@ -3829,7 +3829,7 @@
     <value>Dismiss</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>清空</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>No valid deck code found on clipboard</value>
