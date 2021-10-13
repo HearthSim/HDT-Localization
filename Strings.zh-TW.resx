@@ -829,7 +829,7 @@
     <value>在匯出前顯示對話框</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>警示</value>
   </data>
   <data name="Options_Tracker_General_Label_CardLanguage" xml:space="preserve">
     <value>卡片語言</value>
@@ -856,7 +856,7 @@
     <value>卡片順序:職業卡優先</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>顯示卡片資訊(此視窗)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>顯示水晶消耗曲線</value>
@@ -871,7 +871,7 @@
     <value>每當競技場打完時存檔</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Show Date On Decks:</value>
+    <value>在牌組上顯示日期</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>格式:</value>
@@ -934,7 +934,7 @@
     <value>預覽:</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>編輯</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>網頁</value>
@@ -1366,7 +1366,7 @@
     <value>刪除場次</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>對上</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>開始日期</value>
@@ -1519,7 +1519,7 @@
     <value>職業</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
+    <value>對上</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>名字</value>
@@ -1711,7 +1711,7 @@
     <value>職業:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>對上:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>模式:</value>
@@ -1858,7 +1858,7 @@
     <value>生物</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
+    <value>英雄</value>
   </data>
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>組成</value>
@@ -1909,13 +1909,13 @@
     <value>可選</value>
   </data>
   <data name="Enum_DeckDateType_LastEdited" xml:space="preserve">
-    <value>Last Edited</value>
+    <value>最後編輯紀錄</value>
   </data>
   <data name="Enum_DeckDateType_LastPlayed" xml:space="preserve">
-    <value>Last Played</value>
+    <value>最後遊玩紀錄</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>None</value>
+    <value>無</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>預設</value>
@@ -2149,7 +2149,7 @@
     <value>匯入</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
+    <value>常見問題</value>
   </data>
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>前往FAQ</value>
@@ -2293,10 +2293,10 @@
     <value>啟用中</value>
   </data>
   <data name="DeckPicker_Deck_LastEdited_Tooltip" xml:space="preserve">
-    <value>Last time edited</value>
+    <value>最後編輯紀錄</value>
   </data>
   <data name="DeckPicker_Deck_LastPlayed_Tooltip" xml:space="preserve">
-    <value>Last time played</value>
+    <value>最後遊玩紀錄</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
     <value>建檔</value>
@@ -2395,7 +2395,7 @@
     <value>結果:</value>
   </data>
   <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
+    <value>對上:</value>
   </data>
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>模式:</value>
@@ -2791,7 +2791,7 @@
     <value>秒數</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert_Tooltip" xml:space="preserve">
-    <value>Sound an alert and flash when you have "X" seconds remaining</value>
+    <value>當時間剩"X"秒時發出音效與閃爍的警告</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames_Tooltip" xml:space="preserve">
     <value>使用一般名稱</value>
@@ -2800,7 +2800,7 @@
     <value>當內嵌畫面不在爐石視窗中，可以關閉此功能</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>For more information on date formats google "C# date format".</value>
+    <value>更多關於日期格式的資訊請 google "C# date format"</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>如果你在排名在檢測中有問題，請嘗試開啟此功能</value>
@@ -3004,7 +3004,7 @@
     <value>勝率</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
+    <value>對上.</value>
   </data>
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
     <value>已上傳</value>
@@ -3157,7 +3157,7 @@
     <value>實況</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>可捕捉的覆蓋</value>
+    <value>可捕捉的內嵌</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch 附加功能</value>
@@ -3190,7 +3190,7 @@
     <value>自動匯入新套牌</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>地下城牌組名稱範本</value>
+    <value>臨時地下城套牌名稱</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>包含被動卡片</value>
@@ -3313,10 +3313,10 @@
     <value>登入有問題?聯絡我們:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>推特</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
-    <value>Email</value>
+    <value>郵件</value>
   </data>
   <data name="OAuthLogin_Success" xml:space="preserve">
     <value>成功登入</value>
@@ -3361,142 +3361,142 @@
     <value>Twitch帳戶:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>Deck contains cards from the Witchwood expansion.</value>
+    <value>套牌包含黑巫森林的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
-    <value>The Witchwood:</value>
+    <value>黑巫森林:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Witchwood" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>黑巫森林</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gilneas" xml:space="preserve">
-    <value>The Witchwood</value>
+    <value>黑巫森林</value>
   </data>
   <data name="DeckExport_Header_DeckCode" xml:space="preserve">
-    <value>Deck code</value>
+    <value>套牌代碼</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>關閉到工作列</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>無</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
-    <value>Flash</value>
+    <value>閃爍</value>
   </data>
   <data name="Enum_HsActionType_Popup" xml:space="preserve">
-    <value>Popup</value>
+    <value>彈出</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>在回合開始時:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>在好友邀請對戰時:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>Deck contains cards from The Boomsday Project expansion.</value>
+    <value>套牌包含爆爆計畫的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project:</value>
+    <value>爆爆計畫:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>爆爆計畫</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
-    <value>The Boomsday Project</value>
+    <value>爆爆計畫</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>顯示蹦蹦兔計數器:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Show Pogo-Hopper counter:</value>
+    <value>顯示蹦蹦兔計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>Deck contains cards from the Rastakhan's Rumble expansion.</value>
+    <value>套牌包含拉斯塔哈大混戰的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble:</value>
+    <value>拉斯塔哈大混戰:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>拉斯塔哈大混戰</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Troll" xml:space="preserve">
-    <value>Rastakhan's Rumble</value>
+    <value>拉斯塔哈大混戰</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>顯示牌組</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
     <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows:</value>
+    <value>反派大進擊:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>反派大進擊</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>反派大進擊</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+    <value>套牌包含奧丹姆守護者的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>奧丹姆守護者:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>奧丹姆守護者</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>奧丹姆守護者</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>套牌包含降臨！遠古巨龍的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>降臨！遠古巨龍:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>降臨！遠古巨龍</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>降臨！遠古巨龍</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>上次對戰的場面</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>嘲諷</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>聖盾</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>致命劇毒</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>風怒</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>死亡之聲</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
-    <value>{0} turn(s) ago</value>
+    <value>{0} 回合前</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Show Battlegrounds Tiers</value>
+    <value>顯示英雄戰場排行</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
@@ -3505,94 +3505,94 @@
     <value>Galakrond's Awakening</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>套牌包含外域之燼：伊利丹的崛起的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>外域之燼:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>外域之燼</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>外域之燼</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>顯示英雄戰場回合計數器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>在英雄戰場開始時顯示英雄通知</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Turn {0}</value>
+    <value>回合{0}</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Compare Heroes</value>
+    <value>英雄比較</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Battlegrounds</value>
   </data>
   <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="Enum_HeroClass_DemonHunter" xml:space="preserve">
-    <value>Demon Hunter</value>
+    <value>惡魔獵人</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>惡魔獵人(_E)</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Deck contains cards from the Demon Hunter Initiate set.</value>
+    <value>套牌包含惡魔獵人核心的卡片</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Demon Hunter Initiate</value>
+    <value>核心惡魔獵人</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
-    <value>Bronze {0}</value>
+    <value>青銅{0}</value>
   </data>
   <data name="Rank_League_Silver" xml:space="preserve">
-    <value>Silver {0}</value>
+    <value>白銀{0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>黃金{0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>白金{0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>鑽石{0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>傳說{0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>青銅</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>白銀</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>黃金</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>白金</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>鑽石</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>傳說</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
     <value>Legacy Only</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>聯賽:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
     <value>New filter: League</value>
@@ -3604,22 +3604,22 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>英雄戰場</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>啟用對戰模擬</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>在戰鬥階段顯示結果</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>在招募階段顯示結果</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>需要更新: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
@@ -3628,55 +3628,55 @@
     <value>Secrets are not yet supported</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>等待戰鬥階段...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>目前的戰鬥</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>顯示目前的戰鬥</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>上一次的戰鬥</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>顯示上一次的戰鬥</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>贏</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>平手</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>輸</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
-    <value>Beta</value>
+    <value>測試版</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>在英雄戰場上觀看你每回合贏、平手或輸的機率。</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>了解更多.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>找到未知的卡牌</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>作者</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>無法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>擷取英雄戰場內嵌</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>Scholomance Academy:</value>
@@ -3691,61 +3691,61 @@
     <value>Scholomance Academy</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>無法使用</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>永遠顯示平均傷害</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>平均傷害</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>平均傷害</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>你從未與此對手交手</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>場上沒有手下</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>決鬥擂台</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>決鬥擂台</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>決鬥擂台</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>臨時決鬥擂台套牌名稱</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>決鬥擂台</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>套牌包含暗月馬戲團的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>暗月馬戲團:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>暗月馬戲團</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>暗月馬戲團</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
     <value>Show Experience Counter</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>回合</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>回合</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>Use high resolution card images</value>
@@ -3760,16 +3760,16 @@
     <value>Card Tooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>經典</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>經典</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>套牌包含貧瘠之地的卡片</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>套牌包含哀嚎洞穴的卡片</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
     <value>Show mulligan notification at start of Constructed game</value>
@@ -3784,19 +3784,19 @@
     <value>Deck contains cards from the Core set.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>沒有找到此套牌的數據</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>貧瘠之地;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>貧瘠之地</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>貧瘠之地</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>Legacy</value>
@@ -3808,13 +3808,13 @@
     <value>Show Libram cost reduction counter:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>暴風城</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>等待招募階段</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
     <value>Know your opponent's deck?</value>
@@ -3829,24 +3829,30 @@
     <value>Dismiss</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>清空</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>在剪貼簿上沒有有效的套牌代碼</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>暴風城</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
     <value>Enable setting opponent deck in non-friendly matches</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>暴風城</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
     <value>Deck contains cards from the United In Stormwind expansion</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
     <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+  </data>
+  <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
+    <value>Mercenaries</value>
+  </data>
+  <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
+    <value>Mercenaries</value>
   </data>
 </root>
