@@ -2827,7 +2827,7 @@
     <value>這個套牌上有HSReplay.net提供的全球統計資料和選牌資訊</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay選牌攻略</value>
+    <value>HSReplay 選牌攻略</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>匯出</value>
@@ -3688,7 +3688,7 @@
     <value>通靈學院</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>通靈學院</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>無法使用</value>
@@ -3703,7 +3703,7 @@
     <value>平均傷害</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>這些面板會顯示中間第80百分位數下可能的傷害範圍。</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>你從未與此對手交手</value>
@@ -3772,13 +3772,13 @@
     <value>套牌包含《哀嚎洞穴》的卡片。</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>在遊戲起手時顯示換牌通知</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>套牌包含傳承系列的卡片。</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>我該留什麼牌？</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>套牌包含核心系列的卡片。</value>
@@ -3799,10 +3799,10 @@
     <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>傳承</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - 選牌攻略</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>顯示聖契降費計數器:</value>
@@ -3817,16 +3817,16 @@
     <value>等待招募階段</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>了解你對手的牌組？</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>從剪貼簿設定牌組</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>關閉</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>清空</value>
