@@ -658,7 +658,7 @@
     <value>點擊時祕密變灰</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>注意：「選項 &gt; 內嵌 &gt; 一般 &gt; 秘密自動變灰」啟用時可能不能正常運作。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>啟用</value>
@@ -1126,7 +1126,7 @@
     <value>記錄前詢問</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>停止紀錄，0回合時</value>
+    <value>不記錄 0 回合下結束的遊戲</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
     <value>紀錄內部重播</value>
