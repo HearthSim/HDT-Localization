@@ -3499,7 +3499,7 @@
     <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>套牌包含《葛拉克朗的覺醒》冒險篇章的卡片。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>Galakrond's Awakening</value>
@@ -3607,7 +3607,7 @@
     <value>英雄戰場</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鮑伯的夥伴</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
     <value>啟用對戰模擬</value>
@@ -3622,10 +3622,10 @@
     <value>需要更新: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>無法取得準確結果</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>尚未支援秘密</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>等待戰鬥階段...</value>
@@ -3643,7 +3643,7 @@
     <value>顯示上一次的戰鬥</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>致命</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>贏</value>
@@ -3655,7 +3655,7 @@
     <value>輸</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鮑伯的夥伴</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>測試版</value>
@@ -3847,7 +3847,7 @@
     <value>Deck contains cards from the United In Stormwind expansion</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>結果可能比平常不準確。我們正積極改善中。</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>傭兵戰隊</value>
