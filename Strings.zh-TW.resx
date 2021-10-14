@@ -742,13 +742,13 @@
     <value>背景:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>增加一個顏色按鈕可複製你的爐石中的內嵌</value>
+    <value>這會在您爐石視窗的後方，新增一個被合成色彩鍵的內嵌複本。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>注意:內嵌複製版本可能出現在爐石畫面前，點擊後將隱藏其餘部分</value>
+    <value>注意: 內嵌的複本可能先出現在爐石畫面前一次，點擊後將在剩下的階段隱藏它。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>使用說明(開啟維基)</value>
+    <value>使用說明 (開啟 Wiki)</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>語言:</value>
@@ -856,7 +856,7 @@
     <value>卡片順序:職業卡優先</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>顯示卡片資訊(此視窗)</value>
+    <value>顯示卡片資訊 (此視窗)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>顯示水晶消耗曲線</value>
@@ -3739,7 +3739,7 @@
     <value>暗月馬戲團</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>顯示經驗值計數器</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>回合</value>
@@ -3754,7 +3754,7 @@
     <value>卡片圖片縮放</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>僅在此視窗顯示。內嵌與卡牌視窗的設定可以分別在「內嵌 &gt; 一般」跟「內嵌 &gt; 視窗」找到。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>卡片提示</value>
