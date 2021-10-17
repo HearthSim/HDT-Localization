@@ -1924,7 +1924,7 @@
     <value>Alternatywny</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Klasyczny</value>
+    <value>Historyczne</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
     <value>Wszystkie</value>
@@ -3589,7 +3589,7 @@
     <value>Legenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Tylko starsze</value>
+    <value>Tylko Historyczne</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
     <value>Liga:</value>
@@ -3598,10 +3598,10 @@
     <value>Nowy filtr: Liga</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Wybierz 'Starsze', aby zobaczyć gry ze starego systemu rankingowego.</value>
+    <value>Wybierz 'Historyczne', aby zobaczyć gry ze starego systemu rankingowego.</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>Wszystkie Ligi + Starsze</value>
+    <value>Wszystkie Ligi + Historyczne</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>Ustawki</value>
@@ -3775,7 +3775,7 @@
     <value>Show mulligan notification at start of Constructed game</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Talia zawiera karty z zestawu Historycznego.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
     <value>Co zostawić?</value>
@@ -3799,28 +3799,28 @@
     <value>Zawodząca Pieczara</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Historyczne</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan Guide</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Pokaż licznik redukcji kosztu Libram:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Zjednoczeni w Wichrogrodzie</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Pokaż licznik redukcji kosztu Libram:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>Oczekiwanie na etap zakupów</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Znasz talię przeciwnika?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Skopiuj kod talii do schowka i kliknij poniższy przycisk, aby zobaczyć aktualizację talii podczas rozgrywki</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>Ustaw talię ze schowka</value>
@@ -3832,22 +3832,22 @@
     <value>Wyczyść</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>Nie znaleziono prawidłowego kodu talii w schowku</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
     <value>Zjednoczeni w Wichrogrodzie</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Włącz ustawienie talii przeciwnika w nieprzyjaznych meczach</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Zjednoczeni w Wichrogrodzie</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Zjednoczeni w Wichrogrodzie".</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Wyniki mogą być mniej dokładne niż zwykle. Czynnie pracujemy nad poprawkami.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>Najemnicy</value>
