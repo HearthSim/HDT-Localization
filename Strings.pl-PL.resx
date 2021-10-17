@@ -3760,16 +3760,16 @@
     <value>Podpowiedzi na karcie</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Klasyczny</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Klasyczny</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Talia zawiera karty z dodatku "Zahartowani przez Pustkowia".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Talia zawiera karty z dodatku "Zawodząca Pieczara".</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
     <value>Show mulligan notification at start of Constructed game</value>
@@ -3778,25 +3778,25 @@
     <value>Deck contains cards from the Legacy set.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>Co zostawić?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Talia zawiera karty z zestawu Klasycznego.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Brak danych dla tej talii</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>Zahartowani przez Pustkowia;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Zahartowani przez Pustkowia</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Zahartowani przez Pustkowia</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Zawodząca Pieczara</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>Legacy</value>
@@ -3826,16 +3826,16 @@
     <value>Ustaw talię ze schowka</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Odrzuć</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Wyczyść</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>No valid deck code found on clipboard</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Zjednoczeni w Wichrogrodzie</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
     <value>Enable setting opponent deck in non-friendly matches</value>
@@ -3844,15 +3844,15 @@
     <value>United in Stormwind</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Talia zawiera karty z dodatku "Zjednoczeni w Wichrogrodzie".</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
     <value>Results may be less accurate than usual. We are actively working on improvements.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Najemnicy</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Najemnicy</value>
   </data>
 </root>
