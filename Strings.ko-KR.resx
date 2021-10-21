@@ -3855,4 +3855,19 @@
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
     <value>용병단</value>
   </data>
+  <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
+    <value>Show opponent Mercenary abilities on hover</value>
+  </data>
+  <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
+    <value>Show player Mercenary abilities on hover</value>
+  </data>
+  <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
+    <value>Show ability icons above opponent Mercenaries</value>
+  </data>
+  <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
+    <value>Show ability icons below player Mercenaries</value>
+  </data>
+  <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
+    <value>Mercenaries</value>
+  </data>
 </root>
