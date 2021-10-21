@@ -658,7 +658,7 @@
     <value>點擊時祕密變灰</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>NOTE: May not work correctly if "options &gt; overlay &gt; general &gt; automatically gray out secrets" is enabled.</value>
+    <value>注意：「選項 &gt; 內嵌 &gt; 一般 &gt; 秘密自動變灰」啟用時可能不能正常運作。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>啟用</value>
@@ -742,13 +742,13 @@
     <value>背景:</value>
   </data>
   <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>增加一個顏色按鈕可複製你的爐石中的內嵌</value>
+    <value>這會在您爐石視窗的後方，新增一個被合成色彩鍵的內嵌複本。</value>
   </data>
   <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>注意:內嵌複製版本可能出現在爐石畫面前，點擊後將隱藏其餘部分</value>
+    <value>注意: 內嵌的複本可能先出現在爐石畫面前一次，點擊後將在剩下的階段隱藏它。</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>使用說明(開啟維基)</value>
+    <value>使用說明 (開啟 Wiki)</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>語言:</value>
@@ -856,7 +856,7 @@
     <value>卡片順序:職業卡優先</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>顯示卡片資訊(此視窗)</value>
+    <value>顯示卡片資訊 (此視窗)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>顯示水晶消耗曲線</value>
@@ -1126,7 +1126,7 @@
     <value>記錄前詢問</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>停止紀錄，0回合時</value>
+    <value>不記錄 0 回合下結束的遊戲</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
     <value>紀錄內部重播</value>
@@ -1828,25 +1828,25 @@
     <value>等待爐石戰記…</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>套牌</value>
+    <value>套牌包含《不死詛咒：納克薩瑪斯》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>套牌包含納克薩瑪斯的卡片</value>
+    <value>套牌包含《哥哥打地地》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>套牌包含哥哥打地地的卡片</value>
+    <value>套牌包含《勇闖黑石山》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>套牌包含勇闖黑石山的卡片</value>
+    <value>套牌包含《銀白聯賽》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>套牌包含探險者協會的卡片</value>
+    <value>套牌包含《探險者協會》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>套牌包含古神碎碎念的卡片</value>
+    <value>套牌包含《古神碎碎念》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>套牌包含夜夜卡拉贊的卡片</value>
+    <value>套牌包含《夜夜卡拉贊》的卡片。</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>武器</value>
@@ -2719,7 +2719,7 @@
     <value>建立於爐石戰記</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Msg" xml:space="preserve">
-    <value>套牌包含黑街英雄之加基森風雲的卡片</value>
+    <value>套牌包含《黑街英雄之加基森風雲》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Msg" xml:space="preserve">
     <value>黑街英雄之加基森風雲:</value>
@@ -2806,7 +2806,7 @@
     <value>如果你在排名在檢測中有問題，請嘗試開啟此功能</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>套牌包含安戈洛歷險記的卡片</value>
+    <value>套牌包含《安戈洛歷險記》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
     <value>安戈洛歷險記：</value>
@@ -2827,7 +2827,7 @@
     <value>這個套牌上有HSReplay.net提供的全球統計資料和選牌資訊</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay選牌攻略</value>
+    <value>HSReplay 選牌攻略</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>匯出</value>
@@ -3109,7 +3109,7 @@
     <value>離開</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>包含冰封王座的資料片套牌</value>
+    <value>套牌包含《冰封王座》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
     <value>冰封王座:</value>
@@ -3169,7 +3169,7 @@
     <value>狗頭人與地下城</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>包含狗頭人與地下城的資料片套牌</value>
+    <value>套牌包含《狗頭人與地下城》的卡片。</value>
   </data>
   <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
     <value>狗頭人與地下城</value>
@@ -3361,7 +3361,7 @@
     <value>Twitch帳戶:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gilneas" xml:space="preserve">
-    <value>套牌包含黑巫森林的卡片</value>
+    <value>套牌包含《黑巫森林》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Gilneas" xml:space="preserve">
     <value>黑巫森林:</value>
@@ -3394,7 +3394,7 @@
     <value>在好友邀請對戰時:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Boomsday" xml:space="preserve">
-    <value>套牌包含爆爆計畫的卡片</value>
+    <value>套牌包含《爆爆計畫》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Boomsday" xml:space="preserve">
     <value>爆爆計畫:</value>
@@ -3412,7 +3412,7 @@
     <value>顯示蹦蹦兔計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
-    <value>套牌包含拉斯塔哈大混戰的卡片</value>
+    <value>套牌包含《拉斯塔哈大混戰》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
     <value>拉斯塔哈大混戰:</value>
@@ -3439,7 +3439,7 @@
     <value>反派大進擊</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>套牌包含奧丹姆守護者的卡片</value>
+    <value>套牌包含《奧丹姆守護者》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
     <value>奧丹姆守護者:</value>
@@ -3457,7 +3457,7 @@
     <value>英雄戰場</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>套牌包含降臨！遠古巨龍的卡片</value>
+    <value>套牌包含《降臨！遠古巨龍》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
     <value>降臨！遠古巨龍:</value>
@@ -3499,13 +3499,13 @@
     <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>套牌包含《葛拉克朗的覺醒》冒險篇章的卡片。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
-    <value>Galakrond's Awakening</value>
+    <value>葛拉克朗的覺醒</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>套牌包含外域之燼：伊利丹的崛起的卡片</value>
+    <value>套牌包含《外域之燼：伊利丹的崛起》的卡片</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
     <value>外域之燼:</value>
@@ -3544,7 +3544,7 @@
     <value>惡魔獵人(_E)</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>套牌包含惡魔獵人核心的卡片</value>
+    <value>套牌包含惡魔獵人初始系列的卡片。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>核心惡魔獵人</value>
@@ -3607,7 +3607,7 @@
     <value>英雄戰場</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鮑伯的夥伴</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
     <value>啟用對戰模擬</value>
@@ -3622,10 +3622,10 @@
     <value>需要更新: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>無法取得準確結果</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Secrets are not yet supported</value>
+    <value>尚未支援秘密</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>等待戰鬥階段...</value>
@@ -3643,7 +3643,7 @@
     <value>顯示上一次的戰鬥</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>致命</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>贏</value>
@@ -3655,7 +3655,7 @@
     <value>輸</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>鮑伯的夥伴</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>測試版</value>
@@ -3679,16 +3679,16 @@
     <value>擷取英雄戰場內嵌</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>通靈學院:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
-    <value>Deck contains cards from the Scholomance Academy expansion</value>
+    <value>套牌包含《通靈學院》的卡片。</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>通靈學院</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>通靈學院</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>無法使用</value>
@@ -3703,10 +3703,10 @@
     <value>平均傷害</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>這些面板會顯示中間第80百分位數下可能的傷害範圍。</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>你從未與此對手交手</value>
+    <value>你未曾與此對手交手過</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
     <value>場上沒有手下</value>
@@ -3727,7 +3727,7 @@
     <value>決鬥擂台</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>套牌包含暗月馬戲團的卡片</value>
+    <value>套牌包含《暗月馬戲團》的卡片。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
     <value>暗月馬戲團:</value>
@@ -3739,7 +3739,7 @@
     <value>暗月馬戲團</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>顯示經驗值計數器</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>回合</value>
@@ -3748,16 +3748,16 @@
     <value>回合</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>使用高解析度的卡片圖片</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>卡片圖片縮放</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>僅在此視窗顯示。內嵌與卡牌視窗的設定可以分別在「內嵌 &gt; 一般」跟「內嵌 &gt; 視窗」找到。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>卡片提示</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
     <value>經典</value>
@@ -3766,22 +3766,22 @@
     <value>經典</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>套牌包含貧瘠之地的卡片</value>
+    <value>套牌包含《貧瘠之地》的卡片。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>套牌包含哀嚎洞穴的卡片</value>
+    <value>套牌包含《哀嚎洞穴》的卡片。</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>在遊戲起手時顯示換牌通知</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>套牌包含傳承系列的卡片。</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>我該留什麼牌？</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>套牌包含核心系列的卡片。</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
     <value>沒有找到此套牌的數據</value>
@@ -3799,34 +3799,34 @@
     <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>傳承</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - 選牌攻略</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>顯示聖契降費計數器:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>暴風城</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>顯示聖契降費計數器:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>等待招募階段</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>了解你對手的牌組？</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>從剪貼簿設定牌組</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>關閉</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>清空</value>
@@ -3844,15 +3844,15 @@
     <value>暴風城</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>套牌包含《暴風城》的卡片。</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>結果可能比平常不準確。我們正積極改善中。</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>傭兵戰隊</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>傭兵戰隊</value>
   </data>
 </root>
