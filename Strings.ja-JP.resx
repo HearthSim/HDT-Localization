@@ -3870,4 +3870,19 @@
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>マーセナリーズ</value>
   </data>
+  <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
+    <value>Task progress will update after the game</value>
+  </data>
+  <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
+    <value>Tasks</value>
+  </data>
+  <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
+    <value>Task {0}: {1}</value>
+  </data>
+  <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
+    <value>Completed!</value>
+  </data>
+  <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
+    <value>Show Tasks panel while in Mercenaries mode</value>
+  </data>
 </root>
