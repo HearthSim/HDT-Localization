@@ -3847,7 +3847,7 @@
     <value>デッキに風集うストームウィンドからのカードが含まれています。</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>結果は通常よりも正確ではないかもしれません。私たちは積極的に改善に取り組んでいます。</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>マーセナリーズ</value>
@@ -3856,16 +3856,16 @@
     <value>マーセナリーズ</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>マウスホバーで、相手の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>マウスホバーで、自身の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>相手の傭兵の下に能力アイコンを表示する</value>
+    <value>相手の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>自身の傭兵の下に能力アイコンを表示する</value>
+    <value>自身の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>マーセナリーズ</value>
