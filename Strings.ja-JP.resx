@@ -3742,10 +3742,10 @@
     <value>経験値カウンターを表示する</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>ターン</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>ターン</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>高解像度の画像を使用する</value>
@@ -3805,7 +3805,7 @@
     <value>HSReplay.net - マリガンガイド</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>聖典コスト減少カウンターを表示:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>風集うストームウィンド</value>
@@ -3814,7 +3814,7 @@
     <value>聖典コスト減少カウンターを表示:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>買い物フェーズ待機中</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
     <value>Know your opponent's deck?</value>
@@ -3847,7 +3847,7 @@
     <value>デッキに風集うストームウィンドからのカードが含まれています。</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>結果は通常よりも正確ではないかもしれません。私たちは積極的に改善に取り組んでいます。</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>マーセナリーズ</value>
@@ -3856,45 +3856,45 @@
     <value>マーセナリーズ</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>マウスホバーで、相手の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>マウスホバーで、自身の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>相手の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>自身の傭兵の能力アイコンを表示する</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>マーセナリーズ</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>Task progress will update after the game</value>
+    <value>仕事の進行状況は、ゲーム終了後に更新されます</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Tasks</value>
+    <value>仕事</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Task {0}: {1}</value>
+    <value>仕事 {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>完了！</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>マーセナリーズ中に仕事パネルを表示</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
+    <value>デッキに烈戦のアルタラックからのカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>烈戦のアルタラック:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>烈戦のアルタラック</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>烈戦のアルタラック</value>
   </data>
 </root>
