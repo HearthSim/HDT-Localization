@@ -733,7 +733,7 @@
     <value>Отображать созданные карты (например Монетку)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Включить окно интерфейса для захвата изображения</value>
+    <value>Включить копию оверлея для захвата изображения</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Отключить смену прозрачности карт (рекомендуется)</value>
@@ -3676,7 +3676,7 @@
     <value>Недоступно</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Захват оверлея полей сражений</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>Некроситет:</value>
