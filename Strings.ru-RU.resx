@@ -583,7 +583,7 @@
     <value>Скрыть таймер</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Скрыть ход взятия карты</value>
+    <value>Скрыть на каком ходу взята карта</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
     <value>Скрыть метки на картах</value>
@@ -3490,7 +3490,7 @@
     <value>{0} ходов назад</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Показать уровни Полей сражений</value>
+    <value>Показывать доступных существ в каждой таверне</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Счетчик Галакронда:</value>
@@ -3694,7 +3694,7 @@
     <value>Недоступно</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Всегда отображать средний урон</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
