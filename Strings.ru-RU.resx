@@ -856,7 +856,7 @@
     <value>Сортировка карт: сначала классовые</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Показывать всплывающие подсказки карт (это окно)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Показать кривую маны</value>
@@ -3670,10 +3670,10 @@
     <value>Найдены неизвестные карты</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Источник</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>Недоступно</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
     <value>Capture Battlegrounds Overlay</value>
