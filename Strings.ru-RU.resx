@@ -3679,16 +3679,16 @@
     <value>Capture Battlegrounds Overlay</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>Некроситет:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
-    <value>Deck contains cards from the Scholomance Academy expansion</value>
+    <value>Колода содержит карты дополнения Некроситет</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Некроситет</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Некроситет</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Unavailable</value>
@@ -3727,16 +3727,16 @@
     <value>Дуэли</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Колода содержит карты дополнения Ярмарка безумия.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>Ярмарка безумия:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Ярмарка безумия</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Ярмарка безумия</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
     <value>Показывать счётчик опыта</value>
@@ -3766,7 +3766,7 @@
     <value>Classic</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Колода содержит карты дополнения Закаленные Степями.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
@@ -3787,13 +3787,13 @@
     <value>No data for this deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>Закаленные Степями:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Закаленные Степями</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Закаленные Степями</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
     <value>Wailing Caverns</value>
@@ -3808,7 +3808,7 @@
     <value>Счётчик удешевления манускриптов:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Счётчик удешевления манускриптов:</value>
@@ -3835,16 +3835,16 @@
     <value>No valid deck code found on clipboard</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
     <value>Enable setting opponent deck in non-friendly matches</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Колода содержит карты дополнения Сплоченные Штормградом</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
     <value>Results may be less accurate than usual. We are actively working on improvements.</value>
@@ -3886,15 +3886,15 @@
     <value>Show Tasks panel while in Mercenaries mode</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
+    <value>Колода содержит карты дополнения Разделенные Альтераком.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>Разделенные Альтераком:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Разделенные Альтераком</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Разделенные Альтераком</value>
   </data>
 </root>
