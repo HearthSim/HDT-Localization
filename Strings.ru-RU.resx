@@ -3706,7 +3706,7 @@
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Вы ещё не сражались с этим противником</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
     <value>No minions on board</value>
@@ -3751,7 +3751,7 @@
     <value>Использовать изображения карт в высоком разрешении</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Размер изображения карты</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
@@ -3781,7 +3781,7 @@
     <value>Что мне оставить?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Колода содержит карты из Основного набора.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
     <value>Нет данных для этой колоды</value>
@@ -3799,7 +3799,7 @@
     <value>Пещеры Стенаний</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Прошлые наборы</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan Guide</value>
@@ -3817,7 +3817,7 @@
     <value>Awaiting Shopping Phase</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Знаешь какая колода у противника?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
