@@ -586,7 +586,7 @@
     <value>Скрыть на каком ходу взята карта</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Скрыть метки на картах</value>
+    <value>Скрыть отметки о происхождении карты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
     <value>Скрыть секреты</value>
@@ -691,7 +691,7 @@
     <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Разместить колоду по центру (вертикально)</value>
+    <value>Центрировать колоду по вертикали</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>Отображать созданные карты</value>
@@ -718,7 +718,7 @@
     <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Разместить колоду по центру (вертикально)</value>
+    <value>Центрировать колоду по вертикали</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
     <value>Выделять карты в руке</value>
@@ -3517,7 +3517,7 @@
     <value>Руины Запределья</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Показать счетчик ходов на Полях сражений</value>
+    <value>Показывать счётчик ходов</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Показывать подсказки по выбору героя на Полях сражений</value>
@@ -3613,7 +3613,7 @@
     <value>Включить симуляции боя</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Показывать результаты во время боевой фазы</value>
+    <value>Показывать результаты во время фазы боя</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
     <value>Показывать результаты во время фазы вербовки</value>
