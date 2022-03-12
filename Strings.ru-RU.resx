@@ -3760,16 +3760,16 @@
     <value>Card Tooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Классический</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Классический</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
     <value>Колода содержит карты дополнения Закаленные Степями.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Колода содержит карты из мини-сета Пещеры Стенаний.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
     <value>Показывать подсказки по мулигану в начале рейтинговой игры</value>
@@ -3856,16 +3856,16 @@
     <value>Наёмники</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>При наведении на наёмников оппонента показывать их способности</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>При наведении на ваших наёмников показывать их способности</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
     <value>Показывать иконки способностей над наемниками оппонента</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>Показывать иконки способностей под вашими наемниками</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>Наёмники</value>
@@ -3883,7 +3883,7 @@
     <value>Выполнено!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>Показывать панель задач наёмников</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
     <value>Колода содержит карты дополнения Разделенные Альтераком.</value>
