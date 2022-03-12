@@ -925,7 +925,7 @@
     <value>Режим импорта:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Шаблон имени для колод Арены</value>
+    <value>Шаблон для названий колод Арены</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Используй в шаблоне:</value>
@@ -3190,7 +3190,7 @@
     <value>Авто-импорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Шаблон имени для колод Приключений</value>
+    <value>Шаблон для названий колод Приключений</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>Включая пассивные карты</value>
@@ -3721,7 +3721,7 @@
     <value>Дуэли</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Шаблон для названий колод Дуэлей</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Дуэли</value>
@@ -3739,7 +3739,7 @@
     <value>Darkmoon Faire</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Показывать счётчик опыта</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>Turn</value>
