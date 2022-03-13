@@ -3775,7 +3775,7 @@
     <value>Afficher une notification mullligan au début du jeu</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Le deck contient des cartes du jeu Héritage.</value>
+    <value>Le deck contient des cartes l'ensemble héritage.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
     <value>Que devrais-je garder ?</value>
@@ -3784,94 +3784,94 @@
     <value>Le deck contient des cartes de l'ensemble fondamental.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Aucune donnée pour ce deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>Forgés dans les Tarides;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forgés dans les Tarides</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forgés dans les Tarides</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Cavernes des Lamentations</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Héritage</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - Guide Mulligan</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Afficher le compteur de réduction des coûts de Libram :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Unis à Hurlevent</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Afficher le compteur de réduction des coûts de Libram :</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>En attente de la phase d’achat</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Connaissez-vous le deck de votre adversaire ?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Copiez un code de deck dans votre presse-papiers et cliquez sur le bouton ci-dessous pour voir la mise à jour de leur deck au fur et à mesure qu'ils jouent</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Définir le deck depuis le presse-papiers</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Ignorer</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Vider</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>Aucun code de deck valide trouvé dans le presse-papiers</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Unis à Hurlevent</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Activer le paramétrage du deck adversaire dans les matchs non amicaux</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Unis à Hurlevent</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Le deck contient des cartes de l'expansion Unis à Hurlevent</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Les résultats peuvent être moins précis que d'habitude. Nous travaillons activement à des améliorations.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenaires</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenaires</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>Afficher les capacités du mercenaire de l'adversaire au survol</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>Afficher les capacités du mercenaire du joueur au survol</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>Afficher les icônes de capacité au-dessus des mercenaires adverses</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>Afficher les icônes de capacité sous les mercenaires du joueur</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenaires</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>Task progress will update after the game</value>
+    <value>La progression des tâches sera mise à jour après la partie</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
     <value>Tasks</value>
