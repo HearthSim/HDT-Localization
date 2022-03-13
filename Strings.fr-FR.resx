@@ -856,7 +856,7 @@
     <value>Tri des cartes : cartes de classe en premier</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Afficher les info-bulles de la carte (cette fenêtre)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Afficher la courbe de mana</value>
@@ -3676,7 +3676,7 @@
     <value>Indisponible</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Capturer la superposition du champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>L'Académie de Scholomance:</value>
@@ -3697,7 +3697,7 @@
     <value>Toujours afficher les dégâts moyens</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>DMG MOY</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Dégâts moyens</value>
@@ -3706,10 +3706,10 @@
     <value>Ces panneaux montrent le 80e centile milieu des éventuels dommages.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Vous n’avez pas encore combattu cet adversaire</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>Pas de serviteurs sur le plateau</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Duels</value>
@@ -3721,37 +3721,37 @@
     <value>Duels</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Nom de modèle de deck de duels</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Duels</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Le deck contient des cartes de l'extension Sombrelune.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>Foire de Sombrelune:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Foire de Sombrelune</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Foire de Sombrelune</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Afficher le compteur d'expérience</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Tour</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Tours</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Utiliser les images de carte en haute définition</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Mise à l'échelle de l'image de la carte</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
