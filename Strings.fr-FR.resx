@@ -3676,7 +3676,7 @@
     <value>Indisponible</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capturer la superposition du champs de bataille</value>
+    <value>Capturer l'overlay du champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>L'Académie de Scholomance:</value>
@@ -3754,34 +3754,34 @@
     <value>Mise à l'échelle de l'image de la carte</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>Cette fenêtre uniquement. Les paramètres sont séparés pour les fenêtres de superposition et de deck qui peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Windows'overlay</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Info-bulles de carte</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Classique</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Classique</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Le deck contient des cartes provenant de l'extension Forgés dans les Tarides.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Le deck contient des cartes de l'extension Cavernes des Lamentations.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>Afficher une notification mullligan au début du jeu</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Le deck contient des cartes du jeu Héritage.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>Que devrais-je garder ?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Le deck contient des cartes de l'ensemble fondamental.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
     <value>No data for this deck</value>
