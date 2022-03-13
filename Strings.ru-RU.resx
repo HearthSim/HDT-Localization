@@ -3820,7 +3820,7 @@
     <value>Знаешь какая колода у противника?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Скопируйте код колоды в буфер обмена и нажмите на кнопку ниже, чтобы отслеживать оставшиеся карты в колоде противника</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>Set deck from clipboard</value>
@@ -3838,7 +3838,7 @@
     <value>Сплоченные Штормградом</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Дать возможность указывать колоду оппонента в рейтинговых матчах</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
     <value>Сплоченные Штормградом</value>
