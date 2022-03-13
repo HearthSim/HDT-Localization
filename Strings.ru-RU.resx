@@ -3775,7 +3775,7 @@
     <value>Показывать подсказки по мулигану в начале рейтинговой игры</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Колода содержит карты из Прошлых наборов.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
     <value>Что мне оставить?</value>
@@ -3823,16 +3823,16 @@
     <value>Скопируйте код колоды в буфер обмена и нажмите на кнопку ниже, чтобы отслеживать оставшиеся карты в колоде противника</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Выбрать колоду из буфера обмена</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Закрыть</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Очистить</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>В буфере обмена код колоды не обнаружен</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
     <value>Сплоченные Штормградом</value>
