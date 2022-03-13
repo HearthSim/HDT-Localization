@@ -3871,30 +3871,30 @@
     <value>Mercenaires</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>La progression des tâches sera mise à jour après la partie</value>
+    <value>La progression des quêtes sera mise à jour après la partie</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Quêtes</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Task {0}: {1}</value>
+    <value>Quêtes {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Terminé !</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>Afficher le panneau des tâches en mode Mercenaires</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
+    <value>Le deck contient des cartes provenant de l'extension Divisés dans la vallée d’Alterac.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>Divisés dans la vallée d’Alterac:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Divisés dans la vallée d’Alterac</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Divisés dans la vallée d’Alterac</value>
   </data>
 </root>
