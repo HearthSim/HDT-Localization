@@ -3427,7 +3427,7 @@
     <value>Показать дополнение</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
+    <value>Колода содержит карты дополнения Возмездие теней</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>Возмездие теней:</value>
@@ -3697,10 +3697,10 @@
     <value>Всегда отображать средний урон</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>УСР УРОН</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Усредненный урон</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
@@ -3709,7 +3709,7 @@
     <value>Вы ещё не сражались с этим противником</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>Нет существ на столе</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Дуэли</value>
@@ -3742,7 +3742,7 @@
     <value>Показывать счётчик опыта</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Ход</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
     <value>Turns</value>
@@ -3802,7 +3802,7 @@
     <value>Прошлые наборы</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>Руководство по сбросу от HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>Счётчик удешевления манускриптов:</value>
@@ -3814,7 +3814,7 @@
     <value>Счётчик удешевления манускриптов:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>Ожидание фазы покупки</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
     <value>Знаешь какая колода у противника?</value>
@@ -3847,7 +3847,7 @@
     <value>Колода содержит карты дополнения Сплоченные Штормградом</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Результаты могут быть менее точными, чем обычно. Мы активно работаем над улучшениями.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>Наёмники</value>
