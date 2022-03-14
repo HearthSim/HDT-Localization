@@ -1099,7 +1099,7 @@
     <value>Режим зрителя</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Другое</value>
+    <value>Прочее</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Показать</value>
@@ -3703,7 +3703,7 @@
     <value>Усредненный урон</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>Эти панели отображают средний 80-ти процентный возможный урон.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>Вы ещё не сражались с этим противником</value>
@@ -3745,7 +3745,7 @@
     <value>Ход</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Ходов</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>Использовать изображения карт в высоком разрешении</value>
@@ -3754,7 +3754,7 @@
     <value>Размер изображения карты</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>Только в этом окне. Отдельные настройки окна для интерфейса и колоды можно найти в 'Интерфейс &gt; Общие' и 'Интерфейс &gt; Окна'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>Показывать карту при наведении</value>
