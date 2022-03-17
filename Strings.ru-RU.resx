@@ -583,10 +583,10 @@
     <value>Скрыть таймер</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
-    <value>Скрыть ход взятия карты</value>
+    <value>Скрыть на каком ходу взята карта</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardMarks" xml:space="preserve">
-    <value>Скрыть метки на картах</value>
+    <value>Скрыть отметки о происхождении карты</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideSecrets" xml:space="preserve">
     <value>Скрыть секреты</value>
@@ -622,7 +622,7 @@
     <value>Показать состояние аккумулятора</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>Показать %</value>
+    <value>Показывать процент заряда</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
     <value>Прозрачность:</value>
@@ -691,7 +691,7 @@
     <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Разместить колоду по центру (вертикально)</value>
+    <value>Центрировать колоду по вертикали</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CreatedCards" xml:space="preserve">
     <value>Отображать созданные карты</value>
@@ -718,7 +718,7 @@
     <value>Показать счетчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
-    <value>Разместить колоду по центру (вертикально)</value>
+    <value>Центрировать колоду по вертикали</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightHand" xml:space="preserve">
     <value>Выделять карты в руке</value>
@@ -733,7 +733,7 @@
     <value>Отображать созданные карты (например Монетку)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Включить окно интерфейса для захвата изображения</value>
+    <value>Включить копию оверлея для захвата изображения</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Отключить смену прозрачности карт (рекомендуется)</value>
@@ -856,7 +856,7 @@
     <value>Сортировка карт: сначала классовые</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Показывать карту при наведении на нее в этом окне</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Показать кривую маны</value>
@@ -925,7 +925,7 @@
     <value>Режим импорта:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
-    <value>Шаблон имени для колод Арены</value>
+    <value>Шаблон для названий колод Арены</value>
   </data>
   <data name="Options_Tracker_Importing_Label_TemplatesFormat" xml:space="preserve">
     <value>Используй в шаблоне:</value>
@@ -1003,10 +1003,10 @@
     <value>Дружеская дуэль</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
-    <value>Приключения / Тренировка</value>
+    <value>Приключения/Тренировка</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
-    <value>Режим Зрителя</value>
+    <value>Режим зрителя</value>
   </data>
   <data name="Options_Tracker_Replays_Label_AccountStatus" xml:space="preserve">
     <value>Состояние учетной записи:</value>
@@ -1048,7 +1048,7 @@
     <value>Запускать Hearthstone вместе с HDT</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
-    <value>Проверка обновлений (РКН может блокировать)</value>
+    <value>Проверка обновлений</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
     <value>Проверка β-обновлений</value>
@@ -1096,10 +1096,10 @@
     <value>Приключения / Тренировка</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Spectator" xml:space="preserve">
-    <value>Режим Зрителя</value>
+    <value>Режим зрителя</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Другое</value>
+    <value>Прочее</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Показать</value>
@@ -2965,7 +2965,7 @@
     <value>Из кода колоды</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Колода / Мои игры / Интерфейс</value>
+    <value>Колоды / Мои игры / Оверлей</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
     <value>{0} д. назад</value>
@@ -3190,13 +3190,13 @@
     <value>Авто-импорт новых колод</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Шаблон имени для колод Приключений</value>
+    <value>Шаблон для названий колод Приключений</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
     <value>Включая пассивные карты</value>
   </data>
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Показать «любимые» колоды в начале (метка Favorite)</value>
+    <value>Показывать избранные колоды в начале (метка Favorite)</value>
   </data>
   <data name="Button_Download" xml:space="preserve">
     <value>Скачать</value>
@@ -3427,7 +3427,7 @@
     <value>Показать дополнение</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Stats_Arena_Rewards_Label_Packs_TheBarrens</value>
+    <value>Колода содержит карты дополнения Возмездие теней</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>Возмездие теней:</value>
@@ -3490,7 +3490,7 @@
     <value>{0} ходов назад</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Показать уровни Полей сражений</value>
+    <value>Показывать доступных существ в каждой таверне</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Счетчик Галакронда:</value>
@@ -3517,10 +3517,10 @@
     <value>Руины Запределья</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Показать счетчик ходов на Полях сражений</value>
+    <value>Показывать счётчик ходов</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Уведомление героя в начале матча на Полях сражений</value>
+    <value>Показывать подсказки по выбору героя на Полях сражений</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0} ход</value>
@@ -3613,7 +3613,7 @@
     <value>Включить симуляции боя</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Показывать результаты во время боевой фазы</value>
+    <value>Показывать результаты во время фазы боя</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
     <value>Показывать результаты во время фазы вербовки</value>
@@ -3670,231 +3670,231 @@
     <value>Найдены неизвестные карты</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Источник</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>Недоступно</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Захват оверлея полей сражений</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>Некроситет:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
-    <value>Deck contains cards from the Scholomance Academy expansion</value>
+    <value>Колода содержит карты дополнения Некроситет</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Некроситет</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Некроситет</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>Недоступно</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Всегда отображать средний урон</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>УСР УРОН</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Усредненный урон</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>Эти панели отображают средний 80-ти процентный возможный урон.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Вы ещё не сражались с этим противником</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>Нет существ на столе</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Дуэли</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Дуэли</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Дуэли</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Duels deck name template</value>
+    <value>Шаблон для названий колод Дуэлей</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Дуэли</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Колода содержит карты дополнения Ярмарка безумия.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>Ярмарка безумия:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Ярмарка безумия</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Ярмарка безумия</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Показывать счётчик опыта</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Ход</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Ходов</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Использовать изображения карт в высоком разрешении</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Размер изображения карты</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>Только в этом окне. Отдельные настройки окна для интерфейса и колоды можно найти в 'Интерфейс &gt; Общие' и 'Интерфейс &gt; Окна'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Показывать карту при наведении</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Классический</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Классический</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Колода содержит карты дополнения Закаленные Степями.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Колода содержит карты из мини-сета Пещеры Стенаний.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>Показывать подсказки по мулигану в начале рейтинговой игры</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Колода содержит карты из Прошлых наборов.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>Что мне оставить?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Колода содержит карты из Основного набора.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Нет данных для этой колоды</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens;</value>
+    <value>Закаленные Степями:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Закаленные Степями</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Закаленные Степями</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Пещеры Стенаний</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Прошлые наборы</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>Руководство по сбросу от HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Счётчик удешевления манускриптов:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Счётчик удешевления манускриптов:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>Ожидание фазы покупки</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Знаешь какая колода у противника?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Скопируйте код колоды в буфер обмена и нажмите на кнопку ниже, чтобы отслеживать оставшиеся карты в колоде противника</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Выбрать колоду из буфера обмена</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Закрыть</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Очистить</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>В буфере обмена код колоды не обнаружен</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Дать возможность указывать колоду оппонента в рейтинговых матчах</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Сплоченные Штормградом</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Колода содержит карты дополнения Сплоченные Штормградом</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Результаты могут быть менее точными, чем обычно. Мы активно работаем над улучшениями.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Наёмники</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Наёмники</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>При наведении на наёмников оппонента показывать их способности</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>При наведении на ваших наёмников показывать их способности</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>Показывать иконки способностей над наёмниками оппонента</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>Показывать иконки способностей под вашими наёмниками</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Наёмники</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>Task progress will update after the game</value>
+    <value>Прогресс задач обновится после окончания матча</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Задачи</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Task {0}: {1}</value>
+    <value>Задача {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Выполнено!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>Показывать панель задач наёмников</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
+    <value>Колода содержит карты дополнения Разделенные Альтераком.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>Разделенные Альтераком:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Разделенные Альтераком</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Разделенные Альтераком</value>
   </data>
 </root>
