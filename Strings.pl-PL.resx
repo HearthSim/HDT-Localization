@@ -3897,4 +3897,16 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
     <value>Rozbici w Dolinie Alterak</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
+    <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
+    <value>Voyage to the Sunken City:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
+    <value>Voyage to the Sunken City</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
+    <value>Voyage to the Sunken City</value>
+  </data>
 </root>
