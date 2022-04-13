@@ -3541,7 +3541,7 @@
     <value>악마사냥꾼</value>
   </data>
   <data name="MainWindow_Menu_Class_DemonHunter" xml:space="preserve">
-    <value>D_emon Hunter</value>
+    <value>악마사냥꾼(_E)</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
     <value>덱에 수습 악마사냥꾼 세트 카드가 포함되어 있습니다.</value>
@@ -3796,7 +3796,7 @@
     <value>불모의 땅</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>통곡의 동굴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>고전</value>
@@ -3805,13 +3805,13 @@
     <value>HSReplay.net - Mulligan Guide</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>스톰윈드</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>Awaiting Shopping Phase</value>
@@ -3901,13 +3901,13 @@
     <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City:</value>
+    <value>가라앉은 도시로의 항해:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>가라앉은 도시로의 항해</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>가라앉은 도시로의 항해</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
     <value>Card on top</value>
