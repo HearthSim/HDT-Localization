@@ -340,7 +340,7 @@
     <value>Ajuda</value>
   </data>
   <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
-    <value>Baralho do Adversário</value>
+    <value>Baralho do Oponente</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
     <value>Ordenar/Filtrar</value>
@@ -490,7 +490,7 @@
     <value>Jogador</value>
   </data>
   <data name="Options_Overlay_Opponent_Header" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Oponente</value>
   </data>
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
     <value>Interatividade</value>
@@ -544,7 +544,7 @@
     <value>Jogador</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Oponente</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
     <value>Principal</value>
@@ -577,7 +577,7 @@
     <value>Ocultar se o HS estiver em segundo plano</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Ocultar dekcs</value>
+    <value>Ocultar decks</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
     <value>Ocultar contadores</value>
@@ -667,7 +667,7 @@
     <value>Desligado</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_SameScaling" xml:space="preserve">
-    <value>Usar a mesma escala para jogador/adversário</value>
+    <value>Usar a mesma escala para jogador/oponente</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Scaling" xml:space="preserve">
     <value>Escala:</value>
@@ -700,7 +700,7 @@
     <value>Destacar cartas descartadas do baralho</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_SameScaling" xml:space="preserve">
-    <value>Usar a mesma escala para jogador/adversário</value>
+    <value>Usar a mesma escala para jogador/oponente</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
     <value>Escala:</value>
@@ -1399,7 +1399,7 @@
     <value>Jogado</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Opponents" xml:space="preserve">
-    <value>Adversários</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Arena_Summary_Label_AverageWinsClass" xml:space="preserve">
     <value>Média de vitórias por classe</value>
@@ -1600,10 +1600,10 @@
     <value>Jogado(%)</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Opponents" xml:space="preserve">
-    <value>Adversários</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Opponents" xml:space="preserve">
-    <value>Adversários</value>
+    <value>Oponentes</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
     <value>Destaques</value>
@@ -1741,7 +1741,7 @@
     <value>Região:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
-    <value>Nome do adversário...</value>
+    <value>Nome do oponente...</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_Notes_Watermark" xml:space="preserve">
     <value>Notas...</value>
@@ -2344,7 +2344,7 @@
     <value>Estatísticas</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Baralho do adversário</value>
+    <value>Baralho do oponente</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Mover para janela principal</value>
@@ -2356,7 +2356,7 @@
     <value>Próximo compra terá fadiga de:</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
-    <value>Adversário</value>
+    <value>Oponente</value>
   </data>
   <data name="Overlay_Label_Warning" xml:space="preserve">
     <value>Aviso!</value>
@@ -2380,7 +2380,7 @@
     <value>Baralho do oponente</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Ocultar baralho do adversário</value>
+    <value>Ocultar baralho do oponente</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
     <value>Escolha o baralho</value>
