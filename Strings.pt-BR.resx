@@ -577,7 +577,7 @@
     <value>Ocultar se o HS estiver em segundo plano</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideDecks" xml:space="preserve">
-    <value>Ocultar baralhos</value>
+    <value>Ocultar dekcs</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
     <value>Ocultar contadores</value>
@@ -685,7 +685,7 @@
     <value>Mostrar contador do C'Thun:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Mostar contador de feitiços:</value>
+    <value>Mostrar contador de feitiços:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
@@ -712,7 +712,7 @@
     <value>Mostrar contador do C'Thun:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Mostar contador de feitiços:</value>
+    <value>Mostrar contador de feitiços:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
@@ -982,7 +982,7 @@
     <value>Criado por</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
-    <value>Mostar notificação de compartilhamento</value>
+    <value>Mostrar notificação de compartilhamento</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
     <value>Upload automático de repetições</value>
@@ -3406,10 +3406,10 @@
     <value>O Projeto Cabum</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Mostrar contador Pogo-Hopper:</value>
+    <value>Mostrar contador Pogo-Pol:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Mostrar contador Pogo-Hopper:</value>
+    <value>Mostrar contador Pogo-Pol:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>Baralho contém cartas da expansão Ringue do Rastakhan.</value>
@@ -3517,7 +3517,7 @@
     <value>Cinzas de Terralém</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Mostrar contador de turno dos Campos de Batalha</value>
+    <value>Mostrar Contador de Turno dos Campos de Batalha</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Mostrar notificação do herói ao iníciar uma partida nos Campos de Batalha</value>
@@ -3883,7 +3883,7 @@
     <value>Completed!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>Exibir painel de Tarefas no modo Mercenários</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
     <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
