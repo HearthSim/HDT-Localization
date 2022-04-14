@@ -265,10 +265,10 @@
     <value>_Construído</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>_Repetições</value>
+    <value>_Replays</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>_Últimas Repetições</value>
+    <value>_Últimos Replays</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
     <value>_Selecionar de estatísticas</value>
@@ -508,7 +508,7 @@
     <value>Estatísticas</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
-    <value>Repetições</value>
+    <value>Replays</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
     <value>Exportando</value>
@@ -985,7 +985,7 @@
     <value>Mostrar notificação de compartilhamento</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Upload automático de repetições</value>
+    <value>Upload automático de replays</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Ranqueado</value>
@@ -3064,7 +3064,7 @@
     <value>Guerreiro</value>
   </data>
   <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>Não há repetições disponíveis</value>
+    <value>Não há replays disponíveis</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
     <value>Selecione um baralho para ver seus jogos recentes!</value>
