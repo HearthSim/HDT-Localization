@@ -148,7 +148,7 @@
     <value>_Guerreiro</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditDeck" xml:space="preserve">
-    <value>Editar _baralho</value>
+    <value>Editar _deck</value>
   </data>
   <data name="MainWindow_Menu_Deck_EditName" xml:space="preserve">
     <value>Editar _nome</value>
@@ -193,13 +193,13 @@
     <value>_Clonar</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_EntireDeck" xml:space="preserve">
-    <value>Baralho completo</value>
+    <value>Deck completo</value>
   </data>
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
     <value>Versão selecionada</value>
   </data>
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
-    <value>_Baralho</value>
+    <value>_Deck</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
     <value>_Importar</value>
@@ -241,7 +241,7 @@
     <value>para Hearthstone via _Web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Guardar como _XML</value>
+    <value>Salvar como _XML</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
     <value>Copiar _IDS para área de transferência</value>
@@ -382,13 +382,13 @@
     <value>Cartas:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
-    <value>Guardar</value>
+    <value>Salvar</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
     <value>(atual)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Guardar como novo</value>
+    <value>Salvar como novo</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -943,7 +943,7 @@
     <value>Etiquetar baralhos ao importar</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>Guardar baralho automaticamente ao importar</value>
+    <value>Salvar deck automaticamente ao importar</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Resultado do jogo</value>
@@ -1024,10 +1024,10 @@
     <value>Isso só rastreia informações muito básicas para nos ajudar a melhorar o HDT, como app e partidas jogadas.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
-    <value>Guardar configurações em AppData</value>
+    <value>Salvar configurações em AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveDataAppData" xml:space="preserve">
-    <value>Guardar dados em AppData</value>
+    <value>Salvar dados em AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>Iniciar com o windows</value>
@@ -1129,7 +1129,7 @@
     <value>Descartar jogos sem turno</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
-    <value>Guardar replay no PC</value>
+    <value>Salvar replay no PC</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
     <value>Manter as estatísticas quando apagar um baralho*</value>
@@ -1804,7 +1804,7 @@
     <value>Baralho</value>
   </data>
   <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
-    <value>Guardar para</value>
+    <value>Salvar para</value>
   </data>
   <data name="Importing_Constructed_Text_StartHearthstonePlay" xml:space="preserve">
     <value>Inicie o Hearthstone e entre no menu 'Jogar'.</value>
@@ -1879,7 +1879,7 @@
     <value>Sobrecarga</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>Importar e guardar automaticamente</value>
+    <value>Importar e salvar automaticamente</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
     <value>Perguntar para importar automaticamente</value>
@@ -2140,10 +2140,10 @@
     <value>Cores de classe:</value>
   </data>
   <data name="DeckNotes_Button_Save" xml:space="preserve">
-    <value>Guardar</value>
+    <value>Salvar</value>
   </data>
   <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
-    <value>Guardar automaticamente quando o diálogo é fechado</value>
+    <value>Salvar automaticamente quando o diálogo é fechado</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
     <value>Importar</value>
@@ -2374,7 +2374,7 @@
     <value>Definir</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
-    <value>Guardar com ENTER</value>
+    <value>Salvar com ENTER</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
     <value>Baralho do oponente</value>
@@ -2446,7 +2446,7 @@
     <value>Editar jogo</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
-    <value>Guardar</value>
+    <value>Salvar</value>
   </data>
   <data name="ArenaRewardsDialog_Title" xml:space="preserve">
     <value>Recompensas da Arena</value>
@@ -2575,7 +2575,7 @@
     <value>"upload" irá enviar automaticamente a imagem para imgur.com</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
-    <value>Guardar</value>
+    <value>Salvar</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
     <value>Guardar e upload</value>
@@ -2869,7 +2869,7 @@
     <value>Titulo:</value>
   </data>
   <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Guardar no disco</value>
+    <value>Salvar no disco</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
     <value>Erro ao enviar. Tente novamente mais tarde e/ou faça upload manualmente</value>
