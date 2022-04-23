@@ -304,7 +304,7 @@
     <value>Enviar jogos automaticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteDecks" xml:space="preserve">
-    <value>Deletar baralhos automaticamente</value>
+    <value>Deletar decks automaticamente</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_DeleteGames" xml:space="preserve">
     <value>Deletar jogos automaticamente</value>
@@ -466,7 +466,7 @@
     <value>Mostrar histórico das versões</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Histórico de baralho:</value>
+    <value>Histórico de deck:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
     <value>Novidades:</value>
@@ -652,7 +652,7 @@
     <value>Funcionalidades:</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBox_FriendsList" xml:space="preserve">
-    <value>Esconder baralho quando a lista de amigos estiver aberta</value>
+    <value>Esconder deck quando a lista de amigos estiver aberta</value>
   </data>
   <data name="Options_Overlay_Interactivity_CheckBoxSecrets" xml:space="preserve">
     <value>Clique no segredo para desabilitar</value>
@@ -766,7 +766,7 @@
     <value>Tema das cartas:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_DeckLayout" xml:space="preserve">
-    <value>Visual do baralho:</value>
+    <value>Visual do deck:</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_RarityFrames" xml:space="preserve">
     <value>Caixilho colorido pela raridade da carta</value>
@@ -868,7 +868,7 @@
     <value>Usar maiúscula no nome dos decks</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
-    <value>Arquivar baralho quando a arena terminar</value>
+    <value>Arquivar deck quando a arena terminar</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
     <value>Data nos Decks:</value>
@@ -1618,7 +1618,7 @@
     <value>Baralho mais usado</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_BestDeck" xml:space="preserve">
-    <value>Melhor baralho</value>
+    <value>Melhor deck</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_FastestDeck" xml:space="preserve">
     <value>Baralho mais rápido</value>
