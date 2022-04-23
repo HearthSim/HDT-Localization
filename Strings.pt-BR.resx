@@ -808,7 +808,7 @@
     <value>Priorizar cartas douradas</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_DeckName" xml:space="preserve">
-    <value>Definir nome do baralho</value>
+    <value>Definir nome do deck</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Version" xml:space="preserve">
     <value>Incluir número da versão no nome</value>
@@ -865,7 +865,7 @@
     <value>Procura por texto completo no editor de baralhos</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Usar maiúscula no nome dos baralhos</value>
+    <value>Usar maiúscula no nome dos decks</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Arquivar baralho quando a arena terminar</value>
@@ -1132,7 +1132,7 @@
     <value>Salvar replay no PC</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting" xml:space="preserve">
-    <value>Manter as estatísticas quando apagar um baralho*</value>
+    <value>Manter as estatísticas quando apagar um deck*</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_KeepStatsWhenDeleting_Tooltip" xml:space="preserve">
     <value>Isto moverá as stats para o 'baralho por defeito da classe' (também se usado modo sem baralho). Isto quer dizer, estatísticas de séries de arena serão perdidos quando apagar baralhos de arena!</value>
@@ -1147,7 +1147,7 @@
     <value>Procurar...</value>
   </data>
   <data name="DeckPicker_ContextMenu_Use" xml:space="preserve">
-    <value>_Usar baralho</value>
+    <value>_Usar deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
     <value>Editar _baralho</value>
@@ -1477,7 +1477,7 @@
     <value>Ver.</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
-    <value>Baralho:</value>
+    <value>Deck:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_Winrate" xml:space="preserve">
     <value>Índice de vitórias:</value>
@@ -1513,7 +1513,7 @@
     <value>Eliminar selecionados</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Baralho</value>
+    <value>Deck</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>Classe</value>
@@ -3817,7 +3817,7 @@
     <value>Awaiting Shopping Phase</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Conhece o deck do seu oponente?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
