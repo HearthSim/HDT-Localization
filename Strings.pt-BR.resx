@@ -358,7 +358,7 @@
     <value>Notas da atualização</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>Importação de baralho</value>
+    <value>Importação de deck</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
     <value>Mover para uma nova janela</value>
@@ -1150,7 +1150,7 @@
     <value>_Usar deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Editar _baralho</value>
+    <value>Editar _deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>Editar _nome</value>
@@ -2668,7 +2668,7 @@
     <value>Contador de fadiga</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>Nome do baralho</value>
+    <value>Nome do deck</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Vitórias</value>
