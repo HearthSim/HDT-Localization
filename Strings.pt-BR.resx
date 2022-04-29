@@ -2344,7 +2344,7 @@
     <value>Estatísticas</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Baralho do oponente</value>
+    <value>Deck do oponente</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Mover para janela principal</value>
@@ -2380,7 +2380,7 @@
     <value>Baralho do oponente</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Ocultar baralho do oponente</value>
+    <value>Ocultar deck do oponente</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
     <value>Escolha o baralho</value>
@@ -2476,7 +2476,7 @@
     <value>Informação adicional (opcional)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
-    <value>Baralho errado detectado</value>
+    <value>Deck errado detectado</value>
   </data>
   <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
     <value>Escolha o baralho</value>
