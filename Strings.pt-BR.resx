@@ -358,7 +358,7 @@
     <value>Notas da atualização</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>Importação de baralho</value>
+    <value>Importação de deck</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
     <value>Mover para uma nova janela</value>
@@ -1150,7 +1150,7 @@
     <value>_Usar deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Deck" xml:space="preserve">
-    <value>Editar _baralho</value>
+    <value>Editar _deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Name" xml:space="preserve">
     <value>Editar _nome</value>
@@ -2344,7 +2344,7 @@
     <value>Estatísticas</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Baralho do oponente</value>
+    <value>Deck do oponente</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Mover para janela principal</value>
@@ -2380,7 +2380,7 @@
     <value>Baralho do oponente</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
-    <value>Ocultar baralho do oponente</value>
+    <value>Ocultar deck do oponente</value>
   </data>
   <data name="MoveGameDialog_Title" xml:space="preserve">
     <value>Escolha o baralho</value>
@@ -2476,7 +2476,7 @@
     <value>Informação adicional (opcional)</value>
   </data>
   <data name="DeckSelectedDialog_Title" xml:space="preserve">
-    <value>Baralho errado detectado</value>
+    <value>Deck errado detectado</value>
   </data>
   <data name="DeckSelectedDialog_Label_SelectDeck" xml:space="preserve">
     <value>Escolha o baralho</value>
@@ -2668,7 +2668,7 @@
     <value>Contador de fadiga</value>
   </data>
   <data name="Enum_DeckPanel_DeckTitle" xml:space="preserve">
-    <value>Nome do baralho</value>
+    <value>Nome do deck</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Vitórias</value>
