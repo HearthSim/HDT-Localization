@@ -3921,4 +3921,55 @@
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
     <value>On Top</value>
   </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
+    <value>Minions Banned</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
+    <value>MMR</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
+    <value>Latest Games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
+    <value>Show Session Recap</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
+    <value>Show Minions Banned</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
+    <value>Show Start and Current MMR</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
+    <value>Show Latest Games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
+    <value>Show External Window</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
+    <value>Reset Session</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
+    <value>Hero</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
+    <value>Final</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
+    <value>MMR</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Text_EmptyState" xml:space="preserve">
+    <value>No games played this session.&amp;#10;New games will appear here.</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_One" xml:space="preserve">
+    <value>{0}st</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_Two" xml:space="preserve">
+    <value>{0}nd</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_Three" xml:space="preserve">
+    <value>{0}rd</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_Other" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
 </root>
