@@ -3957,8 +3957,8 @@
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Text_EmptyState" xml:space="preserve">
-    <value>No games played this session.&amp;#10;New games will appear here.</value>
+  <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
+    <value>No games played this session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}st</value>
@@ -3995,5 +3995,8 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>Reset Session will clear Latest Games list and make your start MMR equals your Current one.</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
+    <value>New games will appear here.</value>
   </data>
 </root>
