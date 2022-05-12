@@ -3990,4 +3990,10 @@
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
     <value>{0}th</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
+    <value>Scaling</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
+    <value>Reset Session will clear Latest Games list and make your start MMR equals your Current one.</value>
+  </data>
 </root>
