@@ -3940,10 +3940,10 @@
     <value>Show Start and Current MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest Games</value>
+    <value>Show Latest 10 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show External Window</value>
+    <value>Show as Separate Window</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Reset Session</value>
@@ -3997,6 +3997,12 @@
     <value>Reset Session will clear Latest Games list and make your start MMR equals your Current one.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>New games will appear here.</value>
+    <value>Latest 10 games will appear here.</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
+    <value>Final Board</value>
   </data>
 </root>
