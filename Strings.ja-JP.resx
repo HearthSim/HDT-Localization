@@ -3994,7 +3994,7 @@
     <value>Scaling</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Reset Session will clear Latest Games list and make your start MMR equals your Current one.</value>
+    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
     <value>Latest 10 games will appear here.</value>
@@ -4004,5 +4004,17 @@
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>Final Board</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
+    <value>Reset overlay to default</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
+    <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
+    <value>Reset session</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
+    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
 </root>
