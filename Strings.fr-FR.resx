@@ -4017,4 +4017,13 @@
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
     <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
+  <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
+    <value>Latest Tier Up</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
+    <value>Minions Tripled At Tier</value>
+  </data>
+  <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
+    <value>No Upgrades</value>
+  </data>
 </root>
