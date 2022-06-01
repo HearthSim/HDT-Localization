@@ -628,13 +628,13 @@
     <value>Przezroczystość:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Edytuj elementy interfejsu:</value>
+    <value>Move overlay:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Zresetuj</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Zresetuj układ interfejsu:</value>
+    <value>Reset overlay position:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Odblokuj interfejs</value>
@@ -3920,5 +3920,122 @@
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
     <value>On Top</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
+    <value>Minions Banned</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
+    <value>MMR</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
+    <value>Latest Games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
+    <value>Show Session Recap Overlay</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
+    <value>Show Minions Banned</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
+    <value>Show Start and Current MMR</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
+    <value>Show Latest 10 Games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
+    <value>Show Session Recap Window</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
+    <value>Reset Session</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
+    <value>Hero</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
+    <value>Final</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
+    <value>MMR</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
+    <value>No games played this session.</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
+    <value>{0}st</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
+    <value>{0}nd</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
+    <value>{0}rd</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
+  <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
+    <value>Current</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
+  <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
+    <value>{0}th</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
+    <value>Scaling</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
+    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
+    <value>Latest 10 games will appear here.</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
+    <value>Final Board</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
+    <value>Reset overlay to default</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
+    <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
+    <value>Reset session</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
+    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
+    <value>Latest Tier Up</value>
+  </data>
+  <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
+    <value>Minions Tripled At Tier</value>
+  </data>
+  <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
+    <value>No Upgrades</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
+    <value>Session Recap</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
+    <value>Show Abyssal Curse counter:</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
+    <value>Show Abyssal Curse counter:</value>
+  </data>
+  <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
+    <value>Waiting for next game</value>
   </data>
 </root>
