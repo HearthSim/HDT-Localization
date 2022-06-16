@@ -4038,4 +4038,10 @@
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>Waiting for next game</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
+    <value>Show Session Recap Overlay between games</value>
+  </data>
+  <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
+    <value>No minion played</value>
+  </data>
 </root>
