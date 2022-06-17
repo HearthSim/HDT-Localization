@@ -3961,16 +3961,16 @@
     <value>Aucune partie n'a été joué lors de cette session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>{0}er</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
     <value>Début</value>
@@ -3979,16 +3979,16 @@
     <value>Actuelle</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}ème</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Mise à l'échelle</value>
@@ -4018,13 +4018,13 @@
     <value>Cela effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>Dernier palier passé</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
-    <value>Minions Tripled At Tier</value>
+    <value>Serviteurs triplés au palier</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
-    <value>No Upgrades</value>
+    <value>Aucune amélioration</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>Récapitulatif de session</value>
