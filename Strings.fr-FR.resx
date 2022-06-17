@@ -628,13 +628,13 @@
     <value>Opacité :</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Déplacer l'overlay :</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Réinitialiser</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Réinitialiser la position de l'overlay :</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Déverrouiller l'overlay</value>
@@ -3898,58 +3898,58 @@
     <value>Divisés dans la vallée d’Alterac</value>
   </data>
   <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
-    <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
+    <value>Le deck contient des cartes provenant de l'extension Au cœur de la cité engloutie.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City:</value>
+    <value>Au cœur de la cité engloutie :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Au cœur de la cité engloutie</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Au cœur de la cité engloutie</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
-    <value>Card on top</value>
+    <value>Carte en haut</value>
   </data>
   <data name="Enum_DeckPanel_CardsBottom" xml:space="preserve">
-    <value>Cards on bottom</value>
+    <value>Cartes en bas</value>
   </data>
   <data name="DeckLens_Label_OnBottom" xml:space="preserve">
-    <value>On Bottom</value>
+    <value>En bas</value>
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
-    <value>On Top</value>
+    <value>En haut</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Minions Banned</value>
+    <value>Serviteurs bannis</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Latest Games</value>
+    <value>Dernières parties</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Show Session Recap Overlay</value>
+    <value>Afficher l'overlay du récapitulatif de la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>Afficher les serviteurs bannis</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Afficher début et actuelle MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Afficher 10 dernières parties</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Afficher fenêtre du récapitulatif de la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>Réinitialiser la session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>Héro</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
@@ -3958,7 +3958,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Aucune partie n'a été joué lors de cette session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}st</value>
@@ -3973,10 +3973,10 @@
     <value>{0}th</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Début</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>Actuelle</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
     <value>{0}th</value>
@@ -3991,31 +3991,31 @@
     <value>{0}th</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Mise à l'échelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>La réinitialisation de la session effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Les 10 dernières parties apparaîtront ici.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Réinitialiser</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>Board final</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>Réinitialiser l'overlay par défaut</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
-    <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
+    <value>La position du récapitulatif de session de Champs de Bataille sera réinitialisée par défaut. Êtes-vous sûr ?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>Réinitialiser la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Cela effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
     <value>Latest Tier Up</value>
@@ -4027,21 +4027,21 @@
     <value>No Upgrades</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>Session Recap</value>
+    <value>Récapitulatif de session</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Afficher compteur Malédiction abyssale :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Afficher compteur Malédiction abyssale :</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>En attente de la prochaine partie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>Afficher l'overlay de récapitulatif de session entre deux parties</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Pas de serviteurs joués</value>
   </data>
 </root>
