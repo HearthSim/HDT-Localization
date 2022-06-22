@@ -913,10 +913,10 @@
     <value>Isto vai verificar por baralhos novos ou modificados cada vez que entrar no menu 'jogar'.</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>Importar automaticamente novos baralhos</value>
+    <value>Importar automaticamente novos decks</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
-    <value>Auto atualizar baralhos modificados</value>
+    <value>Atualizar automaticamente decks modificados</value>
   </data>
   <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -3250,7 +3250,7 @@
     <value>Obrigado por nos apoiar!</value>
   </data>
   <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Descubra mais</value>
+    <value>Saiba mais</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>Configurações da conta</value>
