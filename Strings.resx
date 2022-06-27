@@ -4044,4 +4044,10 @@
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>No minion played</value>
   </data>
+  <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
+    <value>Deck has less than 40 cards.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
+    <value>Deck has more than 40 cards.</value>
+  </data>
 </root>
