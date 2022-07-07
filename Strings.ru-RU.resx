@@ -628,16 +628,16 @@
     <value>Прозрачность:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Перемещение оверлея:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Сброс</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Сброс положения оверлея:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
-    <value>Разблок. интерфейс</value>
+    <value>Разблокировать</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Warning" xml:space="preserve">
     <value>Предупреждение:</value>
@@ -2770,7 +2770,7 @@
     <value>Появится, если ненадолго остановить курсор на карте.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
-    <value>Работает только для мобильных устройств (ноутбук, планшет).</value>
+    <value>Только для мобильных устройств (ноутбук, планшет)</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
     <value>Разместить карты и информационные панели в центре выбранной зоны. Зона может быть изменена в разделе «Интерфейс → Общие → Разблокировать».</value>
