@@ -3949,7 +3949,7 @@
     <value>Reset Session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>Герой</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
@@ -3961,16 +3961,16 @@
     <value>No games played this session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
     <value>Start</value>
@@ -3979,16 +3979,16 @@
     <value>Current</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}-й</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}-й</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Scaling</value>
@@ -4045,9 +4045,9 @@
     <value>No minion played</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>В колоде меньше 40 карт.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>В колоде больше 40 карт.</value>
   </data>
 </root>
