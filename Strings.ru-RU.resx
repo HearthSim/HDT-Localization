@@ -688,7 +688,7 @@
     <value>Счетчик заклинаний:</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
-    <value>Показать счетчик атаки со стола</value>
+    <value>Показывать счётчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Центрировать колоду по вертикали</value>
@@ -715,7 +715,7 @@
     <value>Счетчик заклинаний:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
-    <value>Показать счетчик атаки со стола</value>
+    <value>Показывать счётчик атаки со стола</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Центрировать колоду по вертикали</value>
@@ -3406,10 +3406,10 @@
     <value>Проект Бумного дня</value>
   </data>
   <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Счетчик Прыг-скокеров:</value>
+    <value>Счётчик прыг-скокеров:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Счетчик Прыг-скокеров:</value>
+    <value>Счётчик прыг-скокеров:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>Колода содержит карты дополнения Растахановы игрища.</value>
@@ -3610,7 +3610,7 @@
     <value>Приятель Боба</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Включить симуляции боя</value>
+    <value>Проводить симуляцию боя</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
     <value>Показывать результаты во время фазы боя</value>
@@ -3916,10 +3916,10 @@
     <value>Карты в конце колоды</value>
   </data>
   <data name="DeckLens_Label_OnBottom" xml:space="preserve">
-    <value>On Bottom</value>
+    <value>Низ колоды</value>
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
-    <value>On Top</value>
+    <value>Верх колоды</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
     <value>Minions Banned</value>
@@ -4000,7 +4000,7 @@
     <value>Latest 10 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Сбросить</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>Final Board</value>
@@ -4030,10 +4030,10 @@
     <value>Session Recap</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Счётчик проклятий глубин:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Счётчик проклятий глубин:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>Waiting for next game</value>
