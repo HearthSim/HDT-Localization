@@ -4050,4 +4050,16 @@
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
     <value>Deck has more than 40 cards.</value>
   </data>
+  <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
+    <value>Welcome back to</value>
+  </data>
+  <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
+    <value>Welcome to</value>
+  </data>
+  <data name="NewUserOnboarding_ReturningUserPreamble" xml:space="preserve">
+    <value>Linking your account gives you access to powerful features on HSReplay.net. Click the button below to continue.</value>
+  </data>
+  <data name="NewUserOnboarding_NewUserPreamble" xml:space="preserve">
+    <value>You're moments away from unlocking powerful features to level up your game. Click the button below to get started.</value>
+  </data>
 </root>
