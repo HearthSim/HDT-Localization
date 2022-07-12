@@ -4044,4 +4044,22 @@
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>Pas de serviteurs joués</value>
   </data>
+  <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
+    <value>Deck has less than 40 cards.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
+    <value>Deck has more than 40 cards.</value>
+  </data>
+  <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
+    <value>Welcome back to</value>
+  </data>
+  <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
+    <value>Welcome to</value>
+  </data>
+  <data name="NewUserOnboarding_Preamble" xml:space="preserve">
+    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+  </data>
+  <data name="NewUserOnboarding_Continue" xml:space="preserve">
+    <value>Let's Go</value>
+  </data>
 </root>
