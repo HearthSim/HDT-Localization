@@ -4057,9 +4057,12 @@
     <value>Welcome to</value>
   </data>
   <data name="NewUserOnboarding_ReturningUserPreamble" xml:space="preserve">
-    <value>Linking your account gives you access to powerful features on HSReplay.net. Click the button below to continue.</value>
+    <value>Unlock extra features by optionally connecting your Hearthstone Deck Tracker to HSReplay.net. Click the button below to see what you get.</value>
   </data>
   <data name="NewUserOnboarding_NewUserPreamble" xml:space="preserve">
-    <value>You're moments away from unlocking powerful features to level up your game. Click the button below to get started.</value>
+    <value>Connecting Hearthstone Deck Tracker unlocks extra features on HSReplay.net. Click the button below to check them out.</value>
+  </data>
+  <data name="NewUserOnboarding_Continue" xml:space="preserve">
+    <value>Let's Go</value>
   </data>
 </root>
