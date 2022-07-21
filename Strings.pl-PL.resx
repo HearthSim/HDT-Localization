@@ -628,13 +628,13 @@
     <value>Przezroczystość:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Przesuń nakładkę:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Zresetuj</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Resetuj pozycję nakładki:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Odblokuj interfejs</value>
@@ -3898,16 +3898,16 @@
     <value>Rozbici w Dolinie Alterak</value>
   </data>
   <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
-    <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
+    <value>Talia zawiera karty z dodatku "Wyprawa do Zatopionego Miasta".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City:</value>
+    <value>Wyprawa do Zatopionego Miasta:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Wyprawa do Zatopionego Miasta</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Wyprawa do Zatopionego Miasta</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
     <value>Card on top</value>
@@ -3961,13 +3961,13 @@
     <value>No games played this session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>Pierwszy</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>Drugi</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>Trzeci</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
     <value>{0}th</value>
@@ -4036,7 +4036,7 @@
     <value>Show Abyssal Curse counter:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>Oczekiwanie na następną grę</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
@@ -4045,21 +4045,21 @@
     <value>No minion played</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>Talia ma mniej niż 40 kart.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>Talia ma więcej niż 40 kart.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>Witamy ponownie w</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Witamy w</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Uwolnij swój potencjał za pomocą Hearthstone Deck Tracker i HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>Do dzieła</value>
   </data>
 </root>
