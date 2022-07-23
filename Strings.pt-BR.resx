@@ -2284,7 +2284,7 @@
     <value>Automático</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
-    <value>Modo sem baralho</value>
+    <value>Modo sem deck</value>
   </data>
   <data name="DeckPicker_Deck_Label_Use" xml:space="preserve">
     <value>Usar</value>
@@ -3094,7 +3094,7 @@
     <value>Iniciar Aplicativo / Hearthstone</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>Modo sem baralho</value>
+    <value>Modo sem deck</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
     <value>Seleção automática</value>
@@ -3937,7 +3937,7 @@
     <value>Show Minions Banned</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Exibir MMR Inicial e Atual</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
     <value>Exibir Últimos 10 Jogos</value>
@@ -3973,10 +3973,10 @@
     <value>{0}th</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Inicial</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>Atual</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
     <value>{0}th</value>
@@ -3994,10 +3994,10 @@
     <value>Escala</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Redefinir a sessão limpará a lista Últimos Jogos e definirá o MMR inicial para corresponder ao seu MMR atual.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Os ultimos 10 jogos aparecem aqui.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Reset</value>
