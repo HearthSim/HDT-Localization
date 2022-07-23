@@ -610,7 +610,7 @@
     <value>Desabilitar segredos automaticamente</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_NoResetAfterGame" xml:space="preserve">
-    <value>Não reinicie o baralho após um jogo</value>
+    <value>Não reinicie o deck após um jogo</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_GoldProgress" xml:space="preserve">
     <value>Progresso do ouro sempre visível (no menu)</value>
@@ -628,13 +628,13 @@
     <value>Opacidade:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Ajustar sobreposição:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
-    <value>Resetar</value>
+    <value>Redefinir</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Redefinir sobreposição:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Ajustar sobreposição</value>
@@ -1039,13 +1039,13 @@
     <value>Minimizar para a bandeja</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>Mostrar o ecrâ de carregamento</value>
+    <value>Exibir a tela de carregamento</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
-    <value>Fechar juntamente com o Hearthstone</value>
+    <value>Fechar com o Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Iniciar o Hearthstone com o HDT</value>
+    <value>Iniciar Hearthstone com o HDT</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Procurar atualizações</value>
@@ -1057,10 +1057,10 @@
     <value>Janela de pesquisa avançada</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture" xml:space="preserve">
-    <value>Captura de ecrã alternativa</value>
+    <value>Captura de tela alternativa</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
-    <value>Mostrar barra de notícias</value>
+    <value>Exibir barra de notícias</value>
   </data>
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Mudar localização do hearthstone</value>
@@ -1819,7 +1819,7 @@
     <value>Entre no menu 'Taverna'.</value>
   </data>
   <data name="Importing_Constructed_Text_NoDecksFound" xml:space="preserve">
-    <value>Não foram encontrados novos baralhos.</value>
+    <value>Não foram encontrados novos decks.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
     <value>Iniciar Cliente / Hearthstone</value>
@@ -2272,7 +2272,7 @@
     <value>Mostrar notas das atualizações</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
-    <value>Baralho ativo:</value>
+    <value>Deck ativo:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
     <value>Nenhum</value>
@@ -3067,7 +3067,7 @@
     <value>Não há replays disponíveis</value>
   </data>
   <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Selecione um baralho para ver seus jogos recentes!</value>
+    <value>Selecione um deck para ver seus jogos recentes!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
     <value>Mostrar meu painel de jogos</value>
@@ -3328,7 +3328,7 @@
     <value>Meta</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Decks" xml:space="preserve">
-    <value>Baralhos</value>
+    <value>Decks</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_MyReplays" xml:space="preserve">
     <value>Meus Replays</value>
@@ -3934,7 +3934,7 @@
     <value>Show Session Recap Overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>Exibir Lacaios Banidos</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Exibir MMR Inicial e Atual</value>
@@ -3946,10 +3946,10 @@
     <value>Show Session Recap Window</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>Redefinir Sessão</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>Herói</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
@@ -3958,19 +3958,19 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Nenhum jogo nessa sessão.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
     <value>Inicial</value>
@@ -3979,16 +3979,16 @@
     <value>Atual</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}º</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}º</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Escala</value>
@@ -4000,22 +4000,22 @@
     <value>Os ultimos 10 jogos aparecem aqui.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Redefinir</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>Tabuleiro Final</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>Redefinir sobreposição para o padrão</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>Redefinir sessão</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Isso limpará a lista Últimos Jogos e definirá o MMR inicial para corresponder ao seu MMR atual.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
     <value>Latest Tier Up</value>
@@ -4036,13 +4036,13 @@
     <value>Exibir contador de Maldição Abissal:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>Esperando o próximo jogo</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Nenhum lacaio jogado</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Deck has less than 40 cards.</value>
