@@ -3946,31 +3946,31 @@
     <value>Show Session Recap Window</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>セッションのリセット</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>ヒーロー</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Final</value>
+    <value>順位</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>レーティング</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>このセッションでプレイしたゲームがありません。</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
     <value>スタート</value>
@@ -3979,16 +3979,16 @@
     <value>現在</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}位</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}位</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Scaling</value>
