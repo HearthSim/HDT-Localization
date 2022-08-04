@@ -1828,25 +1828,25 @@
     <value>Ожидаем Hearthstone…</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Колода содержит карты дополнения Наксармас.</value>
+    <value>Колода содержит карты из приключения "Проклятие Наксрамаса".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
     <value>Колода содержит карты дополнения Гоблины и гномы.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Колода содержит карты дополнения Черная Гора.</value>
+    <value>Колода содержит карты из приключения "Черная Гора".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
     <value>Колода содержит карты дополнения Большой турнир.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Колода содержит карты дополнения Лига исследователей.</value>
+    <value>Колода содержит карты из приключения "Лига исследователей".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
     <value>Колода содержит карты дополнения Пробуждение древних богов.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
-    <value>Колода содержит карты дополнения Вечеринка в Каражане.</value>
+    <value>Колода содержит карты из приключения "Вечеринка в Каражане".</value>
   </data>
   <data name="ManaCurve_Tooltip_Label_Weapons" xml:space="preserve">
     <value>Оружие</value>
@@ -3544,7 +3544,7 @@
     <value>О_хотник на демонов</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Колода содержит карты из набора Иллидари-посвященный</value>
+    <value>Колода содержит карты из набора Иллидари-посвященный.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>Иллидари-посвященный</value>
@@ -3937,10 +3937,10 @@
     <value>Show Minions Banned</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Показывать начальный и текущий MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Показывать последние 10 игр</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
@@ -3958,7 +3958,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Ни одной игры не сыграно в этой сессии.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}-й</value>
@@ -3991,7 +3991,7 @@
     <value>{0}-й</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Масштаб</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
@@ -4018,7 +4018,7 @@
     <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>Последнее повышение таверны</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
     <value>Minions Tripled At Tier</value>
@@ -4036,7 +4036,7 @@
     <value>Счётчик проклятий глубин:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>В ожидании следующей игры</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
@@ -4063,7 +4063,7 @@
     <value>Let's Go</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
-    <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
+    <value>Колода содержит карты дополнения Убийство в замке Нафрия.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
     <value>Убийство в замке Нафрия:</value>
