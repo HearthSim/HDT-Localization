@@ -628,13 +628,13 @@
     <value>不透明度:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>移動內嵌</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>回到原位</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>重置內嵌的位置</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>解鎖內嵌</value>
@@ -3868,7 +3868,7 @@
     <value>Show ability icons below player Mercenaries</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>傭兵戰隊</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
     <value>Task progress will update after the game</value>
@@ -3922,40 +3922,40 @@
     <value>On Top</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Minions Banned</value>
+    <value>被禁用的種族</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
-    <value>MMR</value>
+    <value>天梯分數</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Latest Games</value>
+    <value>最近遊戲</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Show Session Recap Overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>顯示被禁用的種族</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>顯示開始及目前的天梯分數</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>顯示最近十場遊戲</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>重設工作階段</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>英雄</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Final</value>
+    <value>最終名次</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
-    <value>MMR</value>
+    <value>天梯分数</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
     <value>No games played this session.</value>
@@ -3973,10 +3973,10 @@
     <value>{0}th</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>開始</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>目前</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
     <value>{0}th</value>
@@ -3991,28 +3991,28 @@
     <value>{0}th</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>縮放</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>最近十場遊戲會在這裡顯示</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>復原</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>最終場面</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>重設內嵌至預設值</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>重設工作階段</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
     <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
@@ -4036,13 +4036,13 @@
     <value>Show Abyssal Curse counter:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>等待下一場遊戲</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>沒有放置手下</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Deck has less than 40 cards.</value>
@@ -4060,7 +4060,7 @@
     <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>開始吧</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
