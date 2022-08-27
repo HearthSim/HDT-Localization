@@ -3910,55 +3910,55 @@
     <value>Wyprawa do Zatopionego Miasta</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
-    <value>Card on top</value>
+    <value>Karta na górze</value>
   </data>
   <data name="Enum_DeckPanel_CardsBottom" xml:space="preserve">
-    <value>Cards on bottom</value>
+    <value>Karty na dole</value>
   </data>
   <data name="DeckLens_Label_OnBottom" xml:space="preserve">
-    <value>On Bottom</value>
+    <value>Na dole</value>
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
-    <value>On Top</value>
+    <value>Na górze</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Minions Banned</value>
+    <value>Zablokowani stronnicy</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Latest Games</value>
+    <value>Ostatnie gry</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Show Session Recap Overlay</value>
+    <value>Pokaż nakładkę podsumowania sesji</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>Pokaż zablokowanych stronników</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Pokaż początkowy i bieżący MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Pokaż 10 ostatnich gier</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Pokaż podsumowanie sesji w osobnym oknie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>Zresetuj sesję</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>Bohater</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Final</value>
+    <value>Końcowy</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Nie zagrano żadnej gry w tej sesji.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>Pierwszy</value>
@@ -3973,10 +3973,10 @@
     <value>{0}th</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Początkowy</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>Aktualny</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
     <value>{0}th</value>
@@ -3991,28 +3991,28 @@
     <value>{0}th</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Skalowanie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Zresetowanie sesji spowoduje wyczyszczenie listy Ostatnich Gier i ustawi domyślny MMR, aby odpowiadał bieżącemu MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Ostatnie 10 gier pojawi się tutaj.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zresetuj</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>Podsumowanie planszy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>Przywróć domyślną nakładkę</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
-    <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
+    <value>Pozycja nakładki sesji Ustawki zostanie zresetowana do ustawień domyślnych. Jesteś pewien?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>Zresetuj sesję</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
     <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
@@ -4027,7 +4027,7 @@
     <value>No Upgrades</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>Session Recap</value>
+    <value>Podsumowanie sesji</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
     <value>Show Abyssal Curse counter:</value>
@@ -4042,7 +4042,7 @@
     <value>Show Session Recap Overlay between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Nie zagrano stronnika</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Talia ma mniej niż 40 kart.</value>
@@ -4066,12 +4066,12 @@
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria:</value>
+    <value>Morderstwo w twierdzy Nathria:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Morderstwo w twierdzy Nathria</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Morderstwo w twierdzy Nathria</value>
   </data>
 </root>
