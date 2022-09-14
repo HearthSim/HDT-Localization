@@ -3931,7 +3931,7 @@
     <value>最近的对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>显示赛季回顾内嵌窗口</value>
+    <value>显示时段回顾内嵌窗口</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
     <value>显示被禁用的种族</value>
@@ -3943,10 +3943,10 @@
     <value>显示最近十次对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>显示赛季回顾窗口</value>
+    <value>显示时段回顾窗口</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>重置赛季</value>
+    <value>重置时段数据</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>英雄</value>
@@ -3958,7 +3958,7 @@
     <value>等级积分</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>本赛季里没有进行过对局。</value>
+    <value>本时段里没有进行过对局。</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>第{0}</value>
@@ -3994,7 +3994,7 @@
     <value>缩放比例</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>重置赛季将清除最近的的对局列表，并设置赛季起始的等级积分设置为当前的分数。</value>
+    <value>重置时段将清除最近的的对局列表，并将起始的等级积分设置为当前的分数。</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
     <value>最近10次对局将会显示在这里。</value>
@@ -4009,10 +4009,10 @@
     <value>重置内嵌窗口位置</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
-    <value>对局赛季窗口的位置将会被重置为默认。确定要如此吗？</value>
+    <value>对局时段窗口的位置将会被重置为默认。确定要如此吗？</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>重置赛季</value>
+    <value>重置时段数据</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
     <value>这将清除最近的的对局列表，并设置赛季起始的等级积分设置为当前的分数。</value>
@@ -4027,7 +4027,7 @@
     <value>没有升级</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>赛季回顾</value>
+    <value>时段回顾</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
     <value>显示深渊诅咒计数器：</value>
@@ -4039,7 +4039,7 @@
     <value>等待下次对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>在对局之间显示赛季回顾的内嵌窗口</value>
+    <value>在对局之间显示时段回顾的内嵌窗口</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>没有打出的随从</value>
