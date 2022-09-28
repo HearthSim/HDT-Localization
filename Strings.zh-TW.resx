@@ -3928,7 +3928,7 @@
     <value>天梯分數</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>最近遊戲</value>
+    <value>最近的對戰</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Show Session Recap Overlay</value>
@@ -3940,7 +3940,7 @@
     <value>顯示開始及目前的天梯分數</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>顯示最近十場遊戲</value>
+    <value>顯示最近十場的對戰</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
@@ -3997,7 +3997,7 @@
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>最近十場遊戲會在這裡顯示</value>
+    <value>最近十場對戰會在這裡顯示</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>復原</value>
@@ -4036,7 +4036,7 @@
     <value>Show Abyssal Curse counter:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>等待下一場遊戲</value>
+    <value>等待下一場對戰</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
@@ -4073,5 +4073,8 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
     <value>Murder at Castle Nathria</value>
+  </data>
+  <data name="Enum_HeroClass_Neutral" xml:space="preserve">
+    <value>Neutral</value>
   </data>
 </root>
