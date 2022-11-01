@@ -4075,6 +4075,18 @@
     <value>纳斯利亚堡的悬案</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
-    <value>Neutral</value>
+    <value>中立</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
+    <value>Deck contains cards from the March of the Lich King expansion.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
+    <value>March of the Lich King:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
+    <value>March of the Lich King</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
+    <value>March of the Lich King</value>
   </data>
 </root>
