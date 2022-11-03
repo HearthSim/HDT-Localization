@@ -169,7 +169,7 @@
     <value>_Mover para construido</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Mostrar cartas em falta</value>
+    <value>Mostrar cards em falta</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
     <value>_Atualizar (web)</value>
@@ -379,7 +379,7 @@
     <value>Versão Selecionada:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
-    <value>Cartas:</value>
+    <value>Cards:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
     <value>Salvar</value>
@@ -4081,12 +4081,12 @@
     <value>Deck contains cards from the March of the Lich King expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>Ascensão do Lich Rei:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Ascensão do Lich Rei</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Ascensão do Lich Rei</value>
   </data>
 </root>
