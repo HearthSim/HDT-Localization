@@ -169,7 +169,7 @@
     <value>_Mover para construido</value>
   </data>
   <data name="MainWindow_Menu_Deck_MissingCards" xml:space="preserve">
-    <value>Mostrar cartas em falta</value>
+    <value>Mostrar cards em falta</value>
   </data>
   <data name="MainWindow_Menu_Deck_UpdateWeb" xml:space="preserve">
     <value>_Atualizar (web)</value>
@@ -379,7 +379,7 @@
     <value>Versão Selecionada:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
-    <value>Cartas:</value>
+    <value>Cards:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
     <value>Salvar</value>
@@ -1138,7 +1138,7 @@
     <value>Isto moverá as stats para o 'baralho por defeito da classe' (também se usado modo sem baralho). Isto quer dizer, estatísticas de séries de arena serão perdidos quando apagar baralhos de arena!</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
-    <value>Mostrar as estatísticas do baralho numa janela separada</value>
+    <value>Exibir as estatísticas do deck em uma janela separada</value>
   </data>
   <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
     <value>Análise</value>
@@ -2683,7 +2683,7 @@
     <value>Mostrar o menu do HearthStats</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
-    <value>Baralho encontrado!</value>
+    <value>Deck encontrado!</value>
   </data>
   <data name="ImportingChoiceDialog_Label_Description" xml:space="preserve">
     <value>Escolha uma ação</value>
@@ -2698,10 +2698,10 @@
     <value>Cancelar</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
-    <value>Nenhum baralho encontrado</value>
+    <value>Nenhum deck encontrado</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Text" xml:space="preserve">
-    <value>A Área de Transferência não contém dados de url ou baralhos suportados.</value>
+    <value>A Área de Transferência não contém dados de url ou decks suportados.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PasteBehavior" xml:space="preserve">
     <value>Colar como</value>
@@ -3814,7 +3814,7 @@
     <value>Exibir contador de redução de Incunábulos:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>Aguardando Fase de Compras</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
     <value>Conhece o deck do seu oponente?</value>
@@ -3826,13 +3826,13 @@
     <value>Set deck from clipboard</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Desfazer</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Limpar</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>Nenhum deck válido encontrado na área de transferência</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
     <value>Juntos em Ventobravo</value>
@@ -3856,22 +3856,22 @@
     <value>Mercenários</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>Exibir habilidades do Mercenário oponente ao passar o mouse</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>Exibir habilidades do Mercenário ao passar o mouse</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>Exibir ícones de habilidade acima dos Mercenários oponentes</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>Exibir ícones de habilidade abaixo dos Mercenários do jogador</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>Mercenários</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>Task progress will update after the game</value>
+    <value>O progresso da tarefa será atualizado após o jogo</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
     <value>Tarefas</value>
@@ -3883,7 +3883,7 @@
     <value>Concluído!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Exibir painel de Tarefas no modo Mercenários</value>
+    <value>Exibir Painel de Tarefas no modo Mercenários</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
     <value>Deck contém cards da expansão Divididos no Vale Alterac.</value>
@@ -4045,10 +4045,10 @@
     <value>Nenhum lacaio jogado</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>Deck tem menos de 40 cards.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>Deck tem mais de 40 cards.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>Welcome back to</value>
@@ -4057,7 +4057,7 @@
     <value>Welcome to</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Libere seu potencial com o Hearthstone Deck Tracker e HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Let's Go</value>
@@ -4078,15 +4078,15 @@
     <value>Neutral</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>Deck contém cards da expansão Ascensão do Lich Rei.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>Ascensão do Lich Rei:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Ascensão do Lich Rei</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Ascensão do Lich Rei</value>
   </data>
 </root>
