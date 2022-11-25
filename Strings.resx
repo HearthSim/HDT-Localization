@@ -4158,4 +4158,43 @@
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier_Tooltip" xml:space="preserve">
     <value>Higher armor tier heroes are offered quests with easier completion requirements.\nArmor Range: {0} - {1}</value>
   </data>
+  <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
+    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
+    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+  </data>
+  <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
+    <value>Tier 7 Battlegrounds Overlay</value>
+  </data>
+  <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
+    <value>Hover for more details</value>
+  </data>
+  <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
+    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+    <value>Uses remaining this week:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+    <value>Resets In</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+    <value>Join Tier7 to get unlimited access.</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
+    <value>You're subscribed to Tier7!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
+    <value>All-time highest MMR</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
+    <value>GO TO MY STATS</value>
+  </data>
 </root>
