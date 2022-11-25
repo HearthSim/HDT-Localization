@@ -4089,4 +4089,73 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
     <value>March of the Lich King</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
+    <value>Show Battlegrounds Hero Picking Stats</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
+    <value>No placement data</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
+    <value>{0} Place: {1}%</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
+    <value>No composition data</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
+    <value>TIER</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
+    <value>Avg Placement</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
+    <value>Pick Rate</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
+    <value>Average Placement</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
+    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
+    <value>Pick Rate</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
+    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
+    <value>Tier 1: Overperforming</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
+    <value>Tier 2: Winning</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
+    <value>Tier 3: Underperforming</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
+    <value>Tier 4: Losing</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
+    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
+    <value>Heroes with average placements better than or equal to 4.5</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
+    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
+    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Stats_Details" xml:space="preserve">
+    <value>All Stats From Top {0}% MMR ({1}+)</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
+    <value>Armor Tier</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
+    <value>Percentage of 1st place finishes</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Hero_ArmorTier_Tooltip" xml:space="preserve">
+    <value>Higher armor tier heroes are offered quests with easier completion requirements.\nArmor Range: {0} - {1}</value>
+  </data>
 </root>
