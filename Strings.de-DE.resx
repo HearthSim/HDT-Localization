@@ -4155,8 +4155,8 @@
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Percentage of 1st place finishes</value>
   </data>
-  <data name="BattlegroundsHeroPicking_Hero_ArmorTier_Tooltip" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.\nArmor Range: {0} - {1}</value>
+  <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
+    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
@@ -4196,5 +4196,11 @@
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>GO TO MY STATS</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
+    <value>Armor Range: {0} - {1}</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
+    <value>Armor Tier</value>
   </data>
 </root>
