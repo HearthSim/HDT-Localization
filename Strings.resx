@@ -4203,4 +4203,22 @@
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
     <value>Armor Tier</value>
   </data>
+  <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
+    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+  </data>
+  <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
+    <value>Rewards with average placements better than or equal to 4.5</value>
+  </data>
+  <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
+    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+  </data>
+  <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
+    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+  </data>
+  <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
+    <value>Percent of the time this reward is picked by first place players</value>
+  </data>
+  <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
+    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+  </data>
 </root>
