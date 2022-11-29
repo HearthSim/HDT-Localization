@@ -4221,4 +4221,7 @@
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
+    <value>Show Battlegrounds Quest Picking Stats</value>
+  </data>
 </root>
