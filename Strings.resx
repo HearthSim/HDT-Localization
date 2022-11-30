@@ -4239,4 +4239,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
     <value>Path of Arthas</value>
   </data>
+  <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
+    <value>{0}d {1}h</value>
+  </data>
 </root>
