@@ -4146,7 +4146,7 @@
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
-  <data name="BattlegroundsHeroPicking_Stats_Details" xml:space="preserve">
+  <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
     <value>All Stats From Top {0}% MMR ({1}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
@@ -4241,5 +4241,11 @@
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}d {1}h</value>
+  </data>
+  <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
+    <value>Loading…</value>
+  </data>
+  <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
+    <value>Something went wrong :(</value>
   </data>
 </root>
