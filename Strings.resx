@@ -4248,4 +4248,10 @@
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
     <value>Something went wrong :(</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
+    <value>Show Reward Composition Stats</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
+    <value>Show Overlay while Hearthstone is in the background</value>
+  </data>
 </root>
