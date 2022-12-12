@@ -4252,6 +4252,15 @@
     <value>Show Reward Composition Stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show Overlay while Hearthstone is in the background</value>
+    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
+    <value>Show menu Overlay while Hearthstone is in the background</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
+    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
+    <value>Show menu Overlay while Hearthstone is in the background</value>
   </data>
 </root>
