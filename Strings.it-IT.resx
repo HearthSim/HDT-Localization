@@ -4272,4 +4272,10 @@
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
   </data>
+  <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
+    <value>SHOW HERO OVERLAY</value>
+  </data>
+  <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
+    <value>HIDE HERO OVERLAY</value>
+  </data>
 </root>
