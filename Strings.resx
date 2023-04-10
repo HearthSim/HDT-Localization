@@ -4287,4 +4287,16 @@
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
     <value>E.T.C.'s Band</value>
   </data>
+  <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
+    <value>Deck contains cards from the Festival of Legends set.</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
+    <value>Festival of Legends:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
+    <value>Festival of Legends</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
+    <value>Festival of Legends</value>
+  </data>
 </root>
