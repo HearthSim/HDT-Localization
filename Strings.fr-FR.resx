@@ -3442,7 +3442,7 @@
     <value>Le deck contient des cartes de l'extension Les Aventuriers d'Uldum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Les Aventuriers d’Uldum:</value>
+    <value>Les Aventuriers d’Uldum :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
     <value>Les Aventuriers d’Uldum</value>
@@ -3679,7 +3679,7 @@
     <value>Capturer l'overlay du champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>L'Académie de Scholomance:</value>
+    <value>L'Académie de Scholomance :</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension L'Académie de Sholomance</value>
@@ -3730,7 +3730,7 @@
     <value>Le deck contient des cartes de l'extension Sombrelune.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune:</value>
+    <value>Foire de Sombrelune :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
     <value>Foire de Sombrelune</value>
@@ -3787,7 +3787,7 @@
     <value>Aucune donnée pour ce deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forgés dans les Tarides;</value>
+    <value>Forgés dans les Tarides :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>Forgés dans les Tarides</value>
@@ -3808,7 +3808,7 @@
     <value>Afficher le compteur de réduction des coûts de Libram :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>Unis à Hurlevent</value>
+    <value>Unis à Hurlevent :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Afficher le compteur de réduction des coûts de Libram :</value>
@@ -3889,7 +3889,7 @@
     <value>Le deck contient des cartes provenant de l'extension Divisés dans la vallée d’Alterac.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Divisés dans la vallée d’Alterac:</value>
+    <value>Divisés dans la vallée d’Alterac :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
     <value>Divisés dans la vallée d’Alterac</value>
@@ -4045,52 +4045,52 @@
     <value>Pas de serviteurs joués</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>Le deck a moins de 40 cartes.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>Le deck a plus de 40 cartes.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>Bienvenue à nouveau sur</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Bienvenue sur</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Libérez votre potentiel avec Hearthstone Deck Tracker et HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>C’est parti</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
-    <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
+    <value>Le deck contient des cartes de l'extension Meurtre au château Nathria.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria:</value>
+    <value>Meurtre au château Nathria :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Meurtre au château Nathria</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Meurtre au château Nathria</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
-    <value>Neutral</value>
+    <value>Neutre</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>Le deck contient des cartes de l'extension La marche du roi-liche.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>La marche du roi-liche :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>La marche du roi-liche</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>La marche du roi-liche</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
-    <value>Show Battlegrounds Hero Picking Stats</value>
+    <value>Afficher les statistiques de sélection des héros des champs de bataille</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
@@ -4168,7 +4168,7 @@
     <value>Tier7 Battlegrounds Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Chargement…</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Hover for more details</value>
@@ -4177,13 +4177,13 @@
     <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Bienvenue</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
     <value>Uses remaining this week:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Se réinitialise dans</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
@@ -4225,28 +4225,28 @@
     <value>Show Battlegrounds Quest Picking Stats</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Chevalier de la mort</value>
   </data>
   <data name="MainWindow_Menu_Class_Deathknight" xml:space="preserve">
-    <value>Death_knight</value>
+    <value>Chevalier de la mort</value>
   </data>
   <data name="Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Chevalier de la mort</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Deck contains cards from the Path of Arthas set.</value>
+    <value>Le deck contient des cartes du mini-set Voie d'Arthas.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Path of Arthas</value>
+    <value>Voie d’Arthas</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}d {1}h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>Chargement…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Une erreur s'est produite :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
     <value>Show Reward Composition Stats</value>
@@ -4288,15 +4288,15 @@
     <value>E.T.C.'s Band</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
-    <value>Deck contains cards from the Festival of Legends set.</value>
+    <value>Le deck contient des cartes de l'extension La fête des légendes.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends:</value>
+    <value>La fête des légendes :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
     <value>Festival of Legends</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>La fête des légendes</value>
   </data>
 </root>
