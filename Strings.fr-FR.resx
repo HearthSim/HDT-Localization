@@ -3871,13 +3871,13 @@
     <value>Mercenaires</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>La progression des quêtes sera mise à jour après la partie</value>
+    <value>La progression des tâches sera mise à jour après la partie</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Quêtes</value>
+    <value>Tâches</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Quêtes {0}: {1}</value>
+    <value>Tâche {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
     <value>Terminé !</value>
@@ -4123,16 +4123,16 @@
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>Catégorie 1 : surperformant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>Catégorie 2 : gagnant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>Catégorie 3 : sous-performant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>Catégorie 4 : perdant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
