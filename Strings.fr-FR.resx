@@ -2662,7 +2662,7 @@
     <value>Compteur de cartes</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Chances de tirage</value>
+    <value>Probabilité de tirage</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
     <value>Compteur de fatigue</value>
@@ -3958,7 +3958,7 @@
     <value>Cote</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>Aucune partie n'a été joué lors de cette session.</value>
+    <value>Aucune partie jouée lors de cette session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}er</value>
