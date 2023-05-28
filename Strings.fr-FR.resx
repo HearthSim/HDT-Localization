@@ -4150,13 +4150,13 @@
     <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Niveau d'armure</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Pourcentage d'arrivées à la première place</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>Les héros de plus haut niveau d'armure se voient offrir des quêtes plus faciles à réaliser.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
@@ -4201,7 +4201,7 @@
     <value>Plage d'armure : {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Niveau d'armure</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
