@@ -3802,16 +3802,16 @@
     <value>Héritage</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Guide Mulligan</value>
+    <value>HSReplay.net - Guide du Mulligan</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Afficher le compteur de réduction des coûts de Libram :</value>
+    <value>Afficher le compteur de réduction des coûts des librams :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>Unis à Hurlevent :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Afficher le compteur de réduction des coûts de Libram :</value>
+    <value>Afficher le compteur de réduction des coûts des librams :</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>En attente de la phase d’achat</value>
@@ -3820,7 +3820,7 @@
     <value>Connaissez-vous le deck de votre adversaire ?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copiez un code de deck dans votre presse-papiers et cliquez sur le bouton ci-dessous pour voir la mise à jour de leur deck au fur et à mesure qu'ils jouent</value>
+    <value>Copiez un code de deck dans votre presse-papiers et cliquez sur le bouton ci-dessous pour voir la mise à jour de leur deck au fur et à mesure qu'ils sont joués</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>Définir le deck depuis le presse-papiers</value>
@@ -3829,7 +3829,7 @@
     <value>Ignorer</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Vider</value>
+    <value>Effacer</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>Aucun code de deck valide trouvé dans le presse-papiers</value>
@@ -3838,7 +3838,7 @@
     <value>Unis à Hurlevent</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Activer le paramétrage du deck adversaire dans les matchs non amicaux</value>
+    <value>Permettre le paramétrage du deck adverse dans les matchs non amicaux</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
     <value>Unis à Hurlevent</value>
@@ -3940,16 +3940,16 @@
     <value>Afficher les cotes initiale et actuelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Afficher 10 dernières parties</value>
+    <value>Afficher les 10 dernières parties</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Afficher fenêtre du récapitulatif de la session</value>
+    <value>Afficher la fenêtre du récapitulatif de la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Réinitialiser la session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Héro</value>
+    <value>Héros</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
