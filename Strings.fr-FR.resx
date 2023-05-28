@@ -3643,7 +3643,7 @@
     <value>Afficher le combat précédent</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Léthal</value>
+    <value>Létal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>Victoire</value>
@@ -3679,16 +3679,16 @@
     <value>Capturer l'overlay des champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>L'Académie de Scholomance :</value>
+    <value>L'Académie Scholomance :</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension L'Académie Sholomance</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>L’Académie de Scholomance</value>
+    <value>L’Académie Scholomance</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>L’Académie de Scholomance</value>
+    <value>L’Académie Scholomance</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Indisponible </value>
@@ -3697,13 +3697,13 @@
     <value>Toujours afficher les dégâts moyens</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>DMG MOY</value>
+    <value>DÉG MOY</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Dégâts moyens</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>Ces panneaux montrent le 80e centile milieu des éventuels dommages.</value>
+    <value>Ces panneaux montrent le 80e centile central des dommages possibles.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>Vous n’avez pas encore combattu cet adversaire</value>
@@ -3721,7 +3721,7 @@
     <value>Duels</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Nom de modèle de deck de duels</value>
+    <value>Modèle de nom de deck de duels</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Duels</value>
@@ -3730,13 +3730,13 @@
     <value>Le deck contient des cartes de l'extension Folle journée à Sombrelune.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune :</value>
+    <value>Folle journée à Sombrelune :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune</value>
+    <value>Folle journée à Sombrelune</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune</value>
+    <value>Folle journée à Sombrelune</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
     <value>Afficher le compteur d'expérience</value>
@@ -3754,7 +3754,7 @@
     <value>Mise à l'échelle de l'image de la carte</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>Cette fenêtre uniquement. Les paramètres sont séparés pour les fenêtres de superposition et de deck qui peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Windows'overlay</value>
+    <value>Cette fenêtre uniquement. Les paramètres séparés pour les fenêtres d'overlay et de deck peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Fenêtres' respectivement</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>Info-bulles de carte</value>
