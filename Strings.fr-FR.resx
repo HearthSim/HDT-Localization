@@ -550,7 +550,7 @@
     <value>Au premier plan</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>Uniquement si HS à l'avant-plan</value>
+    <value>Uniquement si HS est à l'avant-plan</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Infobulle des cartes</value>
@@ -2941,7 +2941,7 @@
     <value>Cliquez le bouton de copie ci-dessous</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Créez un nouveau deck dans Hearthstone</value>
+    <value>Créez un deck dans Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
     <value>Seul le code est requis pour l'importation dans Hearthstone. Toute ligne commençant par « # » est ignorée.</value>
@@ -3490,7 +3490,7 @@
     <value>Il y a {0} tour(s)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Afficher le classement des Champs de bataille</value>
+    <value>Afficher le classement des champs de bataille</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Afficher le compteur Galakrond :</value>
@@ -3517,7 +3517,7 @@
     <value>Cendres de l'Outreterre</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Afficher le compteur des tours en Champs de bataille</value>
+    <value>Afficher le compteur de tours en champs de bataille</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Afficher la notification du héros au début de la partie de Champs de Bataille</value>
@@ -3661,7 +3661,7 @@
     <value>Bêta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>Voyez vos chances de gagner ou de perdre chaque round de combat dans Champs de bataille.</value>
+    <value>Voyez vos chances de gagner ou de perdre chaque tour de combat dans les champs de bataille.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>En savoir plus.</value>
@@ -3676,7 +3676,7 @@
     <value>Indisponible</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capturer l'overlay du champs de bataille</value>
+    <value>Capturer l'overlay des champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>L'Académie de Scholomance :</value>
@@ -3937,7 +3937,7 @@
     <value>Afficher les serviteurs bannis</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Afficher début et actuelle cote</value>
+    <value>Afficher les cotes initiale et actuelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
     <value>Afficher 10 dernières parties</value>
@@ -3994,7 +3994,7 @@
     <value>Mise à l'échelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>La réinitialisation de la session effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
+    <value>Réinitialiser la session effacera la liste des dernières parties et réglera la cote de départ pour qu'elle corresponde à votre cote actuelle.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
     <value>Les 10 dernières parties apparaîtront ici.</value>
@@ -4006,7 +4006,7 @@
     <value>Board final</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Réinitialiser l'overlay par défaut</value>
+    <value>Réinitialiser l'overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>La position du récapitulatif de session de Champs de Bataille sera réinitialisée par défaut. Êtes-vous sûr ?</value>
@@ -4015,7 +4015,7 @@
     <value>Réinitialiser la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>Cela effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
+    <value>Cela effacera la liste des dernières parties et réglera la cote de départ pour qu'elle corresponde à votre cote actuelle.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
     <value>Dernier palier passé</value>
@@ -4039,7 +4039,7 @@
     <value>En attente de la prochaine partie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Afficher l'overlay de récapitulatif de session entre deux parties</value>
+    <value>Afficher l'overlay de récapitulatif de session entre les parties</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>Pas de serviteurs joués</value>
@@ -4147,7 +4147,7 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+)</value>
+    <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>Armor Tier</value>
@@ -4192,7 +4192,7 @@
     <value>You're subscribed to Tier7!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>Cote la plus élevée de tous les temps</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>GO TO MY STATS</value>
@@ -4252,22 +4252,22 @@
     <value>Show Reward Composition Stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de menu lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de menu lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 Overlay</value>
+    <value>Activer l'overlay Tier7</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
+    <value>Afficher l'overlay du menu Tier7 (Cote &amp; stats)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
