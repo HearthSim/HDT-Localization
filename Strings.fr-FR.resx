@@ -4003,7 +4003,7 @@
     <value>Réinitialiser</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Board final</value>
+    <value>Plateau final</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>Réinitialiser l'overlay</value>
@@ -4030,10 +4030,10 @@
     <value>Récapitulatif de session</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Afficher compteur Malédiction abyssale :</value>
+    <value>Afficher le compteur de malédictions abyssales :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Afficher compteur Malédiction abyssale :</value>
+    <value>Afficher le compteur de malédictions abyssales :</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>En attente de la prochaine partie</value>
@@ -4042,7 +4042,7 @@
     <value>Afficher l'overlay de récapitulatif de session entre les parties</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>Pas de serviteurs joués</value>
+    <value>Aucun serviteur joué</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Le deck a moins de 40 cartes.</value>
@@ -4165,7 +4165,7 @@
     <value>Subscribe to Tier7 to unlock unlimited usage.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>Overlay Champs de Bataille Tier7</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>Chargement…</value>
