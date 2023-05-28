@@ -4108,7 +4108,7 @@
     <value>Avg Placement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4117,7 +4117,7 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
@@ -4153,7 +4153,7 @@
     <value>Armor Tier</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
-    <value>Percentage of 1st place finishes</value>
+    <value>Pourcentage d'arrivées à la première place</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
     <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
@@ -4162,7 +4162,7 @@
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>Abonnez-vous à Tier7 pour bénéficier d'une utilisation illimitée.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
     <value>Overlay Champs de Bataille Tier7</value>
@@ -4174,31 +4174,31 @@
     <value>Survolez pour plus de détails</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>Connectez-vous à HSReplay.net pour accéder aux statistiques Tier7 directement dans l'overlay !</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Bienvenue</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining this week:</value>
+    <value>Utilisations restantes cette semaine :</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
     <value>Se réinitialise dans</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Rejoignez Tier7 pour obtenir un accès illimité.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
-    <value>You're subscribed to Tier7!</value>
+    <value>Vous êtes abonné(e) à Tier7 !</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
     <value>Cote la plus élevée de tous les temps</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>VOIR MES STATS</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
-    <value>Armor Range: {0} - {1}</value>
+    <value>Plage d'armure : {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
     <value>Armor Tier</value>
@@ -4237,10 +4237,10 @@
     <value>Le deck contient des cartes de l'ensemble La Voie d'Arthas.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Voie d’Arthas</value>
+    <value>La Voie d’Arthas</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
-    <value>{0}d {1}h</value>
+    <value>{0} j {1} h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
     <value>Chargement…</value>
@@ -4273,19 +4273,19 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>AFFICHER L'OVERLAY DE HÉROS</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE HERO OVERLAY</value>
+    <value>CACHER L'OVERLAY DE HÉROS</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>Cartes non prises en charge trouvées</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Groupe E.T.C.</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Groupe E.T.C.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension La fête des légendes.</value>
@@ -4294,12 +4294,12 @@
     <value>La fête des légendes :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>La fête des légendes</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
     <value>La fête des légendes</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>Interaction non prise en charge</value>
   </data>
 </root>
