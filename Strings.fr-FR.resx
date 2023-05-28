@@ -1924,7 +1924,7 @@
     <value>Alternatif</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Hérité</value>
+    <value>Héritage</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
     <value>Toutes</value>
@@ -3508,13 +3508,13 @@
     <value>Le deck contient des cartes de l'extension Les Cendres de l'Outreterre.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre :</value>
+    <value>Les Cendres de l'Outreterre :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre</value>
+    <value>Les Cendres de l’Outreterre</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre</value>
+    <value>Les Cendres de l’Outreterre</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
     <value>Afficher le compteur de tours en champs de bataille</value>
@@ -3613,10 +3613,10 @@
     <value>Activer les simulations de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Afficher les résultats en phase de combat</value>
+    <value>Afficher les résultats pendant la phase de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Afficher les résultats en phase d'achat</value>
+    <value>Afficher les résultats pendant la phase d'achat</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Mise à jour nécessaire : v{0}</value>
@@ -3625,7 +3625,7 @@
     <value>Impossible d'obtenir des résultats précis</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Les secrets ne sont pas encore supportés</value>
+    <value>Les secrets ne sont pas encore pris en charge</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>En attente du combat...</value>
