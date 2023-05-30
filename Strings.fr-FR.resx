@@ -550,7 +550,7 @@
     <value>Au premier plan</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
-    <value>Uniquement si HS à l'avant-plan</value>
+    <value>Uniquement si HS est à l'avant-plan</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Infobulle des cartes</value>
@@ -856,7 +856,7 @@
     <value>Tri des cartes : cartes de classe en premier</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Afficher les info-bulles de la carte (cette fenêtre)</value>
+    <value>Afficher les infobulles de la carte (cette fenêtre)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Afficher la courbe de mana</value>
@@ -1669,7 +1669,7 @@
     <value>Cartes</value>
   </data>
   <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>Méthode de paiement</value>
+    <value>Mode de paiement</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>Or</value>
@@ -1924,7 +1924,7 @@
     <value>Alternatif</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Hérité</value>
+    <value>Héritage</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
     <value>Toutes</value>
@@ -2662,7 +2662,7 @@
     <value>Compteur de cartes</value>
   </data>
   <data name="Enum_DeckPanel_DrawChances" xml:space="preserve">
-    <value>Chances de tirage</value>
+    <value>Probabilité de tirage</value>
   </data>
   <data name="Enum_DeckPanel_Fatigue" xml:space="preserve">
     <value>Compteur de fatigue</value>
@@ -2941,7 +2941,7 @@
     <value>Cliquez le bouton de copie ci-dessous</value>
   </data>
   <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Créez un nouveau deck dans Hearthstone</value>
+    <value>Créez un deck dans Hearthstone</value>
   </data>
   <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
     <value>Seul le code est requis pour l'importation dans Hearthstone. Toute ligne commençant par « # » est ignorée.</value>
@@ -3415,7 +3415,7 @@
     <value>Le deck contient des cartes de l'extension Les Jeux de Rastakhan.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Troll" xml:space="preserve">
-    <value>Les Jeux de Rastakhan:</value>
+    <value>Les Jeux de Rastakhan :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Troll" xml:space="preserve">
     <value>Les Jeux de Rastakhan</value>
@@ -3457,16 +3457,16 @@
     <value>Champs de bataille</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Envol des Dragons.</value>
+    <value>Le deck contient des cartes de l'extension L'Envol des Dragons.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Envol des Dragons :</value>
+    <value>L'Envol des Dragons :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Envol des Dragons</value>
+    <value>L’Envol des Dragons</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Envol des Dragons</value>
+    <value>L’Envol des Dragons</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
     <value>Dernier plateau connu :</value>
@@ -3490,7 +3490,7 @@
     <value>Il y a {0} tour(s)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTiers" xml:space="preserve">
-    <value>Afficher le classement des Champs de bataille</value>
+    <value>Afficher le classement des champs de bataille</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Afficher le compteur Galakrond :</value>
@@ -3499,25 +3499,25 @@
     <value>Afficher le compteur Galakrond :</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Le deck contient des cartes de l'aventure Réveil de Galakrond.</value>
+    <value>Le deck contient des cartes de l'aventure Le Réveil de Galakrond.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
-    <value>Réveil de Galakrond</value>
+    <value>Le Réveil de Galakrond</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Cendres de l'Outreterre.</value>
+    <value>Le deck contient des cartes de l'extension Les Cendres de l'Outreterre.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre :</value>
+    <value>Les Cendres de l'Outreterre :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre</value>
+    <value>Les Cendres de l’Outreterre</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Cendres de l'Outreterre</value>
+    <value>Les Cendres de l’Outreterre</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Afficher le compteur des tours en Champs de bataille</value>
+    <value>Afficher le compteur de tours en champs de bataille</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Afficher la notification du héros au début de la partie de Champs de Bataille</value>
@@ -3613,10 +3613,10 @@
     <value>Activer les simulations de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Afficher les résultats en phase de combat</value>
+    <value>Afficher les résultats pendant la phase de combat</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Afficher les résultats en phase d'achat</value>
+    <value>Afficher les résultats pendant la phase d'achat</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Mise à jour nécessaire : v{0}</value>
@@ -3625,7 +3625,7 @@
     <value>Impossible d'obtenir des résultats précis</value>
   </data>
   <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Les secrets ne sont pas encore supportés</value>
+    <value>Les secrets ne sont pas encore pris en charge</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>En attente du combat...</value>
@@ -3643,7 +3643,7 @@
     <value>Afficher le combat précédent</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Léthal</value>
+    <value>Létal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>Victoire</value>
@@ -3661,7 +3661,7 @@
     <value>Bêta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>Voyez vos chances de gagner ou de perdre chaque round de combat dans Champs de bataille.</value>
+    <value>Voyez vos chances de gagner ou de perdre chaque tour de combat dans les champs de bataille.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>En savoir plus.</value>
@@ -3676,19 +3676,19 @@
     <value>Indisponible</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capturer l'overlay du champs de bataille</value>
+    <value>Capturer l'overlay des champs de bataille</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>L'Académie de Scholomance :</value>
+    <value>L'Académie Scholomance :</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension L'Académie de Sholomance</value>
+    <value>Le deck contient des cartes de l'extension L'Académie Sholomance</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>L’Académie de Scholomance</value>
+    <value>L’Académie Scholomance</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>L’Académie de Scholomance</value>
+    <value>L’Académie Scholomance</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Indisponible </value>
@@ -3697,13 +3697,13 @@
     <value>Toujours afficher les dégâts moyens</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>DMG MOY</value>
+    <value>DÉG MOY</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Dégâts moyens</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>Ces panneaux montrent le 80e centile milieu des éventuels dommages.</value>
+    <value>Ces panneaux montrent le 80e centile central des dommages possibles.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>Vous n’avez pas encore combattu cet adversaire</value>
@@ -3721,22 +3721,22 @@
     <value>Duels</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
-    <value>Nom de modèle de deck de duels</value>
+    <value>Modèle de nom de deck de duels</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
     <value>Duels</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Sombrelune.</value>
+    <value>Le deck contient des cartes de l'extension Folle journée à Sombrelune.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune :</value>
+    <value>Folle journée à Sombrelune :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune</value>
+    <value>Folle journée à Sombrelune</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Foire de Sombrelune</value>
+    <value>Folle journée à Sombrelune</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
     <value>Afficher le compteur d'expérience</value>
@@ -3754,10 +3754,10 @@
     <value>Mise à l'échelle de l'image de la carte</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>Cette fenêtre uniquement. Les paramètres sont séparés pour les fenêtres de superposition et de deck qui peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Windows'overlay</value>
+    <value>Cette fenêtre uniquement. Les paramètres séparés pour les fenêtres d'overlay et de deck peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Fenêtres' respectivement</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Info-bulles de carte</value>
+    <value>Infobulles de carte</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
     <value>Classique</value>
@@ -3766,16 +3766,16 @@
     <value>Classique</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Le deck contient des cartes provenant de l'extension Forgés dans les Tarides.</value>
+    <value>Le deck contient des cartes de l'extension Forgés dans les Tarides.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Le deck contient des cartes de l'extension Cavernes des Lamentations.</value>
+    <value>Le deck contient des cartes du mini-set Cavernes des Lamentations.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
     <value>Afficher une notification mullligan au début du jeu</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Le deck contient des cartes l'ensemble héritage.</value>
+    <value>Le deck contient des cartes de l'ensemble Héritage.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
     <value>Que devrais-je garder ?</value>
@@ -3802,16 +3802,16 @@
     <value>Héritage</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Guide Mulligan</value>
+    <value>HSReplay.net - Guide du Mulligan</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Afficher le compteur de réduction des coûts de Libram :</value>
+    <value>Afficher le compteur de réduction des coûts des librams :</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>Unis à Hurlevent :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Afficher le compteur de réduction des coûts de Libram :</value>
+    <value>Afficher le compteur de réduction des coûts des librams :</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>En attente de la phase d’achat</value>
@@ -3820,7 +3820,7 @@
     <value>Connaissez-vous le deck de votre adversaire ?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copiez un code de deck dans votre presse-papiers et cliquez sur le bouton ci-dessous pour voir la mise à jour de leur deck au fur et à mesure qu'ils jouent</value>
+    <value>Copiez un code de deck dans votre presse-papiers et cliquez sur le bouton ci-dessous pour voir la mise à jour de leur deck au fur et à mesure qu'ils sont joués</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>Définir le deck depuis le presse-papiers</value>
@@ -3829,7 +3829,7 @@
     <value>Ignorer</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Vider</value>
+    <value>Effacer</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>Aucun code de deck valide trouvé dans le presse-papiers</value>
@@ -3838,13 +3838,13 @@
     <value>Unis à Hurlevent</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Activer le paramétrage du deck adversaire dans les matchs non amicaux</value>
+    <value>Permettre le paramétrage du deck adverse dans les matchs non amicaux</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
     <value>Unis à Hurlevent</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Le deck contient des cartes de l'expansion Unis à Hurlevent</value>
+    <value>Le deck contient des cartes de l'extension Unis à Hurlevent</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
     <value>Les résultats peuvent être moins précis que d'habitude. Nous travaillons activement à des améliorations.</value>
@@ -3871,13 +3871,13 @@
     <value>Mercenaires</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>La progression des quêtes sera mise à jour après la partie</value>
+    <value>La progression des tâches sera mise à jour après la partie</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Quêtes</value>
+    <value>Tâches</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Quêtes {0}: {1}</value>
+    <value>Tâche {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
     <value>Terminé !</value>
@@ -3886,7 +3886,7 @@
     <value>Afficher le panneau des tâches en mode Mercenaires</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Le deck contient des cartes provenant de l'extension Divisés dans la vallée d’Alterac.</value>
+    <value>Le deck contient des cartes de l'extension Divisés dans la vallée d’Alterac.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
     <value>Divisés dans la vallée d’Alterac :</value>
@@ -3898,7 +3898,7 @@
     <value>Divisés dans la vallée d’Alterac</value>
   </data>
   <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
-    <value>Le deck contient des cartes provenant de l'extension Au cœur de la cité engloutie.</value>
+    <value>Le deck contient des cartes de l'extension Au cœur de la cité engloutie.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
     <value>Au cœur de la cité engloutie :</value>
@@ -3937,19 +3937,19 @@
     <value>Afficher les serviteurs bannis</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Afficher début et actuelle cote</value>
+    <value>Afficher les cotes initiale et actuelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Afficher 10 dernières parties</value>
+    <value>Afficher les 10 dernières parties</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Afficher fenêtre du récapitulatif de la session</value>
+    <value>Afficher la fenêtre du récapitulatif de la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Réinitialiser la session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Héro</value>
+    <value>Héros</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
@@ -3958,7 +3958,7 @@
     <value>Cote</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>Aucune partie n'a été joué lors de cette session.</value>
+    <value>Aucune partie jouée lors de cette session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}er</value>
@@ -3973,7 +3973,7 @@
     <value>{0}ème</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Début</value>
+    <value>Initiale</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
     <value>Actuelle</value>
@@ -3994,7 +3994,7 @@
     <value>Mise à l'échelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>La réinitialisation de la session effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
+    <value>Réinitialiser la session effacera la liste des dernières parties et réglera la cote de départ pour qu'elle corresponde à votre cote actuelle.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
     <value>Les 10 dernières parties apparaîtront ici.</value>
@@ -4003,10 +4003,10 @@
     <value>Réinitialiser</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Board final</value>
+    <value>Plateau final</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Réinitialiser l'overlay par défaut</value>
+    <value>Réinitialiser l'overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>La position du récapitulatif de session de Champs de Bataille sera réinitialisée par défaut. Êtes-vous sûr ?</value>
@@ -4015,13 +4015,13 @@
     <value>Réinitialiser la session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>Cela effacera la liste des dernières parties et réglera le MMR de départ pour qu'il corresponde à votre MMR actuel.</value>
+    <value>Cela effacera la liste des dernières parties et réglera la cote de départ pour qu'elle corresponde à votre cote actuelle.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Dernier palier passé</value>
+    <value>Dernier niveau passé</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
-    <value>Serviteurs triplés au palier</value>
+    <value>Serviteurs triplés au niveau</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
     <value>Aucune amélioration</value>
@@ -4030,19 +4030,19 @@
     <value>Récapitulatif de session</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Afficher compteur Malédiction abyssale :</value>
+    <value>Afficher le compteur de malédictions abyssales :</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Afficher compteur Malédiction abyssale :</value>
+    <value>Afficher le compteur de malédictions abyssales :</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>En attente de la prochaine partie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Afficher l'overlay de récapitulatif de session entre deux parties</value>
+    <value>Afficher l'overlay de récapitulatif de session entre les parties</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>Pas de serviteurs joués</value>
+    <value>Aucun serviteur joué</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Le deck a moins de 40 cartes.</value>
@@ -4093,136 +4093,136 @@
     <value>Afficher les statistiques de sélection des héros des champs de bataille</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>Aucune donnée de classement</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>Position {0} : {1} %</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
-    <value>No composition data</value>
+    <value>Aucune donnée de composition</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>NIVEAU</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>Classement moy</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>Classement moyen</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>Le classement final atteint par le héros en moyenne, ajusté en fonction des types de serviteurs disponibles</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>Pourcentage du temps où ce héros est choisi en début de partie lorsqu'il est proposé comme option</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>Catégorie 1 : surperformant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>Catégorie 2 : gagnant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>Catégorie 3 : sous-performant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>Catégorie 4 : perdant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>Le héros au meilleur classement, et ceux de classement supérieur situés à moins d'un écart-type du héros au meilleur classement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>Les héros dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>Les héros dont le classement moyen est inférieur à 4,5 et situé à moins d'un écart-type du meilleur héros de ce niveau</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>Les héros dont le classement moyen est inférieur d'au moins un écart-type au meilleur héros de niveau 3</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+)</value>
+    <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Palier d'armure</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
-    <value>Percentage of 1st place finishes</value>
+    <value>Pourcentage d'arrivées à la première place</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>Les héros de plus haut palier d'armure se voient offrir des quêtes plus faciles à réaliser.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Connectez-vous à HSReplay.net pour accéder aux taux de sélection des héros, classements moyens, paliers d'armure et plus encore !</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>Abonnez-vous à Tier7 pour bénéficier d'une utilisation illimitée.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>Overlay Champs de Bataille Tier7</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>Chargement…</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Hover for more details</value>
+    <value>Survolez pour plus de détails</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>Connectez-vous à HSReplay.net pour accéder aux statistiques Tier7 directement dans l'overlay !</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Bienvenue</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining this week:</value>
+    <value>Utilisations restantes cette semaine :</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
     <value>Se réinitialise dans</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Rejoignez Tier7 pour obtenir un accès illimité.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
-    <value>You're subscribed to Tier7!</value>
+    <value>Vous êtes abonné(e) à Tier7 !</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>Cote la plus élevée de tous les temps</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>VOIR MES STATS</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
-    <value>Armor Range: {0} - {1}</value>
+    <value>Plage d'armure : {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Palier d'armure</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>La récompense au meilleur classement, et celles de classement supérieur situées à moins d'un écart-type de la récompense au meilleur classement</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>Les récompenses dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>Les récompenses dont le classement moyen est inférieur à 4,5 et situé à moins d'un écart-type de la meilleure récompense de ce niveau</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>Les récompenses dont le classement moyen est inférieur d'au moins un écart-type à la meilleure récompense de niveau 3</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>Pourcentage du temps où cette récompense est choisie par les joueurs terminant en première position</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>Le classement final atteint par cette récompense en moyenne, ajusté en fonction du héros et des types de serviteurs disponibles</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+    <value>Afficher les statistiques de sélection des quêtes en champs de bataille</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Chevalier de la mort</value>
@@ -4234,13 +4234,13 @@
     <value>Chevalier de la mort</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Le deck contient des cartes du mini-set Voie d'Arthas.</value>
+    <value>Le deck contient des cartes de l'ensemble La Voie d'Arthas.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Voie d’Arthas</value>
+    <value>La Voie d’Arthas</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
-    <value>{0}d {1}h</value>
+    <value>{0} j {1} h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
     <value>Chargement…</value>
@@ -4249,43 +4249,43 @@
     <value>Une erreur s'est produite :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
-    <value>Show Reward Composition Stats</value>
+    <value>Afficher les statistiques de composition de récompense</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de menu lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay de menu lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 Overlay</value>
+    <value>Activer l'overlay Tier7</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
+    <value>Afficher l'overlay du menu Tier7 (cote &amp; stats)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>AFFICHER L'OVERLAY DE HÉROS</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE HERO OVERLAY</value>
+    <value>CACHER L'OVERLAY DE HÉROS</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>Cartes non prises en charge trouvées</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Groupe E.T.C.</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Groupe E.T.C.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension La fête des légendes.</value>
@@ -4294,12 +4294,12 @@
     <value>La fête des légendes :</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>La fête des légendes</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
     <value>La fête des légendes</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>Interaction non prise en charge</value>
   </data>
 </root>
