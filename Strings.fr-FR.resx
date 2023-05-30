@@ -4096,7 +4096,7 @@
     <value>Aucune donnée de classement</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>Position {0} : {1} %</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
     <value>No composition data</value>
@@ -4135,10 +4135,10 @@
     <value>Catégorie 4 : perdant</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>Le héros au meilleur classement, et ceux de classement supérieur situés à moins d'un écart-type du héros au meilleur classement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>Les héros dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
     <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
