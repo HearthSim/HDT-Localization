@@ -4093,7 +4093,7 @@
     <value>Afficher les statistiques de sélection des héros des champs de bataille</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>Aucune donnée de classement</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
     <value>{0} Place: {1}%</value>
@@ -4105,16 +4105,16 @@
     <value>NIVEAU</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>Classement moy</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
     <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>Classement moyen</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>Le classement final atteint par le héros en moyenne, ajusté en fonction des types de serviteurs disponibles</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
     <value>Taux de sélection</value>
@@ -4150,13 +4150,13 @@
     <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Niveau d'armure</value>
+    <value>Palier d'armure</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Pourcentage d'arrivées à la première place</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Les héros de plus haut niveau d'armure se voient offrir des quêtes plus faciles à réaliser.</value>
+    <value>Les héros de plus haut palier d'armure se voient offrir des quêtes plus faciles à réaliser.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
@@ -4201,7 +4201,7 @@
     <value>Plage d'armure : {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Niveau d'armure</value>
+    <value>Palier d'armure</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
@@ -4219,7 +4219,7 @@
     <value>Percent of the time this reward is picked by first place players</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>Le classement final atteint par cette récompense en moyenne, ajusté en fonction du héros et des types de serviteurs disponibles</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
     <value>Show Battlegrounds Quest Picking Stats</value>
