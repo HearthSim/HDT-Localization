@@ -4099,7 +4099,7 @@
     <value>Position {0} : {1} %</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
-    <value>No composition data</value>
+    <value>Aucune donnée de composition</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
     <value>NIVEAU</value>
@@ -4120,7 +4120,7 @@
     <value>Taux de sélection</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>Pourcentage du temps où ce héros est choisi en début de partie lorsqu'il est proposé comme option</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
     <value>Catégorie 1 : surperformant</value>
@@ -4210,19 +4210,19 @@
     <value>Les récompenses dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>Les récompenses dont le classement moyen est inférieur à 4,5 et situé à moins d'un écart-type de la meilleure récompense de ce niveau</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>Les récompenses dont le classement moyen est inférieur d'au moins un écart-type à la meilleure récompense de niveau 3</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>Pourcentage du temps où cette récompense est choisie par les joueurs terminant en première position</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>Le classement final atteint par cette récompense en moyenne, ajusté en fonction du héros et des types de serviteurs disponibles</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+    <value>Afficher les statistiques de sélection des quêtes en champs de bataille</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Chevalier de la mort</value>
@@ -4249,7 +4249,7 @@
     <value>Une erreur s'est produite :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
-    <value>Show Reward Composition Stats</value>
+    <value>Afficher les statistiques de composition de récompense</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
