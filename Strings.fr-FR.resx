@@ -4141,7 +4141,7 @@
     <value>Les héros dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>Les héros dont le classement moyen est inférieur à 4,5 et situé à moins d'un écart-type du meilleur héros de ce niveau</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
@@ -4204,7 +4204,7 @@
     <value>Palier d'armure</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>La récompense au meilleur classement, et celles de classement supérieur situées à moins d'un écart-type de la récompense au meilleur classement</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
     <value>Rewards with average placements better than or equal to 4.5</value>
