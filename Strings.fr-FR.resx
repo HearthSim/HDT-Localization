@@ -4144,7 +4144,7 @@
     <value>Les héros dont le classement moyen est inférieur à 4,5 et situé à moins d'un écart-type du meilleur héros de ce niveau</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>Les héros dont le classement moyen est inférieur d'au moins un écart-type au meilleur héros de niveau 3</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
     <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
@@ -4159,7 +4159,7 @@
     <value>Les héros de plus haut palier d'armure se voient offrir des quêtes plus faciles à réaliser.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Connectez-vous à HSReplay.net pour accéder aux taux de sélection des héros, classements moyens, paliers d'armure et plus encore !</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>Abonnez-vous à Tier7 pour bénéficier d'une utilisation illimitée.</value>
@@ -4207,7 +4207,7 @@
     <value>La récompense au meilleur classement, et celles de classement supérieur situées à moins d'un écart-type de la récompense au meilleur classement</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>Les récompenses dont le classement moyen est supérieur ou égal à 4,5</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
     <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
