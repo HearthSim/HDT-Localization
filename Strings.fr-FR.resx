@@ -1924,7 +1924,7 @@
     <value>Alternatif</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
-    <value>Héritage</value>
+    <value>Hérité</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
     <value>Toutes</value>
@@ -3547,7 +3547,7 @@
     <value>Le deck contient des cartes du set de départ du Chasseur de démons.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
-    <value>Chasseur de démon débutant</value>
+    <value>Initié chasseur de démons</value>
   </data>
   <data name="Rank_League_Bronze" xml:space="preserve">
     <value>Bronze {0}</value>
@@ -3772,7 +3772,7 @@
     <value>Le deck contient des cartes du mini-set Cavernes des Lamentations.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Afficher une notification mullligan au début du jeu</value>
+    <value>Afficher une notification de mulligan au début d'une partie en mode construit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Le deck contient des cartes de l'ensemble Héritage.</value>
