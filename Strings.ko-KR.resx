@@ -4078,16 +4078,16 @@
     <value>Neutral</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>덱에 리치 왕의 진군 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>리치 왕의 진군:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>리치 왕의 진군</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>리치 왕의 진군</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
     <value>Show Battlegrounds Hero Picking Stats</value>
@@ -4237,7 +4237,7 @@
     <value>Deck contains cards from the Path of Arthas set.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Path of Arthas</value>
+    <value>아서스의 길</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}d {1}h</value>
@@ -4282,30 +4282,30 @@
     <value>Found unsupported cards</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>정타족의 밴드</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>정타족의 밴드</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
     <value>Deck contains cards from the Festival of Legends set.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends:</value>
+    <value>전설노래자랑:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>전설노래자랑</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>전설노래자랑</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
     <value>Unsupported Interaction</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>변칙</value>
   </data>
   <data name="Enum_Format_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>변칙</value>
   </data>
 </root>
