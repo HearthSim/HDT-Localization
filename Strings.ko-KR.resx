@@ -4105,10 +4105,10 @@
     <value>TIER</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>평균 순위</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4301,5 +4301,11 @@
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
     <value>Unsupported Interaction</value>
+  </data>
+  <data name="Enum_DeckType_Twist" xml:space="preserve">
+    <value>Twist</value>
+  </data>
+  <data name="Enum_Format_Twist" xml:space="preserve">
+    <value>Twist</value>
   </data>
 </root>
