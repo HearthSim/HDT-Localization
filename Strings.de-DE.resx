@@ -3691,7 +3691,7 @@
     <value>Scholomance Academy</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>Nicht verfügbar</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
     <value>Always show average damage</value>
@@ -3706,10 +3706,10 @@
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
-    <value>You have not fought this opponent</value>
+    <value>Du hast noch nicht gegen diesen Gegner gekämpft</value>
   </data>
   <data name="Overlay_Battlegrounds_Hero_No_Minions_On_Board" xml:space="preserve">
-    <value>No minions on board</value>
+    <value>Keine Diener auf dem Spielfeld</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Duels</value>
@@ -3742,13 +3742,13 @@
     <value>Show Experience Counter</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Zug</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Züge</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Hochauflösende Kartengrafiken verwenden</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>Card Image Scaling</value>
@@ -3757,7 +3757,7 @@
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Kartentooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
     <value>Classic</value>
@@ -3778,7 +3778,7 @@
     <value>Deck contains cards from the Legacy set.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>Was soll ich behalten?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>Deck contains cards from the Core set.</value>
@@ -3949,7 +3949,7 @@
     <value>Reset Session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>Held</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
     <value>Final</value>
@@ -3961,34 +3961,34 @@
     <value>No games played this session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Beginn</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>Aktuell</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>{0}.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Scaling</value>
@@ -4024,10 +4024,10 @@
     <value>Minions Tripled At Tier</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
-    <value>No Upgrades</value>
+    <value>Keine Upgrades</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>Session Recap</value>
+    <value>Sitzungsverlauf</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
     <value>Show Abyssal Curse counter:</value>
@@ -4036,31 +4036,31 @@
     <value>Show Abyssal Curse counter:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>Warte auf das nächste Spiel</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show Session Recap Overlay between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Keine Diener gespielt</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>Deck hat weniger als 40 Karten.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>Deck hat mehr als 40 Karten.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>Willkommen zurück bei</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Willkommen bei</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
     <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>Lass uns loslegen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
@@ -4102,13 +4102,13 @@
     <value>No composition data</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>RANG</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>Ø-Platzierung</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Pickrate</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4117,7 +4117,7 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Pickrate</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
@@ -4168,16 +4168,16 @@
     <value>Tier7 Battlegrounds Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Wird geladen...</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Hover for more details</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>Melde dich bei HSReplay.net an um Tier7-Statistiken direkt im Overlay zu sehen!</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Willkommen</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
     <value>Uses remaining this week:</value>
@@ -4225,13 +4225,13 @@
     <value>Show Battlegrounds Quest Picking Stats</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Todesritter</value>
   </data>
   <data name="MainWindow_Menu_Class_Deathknight" xml:space="preserve">
     <value>Death_knight</value>
   </data>
   <data name="Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Todesritter</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
     <value>Deck contains cards from the Path of Arthas set.</value>
@@ -4240,10 +4240,10 @@
     <value>Path of Arthas</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
-    <value>{0}d {1}h</value>
+    <value>{0}T {1}h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>Wird geladen…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
     <value>Something went wrong :(</value>
@@ -4264,10 +4264,10 @@
     <value>Show menu Overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 Overlay</value>
+    <value>Tier7-Overlay aktivieren</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
+    <value>Tier7-Menü-Overlay anzeigen (MMR &amp; Statistiken)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4279,7 +4279,7 @@
     <value>HIDE HERO OVERLAY</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>Nicht unterstützte Karten gefunden</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
     <value>E.T.C.'s Band</value>
@@ -4303,9 +4303,21 @@
     <value>Unsupported Interaction</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>Der Haken</value>
   </data>
   <data name="Enum_Format_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>Der Haken</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
+    <value>Deck enthält Karten der Erweiterung 'TITANEN'.</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
+    <value>TITANEN</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Titans" xml:space="preserve">
+    <value>TITANEN</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Titans" xml:space="preserve">
+    <value>TITANEN:</value>
   </data>
 </root>
