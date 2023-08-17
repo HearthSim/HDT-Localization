@@ -658,7 +658,7 @@
     <value>Geheimnisse zum Ausgrauen anklicken</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>HINWEIS: Funktioniert eventuell nicht richtig wenn "Optionen > Overlay > Allgemein > Geheimnisse automatisch ausgrauen" aktiviert ist.</value>
+    <value>HINWEIS: Funktioniert eventuell nicht richtig, wenn "Optionen &gt; Overlay &gt; Allgemein &gt; Geheimnisse automatisch ausgrauen" aktiviert ist.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>Ein</value>
@@ -856,7 +856,7 @@
     <value>Kartensortierung: Klassenkarten zuerst</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Kartentooltips anzeigen (dieses Fenster)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Manakurve anzeigen</value>
@@ -3130,7 +3130,7 @@
     <value>Abbrechen</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Fehler beim Kopieren von Kartennamen in die Zwischenablage aufgetreten</value>
+    <value>Fehler beim Kopieren von Kartennamen in die Zwischenablage aufgetreten.</value>
   </data>
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>Das gewählte Deck enthält keine Karten.</value>
@@ -3523,10 +3523,10 @@
     <value>Heldenbenachrichtigung bei Beginn einer Runde Schlachtfeld anzeigen</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
-    <value>Zug {0}</value>
+    <value>{0}. Zug</value>
   </data>
   <data name="Toast_Battlegrounds_Compare_Heroes" xml:space="preserve">
-    <value>Helden Vergleichen</value>
+    <value>Helden vergleichen</value>
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Schlachtfeld</value>
@@ -3634,13 +3634,13 @@
     <value>Aktueller Kampf</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Aktuellen Kampf Anzeigen</value>
+    <value>Aktuellen Kampf anzeigen</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>Vorheriger Kampf</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Vorherigen Kampf Anzeigen</value>
+    <value>Vorherigen Kampf anzeigen</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Tödlich</value>
@@ -3694,7 +3694,7 @@
     <value>Nicht verfügbar</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>Always show average damage</value>
+    <value>Durchschnittlichen Schaden immer anzeigen</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>AVG DMG</value>
@@ -3931,19 +3931,19 @@
     <value>Latest Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Show Session Recap Overlay</value>
+    <value>Sitzungsverlauf-Overlay anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>Gebannte Dienertypen anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Start- und aktuelles MMR anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Letzten 10 Spiele anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Sitzungsverlauf-Fenster anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Reset Session</value>
@@ -4039,7 +4039,7 @@
     <value>Warte auf das nächste Spiel</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>Sitzungsverlauf-Overlay zwischen Spielen anzeigen</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>Keine Diener gespielt</value>
@@ -4093,7 +4093,7 @@
     <value>Show Battlegrounds Hero Picking Stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>Keine Platzierungsdaten</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
     <value>{0} Place: {1}%</value>
@@ -4252,16 +4252,16 @@
     <value>Show Reward Composition Stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Gameplay-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Gameplay-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
     <value>Tier7-Overlay aktivieren</value>
@@ -4273,7 +4273,7 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>HELDEN-OVERLAY ANZEIGEN</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
     <value>HIDE HERO OVERLAY</value>
@@ -4319,5 +4319,11 @@
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Titans" xml:space="preserve">
     <value>TITANEN:</value>
+  </data>
+  <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
+    <value>Temporarily disabled. We will be back soon!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
+    <value>Temporarily disabled. We will be back soon!</value>
   </data>
 </root>
