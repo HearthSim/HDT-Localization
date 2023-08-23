@@ -3673,7 +3673,7 @@
     <value>Created by</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
-    <value>Not Available</value>
+    <value>Nicht verfügbar</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
     <value>Capture Battlegrounds Overlay</value>
@@ -3784,7 +3784,7 @@
     <value>Deck contains cards from the Core set.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Keine Daten für dieses Deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
     <value>Forged in the Barrens;</value>
@@ -3802,7 +3802,7 @@
     <value>Legacy</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - Mulligan-Guide</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
@@ -3850,10 +3850,10 @@
     <value>Results may be less accurate than usual. We are actively working on improvements.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Söldner</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Söldner</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
     <value>Show opponent Mercenary abilities on hover</value>
@@ -3868,7 +3868,7 @@
     <value>Show ability icons below player Mercenaries</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Söldner</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
     <value>Task progress will update after the game</value>
@@ -3916,19 +3916,19 @@
     <value>Cards on bottom</value>
   </data>
   <data name="DeckLens_Label_OnBottom" xml:space="preserve">
-    <value>On Bottom</value>
+    <value>Oben</value>
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
-    <value>On Top</value>
+    <value>Unten</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Minions Banned</value>
+    <value>Gebannte Diener</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Latest Games</value>
+    <value>Letzten Spiele</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Sitzungsverlauf-Overlay anzeigen</value>
@@ -3946,7 +3946,7 @@
     <value>Sitzungsverlauf-Fenster anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>Sitzung zurücksetzen</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>Held</value>
@@ -3958,7 +3958,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Keine Spiele in dieser Sitzung gespielt.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}.</value>
@@ -3991,7 +3991,7 @@
     <value>{0}.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Skalierung</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
@@ -4000,7 +4000,7 @@
     <value>Latest 10 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>Final Board</value>
@@ -4012,7 +4012,7 @@
     <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>Sitzung zurücksetzen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
     <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
@@ -4111,7 +4111,7 @@
     <value>Pickrate</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>Durchschnittliche Platzierung</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
@@ -4147,10 +4147,10 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+)</value>
+    <value>Alle Statistiken von Top {0}% MMR ({1}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Rüstungsstufe</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Percentage of 1st place finishes</value>
@@ -4165,7 +4165,7 @@
     <value>Subscribe to Tier7 to unlock unlimited usage.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>Tier7-Schlachtfeld-Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>Wird geladen...</value>
@@ -4180,28 +4180,28 @@
     <value>Willkommen</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining this week:</value>
+    <value>Verbleibende Nutzungen diese Woche:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Wird zurückgesetzt in</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Abonniere Tier7 für unbegrenzten Zugriff.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
-    <value>You're subscribed to Tier7!</value>
+    <value>Du bist Tier7-Abonnent!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
     <value>All-time highest MMR</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>MEINE STATISTIKEN</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
     <value>Armor Range: {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Rüstungsstufe</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
@@ -4321,9 +4321,12 @@
     <value>TITANEN:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>Temporär deaktiviert. Wir sind bald zurück!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>Temporär deaktiviert. Wir sind bald zurück!</value>
+  </data>
+  <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
+    <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
   </data>
 </root>
