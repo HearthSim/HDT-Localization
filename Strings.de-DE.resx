@@ -4326,4 +4326,7 @@
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
     <value>Temporär deaktiviert. Wir sind bald zurück!</value>
   </data>
+  <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
+    <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
+  </data>
 </root>
