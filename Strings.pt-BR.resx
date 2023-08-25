@@ -4329,4 +4329,10 @@
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
     <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
   </data>
+  <data name="Toast_Collection_Uploaded" xml:space="preserve">
+    <value>Collection uploaded!</value>
+  </data>
+  <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
+    <value>Find decks on HSReplay.net</value>
+  </data>
 </root>
