@@ -3700,7 +3700,7 @@
     <value>AVG DMG</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>Average Damage</value>
+    <value>Durchschnittlicher Schaden</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
@@ -3727,16 +3727,16 @@
     <value>Duels</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Deck enthält Karten der Erweiterung 'Dunkelmond-Wahnsinn'.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire:</value>
+    <value>Dunkelmond-Wahnsinn:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Dunkelmond-Wahnsinn</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DarkmoonFaire" xml:space="preserve">
-    <value>Darkmoon Faire</value>
+    <value>Dunkelmond-Wahnsinn</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
     <value>Show Experience Counter</value>
@@ -3790,13 +3790,13 @@
     <value>Forged in the Barrens;</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Geschmiedet im Brachland</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Geschmiedet im Brachland</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Die Höhlen des Wehklagens</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>Legacy</value>
@@ -3817,37 +3817,37 @@
     <value>Awaiting Shopping Phase</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Du kennst das gegnerische Deck?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Kopiere einen Deck-Code in deine Zwischenablage und klicke auf die Schaltfläche unten, um das Deck im Spiel zu verfolgen</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Deck aus der Zwischenablage benutzen</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
     <value>Dismiss</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Löschen</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>Kein gültiger Deck-Code in der Zwischenablage gefunden</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Vereint in Sturmwind</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
     <value>Enable setting opponent deck in non-friendly matches</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Vereint in Sturmwind</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
     <value>Deck contains cards from the United In Stormwind expansion</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Die Ergebnisse sind möglicherweise weniger genau als üblich. Wir arbeiten aktiv an Verbesserungen.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>Söldner</value>
@@ -3874,7 +3874,7 @@
     <value>Task progress will update after the game</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Aufgaben</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
     <value>Task {0}: {1}</value>
@@ -3889,7 +3889,7 @@
     <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>Gespalten im Alteractal:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
     <value>Fractured in Alterac Valley</value>
@@ -4066,13 +4066,13 @@
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria:</value>
+    <value>Mord auf Schloss Nathria:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Mord auf Schloss Nathria</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Mord auf Schloss Nathria</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
     <value>Neutral</value>
@@ -4081,13 +4081,13 @@
     <value>Deck contains cards from the March of the Lich King expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>Marsch des Lichkönigs:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Marsch des Lichkönigs</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>Marsch des Lichkönigs</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
     <value>Show Battlegrounds Hero Picking Stats</value>
@@ -4237,7 +4237,7 @@
     <value>Deck contains cards from the Path of Arthas set.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Path of Arthas</value>
+    <value>Arthas’ Pfad</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}T {1}h</value>
@@ -4291,16 +4291,16 @@
     <value>Deck contains cards from the Festival of Legends set.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends:</value>
+    <value>Festival der Legenden:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>Festival der Legenden</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>Festival der Legenden</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>Nicht unterstützte Interaktion</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
     <value>Der Haken</value>
@@ -4327,12 +4327,12 @@
     <value>Temporär deaktiviert. Wir sind bald zurück!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
+    <value>Alle Statistiken von Top {0}% MMR ({1}+), angepasst für Anomalie</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
-    <value>Collection uploaded!</value>
+    <value>Sammlung hochgeladen!</value>
   </data>
   <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
-    <value>Find decks on HSReplay.net</value>
+    <value>Decks auf HSReplay.net finden</value>
   </data>
 </root>
