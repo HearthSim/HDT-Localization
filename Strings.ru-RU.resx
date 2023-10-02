@@ -616,7 +616,7 @@
     <value>Всегда отображать прогресс получения золота (в меню)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Показать описание карты при наведении курсора</value>
+    <value>Показывать описание карты при наведении курсора (стол/рука)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Показать состояние аккумулятора</value>
@@ -826,7 +826,7 @@
     <value>Вставить имена из буфера</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Dialog" xml:space="preserve">
-    <value>Показ диалога перед экспортом</value>
+    <value>Показывать диалог перед экспортом</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Alerts" xml:space="preserve">
     <value>Уведомления</value>
@@ -859,7 +859,7 @@
     <value>Показывать карту при наведении на нее в этом окне</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
-    <value>Показать кривую маны</value>
+    <value>Показывать кривую маны</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_FullTextSearch" xml:space="preserve">
     <value>Поиск по тексту карт в редакторе колод</value>
@@ -1828,7 +1828,7 @@
     <value>Ожидаем Hearthstone…</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Колода содержит карты из приключения "Проклятие Наксрамаса".</value>
+    <value>Колода содержит карты приключения "Проклятие Наксрамаса".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
     <value>Колода содержит карты дополнения "Гоблины и гномы".</value>
@@ -3544,7 +3544,7 @@
     <value>О_хотник на демонов</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DemonHunterInitiate" xml:space="preserve">
-    <value>Колода содержит карты из набора Иллидари-посвященный.</value>
+    <value>Колода содержит карты набора "Иллидари-посвященный".</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_DemonHunterInitiate" xml:space="preserve">
     <value>Иллидари-посвященный</value>
@@ -3931,10 +3931,10 @@
     <value>Последние игры</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Show Session Recap Overlay</value>
+    <value>Показать интерфейс сводки сессии</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Minions Banned</value>
+    <value>Показывать непредставленных существ</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Показывать начальный и текущий MMR</value>
@@ -3943,7 +3943,7 @@
     <value>Показывать последние 10 игр</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Показывать окно сводки сессии</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Сбросить сессию</value>
@@ -3994,10 +3994,10 @@
     <value>Масштаб</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Сброс сессии очистит список последних партий и сделает начальный MMR равным текущему MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Последние 10 партий появятся здесь.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Сбросить</value>
@@ -4015,7 +4015,7 @@
     <value>Сбросить сессию</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Это очистит список последних партий и сделает начальный MMR равным текущему MMR.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
     <value>Последнее повышение таверны</value>
@@ -4027,7 +4027,7 @@
     <value>No Upgrades</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>Session Recap</value>
+    <value>Сводка сессии</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
     <value>Счётчик проклятий глубин:</value>
@@ -4039,10 +4039,10 @@
     <value>В ожидании следующей игры</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>Показывать интерфейс сводки сессии между партиями</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Нет разыгранных существ</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>В колоде меньше 40 карт.</value>
@@ -4057,7 +4057,7 @@
     <value>Welcome to</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Раскройте свой потенциал с помощью Hearthstone Deck Tracker и HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Let's Go</value>
@@ -4078,7 +4078,7 @@
     <value>Общие</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Колода содержит карты дополнения Марш Короля-лича.</value>
+    <value>Колода содержит карты дополнения "Марш Короля-лича".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
     <value>Марш Короля-лича:</value>
@@ -4090,13 +4090,13 @@
     <value>Марш Короля-лича</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
-    <value>Show Battlegrounds Hero Picking Stats</value>
+    <value>Показать статистику выбора героя на Полях сражений</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>{0} Место: {1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
     <value>No composition data</value>
@@ -4108,7 +4108,7 @@
     <value>Avg Placement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Частота выбора</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4117,7 +4117,7 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Частота выбора</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
@@ -4147,7 +4147,7 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+)</value>
+    <value>Вся статистика с топ {0}% MMR ({1}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>Armor Tier</value>
@@ -4162,7 +4162,7 @@
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>Подпишитесь на Tier7, чтобы получить неограниченный доступ.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
     <value>Tier7 Battlegrounds Overlay</value>
@@ -4186,7 +4186,7 @@
     <value>Resets In</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Присоединитесь к Tier7 для неограниченного доступа.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
     <value>Вы подписаны на Tier7!</value>
@@ -4222,7 +4222,7 @@
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+    <value>Показать статистику выбора задач на Полях сражений</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Рыцарь смерти</value>
@@ -4234,7 +4234,7 @@
     <value>Рыцарь смерти</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Deck contains cards from the Path of Arthas set.</value>
+    <value>Колода содержит карты набора "Путь Артаса".</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
     <value>Путь Артаса</value>
@@ -4264,7 +4264,7 @@
     <value>Show menu Overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 Overlay</value>
+    <value>Включить интерфейс Tier7</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
     <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
@@ -4273,22 +4273,22 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>ПОКАЗЫВАТЬ ИНТЕРФЕЙС ГЕРОЯ</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE HERO OVERLAY</value>
+    <value>СКРЫТЬ ИНТЕРФЕЙС ГЕРОЯ</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>Найдены неподдерживаемые карты</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Группа E.T.C.</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Группа E.T.C.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
-    <value>Deck contains cards from the Festival of Legends set.</value>
+    <value>Колода содержит карты набора "Фестиваль Легенд".</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
     <value>Фестиваль легенд:</value>
@@ -4309,7 +4309,7 @@
     <value>Твист</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Колода содержит карты дополнения ТИТАНЫ.</value>
+    <value>Колода содержит карты дополнения "ТИТАНЫ".</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
     <value>ТИТАНЫ</value>
@@ -4321,13 +4321,13 @@
     <value>ТИТАНЫ:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>Временно отключено. Мы скоро вернемся!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>Временно отключено. Мы скоро вернемся!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
+    <value>Вся статистика с топ {0}% MMR ({1}+), с учетом аномалии</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>Коллекция загружена!</value>
@@ -4336,7 +4336,7 @@
     <value>Найти колоды на HSReplay.net</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
-    <value>Колода содержит карты дополнения Пещеры Времени.</value>
+    <value>Колода содержит карты дополнения "Пещеры Времени".</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
     <value>Пещеры Времени</value>
