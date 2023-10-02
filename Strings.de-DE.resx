@@ -3901,13 +3901,13 @@
     <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City:</value>
+    <value>Reise in die Versunkene Stadt:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Reise in die Versunkene Stadt</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Reise in die Versunkene Stadt</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
     <value>Card on top</value>
@@ -4192,7 +4192,7 @@
     <value>Du bist Tier7-Abonnent!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>Höchstes MMR überhaupt</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>MEINE STATISTIKEN</value>
@@ -4282,10 +4282,10 @@
     <value>Nicht unterstützte Karten gefunden</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>E.T.C.s Band</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>E.T.C.s Band</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
     <value>Deck contains cards from the Festival of Legends set.</value>
@@ -4339,6 +4339,6 @@
     <value>Deck contains cards from the Caverns of Time expansion.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
-    <value>Caverns of Time</value>
+    <value>Höhlen der Zeit</value>
   </data>
 </root>
