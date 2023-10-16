@@ -4075,7 +4075,7 @@
     <value>나스리아 성채 살인 사건</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
-    <value>Neutral</value>
+    <value>중립</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
     <value>덱에 리치 왕의 진군 확장팩 카드가 포함되어 있습니다.</value>
@@ -4117,7 +4117,7 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
@@ -4168,7 +4168,7 @@
     <value>Tier7 Battlegrounds Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>로딩 중...</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Hover for more details</value>
@@ -4340,5 +4340,44 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
     <value>Caverns of Time</value>
+  </data>
+  <data name="Race_Demon" xml:space="preserve">
+    <value>악마</value>
+  </data>
+  <data name="Race_Mechanical" xml:space="preserve">
+    <value>Mech</value>
+  </data>
+  <data name="Race_Beast" xml:space="preserve">
+    <value>야수</value>
+  </data>
+  <data name="Race_Dragon" xml:space="preserve">
+    <value>용족</value>
+  </data>
+  <data name="Race_Murloc" xml:space="preserve">
+    <value>멀록</value>
+  </data>
+  <data name="Race_Pirate" xml:space="preserve">
+    <value>해적</value>
+  </data>
+  <data name="Race_Elemental" xml:space="preserve">
+    <value>Elemental</value>
+  </data>
+  <data name="Race_Quilboar" xml:space="preserve">
+    <value>Quilboar</value>
+  </data>
+  <data name="Race_Naga" xml:space="preserve">
+    <value>Naga</value>
+  </data>
+  <data name="Race_Undead" xml:space="preserve">
+    <value>Undead</value>
+  </data>
+  <data name="Race_Totem" xml:space="preserve">
+    <value>토템</value>
+  </data>
+  <data name="Race_All" xml:space="preserve">
+    <value>전체</value>
+  </data>
+  <data name="Race_Other" xml:space="preserve">
+    <value>기타</value>
   </data>
 </root>

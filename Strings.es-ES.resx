@@ -3577,7 +3577,7 @@
     <value>Silver</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>Gold</value>
+    <value>Oro</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
     <value>Platinum</value>
@@ -3646,13 +3646,13 @@
     <value>Lethal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Win</value>
+    <value>Victoria</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>Tie</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Loss</value>
+    <value>Derrota</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3670,7 +3670,7 @@
     <value>Found unknown cards</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>Creado por</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
     <value>Not Available</value>
@@ -3745,7 +3745,7 @@
     <value>Turn</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>Turns</value>
+    <value>Turnos</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>Use high resolution card images</value>
@@ -3760,10 +3760,10 @@
     <value>Card Tooltips</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clásico</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Clásico</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
     <value>Deck contains cards from the Forged in the Barrens expansion.</value>
@@ -3799,7 +3799,7 @@
     <value>Wailing Caverns</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legacy</value>
+    <value>Antiguo</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan Guide</value>
@@ -3829,7 +3829,7 @@
     <value>Dismiss</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Limpiar</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>No valid deck code found on clipboard</value>
@@ -4000,7 +4000,7 @@
     <value>Latest 10 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Restablecer</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>Final Board</value>
@@ -4168,7 +4168,7 @@
     <value>Tier7 Battlegrounds Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando...</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Hover for more details</value>
@@ -4340,5 +4340,44 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
     <value>Caverns of Time</value>
+  </data>
+  <data name="Race_Demon" xml:space="preserve">
+    <value>Demonio</value>
+  </data>
+  <data name="Race_Mechanical" xml:space="preserve">
+    <value>Mech</value>
+  </data>
+  <data name="Race_Beast" xml:space="preserve">
+    <value>Bestia</value>
+  </data>
+  <data name="Race_Dragon" xml:space="preserve">
+    <value>Dragón</value>
+  </data>
+  <data name="Race_Murloc" xml:space="preserve">
+    <value>Múrloc</value>
+  </data>
+  <data name="Race_Pirate" xml:space="preserve">
+    <value>Pirata</value>
+  </data>
+  <data name="Race_Elemental" xml:space="preserve">
+    <value>Elemental</value>
+  </data>
+  <data name="Race_Quilboar" xml:space="preserve">
+    <value>Quilboar</value>
+  </data>
+  <data name="Race_Naga" xml:space="preserve">
+    <value>Naga</value>
+  </data>
+  <data name="Race_Undead" xml:space="preserve">
+    <value>Undead</value>
+  </data>
+  <data name="Race_Totem" xml:space="preserve">
+    <value>Tótem</value>
+  </data>
+  <data name="Race_All" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="Race_Other" xml:space="preserve">
+    <value>Otros</value>
   </data>
 </root>
