@@ -4075,7 +4075,7 @@
     <value>Murder at Castle Nathria</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
-    <value>Neutral</value>
+    <value>中立</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
     <value>Deck contains cards from the March of the Lich King expansion.</value>
@@ -4168,7 +4168,7 @@
     <value>Tier7 Battlegrounds Overlay</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>讀取中…</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Hover for more details</value>
@@ -4340,5 +4340,44 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
     <value>Caverns of Time</value>
+  </data>
+  <data name="Race_Demon" xml:space="preserve">
+    <value>惡魔</value>
+  </data>
+  <data name="Race_Mechanical" xml:space="preserve">
+    <value>Mech</value>
+  </data>
+  <data name="Race_Beast" xml:space="preserve">
+    <value>野獸</value>
+  </data>
+  <data name="Race_Dragon" xml:space="preserve">
+    <value>龍類</value>
+  </data>
+  <data name="Race_Murloc" xml:space="preserve">
+    <value>魚人</value>
+  </data>
+  <data name="Race_Pirate" xml:space="preserve">
+    <value>海盜</value>
+  </data>
+  <data name="Race_Elemental" xml:space="preserve">
+    <value>Elemental</value>
+  </data>
+  <data name="Race_Quilboar" xml:space="preserve">
+    <value>Quilboar</value>
+  </data>
+  <data name="Race_Naga" xml:space="preserve">
+    <value>Naga</value>
+  </data>
+  <data name="Race_Undead" xml:space="preserve">
+    <value>Undead</value>
+  </data>
+  <data name="Race_Totem" xml:space="preserve">
+    <value>圖騰</value>
+  </data>
+  <data name="Race_All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Race_Other" xml:space="preserve">
+    <value>其他</value>
   </data>
 </root>
