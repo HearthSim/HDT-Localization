@@ -4380,4 +4380,16 @@
   <data name="Race_Other" xml:space="preserve">
     <value>Sonstige</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
+    <value>Showdown in the Badlands</value>
+  </data>
+  <data name="DeckSetIcons_Tooltip_Badlands" xml:space="preserve">
+    <value>Deck contains cards from the Showdown in the Badlands expansion.</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_Badlands" xml:space="preserve">
+    <value>Showdown in the Badlands</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
+    <value>Showdown in the Badlands:</value>
+  </data>
 </root>
