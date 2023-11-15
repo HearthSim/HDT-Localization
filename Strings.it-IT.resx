@@ -3237,8 +3237,8 @@
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replay reclamati</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
-    <value>Iscritto a Premium</value>
+  <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
+    <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>Abilita ora</value>
@@ -3246,11 +3246,11 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Richiedi ora</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
-    <value>Grazie per il tuo supporto!</value>
+  <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
+    <value>Thank you for supporting us!</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
-    <value>Per saperne di più</value>
+  <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
+    <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>Impostazioni Account</value>
@@ -4176,16 +4176,16 @@
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
     <value>Welcome</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
     <value>Uses remaining this week:</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
     <value>Resets In</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
@@ -4392,6 +4392,9 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands:</value>
   </data>
+  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
+    <value>Show Excavate tier:</value>
+  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Comune</value>
   </data>
@@ -4403,5 +4406,26 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>Leggendaria</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
+    <value>Show Excavate counter:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
+    <value>Subscribed?</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
+    <value>Sign In</value>
+  </data>
+  <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
+    <value>Subscribed to Tier7</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
   </data>
 </root>
