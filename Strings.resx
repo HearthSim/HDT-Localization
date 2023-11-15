@@ -4176,16 +4176,16 @@
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
     <value>Welcome</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
     <value>Uses remaining this week:</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
     <value>Resets In</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
@@ -4409,5 +4409,14 @@
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
     <value>Show Excavate counter:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
+    <value>Subscribed?</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
+    <value>Sign In</value>
+  </data>
+  <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
+    <value>Refresh</value>
   </data>
 </root>
