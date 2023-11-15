@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -658,7 +658,7 @@
     <value>비밀을 클릭하여 회색 처리</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>주의:"옵션>오버레이>일반>자동으로 비밀 회색처리"를 활성화시 정상 동작하지 않을 수 있습니다.</value>
+    <value>주의:"옵션&gt;오버레이&gt;일반&gt;자동으로 비밀 회색처리"를 활성화시 정상 동작하지 않을 수 있습니다.</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>활성화</value>
@@ -1753,7 +1753,7 @@
     <value>태그 필터 적용</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
-    <value>'덱 선택' > '덱 정렬/필터링'에 현재 설정되어 있는 태그 필터 적용</value>
+    <value>'덱 선택' &gt; '덱 정렬/필터링'에 현재 설정되어 있는 태그 필터 적용</value>
   </data>
   <data name="Stats_Overview_Label_Menu" xml:space="preserve">
     <value>메뉴</value>
@@ -2773,10 +2773,10 @@
     <value>모바일 기기 (노트북, 타블렛, ...) 에서만 작동합니다.</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이>일반>선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
+    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이&gt;일반&gt;선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically_Tooltip" xml:space="preserve">
-    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이>일반>선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
+    <value>덱 리스트 및 정보창을 선택 영역의 수직으로 가운데 정렬 시킵니다. 선택 영역은 '오버레이&gt;일반&gt;선택영역 잠금해제'를 통해 변경할 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_Appearance_CheckBox_Metro_Tooltip" xml:space="preserve">
     <value>체크 해제시 팝업 알림창 애니메이션이 비활성 됩니다.</value>
@@ -3237,7 +3237,7 @@
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>리플레이 수령 완료</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
     <value>프리미엄 구독</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
@@ -3246,10 +3246,10 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>즉시 받기</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
     <value>지원해 주셔서 감사합니다!</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
     <value>더 찾아보기</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">

@@ -3237,7 +3237,7 @@
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replays claimed</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
     <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
@@ -3246,10 +3246,10 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Claim now</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
     <value>Thank you for supporting us!</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
     <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
@@ -4418,5 +4418,14 @@
   </data>
   <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
     <value>Refresh</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
+    <value>Subscribed to Tier7</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
   </data>
 </root>
