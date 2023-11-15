@@ -4392,8 +4392,8 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands:</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
+    <value>Show Excavate tier:</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Gewöhnlich</value>
@@ -4406,5 +4406,8 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>Legendär</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
+    <value>Show Excavate counter:</value>
   </data>
 </root>
