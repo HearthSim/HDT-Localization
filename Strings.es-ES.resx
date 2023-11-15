@@ -4395,4 +4395,16 @@
   <data name="Options_Overlay_Player_Label_Excavate" xml:space="preserve">
     <value>Show Excavate counter:</value>
   </data>
+  <data name="Counter_Excavate_Tier0" xml:space="preserve">
+    <value>Común</value>
+  </data>
+  <data name="Counter_Excavate_Tier1" xml:space="preserve">
+    <value>Rara</value>
+  </data>
+  <data name="Counter_Excavate_Tier2" xml:space="preserve">
+    <value>Épica</value>
+  </data>
+  <data name="Counter_Excavate_Tier3" xml:space="preserve">
+    <value>Legendaria</value>
+  </data>
 </root>
