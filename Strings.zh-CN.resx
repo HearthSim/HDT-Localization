@@ -4431,4 +4431,28 @@
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
     <value>Show Spell School counter:</value>
   </data>
+  <data name="Spell_School_Arcane" xml:space="preserve">
+    <value>Arcane</value>
+  </data>
+  <data name="Spell_School_Fel" xml:space="preserve">
+    <value>Fel</value>
+  </data>
+  <data name="Spell_School_Fire" xml:space="preserve">
+    <value>Fire</value>
+  </data>
+  <data name="Spell_School_Frost" xml:space="preserve">
+    <value>Frost</value>
+  </data>
+  <data name="Spell_School_Holy" xml:space="preserve">
+    <value>Holy</value>
+  </data>
+  <data name="Spell_School_Nature" xml:space="preserve">
+    <value>Nature</value>
+  </data>
+  <data name="Spell_School_Physical_Combat" xml:space="preserve">
+    <value>攻击力</value>
+  </data>
+  <data name="Spell_School_Shadow" xml:space="preserve">
+    <value>Shadow</value>
+  </data>
 </root>
