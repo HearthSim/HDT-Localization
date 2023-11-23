@@ -3237,7 +3237,7 @@
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replays claimed</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
     <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
@@ -3246,10 +3246,10 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Claim now</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
     <value>Thank you for supporting us!</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
     <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
@@ -4418,5 +4418,59 @@
   </data>
   <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
     <value>Refresh</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
+    <value>Subscribed to Tier7</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
+    <value>Subscribed to HSReplay.net</value>
+  </data>
+  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
+    <value>Show Spell School counter:</value>
+  </data>
+  <data name="Spell_School_Arcane" xml:space="preserve">
+    <value>Arcane</value>
+  </data>
+  <data name="Spell_School_Fel" xml:space="preserve">
+    <value>Fel</value>
+  </data>
+  <data name="Spell_School_Fire" xml:space="preserve">
+    <value>Fire</value>
+  </data>
+  <data name="Spell_School_Frost" xml:space="preserve">
+    <value>Frost</value>
+  </data>
+  <data name="Spell_School_Holy" xml:space="preserve">
+    <value>Holy</value>
+  </data>
+  <data name="Spell_School_Nature" xml:space="preserve">
+    <value>Nature</value>
+  </data>
+  <data name="Spell_School_Physical_Combat" xml:space="preserve">
+    <value>Attack</value>
+  </data>
+  <data name="Spell_School_Shadow" xml:space="preserve">
+    <value>Shadow</value>
+  </data>
+  <data name="Counter_Spell_School_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
+    <value>Show Spell School counter:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+    <value>Uses remaining this week:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+    <value>Resets In</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+    <value>Join Tier7 to get unlimited access.</value>
   </data>
 </root>

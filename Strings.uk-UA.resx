@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -850,7 +850,7 @@
     <value>Перезапустіть HDT, щоб вжити мовні налаштування.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
-    <value>&quot;Застосувати&quot; колоди автомат. (вимикає кнопку)</value>
+    <value>"Застосувати" колоди автомат. (вимикає кнопку)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_Sorting" xml:space="preserve">
     <value>Сортування карт: спочатку класові</value>
@@ -1825,22 +1825,22 @@
     <value>Чекаю на Hearthstone...</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Naxx" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Прокляття Наксрамасу&quot;.</value>
+    <value>Колода містить карти з доповнення "Прокляття Наксрамасу".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Gvg" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Гобліни та гноми&quot;.</value>
+    <value>Колода містить карти з доповнення "Гобліни та гноми".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Brm" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Чорнокам'яна гора&quot;.</value>
+    <value>Колода містить карти з доповнення "Чорнокам'яна гора".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Tgt" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Великий Турнір&quot;.</value>
+    <value>Колода містить карти з доповнення "Великий Турнір".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Loe" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Ліга дослідників&quot;.</value>
+    <value>Колода містить карти з доповнення "Ліга дослідників".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wotog" xml:space="preserve">
-    <value>Колода містить карти з доповнення &quot;Шепіт Давніх Богів&quot;.</value>
+    <value>Колода містить карти з доповнення "Шепіт Давніх Богів".</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Kara" xml:space="preserve">
     <value>Колода містить карти з додатку Одна ніч у Каражані.</value>
@@ -2182,13 +2182,13 @@
     <value>Шанс отримати карту:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text_Draw" xml:space="preserve">
-    <value>Шанс отримати окрему карту, коли &quot;X&quot; її копій ще є у колоді.</value>
+    <value>Шанс отримати окрему карту, коли "X" її копій ще є у колоді.</value>
   </data>
   <data name="Help_Overlay_Percentages_Label_Holding" xml:space="preserve">
     <value>Шанс мати:</value>
   </data>
   <data name="Help_Overlay_Percentages_Text1_Holding" xml:space="preserve">
-    <value>Шанс того, що ваш супротивник буде мати окрему карту на початку наступного ходу, коли &quot;X&quot; її копій залишелося у грі.</value>
+    <value>Шанс того, що ваш супротивник буде мати окрему карту на початку наступного ходу, коли "X" її копій залишелося у грі.</value>
   </data>
   <data name="Help_Overlay_Percentages_Text2_Holding" xml:space="preserve">
     <value>Це розраховується лише для наступного добору карт.</value>
@@ -2275,7 +2275,7 @@
     <value>Немає</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
-    <value>натисніть &quot;Застосувати&quot; поруч з колодою, щоб активувати її</value>
+    <value>натисніть "Застосувати" поруч з колодою, щоб активувати її</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
     <value>Автоматично</value>
@@ -2569,7 +2569,7 @@
     <value>Обрати дію</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Description" xml:space="preserve">
-    <value>&quot;Вивантажити&quot; автоматично завантажить знімок на imgur.com</value>
+    <value>"Вивантажити" автоматично завантажить знімок на imgur.com</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
     <value>Зберегти</value>
@@ -2599,7 +2599,7 @@
     <value>Спробуйте завантажити HDT як адміністратор комп'ютеру.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>Якщо це не допомогає, натисніть на &quot;показати вказівки&quot;, щоб виконати оновлення власноруч.</value>
+    <value>Якщо це не допомогає, натисніть на "показати вказівки", щоб виконати оновлення власноруч.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Продовжити...</value>
@@ -2647,7 +2647,7 @@
     <value>Але</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
-    <value>&quot;Стандартні&quot; та &quot;Вільні&quot; колоди разом</value>
+    <value>"Стандартні" та "Вільні" колоди разом</value>
   </data>
   <data name="Enum_DeckPanel_Winrate" xml:space="preserve">
     <value>Шанс перемоги</value>
@@ -3234,7 +3234,7 @@
   <data name="Options_HSReplay_Account_ReplaysClaimed" xml:space="preserve">
     <value>Replays claimed</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
     <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
@@ -3243,10 +3243,10 @@
   <data name="Options_HSReplay_Account_ClaimNow" xml:space="preserve">
     <value>Claim now</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_Subscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
     <value>Thank you for supporting us!</value>
   </data>
-  <data name="Options_HSReplay_Account_Premium_NotSubscribed" xml:space="preserve">
+  <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
     <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
