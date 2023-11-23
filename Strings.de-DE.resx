@@ -628,13 +628,13 @@
     <value>Deckkraft:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Overlay bewegen:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Overlayposition zurücksetzen:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Overlay entsperren</value>
@@ -3250,7 +3250,7 @@
     <value>Danke, dass du uns unterstützt!</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
-    <value>Finde mehr heraus</value>
+    <value>Mehr erfahren</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>Kontoeinstellungen</value>
@@ -3676,19 +3676,19 @@
     <value>Nicht verfügbar</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Schlachtfeld-Overlay aufnehmen</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>Akademie Scholomance:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
     <value>Deck contains cards from the Scholomance Academy expansion</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Akademie Scholomance</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Akademie Scholomance</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Nicht verfügbar</value>
@@ -3712,19 +3712,19 @@
     <value>Keine Diener auf dem Spielfeld</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>Duels deck name template</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Dunkelmond-Wahnsinn'.</value>
@@ -3808,7 +3808,7 @@
     <value>Show Libram cost reduction counter:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Vereint in Sturmwind</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
@@ -4030,10 +4030,10 @@
     <value>Sitzungsverlauf</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Abyssischer-Fluch-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Abyssischer-Fluch-Zähler anzeigen:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>Warte auf das nächste Spiel</value>
@@ -4176,16 +4176,16 @@
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Melde dich bei HSReplay.net an um Tier7-Statistiken direkt im Overlay zu sehen!</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
     <value>Willkommen</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
-    <value>Verbleibende Nutzungen diese Woche:</value>
+  <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
+    <value>Uses remaining this week:</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
     <value>Wird zurückgesetzt in</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+  <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>Abonniere Tier7 für unbegrenzten Zugriff.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
@@ -4392,6 +4392,9 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands:</value>
   </data>
+  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
+    <value>Show Excavate tier:</value>
+  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Gewöhnlich</value>
   </data>
@@ -4404,13 +4407,70 @@
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>Legendär</value>
   </data>
+  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
+    <value>Ausgraben-Zähler anzeigen:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
+    <value>Abonnent?</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+  <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
+    <value>Tier7-Abonnent</value>
+  </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
     <value>HSReplay.net-Abonnent</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
     <value>HSReplay.net-Abonnent</value>
   </data>
-  <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
-    <value>Tier7-Abonnent</value>
+  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
+    <value>Zaubertyp-Zähler anzeigen:</value>
+  </data>
+  <data name="Spell_School_Arcane" xml:space="preserve">
+    <value>Arkan</value>
+  </data>
+  <data name="Spell_School_Fel" xml:space="preserve">
+    <value>Dämonisch</value>
+  </data>
+  <data name="Spell_School_Fire" xml:space="preserve">
+    <value>Feuer</value>
+  </data>
+  <data name="Spell_School_Frost" xml:space="preserve">
+    <value>Frost</value>
+  </data>
+  <data name="Spell_School_Holy" xml:space="preserve">
+    <value>Heilig</value>
+  </data>
+  <data name="Spell_School_Nature" xml:space="preserve">
+    <value>Natur</value>
+  </data>
+  <data name="Spell_School_Physical_Combat" xml:space="preserve">
+    <value>Angriff</value>
+  </data>
+  <data name="Spell_School_Shadow" xml:space="preserve">
+    <value>Schatten</value>
+  </data>
+  <data name="Counter_Spell_School_None" xml:space="preserve">
+    <value>Keiner</value>
+  </data>
+  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
+    <value>Zaubertyp-Zähler anzeigen:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+    <value>Willkommen</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+    <value>Uses remaining this week:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+    <value>Wird zurückgesetzt in</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+    <value>Abonniere Tier7 für unbegrenzten Zugriff.</value>
   </data>
 </root>
