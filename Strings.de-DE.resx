@@ -628,13 +628,13 @@
     <value>Deckkraft:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Overlay bewegen:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Overlayposition zurücksetzen:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Overlay entsperren</value>
@@ -3247,10 +3247,10 @@
     <value>Jetzt beanspruchen</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Thanks" xml:space="preserve">
-    <value>Thank you for supporting us!</value>
+    <value>Danke, dass du uns unterstützt!</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_LearnMore" xml:space="preserve">
-    <value>Find out more</value>
+    <value>Mehr erfahren</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
     <value>Kontoeinstellungen</value>
@@ -3676,19 +3676,19 @@
     <value>Nicht verfügbar</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>Schlachtfeld-Overlay aufnehmen</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy:</value>
+    <value>Akademie Scholomance:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Scholomance" xml:space="preserve">
     <value>Deck contains cards from the Scholomance Academy expansion</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Akademie Scholomance</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Scholomance" xml:space="preserve">
-    <value>Scholomance Academy</value>
+    <value>Akademie Scholomance</value>
   </data>
   <data name="Unavailable" xml:space="preserve">
     <value>Nicht verfügbar</value>
@@ -3712,19 +3712,19 @@
     <value>Keine Diener auf dem Spielfeld</value>
   </data>
   <data name="Enum_GameMode_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>Duels deck name template</value>
   </data>
   <data name="Enum_DeckType_Duels" xml:space="preserve">
-    <value>Duels</value>
+    <value>Duell</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Dunkelmond-Wahnsinn'.</value>
@@ -3808,7 +3808,7 @@
     <value>Show Libram cost reduction counter:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Vereint in Sturmwind</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Show Libram cost reduction counter:</value>
@@ -4030,10 +4030,10 @@
     <value>Sitzungsverlauf</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Abyssischer-Fluch-Zähler anzeigen:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Abyssischer-Fluch-Zähler anzeigen:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>Warte auf das nächste Spiel</value>
