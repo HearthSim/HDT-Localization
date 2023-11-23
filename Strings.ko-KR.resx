@@ -4458,4 +4458,19 @@
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>없음</value>
   </data>
+  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
+    <value>Show Spell School counter:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
+    <value>Uses remaining this week:</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
+    <value>Resets In</value>
+  </data>
+  <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
+    <value>Join Tier7 to get unlimited access.</value>
+  </data>
 </root>
