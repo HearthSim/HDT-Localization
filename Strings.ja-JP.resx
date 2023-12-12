@@ -1030,7 +1030,7 @@
     <value>AppData にデータを保存</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>ウインドウモード で開始</value>
+    <value>Start with Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>最小化して起動</value>
@@ -1045,7 +1045,7 @@
     <value>ハースストーンと同時に閉じる</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>HDTと同時にハースストーンを開始</value>
+    <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>更新を確認する</value>
@@ -3624,9 +3624,6 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>正確な結果を取得できませんでした</value>
   </data>
-  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>秘策はまだサポートされていません</value>
-  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>戦闘待機中...</value>
   </data>
@@ -3639,8 +3636,8 @@
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>前回の戦闘</value>
   </data>
-  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>前回の戦闘を表示</value>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>リーサル</value>
@@ -4481,5 +4478,11 @@
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>呪文</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
+    <value>Show Final Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
+    <value>Final Combat</value>
   </data>
 </root>
