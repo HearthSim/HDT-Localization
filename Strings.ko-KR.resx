@@ -1030,7 +1030,7 @@
     <value>데이터를 AppData에 저장</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>윈도우 시작과 함께 시작</value>
+    <value>Start with Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>최소화 된 상태로 시작</value>
@@ -1045,7 +1045,7 @@
     <value>하스스톤과 함께 닫기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>하스스톤을 HDT와 함께 시작</value>
+    <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>업데이트 확인</value>
@@ -3624,9 +3624,6 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>정확한 결과를 가져올 수 없습니다</value>
   </data>
-  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>비밀은 현재 지원하지 않습니다</value>
-  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>전투 기다리는 중...</value>
   </data>
@@ -3639,8 +3636,8 @@
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>이전 전투</value>
   </data>
-  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>이전 전투 보기</value>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>죽음</value>
@@ -4481,5 +4478,11 @@
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>주문</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
+    <value>Show Final Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
+    <value>Final Combat</value>
   </data>
 </root>

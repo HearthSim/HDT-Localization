@@ -1030,7 +1030,7 @@
     <value>Sauver les données dans AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Démarrer avec Windows</value>
+    <value>Start with Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Démarrer en mode réduit</value>
@@ -1045,7 +1045,7 @@
     <value>Fermer en même temps que Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Démarrer Hearthstone en même temps que HDT</value>
+    <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Vérifier les mises à jour</value>
@@ -3624,9 +3624,6 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Impossible d'obtenir des résultats précis</value>
   </data>
-  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Les secrets ne sont pas encore pris en charge</value>
-  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>En attente du combat...</value>
   </data>
@@ -3639,8 +3636,8 @@
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>Combat précédent</value>
   </data>
-  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Afficher le combat précédent</value>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Létal</value>
@@ -4481,5 +4478,11 @@
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>Sorts</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
+    <value>Show Final Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
+    <value>Final Combat</value>
   </data>
 </root>

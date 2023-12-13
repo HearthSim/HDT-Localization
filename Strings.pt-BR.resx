@@ -1030,7 +1030,7 @@
     <value>Salvar dados em AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Iniciar com o windows</value>
+    <value>Start with Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Iniciar minimizado</value>
@@ -1045,7 +1045,7 @@
     <value>Fechar com o Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Iniciar Hearthstone com o HDT</value>
+    <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Procurar atualizações</value>
@@ -3624,9 +3624,6 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Não foi possível obter resultados precisos</value>
   </data>
-  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Segredos ainda não são suportados</value>
-  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Esperando pelo Combate...</value>
   </data>
@@ -3639,8 +3636,8 @@
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>Combate Anterior</value>
   </data>
-  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Mostrar Combate Anterior</value>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Letal</value>
@@ -4481,5 +4478,11 @@
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>Feitiços</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
+    <value>Show Final Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
+    <value>Final Combat</value>
   </data>
 </root>

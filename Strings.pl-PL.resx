@@ -1030,7 +1030,7 @@
     <value>Zapisz dane aplikacji w AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Uruchom po włączeniu komputera</value>
+    <value>Start with Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Uruchom od razu jako zminimalizowany program</value>
@@ -1045,7 +1045,7 @@
     <value>Zamknij program po wyłączeniu Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Uruchom Hearthstone razem z programem</value>
+    <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Sprawdzaj czy są dostępne aktualizacje</value>
@@ -3624,9 +3624,6 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Nie można uzyskać dokładnych wyników</value>
   </data>
-  <data name="BobsBuddyStatusMessage_SecretsNotSupported" xml:space="preserve">
-    <value>Sekrety nie są jeszcze wspierane</value>
-  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Oczekiwanie Na Walkę...</value>
   </data>
@@ -3639,8 +3636,8 @@
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
     <value>Poprzednia Walka</value>
   </data>
-  <data name="BobsBuddyStatusMessage_PreviousCurrentCombat" xml:space="preserve">
-    <value>Pokaż Poprzednią Walkę</value>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
+    <value>Show Previous Combat</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Śmierć</value>
@@ -4481,5 +4478,11 @@
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>Zaklęcia</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
+    <value>Show Final Combat</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
+    <value>Final Combat</value>
   </data>
 </root>
