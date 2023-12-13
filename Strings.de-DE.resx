@@ -1045,7 +1045,7 @@
     <value>Mit Hearthstone beenden</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>Hearthstone beim Start ausführen</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Auf Aktualisierungen prüfen</value>
@@ -3637,7 +3637,7 @@
     <value>Vorheriger Kampf</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Vorherigen Kampf anzeigen</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Tödlich</value>
@@ -3907,10 +3907,10 @@
     <value>Reise in die Versunkene Stadt</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
-    <value>Card on top</value>
+    <value>Obere Karten</value>
   </data>
   <data name="Enum_DeckPanel_CardsBottom" xml:space="preserve">
-    <value>Cards on bottom</value>
+    <value>Untere Karten</value>
   </data>
   <data name="DeckLens_Label_OnBottom" xml:space="preserve">
     <value>Oben</value>
@@ -4480,9 +4480,9 @@
     <value>Zauber</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
-    <value>Show Final Combat</value>
+    <value>Abschlusskampf anzeigen</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
-    <value>Final Combat</value>
+    <value>Abschlusskampf</value>
   </data>
 </root>
