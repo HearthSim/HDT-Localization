@@ -4177,7 +4177,7 @@
     <value>Welcome</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining this week:</value>
+    <value>Uses remaining:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
     <value>Resets In</value>
@@ -4461,9 +4461,6 @@
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Welcome</value>
   </data>
-  <data name="BattlegroundsPreLobby_Authenticated_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining this week:</value>
-  </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
     <value>Resets In</value>
   </data>
@@ -4484,5 +4481,8 @@
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
     <value>Final Combat</value>
+  </data>
+  <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>You can use the Tier7 overlay for free for a limited number of times.</value>
   </data>
 </root>
