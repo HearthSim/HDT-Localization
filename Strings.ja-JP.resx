@@ -4042,7 +4042,7 @@
     <value>No minion played</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>デッキのカードが40枚未満です。</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
     <value>Deck has more than 40 cards.</value>
@@ -4054,7 +4054,7 @@
     <value>Welcome to</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Hearthstone Deck Tracker と HSReplay.netで可能性を解き放ちましょう</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Let's Go</value>
@@ -4063,28 +4063,28 @@
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria:</value>
+    <value>ナスリア城殺人事件:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>ナスリア城殺人事件</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>ナスリア城殺人事件</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
     <value>中立</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>デッキにリッチキングの凱旋のカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>リッチキングの凱旋:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>リッチキングの凱旋</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>リッチキングの凱旋</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
     <value>Show Battlegrounds Hero Picking Stats</value>
@@ -4105,7 +4105,7 @@
     <value>Avg Placement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>ピック率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4114,7 +4114,7 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>ピック率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
