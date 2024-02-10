@@ -4485,4 +4485,16 @@
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>Du kannst das Tier7-Overlay kostenlos für eine begrenzte Anzahl an Partien nutzen.</value>
   </data>
+  <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
+    <value>Not on website</value>
+  </data>
+  <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
+    <value>Mulligan Guide</value>
+  </data>
+  <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
+    <value>Enable Mulligan Guide</value>
+  </data>
+  <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
+    <value>Show availability on deck selection screen</value>
+  </data>
 </root>
