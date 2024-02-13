@@ -4497,4 +4497,52 @@
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
     <value>Show availability on deck selection screen</value>
   </data>
+  <data name="ConstructedMulliganGuide_Header_KeepRate" xml:space="preserve">
+    <value>Keep Rate</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
+    <value>Percent of the time this card is kept when presented during Mulligan.</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
+    <value>Keep Rate</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
+    <value>Mulligan WR</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
+    <value>Mulligan Winrate</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
+    <value>Average winrate of games where this card ends up in the opening hand.</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
+    <value>HAND RANK</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
+    <value>Hand Rank</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
+    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
+    <value>Mulligan Guide Ready</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
+    <value>No Data</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
+    <value>讀取中…</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
+    <value>Whizbang's Workshop</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
+    <value>Whizbang's Workshop:</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
+    <value>Whizbang's Workshop</value>
+  </data>
+  <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
+    <value>Show Mulligan Overlay at start of game</value>
+  </data>
 </root>
