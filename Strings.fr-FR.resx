@@ -4515,4 +4515,13 @@
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
     <value>Average winrate of games where this card ends up in the opening hand.</value>
   </data>
+  <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
+    <value>HAND RANK</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
+    <value>Hand Rank</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
+    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+  </data>
 </root>
