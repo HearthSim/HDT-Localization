@@ -4524,4 +4524,13 @@
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
   </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
+    <value>Mulligan Guide Ready</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
+    <value>No Data</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
+    <value>로딩 중...</value>
+  </data>
 </root>
