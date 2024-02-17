@@ -229,7 +229,7 @@
     <value>Aus Zwischenablage</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
-    <value>Aus letztem Spiel</value>
+    <value>Aus letzter Partie</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
     <value>E_xportieren</value>
@@ -265,10 +265,10 @@
     <value>De_ckbau</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>Spiele (_R)</value>
+    <value>Aufzeichnungen (_R)</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>_Letzte Spiele</value>
+    <value>_Letzte Aufzeichnungen</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
     <value>Aus _Statistik auswählen</value>
@@ -961,7 +961,7 @@
     <value>Arena-Belohnungsdialog anzeigen wenn abgeschlossen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog" xml:space="preserve">
-    <value>Notizendialog nach jedem Spiel anzeigen</value>
+    <value>Notizdialog nach jedem Spiel anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_NoteDialog_WaitMenu" xml:space="preserve">
     <value>Warte auf Rückkehr ins Menü</value>
@@ -985,7 +985,7 @@
     <value>Benachrichtigung zum Teilen anzeigen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Upload" xml:space="preserve">
-    <value>Spiele automatisch hochladen</value>
+    <value>Aufzeichnungen automatisch hochladen</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Ranked" xml:space="preserve">
     <value>Gewertet</value>
@@ -1120,13 +1120,13 @@
     <value>Seit:</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardNoMatch" xml:space="preserve">
-    <value>Spiel verwerfen wenn Deck nicht mit Karten übereinstimmt</value>
+    <value>Partie verwerfen, wenn Deck nicht mit Karten übereinstimmt</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AskDiscard" xml:space="preserve">
     <value>Verwerfen vorher bestätigen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_DiscardZeroTurns" xml:space="preserve">
-    <value>Spiele mit null Zügen verwerfen</value>
+    <value>Partien mit null Zügen verwerfen</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_RecordLocalReplays" xml:space="preserve">
     <value>Spiele lokal speichern</value>
@@ -1354,16 +1354,16 @@
     <value>Gegn. Deck anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_Replay" xml:space="preserve">
-    <value>Spiele anzeigen</value>
+    <value>Aufzeichnung anzeigen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_AddGame" xml:space="preserve">
-    <value>Spiel hinzufügen</value>
+    <value>Partie hinzufügen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_EditGame" xml:space="preserve">
-    <value>Spiel bearbeiten</value>
+    <value>Partie bearbeiten</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
-    <value>Spiel löschen</value>
+    <value>Partie löschen</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
     <value>VS</value>
@@ -1387,7 +1387,7 @@
     <value>Zeit</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
-    <value>Spiel</value>
+    <value>Aufzeichnung</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -1552,7 +1552,7 @@
     <value>Region</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Spiel</value>
+    <value>Aufzeichnung</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Notiz</value>
@@ -1765,7 +1765,7 @@
     <value>Zusammenfassung</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Runs" xml:space="preserve">
-    <value>Durchläufe &amp; Spiele</value>
+    <value>Durchläufe &amp; Partien</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Arena_Advanced" xml:space="preserve">
     <value>Ausführliche Diagramme</value>
@@ -2368,7 +2368,7 @@
     <value>Hearthstone muss neu gestartet werden!</value>
   </data>
   <data name="NoteWindow_Title" xml:space="preserve">
-    <value>Notiz zu diesem Spiel</value>
+    <value>Notiz zu dieser Partie</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
     <value>Übernehmen</value>
@@ -2434,16 +2434,16 @@
     <value>Spieler:</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>Spiel hinzufügen</value>
+    <value>Partie hinzufügen</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
-    <value>Neues Spiel hinzufügen</value>
+    <value>Neue Partie hinzufügen</value>
   </data>
   <data name="AddGameDialog_Title_Edit" xml:space="preserve">
-    <value>Spiel bearbeiten</value>
+    <value>Partie bearbeiten</value>
   </data>
   <data name="AddGameDialog_Button_SaveGame" xml:space="preserve">
     <value>Speichern</value>
@@ -2500,7 +2500,7 @@
     <value>Abbrechen</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
-    <value>Spiel verwerfen?</value>
+    <value>Partie verwerfen?</value>
   </data>
   <data name="DiscardGameDialog_Label_Description" xml:space="preserve">
     <value>Gespielte Karten decken sich nicht mit gewähltem Deck.</value>
@@ -2515,7 +2515,7 @@
     <value>In anderes Deck verschieben</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Spiel löschen</value>
+    <value>Partie löschen</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>Bist du sicher?</value>
@@ -2527,10 +2527,10 @@
     <value>Abbrechen</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
-    <value>Spiele löschen</value>
+    <value>Partien löschen</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Text" xml:space="preserve">
-    <value>Dies wird die gewählten Spiele löschen</value>
+    <value>Dies wird die gewählten Partien löschen</value>
   </data>
   <data name="MessageDialogs_Restart_Title" xml:space="preserve">
     <value>Neustart erforderlich</value>
@@ -2827,7 +2827,7 @@
     <value>Für dieses Deck sind globale Statistiken und Mulligan Informationen auf HSReplay.net verfügbar.</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay Mulligan Guide</value>
+    <value>HSReplay Mulligan-Guide</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>Exportieren</value>
@@ -3013,7 +3013,7 @@
     <value>Keine Daten.</value>
   </data>
   <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Spiel ein paar Spiele!</value>
+    <value>Spiel ein paar Partien!</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>Wird geladen...</value>
@@ -3991,10 +3991,10 @@
     <value>Skalierung</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Das Zurücksetzen der Sitzung wird die Liste der letzten Partien leeren und das Start-MMR auf dein aktuelles MMR setzen.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Die letzten 10 Partien werden hier angezeigt.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
@@ -4012,7 +4012,7 @@
     <value>Sitzung zurücksetzen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Dies wird die letzten Partien leeren und das Start-MMR auf dein aktuelles MMR setzen.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
     <value>Latest Tier Up</value>
@@ -4033,7 +4033,7 @@
     <value>Abyssischer-Fluch-Zähler anzeigen:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Warte auf das nächste Spiel</value>
+    <value>Warte auf nächste Partie</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Sitzungsverlauf-Overlay zwischen Spielen anzeigen</value>
@@ -4468,10 +4468,10 @@
     <value>Abonniere Tier7 für unbegrenzten Zugriff.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE MULLIGAN GUIDE</value>
+    <value>MULLIGAN-GUIDE VERBERGEN</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW MULLIGAN GUIDE</value>
+    <value>MULLIGAN-GUIDE ANZEIGEN</value>
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>Zauber</value>
@@ -4489,10 +4489,10 @@
     <value>Not on website</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>Mulligan Guide</value>
+    <value>Mulligan-Guide</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan Guide</value>
+    <value>Mulligan-Guide aktivieren</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
     <value>Show availability on deck selection screen</value>
@@ -4507,10 +4507,10 @@
     <value>Keep Rate</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
-    <value>Mulligan WR</value>
+    <value>Mulligan-GR</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>Mulligan Winrate</value>
+    <value>Mulligan-Gewinnrate</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
     <value>Average winrate of games where this card ends up in the opening hand.</value>
@@ -4522,13 +4522,13 @@
     <value>Hand Rank</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
-    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+    <value>Die {0}.-beste Karte aus den {1} verschiedenen Karten in diesem Deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>Mulligan Guide Ready</value>
+    <value>Mulligan-Guide bereit</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
-    <value>No Data</value>
+    <value>Keine Daten</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
     <value>Wird geladen...</value>
@@ -4543,6 +4543,6 @@
     <value>Whizbang's Workshop</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>Mulligan-Overlay am Anfang der Partie anzeigen</value>
   </data>
 </root>
