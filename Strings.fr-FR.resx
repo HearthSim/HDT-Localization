@@ -4545,4 +4545,13 @@
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>Show Mulligan Overlay at start of game</value>
   </data>
+  <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
+    <value>Mulligan Stats vs. {0}, Going First</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
+    <value>Mulligan Stats vs. {0}, On Coin</value>
+  </data>
+  <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
+    <value>Une erreur s'est produite :(</value>
+  </data>
 </root>
