@@ -4566,4 +4566,7 @@
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
     <value>Tavern Tier {0}</value>
   </data>
+  <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
+    <value>Tavern Tier {0} - {1}</value>
+  </data>
 </root>
