@@ -4554,4 +4554,19 @@
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>Something went wrong :(</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
+    <value>Verfügbare Dienertypen anzeigen</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
+    <value>Verfügbare Diener</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
+    <value>Dienertypen</value>
+  </data>
+  <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
+    <value>Tavern Tier {0}</value>
+  </data>
+  <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
+    <value>Tavern Tier {0} - {1}</value>
+  </data>
 </root>

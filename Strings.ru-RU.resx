@@ -3919,7 +3919,7 @@
     <value>Верх колоды</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Не представлены</value>
+    <value>Banned Minions</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
@@ -3931,7 +3931,7 @@
     <value>Enable Session Recap Overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Показывать непредставленных существ</value>
+    <value>Show Banned Minion Types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Показывать начальный и текущий MMR</value>
@@ -4553,5 +4553,20 @@
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>Что-то пошло не так :(</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
+    <value>Show Available Minion Types</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
+    <value>Available Minions</value>
+  </data>
+  <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
+    <value>Minion Types</value>
+  </data>
+  <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
+    <value>Tavern Tier {0}</value>
+  </data>
+  <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
+    <value>Tavern Tier {0} - {1}</value>
   </data>
 </root>
