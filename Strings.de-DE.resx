@@ -4144,7 +4144,7 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>Alle Statistiken von Top {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>Rüstungsstufe</value>
@@ -4324,7 +4324,7 @@
     <value>Temporär deaktiviert. Wir sind bald zurück!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
+    <value>Alle Statistiken von Top {0}% MMR ({1:N0}+), angepasst für Anomalie</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>Sammlung hochgeladen!</value>
