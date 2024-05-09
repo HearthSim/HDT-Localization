@@ -4144,7 +4144,7 @@
     <value>Les héros dont le classement moyen est inférieur d'au moins un écart-type au meilleur héros de niveau 3</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>Toutes les statistiques des {0}% meilleures cotes ({1} + )</value>
+    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>Palier d'armure</value>
@@ -4324,7 +4324,7 @@
     <value>Temporarily disabled. We will be back soon!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1}+), Adjusted for Anomaly</value>
+    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>Collection uploaded!</value>
