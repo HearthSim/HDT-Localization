@@ -628,13 +628,13 @@
     <value>Opacità:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Sposta overlay:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Resetta la posizione dell'overlay:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Sbloccare overlay</value>
@@ -856,7 +856,7 @@
     <value>Ordinamento carte: Carte di classe per prime</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Mostra le informazioni per la carta (questa finestra)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostra bilanciamento del mana</value>
@@ -1030,7 +1030,7 @@
     <value>Salva dati in AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Lancia con Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Avvia minimizzato</value>
@@ -1045,7 +1045,7 @@
     <value>Chiudi con Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>Lancia Hearthstone da start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Controlla per nuovi aggiornamenti</value>
@@ -3427,7 +3427,7 @@
     <value>Mostra set di carte</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione the Rise of Shadows.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>L'ascesa delle ombre:</value>
@@ -3637,7 +3637,7 @@
     <value>Battaglia precedente</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Mostra il combattimento precedente</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Lethal</value>
@@ -3724,7 +3724,7 @@
     <value>Duelli</value>
   </data>
   <data name="DeckSetIcons_Tooltip_DarkmoonFaire" xml:space="preserve">
-    <value>Deck contains cards from the Darkmoon Faire expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Darkmoon Faire.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_DarkmoonFaire" xml:space="preserve">
     <value>Darkmoon Faire:</value>
