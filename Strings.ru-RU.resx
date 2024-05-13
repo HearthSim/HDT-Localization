@@ -1030,7 +1030,7 @@
     <value>Сохранение данных в AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Автозапуск с Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Запускать в свернутом виде</value>
@@ -1045,7 +1045,7 @@
     <value>Закрывать с Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>Открывать Hearhstone при запуске</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Проверка обновлений</value>
@@ -3637,7 +3637,7 @@
     <value>Предыдущий бой</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Показать предыдущий бой</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Насмерть</value>
@@ -3919,7 +3919,7 @@
     <value>Верх колоды</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>Не представлены</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
@@ -3931,7 +3931,7 @@
     <value>Enable Session Recap Overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Banned Minion Types</value>
+    <value>Показывать не представленные типы существ</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Показывать начальный и текущий MMR</value>
@@ -4555,18 +4555,18 @@
     <value>Что-то пошло не так :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show Available Minion Types</value>
+    <value>Показывать представленные типы существ</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>Представлены</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>Типы существ</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>Уровень таверны {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>Уровень таверны {0} - {1}</value>
   </data>
 </root>
