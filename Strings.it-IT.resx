@@ -3862,46 +3862,46 @@
     <value>Mostra le icone abilità sopra i Mercenari avversari</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>Mostra le icone di abilità sotto i Mercenari del giocatore</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>Mercenari</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
-    <value>Task progress will update after the game</value>
+    <value>L'avanzamento dell'attività verrà aggiornato dopo la partita</value>
   </data>
   <data name="MercenariesTaskList_TasksButton" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Attività</value>
   </data>
   <data name="MercenariesTaskList_TaskTitle" xml:space="preserve">
-    <value>Task {0}: {1}</value>
+    <value>Attività {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Eseguito!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>Mostra il pannello Attività in modalità Mercenari</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
-    <value>Deck contains cards from the Fractured in Alterac Valley expansion.</value>
+    <value>Il mazzo contiene carte dell'espansione Divisi nella Valle d'Alterac.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley:</value>
+    <value>Divisi nella Valle d'Alterac:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Divisi nella Valle d'Alterac</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Divisi nella Valle d'Alterac</value>
   </data>
   <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
-    <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
+    <value>Mazzo contiene carte dell'espansione Rotta per la Città Sommersa.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City:</value>
+    <value>Rotta per la Città Sommersa:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Rotta per la Città Sommersa</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
     <value>Voyage to the Sunken City</value>
@@ -4111,52 +4111,52 @@
     <value>Average Placement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>Il posizionamento finale che l'eroe raggiunge in media, regolato per i tipi di servitori disponibili</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Tasso di Scelta</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>Percentuale delle volte in cui questo eroe viene scelto all'inizio di una partita quando presentato tra le opzioni</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>Livello 1: Super performante</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>Livello 2: Vincente</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>Livello 3: Poco performante</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>Livello 4: Perdente</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>L'eroe con il miglior posizionamento, ed eroi con posizionamento superiore all'interno di una deviazione standard dell'eroe con il miglior posizionamento</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>Eroi con posizionamento medio migliore o uguale a 4.5</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>Eroi con una percentuale di vittoria peggiore del 4.5 e con una deviazione standard del miglior eroe in questo livello</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>Eroi con una percentuale di vittoria peggiore di 3 e con una deviazione standard del miglior eroe in questo livello</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>Tutte Le Statistiche Dall'Alto {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Livello Armatura</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
-    <value>Percentage of 1st place finishes</value>
+    <value>Percentuale di classificazioni al 1° posto</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>Agli eroi con livello armatura più alto vengono offerte missioni con requisiti di completamento più facili.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Accedi a HSReplay.net per sbloccare Rateo Scelta Eroe, Posizionamento Medio, Livelli Armature e altro ancora!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>Subscribe to Tier7 to unlock unlimited usage.</value>
@@ -4198,7 +4198,7 @@
     <value>Armor Range: {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Livello Armatura</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
