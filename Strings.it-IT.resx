@@ -4009,37 +4009,37 @@
     <value>La posizione della Sessione di Battaglia sarà ripristinata a quella predefinita. Sei sicuro?</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
-    <value>Reset session</value>
+    <value>Reset sessione</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Desc" xml:space="preserve">
-    <value>This will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Resettare la sessione cancellerà l'elenco delle ultime partite e imposterà l'MMR iniziale in base al tuo MMR attuale.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>Ultimo aumento di livello</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
     <value>Minions Tripled At Tier</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
-    <value>No Upgrades</value>
+    <value>Nessun Potenziamento</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
-    <value>Session Recap</value>
+    <value>Riepilogo Sessione</value>
   </data>
   <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Mostra contatore maledizioni abissali:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
+    <value>Mostra contatore maledizioni abissali:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>In attesa della prossima partita</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>Mostra Overlay riepilogo sessione tra le partite</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>Nessun servitore giocato</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Il mazzo ha meno di 40 carte.</value>
@@ -4063,34 +4063,34 @@
     <value>Il mazzo contiene carte dall'espansione Murder at Castle Nathria.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria:</value>
+    <value>Assassinio al Castello di Nathria:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Assassinio al Castello di Nathria</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Nathria" xml:space="preserve">
-    <value>Murder at Castle Nathria</value>
+    <value>Assassinio al Castello di Nathria</value>
   </data>
   <data name="Enum_HeroClass_Neutral" xml:space="preserve">
     <value>Neutrali</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione L'Avanzata del Re dei Lich.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>Avanzata del Re dei Lich:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>L'Avanzata del Re dei Lich</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>L'Avanzata del Re dei Lich</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
     <value>Show Battlegrounds Hero Picking Stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>Nessun dato sul piazzamento</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
     <value>{0} Place: {1}%</value>
@@ -4099,16 +4099,16 @@
     <value>No composition data</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>LIVELLO</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>Piazzamento medio</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Percentuale di scelta</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>Piazzamento medio</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>Il posizionamento finale che l'eroe raggiunge in media, regolato per i tipi di servitori disponibili</value>
@@ -4159,10 +4159,10 @@
     <value>Accedi a HSReplay.net per sbloccare Rateo Scelta Eroe, Posizionamento Medio, Livelli Armature e altro ancora!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>Iscriviti a Tier7 per sbloccare l'uso illimitato.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>Overlay Battaglia Tier7</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>Caricamento...</value>
