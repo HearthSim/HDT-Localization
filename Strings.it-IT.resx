@@ -3736,25 +3736,25 @@
     <value>Darkmoon Faire</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Mostra Contatore Esperienza</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
-    <value>Turn</value>
+    <value>Turno</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
     <value>Turni</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>Use high resolution card images</value>
+    <value>Usa immagini delle carte ad alta risoluzione</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Scala Immagine Carta</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>Solo questa finestra. Le impostazioni separate per la sovrapposizione e le finestre del mazzo possono essere trovate sotto 'Overlay &gt; Generale' e 'Overlay &gt; Windows'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
-    <value>Card Tooltips</value>
+    <value>Tooltip delle carte</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
     <value>Classiche</value>
@@ -3763,103 +3763,103 @@
     <value>Classiche</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
-    <value>Deck contains cards from the Forged in the Barrens expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Forgiati nelle Savane.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_WailingCaverns" xml:space="preserve">
-    <value>Deck contains cards from the Wailing Caverns expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Caverna dei Lamenti.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>Mostra notifica di mulligan all'inizio della partita Costruita</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
-    <value>Deck contains cards from the Legacy set.</value>
+    <value>Il mazzo contiene carte del set Legacy.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>Cosa dovrei mantenere?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
-    <value>Deck contains cards from the Core set.</value>
+    <value>Il mazzo contiene carte del set Core.</value>
   </data>
   <data name="Toast_Mulligan_Unavailable" xml:space="preserve">
-    <value>No data for this deck</value>
+    <value>Nessun dato per questo mazzo</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>Forgiati nelle Savane:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forgiati nelle Savane</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens</value>
+    <value>Forgiati nelle Savane</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WailingCaverns" xml:space="preserve">
-    <value>Wailing Caverns</value>
+    <value>Caverna dei Lamenti</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
     <value>Retaggio</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - Mulligan Guide</value>
+    <value>HSReplay.net - Guida Mulligan</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Mostra il contatore di riduzione dei costi Libram:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>Uniti a Roccavento:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Show Libram cost reduction counter:</value>
+    <value>Mostra il contatore di riduzione dei costi Libram:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>In attesta della Fase di Shopping</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>Conosci il mazzo del tuo avversario?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>Copia un codice del mazzo negli appunti e fai clic sul pulsante qui sotto per vedere il loro aggiornamento del mazzo mentre giocano</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
-    <value>Set deck from clipboard</value>
+    <value>Imposta il mazzo dagli appunti</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Chiudi</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>Svuota</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
-    <value>No valid deck code found on clipboard</value>
+    <value>Nessun codice mazzo valido trovato negli appunti</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Uniti a Roccavento</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Abilita l'impostazione del mazzo avversario nelle partite non amichevoli</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Uniti a Roccavento</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Il mazzo contiene carte dall'espansione Uniti a Roccavento</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>I risultati possono essere meno precisi del solito. Stiamo lavorando attivamente per migliorarli.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenari</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenari</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>Mostra le abilità del Mercenario avversario al passaggio</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>Mostra le abilità Mercenario del giocatore al passaggio</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>Mostra le icone abilità sopra i Mercenari avversari</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
     <value>Show ability icons below player Mercenaries</value>
