@@ -3916,7 +3916,7 @@
     <value>In fondo</value>
   </data>
   <data name="DeckLens_Label_OnTop" xml:space="preserve">
-    <value>On Top</value>
+    <value>In Cima</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
     <value>Minion Bannati</value>
@@ -3928,22 +3928,22 @@
     <value>Ultime Partite</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Enable Session Recap Overlay</value>
+    <value>Abilita l'overlay di ricapitolazione di sessione</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Banned Minion Types</value>
+    <value>Mostra tipologie di minion esclusi</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Mostra inizio MMR e MMR corrente</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Mostra Le Ultime 10 partite</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Mostra la Finestra di Recap di Sessione</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
-    <value>Reset Session</value>
+    <value>Resetta la sessione</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>Eroe</value>
@@ -3955,7 +3955,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>Nessuna partita giocata in questa sessione.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}°</value>
@@ -3988,22 +3988,22 @@
     <value>{0}°</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>Ridimensiona</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
-    <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
+    <value>Resettare la sessione cancellerà l'elenco delle ultime partite e imposterà l'MMR iniziale in base al tuo MMR attuale.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Le ultime 10 partite appariranno qui.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>Ricompensa finale</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>Ripristina alle impostazioni predefinite l'overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
@@ -4042,25 +4042,25 @@
     <value>No minion played</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
-    <value>Deck has less than 40 cards.</value>
+    <value>Il mazzo ha meno di 40 carte.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
-    <value>Deck has more than 40 cards.</value>
+    <value>Il mazzo ha più di 40 carte.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>Bentornato!</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Benvenuto su</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Scatena il tuo potenziale con Hearthstone Deck Tracker e HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>Andiamo</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
-    <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
+    <value>Il mazzo contiene carte dall'espansione Murder at Castle Nathria.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Nathria" xml:space="preserve">
     <value>Murder at Castle Nathria:</value>
