@@ -3624,6 +3624,9 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>정확한 결과를 가져올 수 없습니다</value>
   </data>
+	<data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
+    <value>Waiting For Teammates...</value>
+  </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>전투 기다리는 중...</value>
   </data>
