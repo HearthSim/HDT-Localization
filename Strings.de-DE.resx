@@ -3642,6 +3642,18 @@
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
     <value>Vorherigen Kampf anzeigen</value>
   </data>
+  <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
+    <value>Current Combat (Partial)</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
+    <value>Show Current Combat (Partial)</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
+    <value>Previous Combat (Partial)</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
+    <value>Show Previous Combat (Partial)</value>
+  </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Tödlich</value>
   </data>
@@ -4484,6 +4496,12 @@
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
     <value>Abschlusskampf</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_ShowFinalCombatPartial" xml:space="preserve">
+    <value>Show Final Combat (Partial)</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_FinalCombatPartial" xml:space="preserve">
+    <value>Final Combat (Partial)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>Du kannst das Tier7-Overlay kostenlos für eine begrenzte Anzahl an Partien nutzen.</value>
