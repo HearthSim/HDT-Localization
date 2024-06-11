@@ -2352,7 +2352,7 @@
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>Jugador</value>
   </data>
-  <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
+  <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
     <value>Next draw fatigues for: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
@@ -4591,6 +4591,6 @@
     <value>Tavern Tier {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
-    <value>Fatigue Damage: {0}</value>
+    <value>Next Fatigue damage: {0}</value>
   </data>
 </root>
