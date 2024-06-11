@@ -2352,8 +2352,8 @@
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>プレーヤー</value>
   </data>
-  <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
-    <value>次ドローの疲労ダメージ</value>
+  <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
+    <value>Next draw fatigues for: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>対戦相手</value>
@@ -3624,7 +3624,7 @@
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>正確な結果を取得できませんでした</value>
   </data>
-	<data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
+  <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
     <value>Waiting For Teammates...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
@@ -4589,5 +4589,8 @@
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
     <value>Tavern Tier {0} - {1}</value>
+  </data>
+  <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
+    <value>Next Fatigue damage: {0}</value>
   </data>
 </root>
