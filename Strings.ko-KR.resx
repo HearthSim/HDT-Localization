@@ -1030,7 +1030,7 @@
     <value>데이터를 AppData에 저장</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Windows 시작 시 실행</value>
+    <value>윈도우 시작 시 실행</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>최소화 된 상태로 시작</value>
@@ -3790,7 +3790,7 @@
     <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>어떤 카드를 들고 갈까요?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>덱에 핵심 세트 카드가 포함되어 있습니다.</value>
@@ -3799,7 +3799,7 @@
     <value>이 덱에 대한 데이터가 없습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>불모의 땅:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>불모의 땅</value>
@@ -3820,25 +3820,25 @@
     <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>스톰윈드:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>구매가 끝나길 기다리는 중</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>상대방의 덱을 알고 있습니까?</value>
+    <value>상대의 덱을 알고 있나요?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>덱 코드를 클립보드에 복사한 후 아래 버튼을 눌러 플레이 도중 상대방의 덱을 확인하세요.</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>클립보드로 부터 덱 세팅하기</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>무시</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>초기화</value>
@@ -3850,7 +3850,7 @@
     <value>스톰윈드</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>친선전이 아닌 경우에도 상대방의 덱 설정 가능</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
     <value>스톰윈드</value>
@@ -3868,16 +3868,16 @@
     <value>용병단</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>커서를 올려 상대 용병의 능력을 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>커서를 올려 내 용병의 능력을 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>상대 용병 상단에 능력 아이콘 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>내 용병 하단에 능력 아이콘 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>용병단</value>
@@ -4030,7 +4030,7 @@
     <value>최근 게임 리스트가 초기화 되며, 시작 평점이 현재 평점으로 변경됩니다.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>마지막 선술집 강화</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
     <value>Minions Tripled At Tier</value>
