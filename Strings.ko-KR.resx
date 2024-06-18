@@ -628,13 +628,13 @@
     <value>불투명도:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>오버레이 이동</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>재설정</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>오버레이 위치 초기화</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>오버레이 잠금 해제</value>
@@ -1030,7 +1030,7 @@
     <value>데이터를 AppData에 저장</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Windows 시작 시 실행</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>최소화 된 상태로 시작</value>
@@ -1045,7 +1045,7 @@
     <value>하스스톤과 함께 닫기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>하스스톤 시작 시 실행</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>업데이트 확인</value>
@@ -2353,7 +2353,7 @@
     <value>플레이어</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>다음 탈진 피해: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>상대</value>
@@ -3427,7 +3427,7 @@
     <value>확장팩 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>덱에 어둠의 반격 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>어둠의 반격:</value>
@@ -3490,7 +3490,7 @@
     <value>{0}턴 전</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+    <value>전장 하수인 목록 보기</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>갈라크론드 카운터 보기:</value>
@@ -3520,7 +3520,7 @@
     <value>전장 턴 카운터 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>전장 플레이가 시작될 때 영웅 정보 보기</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0}턴</value>
@@ -3565,7 +3565,7 @@
     <value>다이아몬드 {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>전설 {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
     <value>All Leagues</value>
