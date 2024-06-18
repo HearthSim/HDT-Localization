@@ -4345,7 +4345,7 @@
     <value>수집품이 업로드 되었습니다!</value>
   </data>
   <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
-    <value>Find decks on HSReplay.net</value>
+    <value>HSReplay.net에서 덱 찾기</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
     <value>덱에 시간의 동굴 확장팩 카드가 포함되어 있습니다.</value>
@@ -4471,7 +4471,7 @@
     <value>없음</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Welcome</value>
@@ -4483,10 +4483,10 @@
     <value>무제한 사용을 위하여 7티어에 가입하세요.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE MULLIGAN GUIDE</value>
+    <value>멀리건 가이드 숨기기</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW MULLIGAN GUIDE</value>
+    <value>멀리건 가이드 보기</value>
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>주문</value>
@@ -4507,10 +4507,10 @@
     <value>무료로 제한된 횟수의 7티어 사용이 가능합니다.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
-    <value>Not on website</value>
+    <value>웹사이트에 없음</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>Mulligan Guide</value>
+    <value>멀리건 가이드</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
     <value>멀리건 가이드 활성화</value>
@@ -4537,10 +4537,10 @@
     <value>Average winrate of games where this card ends up in the opening hand.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
-    <value>HAND RANK</value>
+    <value>손패 등급</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
-    <value>Hand Rank</value>
+    <value>손패 등급</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
