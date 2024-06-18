@@ -4063,10 +4063,10 @@
     <value>덱에 포함된 카드가 40장을 초과합니다</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>에 돌아오신 것을 환영합니다</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>에 오신 것을 환영합니다</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
     <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
@@ -4102,7 +4102,7 @@
     <value>리치 왕의 진군</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
-    <value>Show Battlegrounds Hero Picking Stats</value>
+    <value>전장 영웅 선택 통계 보기</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
@@ -4234,7 +4234,7 @@
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+    <value>전장 퀘스트 선택 통계 보기</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>죽음의 기사</value>
@@ -4258,19 +4258,19 @@
     <value>로딩 중…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>뭔가 잘못 되었습니다 :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
     <value>Show Reward Composition Stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 게임 플레이 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 메뉴 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 게임 플레이 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
     <value>하스스톤이 백그라운드에서 실행 중일 때도 오버레이 표시하기</value>
@@ -4405,7 +4405,7 @@
     <value>황야의 땅 결투:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
+    <value>발굴 등급 보기</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>공용</value>
@@ -4420,7 +4420,7 @@
     <value>전설</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+    <value>발굴 횟수 보기</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>Subscribed?</value>
