@@ -4162,7 +4162,7 @@
     <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>방어도 티어</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Percentage of 1st place finishes</value>
@@ -4189,7 +4189,7 @@
     <value>HSReplay.net에 로그인 하여 오버레이에서 7티어 통계를 직접 사용해보세요!</value>
   </data>
   <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>환영합니다</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
     <value>남은 사용 횟수:</value>
@@ -4204,7 +4204,7 @@
     <value>7티어를 구독하였습니다!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>역대 최고 MMR</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>내 통계로 이동</value>
@@ -4255,7 +4255,7 @@
     <value>{0}일 {1}시간</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>로딩 중…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
     <value>Something went wrong :(</value>
@@ -4426,7 +4426,7 @@
     <value>Subscribed?</value>
   </data>
   <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
-    <value>Sign In</value>
+    <value>로그인</value>
   </data>
   <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
     <value>새로 고침</value>
@@ -4474,7 +4474,7 @@
     <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>환영합니다</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
     <value>Resets In</value>
