@@ -634,7 +634,7 @@
     <value>재설정</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>오버레이 위치 초기화</value>
+    <value>오버레이 위치 재설정</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>오버레이 잠금 해제</value>
@@ -3640,7 +3640,7 @@
     <value>이전 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>이전 전투 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
     <value>Current Combat (1 Player Not Seen)</value>
@@ -3763,7 +3763,7 @@
     <value>고해상도 카드 이미지 사용하기</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>카드 이미지 배율</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
@@ -3829,7 +3829,7 @@
     <value>Awaiting Shopping Phase</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>상대방의 덱을 알고 있습니까?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
     <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
@@ -3859,7 +3859,7 @@
     <value>덱에 스톰윈드 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>결과가 대체로 정확하지 않을 수 있습니다. 정확도 향상을 위해 작업 중 입니다.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>용병단</value>
@@ -3934,7 +3934,7 @@
     <value>맨 위</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>제외된 하수인</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>평점</value>
@@ -3946,7 +3946,7 @@
     <value>Enable Session Recap Overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Banned Minion Types</value>
+    <value>제외된 하수인 종족</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>시작 평점 및 현재 평점 보기</value>
@@ -4003,7 +4003,7 @@
     <value>{0}등</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>배율</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>세션 초기화를 클릭하면 이전 게임 리스트가 초기화 되며, 시작 평점이 현재 평점으로 변경됩니다.</value>
@@ -4018,7 +4018,7 @@
     <value>최종 덱</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>오버레이 기본값으로 재설정</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>전장 세션의 위치가 초기화 됩니다. 초기화하시겠습니까?</value>
