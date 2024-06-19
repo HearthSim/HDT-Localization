@@ -2353,7 +2353,7 @@
     <value>플레이어</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>다음 탈진 피해: {0}</value>
+    <value>다음 드로우 탈진 피해: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>상대</value>
@@ -4516,7 +4516,7 @@
     <value>멀리건 가이드 활성화</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
-    <value>Show availability on deck selection screen</value>
+    <value>덱 선택 화면에서 사용가능 여부 표시</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRate" xml:space="preserve">
     <value>들고 간 비율</value>
@@ -4528,13 +4528,13 @@
     <value>들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
-    <value>멀리건 승리 비율</value>
+    <value>멀리건 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>멀리건 승리 비율</value>
+    <value>멀리건 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
-    <value>Average winrate of games where this card ends up in the opening hand.</value>
+    <value>첫 손패에 이 카드를 들고 간 판들의 평균 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
     <value>손패 등급</value>
@@ -4543,13 +4543,13 @@
     <value>손패 등급</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
-    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+    <value>이 덱에 있는 각 {1} 개의 카드 중, 들고 가야 할 최고의 카드 #{0} 개입니다.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
     <value>멀리건 가이드 준비</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
-    <value>No Data</value>
+    <value>정보 없음</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
     <value>로딩 중...</value>
@@ -4567,10 +4567,10 @@
     <value>게임이 시작 될 때 멀리건 오버레이 표시</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, Going First</value>
+    <value>멀리건 통계 vs. {0}, 선공</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, On Coin</value>
+    <value>멀리건 통계 vs. {0}, 후공</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>뭔가 잘못 되었습니다 :(</value>
@@ -4585,13 +4585,13 @@
     <value>Minion Types</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>선술집 단계 {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>선술집 단계 {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
-    <value>Next Fatigue damage: {0}</value>
+    <value>다음 탈진 피해: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
     <value>Perils in Paradise</value>
