@@ -4153,10 +4153,10 @@
     <value>평균 순위가 4.5위 이상인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 영웅과 1 표준편차 이내인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>3 티어 최고의 영웅보다 평균 순위가 1 표준편차 이상 낮은 영웅들</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
     <value>{0}% MMR ({1:N0}+)부터 모든 통계</value>
@@ -4171,7 +4171,7 @@
     <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>HSReplay.net에 로그인하여 영웅 선택 비율, 평균 순위, 방어도 티어 등을 확인하세요!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>7티어 무제한 사용을 위해 구독하세요.</value>
@@ -4195,7 +4195,7 @@
     <value>남은 사용 횟수:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>재설정</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>무제한 사용을 위하여 7티어에 가입하세요.</value>
@@ -4231,7 +4231,7 @@
     <value>Percent of the time this reward is picked by first place players</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>현재 영웅과 사용 가능 종족에 맞게 조정된, 보상에 따른 최종 순위 평균</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
     <value>전장 퀘스트 선택 통계 보기</value>
@@ -4261,7 +4261,7 @@
     <value>뭔가 잘못 되었습니다 :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
-    <value>Show Reward Composition Stats</value>
+    <value>보상 전략 통계 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
     <value>하스스톤이 백그라운드에서 실행 중일 때도 게임 플레이 오버레이 표시하기</value>
@@ -4477,7 +4477,7 @@
     <value>환영합니다</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>재설정</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
     <value>무제한 사용을 위하여 7티어에 가입하세요.</value>
