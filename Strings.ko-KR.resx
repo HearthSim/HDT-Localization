@@ -4033,7 +4033,7 @@
     <value>마지막 선술집 강화</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
-    <value>Minions Tripled At Tier</value>
+    <value>황금 하수인의 티어</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
     <value>강화 없음</value>
@@ -4051,7 +4051,7 @@
     <value>다음 게임을 기다리는 중</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>각 게임 사이에 세션 요약 보기</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>하수인 목록이 없습니다</value>
@@ -4069,7 +4069,7 @@
     <value>에 오신 것을 환영합니다</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Hearthstone Deck Tracker 와 HSReplay.net 과 함께 당신의 잠재력을 펼치세요</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>가볼까요</value>
@@ -4105,13 +4105,13 @@
     <value>전장 영웅 선택 통계 보기</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>순위 정보 없음</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>{0}위: {1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
-    <value>No composition data</value>
+    <value>전략 정보 없음</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
     <value>티어</value>
@@ -4123,34 +4123,34 @@
     <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>평균 순위</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>사용 가능 종족에 맞춰진 평균 최종 달성 순위</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
     <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>게임이 시작 시 영웅 선택지로 나왔을때 선택되는 비율</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>1 티어: 기대 이상</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>2 티어: 승리</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>3티어: 기대 이하</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>4 티어: 패배</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>최고 순위 영웅과 1 표준편차 내에서 더 높은 순위의 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>평균 순위가 4.5위 이상인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
     <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
@@ -4159,13 +4159,13 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>{0}% MMR ({1:N0}+)부터 모든 통계</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>방어도 티어</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
-    <value>Percentage of 1st place finishes</value>
+    <value>1위로 끝날 확률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
     <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
@@ -4339,7 +4339,7 @@
     <value>일시적으로 비활성화 되었습니다. 곧 돌아올게요!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
+    <value>상위 {0}% MMR({1:N0}+)부터 모든 통계, 비정상 조정됨</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>수집품이 업로드 되었습니다!</value>
@@ -4555,13 +4555,13 @@
     <value>로딩 중...</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>위즈뱅의 장난감 공방</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>위즈뱅의 장난감 공방:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>위즈뱅의 장난감 공방</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>게임이 시작 될 때 멀리건 오버레이 표시</value>
@@ -4579,10 +4579,10 @@
     <value>사용 가능한 하수인 종족 보기</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>사용 가능한 하수인</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>종족들</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
     <value>선술집 단계 {0}</value>
@@ -4594,9 +4594,9 @@
     <value>다음 탈진 피해: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>극한의 극락</value>
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>극한의 극락</value>
   </data>
 </root>
