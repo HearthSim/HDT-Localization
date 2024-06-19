@@ -3688,7 +3688,7 @@
     <value>사용 불가</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>전장 오버레이 캡쳐</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>스칼로맨스 아카데미:</value>
@@ -3784,7 +3784,7 @@
     <value>덱에 통곡의 동굴 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>사용자 구성 덱으로 게임이 시작될 때 멀리건 알림 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
@@ -4423,7 +4423,7 @@
     <value>발굴 횟수 보기</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>구독 중이신가요?</value>
   </data>
   <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
     <value>로그인</value>
@@ -4522,16 +4522,16 @@
     <value>들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this card is kept when presented during Mulligan.</value>
+    <value>멀리건에서 이 카드를 들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
     <value>들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
-    <value>Mulligan WR</value>
+    <value>멀리건 승리 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>Mulligan Winrate</value>
+    <value>멀리건 승리 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
     <value>Average winrate of games where this card ends up in the opening hand.</value>
@@ -4546,7 +4546,7 @@
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>Mulligan Guide Ready</value>
+    <value>멀리건 가이드 준비</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
     <value>No Data</value>
@@ -4564,7 +4564,7 @@
     <value>Whizbang's Workshop</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>게임이 시작 될 때 멀리건 오버레이 표시</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
     <value>Mulligan Stats vs. {0}, Going First</value>
