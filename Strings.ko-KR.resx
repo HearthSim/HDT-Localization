@@ -2308,10 +2308,10 @@
     <value>전적 없음</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
-    <value>통계</value>
+    <value>없음</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>없음</value>
+    <value>통계</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>전체</value>
@@ -2785,7 +2785,7 @@
     <value>카드/덱 이름이 포함된 덱 내보내기에 문제가 있을 시 시도하십시오. - 모든 키보드 레이아웃에 대응해 동작하지 않을 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value> </value>
+    <value>다음</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
     <value>초가 지나면 경고하기</value>
@@ -3214,7 +3214,7 @@
     <value>새로운 HSReplay.net 기능: 내 카드 업로드</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>내카드에 가장 적합한 덱을 찾으세요!</value>
+    <value>내 카드에 가장 적합한 덱을 찾으세요!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>로그인 하여 내 리플레이 보기와 HSReplay.net 기능 활성화.</value>
@@ -3568,7 +3568,7 @@
     <value>전설 {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>모든 영웅 등급</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
     <value>브론즈</value>
@@ -3589,19 +3589,19 @@
     <value>전설</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>과거 등급만</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>등급 종류:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>새로운 필터: 등급 종류</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>예전 등급 시스템의 게임을 보려면 '과거 등급'을 선택하세요</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>모든 등급 종류 + 과거 등급</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>전장</value>
@@ -3679,7 +3679,7 @@
     <value>자세한 내용.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>찾은 알 수 없는 카드</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
     <value>만든이:</value>
@@ -4153,7 +4153,7 @@
     <value>평균 순위가 4.5위 이상인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 영웅과 1 표준편차 이내인 영웅들</value>
+    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 영웅과 평균 순위가 1 표준편차 이내인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
     <value>3 티어 최고의 영웅보다 평균 순위가 1 표준편차 이상 낮은 영웅들</value>
@@ -4168,7 +4168,7 @@
     <value>1위로 끝날 확률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>더 높은 방어도 티어의 영웅들은 좀 더 달성하기 쉬운 퀘스트들이 제안됩니다.</value>
+    <value>방어도 티어가 높은 영웅일수록 더 달성하기 쉬운 퀘스트들이 제안됩니다.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
     <value>HSReplay.net에 로그인하여 영웅 선택 비율, 평균 순위, 방어도 티어 등을 확인하세요!</value>
@@ -4216,19 +4216,19 @@
     <value>방어도 티어</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>최고 순위 보상과 1 표준편차 내에서 더 높은 순위의 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>평균 순위가 4.5위 이상인 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 보상과 평균 순위가 1 표준편차 이내인 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>3 티어 최고의 보상보다 평균 순위가 1 표준편차 이상 낮은 보상들</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>1위 플레이어가 이 보상을 선택한 비율</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>현재 영웅과 사용 가능 종족에 맞게 조정된, 보상에 따른 최종 순위 평균</value>
