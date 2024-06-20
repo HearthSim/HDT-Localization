@@ -202,7 +202,7 @@
     <value>덱</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>불러오기(_I)</value>
+    <value>가져오기(_I)</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
     <value>웹으로부터(_W)</value>
@@ -358,7 +358,7 @@
     <value>업데이트 기록</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>덱 불러오기</value>
+    <value>덱 가져오기</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
     <value>새 창으로 이동</value>
@@ -514,7 +514,7 @@
     <value>내보내기</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
     <value>알림</value>
@@ -622,7 +622,7 @@
     <value>배터리 상태 보기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>퍼센트로 보기</value>
+    <value>백분율로 보기</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
     <value>불투명도:</value>
@@ -913,7 +913,7 @@
     <value>'대전' 메뉴를 들어갈 때마다 새로운 또는 변경된 덱을 확인할 것입니다.</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>자동으로 새 덱 불러오기</value>
+    <value>자동으로 새 덱 가져오기</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
     <value>자동으로 변경된 덱 업데이트</value>
@@ -922,7 +922,7 @@
     <value>투기장</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>불러오기 방식:</value>
+    <value>가져오기 방식:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>투기장 덱 이름 형식</value>
@@ -940,10 +940,10 @@
     <value>웹</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>불러오기 시 덱에 태그 붙이기</value>
+    <value>가져오기 시 덱에 태그 붙이기</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>불러오기 시 자동으로 덱 저장</value>
+    <value>가져오기 시 자동으로 덱 저장</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>게임 결과</value>
@@ -1792,13 +1792,13 @@
     <value>필터</value>
   </data>
   <data name="Importing_Constructed_Label_Title" xml:space="preserve">
-    <value>불러올 덱을 선택하세요:</value>
+    <value>가져올 덱을 선택하세요:</value>
   </data>
   <data name="Importing_Constructed_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
-    <value>자동 불러오기 사용</value>
+    <value>자동 가져오기 사용</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
     <value>덱</value>
@@ -1879,10 +1879,10 @@
     <value>과부하</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>자동으로 불러오고 저장</value>
+    <value>자동으로 가져오고 저장</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>자동으로 불러올지 묻기</value>
+    <value>자동으로 가져올지 묻기</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
     <value>수동</value>
@@ -2146,7 +2146,7 @@
     <value>창을 닫으면 자동으로 저장합니다</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
     <value>FAQ</value>
@@ -2752,13 +2752,13 @@
     <value>자동으로 덱 선택하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>자동으로 신규 생성 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 신규 생성 덱 가져오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>자동으로 덱 변경점 적용하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 덱 변경점 적용하기가 비활성 상태입니다.\n최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>자동으로 투기장 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 투기장 덱 불러오기가 비활성 상태입니다.\n최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>자동으로 덱을 선택 (추천)</value>
@@ -2854,7 +2854,7 @@
     <value>지원되는 모든 웹사이트 찾기</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
     <value>취소</value>
@@ -3187,7 +3187,7 @@
     <value>미궁 탐험</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>자동으로 새 덱 불러오기</value>
+    <value>자동으로 새 덱 가져오기</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>미궁 덱 이름 형식</value>
