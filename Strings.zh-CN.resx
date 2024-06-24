@@ -3934,7 +3934,7 @@
     <value>顶部</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>已禁用随从</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>等级积分</value>
@@ -4120,7 +4120,7 @@
     <value>Avg Placement</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>选择率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Average Placement</value>
@@ -4129,10 +4129,10 @@
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>选择率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>在对局开始出现该英雄时，这个英雄被选取的百分率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
     <value>Tier 1: Overperforming</value>
@@ -4162,7 +4162,7 @@
     <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>护甲等级</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Percentage of 1st place finishes</value>
@@ -4183,7 +4183,7 @@
     <value>读取中……</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Hover for more details</value>
+    <value>鼠标悬停以获取详细信息</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
@@ -4210,10 +4210,10 @@
     <value>GO TO MY STATS</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
-    <value>Armor Range: {0} - {1}</value>
+    <value>护甲范围：{0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>护甲等级</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
@@ -4255,10 +4255,10 @@
     <value>{0}d {1}h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>加载中…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>发生了某些错误 :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
     <value>Show Reward Composition Stats</value>
@@ -4291,7 +4291,7 @@
     <value>HIDE HERO OVERLAY</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>包含不支持的卡牌</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
     <value>E.T.C.'s Band</value>
@@ -4342,10 +4342,10 @@
     <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
-    <value>Collection uploaded!</value>
+    <value>收藏已上传！</value>
   </data>
   <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
-    <value>Find decks on HSReplay.net</value>
+    <value>在 HSReplay.net 查找套牌</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
     <value>Deck contains cards from the Caverns of Time expansion.</value>
@@ -4441,7 +4441,7 @@
     <value>Subscribed to HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>显示法术类别计数器：</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>Arcane</value>
@@ -4471,7 +4471,7 @@
     <value>无</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>显示法术类别计数器：</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>欢迎</value>
@@ -4549,7 +4549,7 @@
     <value>Mulligan Guide Ready</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
-    <value>No Data</value>
+    <value>暂无数据</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
     <value>读取中……</value>
@@ -4573,22 +4573,22 @@
     <value>Mulligan Stats vs. {0}, On Coin</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>发生了某些错误 :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show Available Minion Types</value>
+    <value>显示可用的随从类型</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>可用的随从</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>随从类型</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>酒馆等级 {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>酒馆等级 {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
     <value>Next Fatigue damage: {0}</value>
