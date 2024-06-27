@@ -202,7 +202,7 @@
     <value>덱</value>
   </data>
   <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>불러오기(_I)</value>
+    <value>가져오기(_I)</value>
   </data>
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
     <value>웹으로부터(_W)</value>
@@ -274,7 +274,7 @@
     <value>통계에서 선택(_S)</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>파일로부터 로드(_F)</value>
+    <value>파일에서 불러오기(_F)</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>계정 요청</value>
@@ -358,7 +358,7 @@
     <value>업데이트 기록</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>덱 불러오기</value>
+    <value>덱 가져오기</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
     <value>새 창으로 이동</value>
@@ -493,7 +493,7 @@
     <value>상대</value>
   </data>
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
-    <value>대화식 이용</value>
+    <value>상호작용</value>
   </data>
   <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
     <value>스트리밍</value>
@@ -514,7 +514,7 @@
     <value>내보내기</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
     <value>알림</value>
@@ -622,19 +622,19 @@
     <value>배터리 상태 보기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Percent" xml:space="preserve">
-    <value>퍼센트로 보기</value>
+    <value>백분율로 보기</value>
   </data>
   <data name="Options_Overlay_General_Label_Opacity" xml:space="preserve">
     <value>불투명도:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>오버레이 이동</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>재설정</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>오버레이 위치 재설정</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>오버레이 잠금 해제</value>
@@ -790,7 +790,7 @@
     <value>선택 항목 삭제</value>
   </data>
   <data name="Options_Tracker_Backups_Text_Description" xml:space="preserve">
-    <value>백업은 각 날의 첫 실행시에 자동으로 생성됩니다. 여기에는 덱, 게임 그리고 설정이 포함됩니다. 만약 7개 이상의 자동 생성된 백업이 있다면 가장 오래된 것은 자동으로 삭제됩니다.</value>
+    <value>백업은 매일 첫 실행 시 자동으로 생성됩니다. 여기에는 덱, 게임 그리고 설정이 포함됩니다. 만약 7개 이상의 백업(자동 생성된)이 있다면 가장 오래된 것은 자동으로 삭제됩니다.</value>
   </data>
   <data name="Options_Tracker_Backups_Button_BackupDir" xml:space="preserve">
     <value>백업 경로 보기</value>
@@ -913,7 +913,7 @@
     <value>'대전' 메뉴를 들어갈 때마다 새로운 또는 변경된 덱을 확인할 것입니다.</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Import" xml:space="preserve">
-    <value>자동으로 새 덱 불러오기</value>
+    <value>자동으로 새 덱 가져오기</value>
   </data>
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
     <value>자동으로 변경된 덱 업데이트</value>
@@ -922,7 +922,7 @@
     <value>투기장</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
-    <value>불러오기 방식:</value>
+    <value>가져오기 방식:</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplates" xml:space="preserve">
     <value>투기장 덱 이름 형식</value>
@@ -940,10 +940,10 @@
     <value>웹</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
-    <value>불러오기 시 덱에 태그 붙이기</value>
+    <value>가져오기 시 덱에 태그 붙이기</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
-    <value>불러오기 시 자동으로 덱 저장</value>
+    <value>가져오기 시 자동으로 덱 저장</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>게임 결과</value>
@@ -1030,7 +1030,7 @@
     <value>데이터를 AppData에 저장</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>윈도우 시작 시 실행</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>최소화 된 상태로 시작</value>
@@ -1039,13 +1039,13 @@
     <value>트레이로 최소화</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
-    <value>로딩 스플래시 화면 보기</value>
+    <value>로딩 시작 화면 보기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseWithHearthstone" xml:space="preserve">
     <value>하스스톤과 함께 닫기</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>하스스톤 시작 시 실행</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>업데이트 확인</value>
@@ -1792,13 +1792,13 @@
     <value>필터</value>
   </data>
   <data name="Importing_Constructed_Label_Title" xml:space="preserve">
-    <value>불러올 덱을 선택하세요:</value>
+    <value>가져올 덱을 선택하세요:</value>
   </data>
   <data name="Importing_Constructed_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
-    <value>자동 불러오기 사용</value>
+    <value>자동 가져오기 사용</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
     <value>덱</value>
@@ -1879,10 +1879,10 @@
     <value>과부하</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoImportSave" xml:space="preserve">
-    <value>자동으로 불러오고 저장</value>
+    <value>자동으로 가져오고 저장</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_AutoAsk" xml:space="preserve">
-    <value>자동으로 불러올지 묻기</value>
+    <value>자동으로 가져올지 묻기</value>
   </data>
   <data name="Enum_ArenaImportingBehaviour_Manual" xml:space="preserve">
     <value>수동</value>
@@ -2146,7 +2146,7 @@
     <value>창을 닫으면 자동으로 저장합니다</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
     <value>FAQ</value>
@@ -2308,10 +2308,10 @@
     <value>전적 없음</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_No" xml:space="preserve">
-    <value>통계</value>
+    <value>없음</value>
   </data>
   <data name="DeckPicker_Deck_Legacy_NoStats_Stats" xml:space="preserve">
-    <value>없음</value>
+    <value>통계</value>
   </data>
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>전체</value>
@@ -2353,7 +2353,7 @@
     <value>플레이어</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>다음 드로우 탈진 피해: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>상대</value>
@@ -2602,7 +2602,7 @@
     <value>HDT를 관리자 권한으로 실행해 보세요.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>만약 이게 도움이 되지 않는다면, "안내 보기" 버튼을 눌러 수동으로 업데이트 하는 방법을 보세요.</value>
+    <value>만약 도움이 되지 않았다면, "안내 보기" 버튼을 눌러 수동으로 업데이트 하는 방법을 확인하세요.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>그 외...</value>
@@ -2752,13 +2752,13 @@
     <value>자동으로 덱 선택하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
-    <value>자동으로 신규 생성 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 신규 생성 덱 가져오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoUpdate" xml:space="preserve">
-    <value>자동으로 덱 변경점 적용하기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 덱 변경점 적용하기가 비활성 상태입니다.\n최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Enum_ConfigWarning_SelectedArenaImportingBehaviour" xml:space="preserve">
-    <value>자동으로 투기장 덱 불러오기가 비활성 상태입니다. 최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
+    <value>자동으로 투기장 덱 불러오기가 비활성 상태입니다.\n최적의 HDT 동작을 위해 활성화가 권장됩니다.</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
     <value>자동으로 덱을 선택 (추천)</value>
@@ -2782,10 +2782,10 @@
     <value>체크 해제시 팝업 알림창 애니메이션이 비활성 됩니다.</value>
   </data>
   <data name="Options_Tracker_Exporting_CheckBox_Clipbard_Tooltip" xml:space="preserve">
-    <value>카드/덱 이름이 포함된 덱 내보내기에 문제가 있을 시 시도하십시오. - 모든 키보드 레이아웃에 대응해 동작하지 않을 수 있습니다.</value>
+    <value>카드/덱 이름이 포함된 덱 내보내기에 문제가 있을 시 시도하세요. - 모든 키보드 레이아웃에 대응해 동작하지 않을 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert" xml:space="preserve">
-    <value> </value>
+    <value>다음</value>
   </data>
   <data name="Options_Tracker_General_Label_TimerAlert2" xml:space="preserve">
     <value>초가 지나면 경고하기</value>
@@ -2800,10 +2800,10 @@
     <value>하스스톤이 아닌 창에 오버레이가 나타나면 이 기능을 끌 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_Importing_Label_ArenaTemplatesFormat_Tooltip" xml:space="preserve">
-    <value>더 많은 정보는 구글 "C# date format"을 참조하십시오.</value>
+    <value>더 많은 정보는 구글 "C# date format"을 참조하세요.</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
-    <value>등급 감지에 문제가 있는 경우 이 기능을 활성화 하십시오.</value>
+    <value>등급 감지에 문제가 있는 경우 이 기능을 활성화 하세요.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
     <value>덱에 운고로를 향한 여정 확장팩 카드가 포함되어 있습니다.</value>
@@ -2854,7 +2854,7 @@
     <value>지원되는 모든 웹사이트 찾기</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>불러오기</value>
+    <value>가져오기</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
     <value>취소</value>
@@ -2872,7 +2872,7 @@
     <value>디스크에 저장</value>
   </data>
   <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>업로드 오류. 나중에 다시 시도하거나 수동으로 업로드하여 주십시오</value>
+    <value>업로드 오류. 나중에 다시 시도하거나 수동으로 업로드하세요</value>
   </data>
   <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
     <value>미리보기</value>
@@ -3079,7 +3079,7 @@
     <value>필요한 가루:</value>
   </data>
   <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>없는 카드를 보기위해 하스스톤을 실행하세요!</value>
+    <value>빠진 카드를 보기위해 하스스톤을 실행하세요!</value>
   </data>
   <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
     <value>모든 카드를 가지고 있습니다!</value>
@@ -3187,7 +3187,7 @@
     <value>미궁 탐험</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>자동으로 새 덱 불러오기</value>
+    <value>자동으로 새 덱 가져오기</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>미궁 덱 이름 형식</value>
@@ -3214,7 +3214,7 @@
     <value>새로운 HSReplay.net 기능: 내 카드 업로드</value>
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
-    <value>내카드에 가장 적합한 덱을 찾으세요!</value>
+    <value>내 카드에 가장 적합한 덱을 찾으세요!</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>로그인 하여 내 리플레이 보기와 HSReplay.net 기능 활성화.</value>
@@ -3262,7 +3262,7 @@
     <value>더 이상 새 리플레이가 계정에 연동되지 않습니다.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Info2" xml:space="preserve">
-    <value>다시 로그인 하여 저장된 모든 리플레이를 받아보십시오.</value>
+    <value>다시 로그인 하여 저장된 모든 리플레이를 받아보세요.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
     <value>로그아웃</value>
@@ -3271,7 +3271,7 @@
     <value>당신에게 알맞는 덱을 찾는 가장 쉬운 방법입니다!</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText_Subtitle" xml:space="preserve">
-    <value>당신의 카드목록을 HSReplay.net에 업로드 하십시오.</value>
+    <value>당신의 카드목록을 HSReplay.net에 업로드 하세요.</value>
   </data>
   <data name="Options_HSReplay_Collection_UploadSetting" xml:space="preserve">
     <value>자동으로 내 카드 업로드</value>
@@ -3289,7 +3289,7 @@
     <value>카드 목록 업로드를 위한 추가 절차:</value>
   </data>
   <data name="Options_HSReplay_Collection_OpenCollection" xml:space="preserve">
-    <value>하스스톤을 실행하고 "수집품"을 여십시오.</value>
+    <value>하스스톤을 실행하고 수집품을 열어 주세요.</value>
   </data>
   <data name="Options_HSReplay_Collection_UpdateInfo_Header" xml:space="preserve">
     <value>내 카드는 다음의 경우에 자동으로 업데이트 됩니다.</value>
@@ -3307,10 +3307,10 @@
     <value>HSReplay.net으로부터 권한 승인 중...</value>
   </data>
   <data name="OAuthLogin_TryAgain" xml:space="preserve">
-    <value>다시 시도하십시오.</value>
+    <value>다시 시도하세요.</value>
   </data>
   <data name="OAuthLogin_ContactUs" xml:space="preserve">
-    <value>로그인에 문제가 있습니까? 우리에게 연락을 주십시오:</value>
+    <value>로그인에 문제가 있나요? 저희에게 연락해 주세요:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
     <value>트위터</value>
@@ -3349,7 +3349,7 @@
     <value>당신의 트위치 방송을 한 차원 더 높이세요!</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Intro_Subtitle" xml:space="preserve">
-    <value>대화형 오버레이는 실시간 덱 트래킹과 더 많은 기능을 제공합니다.</value>
+    <value>상호작용 오버레이는 실시간 덱 트래킹과 더 많은 기능을 제공합니다.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_Login" xml:space="preserve">
     <value>로그인하여 시작하기.</value>
@@ -3427,7 +3427,7 @@
     <value>확장팩 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>덱에 어둠의 반격 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>어둠의 반격:</value>
@@ -3490,7 +3490,7 @@
     <value>{0}턴 전</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+    <value>전장 하수인 목록 보기</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>갈라크론드 카운터 보기:</value>
@@ -3520,7 +3520,7 @@
     <value>전장 턴 카운터 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero notification at start of Battlegrounds game</value>
+    <value>전장 플레이가 시작될 때 영웅 정보 보기</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0}턴</value>
@@ -3565,10 +3565,10 @@
     <value>다이아몬드 {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>전설 {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>모든 영웅 등급</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
     <value>브론즈</value>
@@ -3589,19 +3589,19 @@
     <value>전설</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>과거 등급만</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>등급 종류:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>새로운 필터: 등급 종류</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>예전 등급 시스템의 게임을 보려면 '과거 등급'을 선택하세요</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>모든 등급 종류 + 과거 등급</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>전장</value>
@@ -3625,7 +3625,7 @@
     <value>정확한 결과를 가져올 수 없습니다</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
-    <value>Waiting For Teammates...</value>
+    <value>팀원 기다리는 중...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>전투 기다리는 중...</value>
@@ -3640,19 +3640,19 @@
     <value>이전 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>이전 전투 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
-    <value>Current Combat (1 Player Not Seen)</value>
+    <value>현재 전투 (한 명 보이지 않음)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
-    <value>Show Current Combat (1 Player Not Seen)</value>
+    <value>현재 전투 보기 (한 명 보이지 않음)</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
-    <value>Previous Combat (1 Player Not Seen)</value>
+    <value>이전 전투 (한 명 보이지 않음)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
-    <value>Show Previous Combat (1 Player Not Seen)</value>
+    <value>이전 전투 보기 (한 명 보이지 않음)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>죽음</value>
@@ -3673,13 +3673,13 @@
     <value>베타</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>전장의 각 전투 라운드에서 승리, 무승부 또는 패배할 확률을 확인하십시오.</value>
+    <value>전장의 각 전투 라운드에서 승리, 무승부 또는 패배할 확률을 확인하세요.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
     <value>자세한 내용.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>찾은 알 수 없는 카드</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
     <value>만든이:</value>
@@ -3688,7 +3688,7 @@
     <value>사용 불가</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>Capture Battlegrounds Overlay</value>
+    <value>전장 오버레이 캡쳐</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>스칼로맨스 아카데미:</value>
@@ -3751,7 +3751,7 @@
     <value>다크문 축제</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>경험치 보기</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>턴</value>
@@ -3763,10 +3763,10 @@
     <value>고해상도 카드 이미지 사용하기</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>카드 이미지 배율</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
+    <value>현재 창에만 적용됩니다. 오버레이와 덱 창을 위한 설정은 각각 '오버레이 &gt; 일반' 과 '오버레이 &gt; 창' 설정에서 확인 할 수 있습니다.</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>카드 툴팁</value>
@@ -3784,13 +3784,13 @@
     <value>덱에 통곡의 동굴 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>사용자 구성 덱으로 게임이 시작될 때 멀리건 알림 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Toast_Mulligan_Available" xml:space="preserve">
-    <value>What should I keep?</value>
+    <value>어떤 카드를 들고 갈까요?</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Core" xml:space="preserve">
     <value>덱에 핵심 세트 카드가 포함되어 있습니다.</value>
@@ -3799,7 +3799,7 @@
     <value>이 덱에 대한 데이터가 없습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>불모의 땅:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>불모의 땅</value>
@@ -3820,25 +3820,25 @@
     <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>스톰윈드:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
-    <value>Awaiting Shopping Phase</value>
+    <value>구매가 끝나길 기다리는 중</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Title" xml:space="preserve">
-    <value>Know your opponent's deck?</value>
+    <value>상대의 덱을 알고 있나요?</value>
   </data>
   <data name="LinkOpponentDeck_Panel_Description" xml:space="preserve">
-    <value>Copy a deck code to your clipboard and click the button below to see their deck update as they play</value>
+    <value>덱 코드를 클립보드에 복사한 후 아래 버튼을 눌러 플레이 도중 상대방의 덱을 확인하세요.</value>
   </data>
   <data name="LinkOpponentDeck_Panel_LinkDeckButton" xml:space="preserve">
     <value>클립보드로 부터 덱 세팅하기</value>
   </data>
   <data name="LinkOpponentDeck_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>무시</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
     <value>초기화</value>
@@ -3850,7 +3850,7 @@
     <value>스톰윈드</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>친선전이 아닌 경우에도 상대방의 덱 설정 가능</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
     <value>스톰윈드</value>
@@ -3859,7 +3859,7 @@
     <value>덱에 스톰윈드 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>결과가 대체로 정확하지 않을 수 있습니다. 정확도 향상을 위해 작업 중 입니다.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
     <value>용병단</value>
@@ -3868,16 +3868,16 @@
     <value>용병단</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>커서를 올려 상대 용병의 능력을 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>커서를 올려 내 용병의 능력을 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>상대 용병 상단에 능력 아이콘 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
-    <value>Show ability icons below player Mercenaries</value>
+    <value>내 용병 하단에 능력 아이콘 표시</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
     <value>용병단</value>
@@ -3895,7 +3895,7 @@
     <value>완료!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
-    <value>Show Tasks panel while in Mercenaries mode</value>
+    <value>용병단 모드에서 임무 표시</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Alterac" xml:space="preserve">
     <value>덱에 알터랙 계곡 확장팩 카드가 포함되어 있습니다.</value>
@@ -3934,7 +3934,7 @@
     <value>맨 위</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>제외된 하수인</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>평점</value>
@@ -3943,10 +3943,10 @@
     <value>최근 게임</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Enable Session Recap Overlay</value>
+    <value>세션 요약 활성화</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Banned Minion Types</value>
+    <value>제외된 하수인 종족</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>시작 평점 및 현재 평점 보기</value>
@@ -4003,7 +4003,7 @@
     <value>{0}등</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
-    <value>Scaling</value>
+    <value>배율</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_ResetSessionDesc" xml:space="preserve">
     <value>세션 초기화를 클릭하면 이전 게임 리스트가 초기화 되며, 시작 평점이 현재 평점으로 변경됩니다.</value>
@@ -4018,7 +4018,7 @@
     <value>최종 덱</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
-    <value>Reset overlay to default</value>
+    <value>오버레이 기본값으로 재설정</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
     <value>전장 세션의 위치가 초기화 됩니다. 초기화하시겠습니까?</value>
@@ -4030,10 +4030,10 @@
     <value>최근 게임 리스트가 초기화 되며, 시작 평점이 현재 평점으로 변경됩니다.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>마지막 선술집 강화</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
-    <value>Minions Tripled At Tier</value>
+    <value>황금 하수인의 티어</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
     <value>강화 없음</value>
@@ -4051,7 +4051,7 @@
     <value>다음 게임을 기다리는 중</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>각 게임 사이에 세션 요약 보기</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>하수인 목록이 없습니다</value>
@@ -4063,13 +4063,13 @@
     <value>덱에 포함된 카드가 40장을 초과합니다</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
-    <value>Welcome back to</value>
+    <value>에 돌아오신 것을 환영합니다</value>
   </data>
   <data name="NewUserOnboarding_WelcomeTo" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>에 오신 것을 환영합니다</value>
   </data>
   <data name="NewUserOnboarding_Preamble" xml:space="preserve">
-    <value>Unleash your potential with Hearthstone Deck Tracker and HSReplay.net</value>
+    <value>Hearthstone Deck Tracker 와 HSReplay.net 과 함께 당신의 잠재력을 펼치세요</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>가볼까요</value>
@@ -4102,19 +4102,19 @@
     <value>리치 왕의 진군</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
-    <value>Show Battlegrounds Hero Picking Stats</value>
+    <value>전장 영웅 선택 통계 보기</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>순위 정보 없음</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>{0}위: {1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
-    <value>No composition data</value>
+    <value>전략 정보 없음</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>티어</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
     <value>평균 순위</value>
@@ -4123,175 +4123,175 @@
     <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>평균 순위</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>사용 가능 종족에 맞춰진 평균 최종 달성 순위</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
     <value>선택률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>게임이 시작 시 영웅 선택지로 나왔을때 선택되는 비율</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>1 티어: 기대 이상</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>2 티어: 승리</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>3티어: 기대 이하</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>4 티어: 패배</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>최고 순위 영웅과 1 표준편차 내에서 더 높은 순위의 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>평균 순위가 4.5위 이상인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 영웅과 평균 순위가 1 표준편차 이내인 영웅들</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>3 티어 최고의 영웅보다 평균 순위가 1 표준편차 이상 낮은 영웅들</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>{0}% MMR ({1:N0}+)부터 모든 통계</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>방어도 티어</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
-    <value>Percentage of 1st place finishes</value>
+    <value>1위로 끝날 확률</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>방어도 티어가 높은 영웅일수록 더 달성하기 쉬운 퀘스트들이 제안됩니다.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>HSReplay.net에 로그인하여 영웅 선택 비율, 평균 순위, 방어도 티어 등을 확인하세요!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>7티어 무제한 사용을 위해 구독하세요.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>7티어 전장 오버레이</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>로딩 중...</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Hover for more details</value>
+    <value>커서를 올려 세부 정보 보기</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>HSReplay.net에 로그인 하여 오버레이에서 7티어 통계를 직접 사용해보세요!</value>
   </data>
   <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>환영합니다</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining:</value>
+    <value>남은 사용 횟수:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>재설정</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>무제한 사용을 위하여 7티어에 가입하세요.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
-    <value>You're subscribed to Tier7!</value>
+    <value>7티어를 구독하였습니다!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>역대 최고 MMR</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>내 통계로 이동</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
-    <value>Armor Range: {0} - {1}</value>
+    <value>방어도 범위: {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>방어도 티어</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>최고 순위 보상과 1 표준편차 내에서 더 높은 순위의 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>평균 순위가 4.5위 이상인 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>평균 순위가 4.5위 미만이고 이 티어의 최고의 보상과 평균 순위가 1 표준편차 이내인 보상들</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>3 티어 최고의 보상보다 평균 순위가 1 표준편차 이상 낮은 보상들</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>1위 플레이어가 이 보상을 선택한 비율</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>현재 영웅과 사용 가능 종족에 맞게 조정된, 보상에 따른 최종 순위 평균</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+    <value>전장 퀘스트 선택 통계 보기</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>죽음의 기사</value>
   </data>
   <data name="MainWindow_Menu_Class_Deathknight" xml:space="preserve">
-    <value>Death_knight</value>
+    <value>죽음의 기사</value>
   </data>
   <data name="Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>죽음의 기사</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Deck contains cards from the Path of Arthas set.</value>
+    <value>덱에 아서스의 길 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
     <value>아서스의 길</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
-    <value>{0}d {1}h</value>
+    <value>{0}일 {1}시간</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>로딩 중…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>뭔가 잘못 되었습니다 :(</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
-    <value>Show Reward Composition Stats</value>
+    <value>보상 전략 통계 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 게임 플레이 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 메뉴 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 게임 플레이 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>하스스톤이 백그라운드에서 실행 중일 때도 오버레이 표시하기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 Overlay</value>
+    <value>7티어 오버레이 활성화</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
+    <value>7티어 메뉴 오버레이 보기 (MMR &amp; 통계)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
-    <value>Tier7</value>
+    <value>7티어</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>영웅 오버레이 보기</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE HERO OVERLAY</value>
+    <value>영웅 오버레이 숨기기</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>발견된 지원하지 않는 카드</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
     <value>정타족의 밴드</value>
@@ -4300,7 +4300,7 @@
     <value>정타족의 밴드</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
-    <value>Deck contains cards from the Festival of Legends set.</value>
+    <value>덱에 전설노래자랑 세트 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
     <value>전설노래자랑:</value>
@@ -4312,7 +4312,7 @@
     <value>전설노래자랑</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>지원하지 않는 상호작용</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
     <value>변칙</value>
@@ -4321,37 +4321,37 @@
     <value>변칙</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contains cards from the TITANS expansion.</value>
+    <value>덱에 티탄 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>티탄</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>티탄</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Titans" xml:space="preserve">
-    <value>TITANS:</value>
+    <value>티탄:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>일시적으로 비활성화 되었습니다. 곧 돌아올게요!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>일시적으로 비활성화 되었습니다. 곧 돌아올게요!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
+    <value>상위 {0}% MMR({1:N0}+)부터 모든 통계, 비정상 조정됨</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
-    <value>Collection uploaded!</value>
+    <value>수집품이 업로드 되었습니다!</value>
   </data>
   <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
-    <value>Find decks on HSReplay.net</value>
+    <value>HSReplay.net에서 덱 찾기</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
-    <value>Deck contains cards from the Caverns of Time expansion.</value>
+    <value>덱에 시간의 동굴 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
-    <value>Caverns of Time</value>
+    <value>시간의 동굴</value>
   </data>
   <data name="Race_Demon" xml:space="preserve">
     <value>악마</value>
@@ -4393,19 +4393,19 @@
     <value>기타</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>황야의 땅 결투</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Badlands" xml:space="preserve">
-    <value>Deck contains cards from the Showdown in the Badlands expansion.</value>
+    <value>덱에 황야의 땅 결투 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>황야의 땅 결투</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands:</value>
+    <value>황야의 땅 결투:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
+    <value>발굴 등급 보기</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>공용</value>
@@ -4420,183 +4420,183 @@
     <value>전설</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+    <value>발굴 횟수 보기</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>구독 중이신가요?</value>
   </data>
   <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
-    <value>Sign In</value>
+    <value>로그인</value>
   </data>
   <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
     <value>새로 고침</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
-    <value>Subscribed to Tier7</value>
+    <value>7티어 구독</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>HSReplay.net 구독하기</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>HSReplay.net 구독하기</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
-    <value>Arcane</value>
+    <value>신비</value>
   </data>
   <data name="Spell_School_Fel" xml:space="preserve">
-    <value>Fel</value>
+    <value>지옥</value>
   </data>
   <data name="Spell_School_Fire" xml:space="preserve">
-    <value>Fire</value>
+    <value>화염</value>
   </data>
   <data name="Spell_School_Frost" xml:space="preserve">
-    <value>Frost</value>
+    <value>냉기</value>
   </data>
   <data name="Spell_School_Holy" xml:space="preserve">
-    <value>Holy</value>
+    <value>신성</value>
   </data>
   <data name="Spell_School_Nature" xml:space="preserve">
-    <value>Nature</value>
+    <value>자연</value>
   </data>
   <data name="Spell_School_Physical_Combat" xml:space="preserve">
     <value>공격력</value>
   </data>
   <data name="Spell_School_Shadow" xml:space="preserve">
-    <value>Shadow</value>
+    <value>암흑</value>
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>없음</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>환영합니다</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>재설정</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>무제한 사용을 위하여 7티어에 가입하세요.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE MULLIGAN GUIDE</value>
+    <value>멀리건 가이드 숨기기</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW MULLIGAN GUIDE</value>
+    <value>멀리건 가이드 보기</value>
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>주문</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
-    <value>Show Final Combat</value>
+    <value>마지막 전투 보기</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
-    <value>Final Combat</value>
+    <value>마지막 전투</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombatPartial" xml:space="preserve">
-    <value>Show Final Combat (1 Player Not Seen)</value>
+    <value>마지막 전투 보기 (한 명 보이지 않음)</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombatPartial" xml:space="preserve">
-    <value>Final Combat (1 Player Not Seen)</value>
+    <value>마지막 전투 (한 명 보이지 않음)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>You can use the Tier7 overlay for free for a limited number of times.</value>
+    <value>무료로 제한된 횟수의 7티어 사용이 가능합니다.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
-    <value>Not on website</value>
+    <value>웹사이트에 없음</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>Mulligan Guide</value>
+    <value>멀리건 가이드</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan Guide</value>
+    <value>멀리건 가이드 활성화</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
-    <value>Show availability on deck selection screen</value>
+    <value>덱 선택 화면에서 사용가능 여부 표시</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRate" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this card is kept when presented during Mulligan.</value>
+    <value>멀리건에서 이 카드를 들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>들고 간 비율</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
-    <value>Mulligan WR</value>
+    <value>멀리건 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>Mulligan Winrate</value>
+    <value>멀리건 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
-    <value>Average winrate of games where this card ends up in the opening hand.</value>
+    <value>첫 손패에 이 카드를 들고 간 판들의 평균 승률</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
-    <value>HAND RANK</value>
+    <value>손패 등급</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
-    <value>Hand Rank</value>
+    <value>손패 등급</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
-    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+    <value>이 덱에 있는 각 {1} 개의 카드 중, 들고 가야 할 최고의 카드 #{0} 개입니다.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>Mulligan Guide Ready</value>
+    <value>멀리건 가이드 준비</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
-    <value>No Data</value>
+    <value>정보 없음</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
     <value>로딩 중...</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>위즈뱅의 장난감 공방</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>위즈뱅의 장난감 공방:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>위즈뱅의 장난감 공방</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>게임이 시작 될 때 멀리건 오버레이 표시</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, Going First</value>
+    <value>멀리건 통계 vs. {0}, 선공</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, On Coin</value>
+    <value>멀리건 통계 vs. {0}, 후공</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>뭔가 잘못 되었습니다 :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show Available Minion Types</value>
+    <value>사용 가능한 하수인 종족 보기</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>사용 가능한 하수인</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>종족들</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>선술집 단계 {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>선술집 단계 {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
-    <value>Next Fatigue damage: {0}</value>
+    <value>다음 탈진 피해: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>극한의 극락</value>
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>극한의 극락</value>
   </data>
 </root>
