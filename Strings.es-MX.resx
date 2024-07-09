@@ -3939,6 +3939,9 @@
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
     <value>Composition Stats</value>
   </data>
+  <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
+    <value>Failed to load compositions</value>
+  </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
     <value>Composition</value>
   </data>
