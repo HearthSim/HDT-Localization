@@ -3936,6 +3936,21 @@
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
     <value>Gebannte Diener</value>
   </data>
+  <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
+    <value>Composition Stats</value>
+  </data>
+  <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
+    <value>Failed to load compositions</value>
+  </data>
+  <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
+    <value>Composition</value>
+  </data>
+  <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
+    <value>First Place</value>
+  </data>
+  <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
+    <value>Avg Place</value>
+  </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
@@ -4235,6 +4250,9 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
     <value>Show Battlegrounds Quest Picking Stats</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BattlegroundsCompStats" xml:space="preserve">
+    <value>Show Battlegrounds Composition Stats</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Todesritter</value>
