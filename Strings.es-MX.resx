@@ -628,13 +628,13 @@
     <value>Opacidad:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>Mover capa:</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>Restablecer</value>
   </data>
   <data name="Options_Overlay_General_Label_Reset" xml:space="preserve">
-    <value>Reset overlay position:</value>
+    <value>Restablecer posición de la capa:</value>
   </data>
   <data name="Options_Overlay_General_Button_UnlockOverlay" xml:space="preserve">
     <value>Desbloquear superposición</value>
@@ -856,7 +856,7 @@
     <value>Orden de cartas: Cartas de clase primero</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Show card tooltips (this window)</value>
+    <value>Mostrar consejos de la carta (esta ventana)</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostrar curva de maná</value>
@@ -1030,7 +1030,7 @@
     <value>Guardar datos en AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Iniciar con Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Iniciar minimizado</value>
@@ -1045,7 +1045,7 @@
     <value>Cerrar con Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>Iniciar Hearthstone al iniciar</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Buscar actualizaciones</value>
@@ -2353,7 +2353,7 @@
     <value>Jugador</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>El próximo robo inflige daño de fatiga de: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>Oponente</value>
@@ -3424,100 +3424,100 @@
     <value>La Arena de Rastakhan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SetTooltips" xml:space="preserve">
-    <value>Display card set</value>
+    <value>Ver mazo</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Ascenso de las Sombras.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows:</value>
+    <value>Ascenso de las Sombras:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>Ascenso de las Sombras</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dalaran" xml:space="preserve">
-    <value>Rise of Shadows</value>
+    <value>Ascenso de las Sombras</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Uldum" xml:space="preserve">
-    <value>Deck contains cards from the Saviors of Uldum expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Salvadores de Uldum.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum:</value>
+    <value>Salvadores de Uldum:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvadores de Uldum</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Uldum" xml:space="preserve">
-    <value>Saviors of Uldum</value>
+    <value>Salvadores de Uldum</value>
   </data>
   <data name="Enum_GameMode_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Campos de batalla</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Battlegrounds" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Campos de batalla</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dragons" xml:space="preserve">
-    <value>Deck contains cards from the Descent of Dragons expansion.</value>
+    <value>Este mazo contiene cartas de la expansión El Descenso de los Dragones.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dragons" xml:space="preserve">
-    <value>Descent of Dragons:</value>
+    <value>El Descenso de los Dragones:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>El Descenso de los Dragones</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Dragons" xml:space="preserve">
-    <value>Descent of Dragons</value>
+    <value>El Descenso de los Dragones</value>
   </data>
   <data name="Overlay_Battlegrounds_Label_LastKnown" xml:space="preserve">
-    <value>Last known board:</value>
+    <value>Último tablero visto:</value>
   </data>
   <data name="GameTag_Taunt" xml:space="preserve">
-    <value>Taunt</value>
+    <value>Provocar</value>
   </data>
   <data name="GameTag_DivineShield" xml:space="preserve">
-    <value>Divine Shield</value>
+    <value>Escudo divino</value>
   </data>
   <data name="GameTag_Poisonous" xml:space="preserve">
-    <value>Poisonous</value>
+    <value>Veneno</value>
   </data>
   <data name="GameTag_Windfury" xml:space="preserve">
-    <value>Windfury</value>
+    <value>Viento furioso</value>
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
-    <value>Deathrattle</value>
+    <value>Último aliento</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
-    <value>{0} turn(s) ago</value>
+    <value>Hace {0} turno(s)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+    <value>Mostrar el buscador de esbirros de Campos de batalla</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Mostrar el contador de Galakrond:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Show Galakrond counter:</value>
+    <value>Mostrar el contador de Galakrond:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>El mazo contiene cartas de la aventura El Despertar de Galakrond.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
-    <value>Galakrond's Awakening</value>
+    <value>El Despertar de Galakrond</value>
   </data>
   <data name="DeckSetIcons_Tooltip_BlackTemple" xml:space="preserve">
-    <value>Deck contains cards from the Ashes of Outland expansion.</value>
+    <value>Este mazo contiene cartas de la expansión Cenizas de Terrallende.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland:</value>
+    <value>Cenizas de Terrallende:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cenizas de Terrallende</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
-    <value>Ashes of Outland</value>
+    <value>Cenizas de Terrallende</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+    <value>Mostrar el contador de turnos de Campos de Batalla</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero notification at start of Battlegrounds game</value>
@@ -3604,7 +3604,7 @@
     <value>All Leagues + Legacy</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Battlegrounds</value>
+    <value>Campos de batalla</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -4616,5 +4616,11 @@
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
     <value>Perils in Paradise</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
+    <value>Tourist Only</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
+    <value>Deck is missing Tourist card.</value>
   </data>
 </root>

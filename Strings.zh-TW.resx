@@ -4617,4 +4617,10 @@
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
     <value>Perils in Paradise</value>
   </data>
+  <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
+    <value>Tourist Only</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
+    <value>Deck is missing Tourist card.</value>
+  </data>
 </root>
