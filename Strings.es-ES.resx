@@ -3556,130 +3556,130 @@
     <value>Plata {0}</value>
   </data>
   <data name="Rank_League_Gold" xml:space="preserve">
-    <value>Gold {0}</value>
+    <value>Oro {0}</value>
   </data>
   <data name="Rank_League_Platinum" xml:space="preserve">
-    <value>Platinum {0}</value>
+    <value>Platino {0}</value>
   </data>
   <data name="Rank_League_Diamond" xml:space="preserve">
-    <value>Diamond {0}</value>
+    <value>Diamante {0}</value>
   </data>
   <data name="Rank_Legend" xml:space="preserve">
-    <value>Legend {0}</value>
+    <value>Leyenda {0}</value>
   </data>
   <data name="Enum_League_All" xml:space="preserve">
-    <value>All Leagues</value>
+    <value>Todas la ligas</value>
   </data>
   <data name="Enum_League_Bronze" xml:space="preserve">
-    <value>Bronze</value>
+    <value>Bronce</value>
   </data>
   <data name="Enum_League_Silver" xml:space="preserve">
-    <value>Silver</value>
+    <value>Plata</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
     <value>Oro</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
-    <value>Platinum</value>
+    <value>Platino</value>
   </data>
   <data name="Enum_League_Diamond" xml:space="preserve">
-    <value>Diamond</value>
+    <value>Diamante</value>
   </data>
   <data name="Enum_League_Legend" xml:space="preserve">
-    <value>Legend</value>
+    <value>Leyenda</value>
   </data>
   <data name="Enum_League_Legacy" xml:space="preserve">
-    <value>Legacy Only</value>
+    <value>Solo legado</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_League" xml:space="preserve">
-    <value>League:</value>
+    <value>Liga:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint1" xml:space="preserve">
-    <value>New filter: League</value>
+    <value>Filtro nuevo: Liga</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_League_Hint2" xml:space="preserve">
-    <value>Select 'Legacy' to see games from the old rank system.</value>
+    <value>Selecciona 'Legado' para ver partidas del antiguo sistema de rango.</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>All Leagues + Legacy</value>
+    <value>Todas las ligas + Legado</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>Campos de batalla</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>El amigo de Bob</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
-    <value>Enable combat simulations</value>
+    <value>Habilitar las simulaciones de combate</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringCombat" xml:space="preserve">
-    <value>Show results during combat phase</value>
+    <value>Mostrar resultados durante la fase de combate</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowDuringShopping" xml:space="preserve">
-    <value>Show results during shopping phase</value>
+    <value>Mostrar resultados durante la fase de compra</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>Actualización necesaria: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
-    <value>Could not get accurate results</value>
+    <value>No se han podido obtener resultados precisos</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
-    <value>Waiting For Teammates...</value>
+    <value>Esperando a compañeros de equipo...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
-    <value>Waiting For Combat...</value>
+    <value>Esperando combate...</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombat" xml:space="preserve">
-    <value>Current Combat</value>
+    <value>Combate en curso</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombat" xml:space="preserve">
-    <value>Show Current Combat</value>
+    <value>Mostrar combate en curso</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombat" xml:space="preserve">
-    <value>Previous Combat</value>
+    <value>Combate previo</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Mostrar combate previo</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
-    <value>Current Combat (1 Player Not Seen)</value>
+    <value>Combate en curso (1 jugador por ver)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
-    <value>Show Current Combat (1 Player Not Seen)</value>
+    <value>Mostrar combate en curso (1 jugador por ver)</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
-    <value>Previous Combat (1 Player Not Seen)</value>
+    <value>Combate previo (1 jugador por ver)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
-    <value>Show Previous Combat (1 Player Not Seen)</value>
+    <value>Mostrar combate previo (1 jugador por ver)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Lethal</value>
+    <value>Letal</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
     <value>Victoria</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>Empate</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
     <value>Derrota</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Buddy</value>
+    <value>El amigo de Bob</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>Beta</value>
   </data>
   <data name="BobsBuddyPanel_Info_Description" xml:space="preserve">
-    <value>See your chances to win, tie, or lose each combat round in Battlegrounds.</value>
+    <value>Ver posibilidades de ganar, empatar o perder cada combate en Campos de Batalla.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Link_LearnMore" xml:space="preserve">
-    <value>Learn more.</value>
+    <value>Más información.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnknownCards" xml:space="preserve">
-    <value>Found unknown cards</value>
+    <value>Cartas desconocidas encontradas</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
     <value>Creado por</value>
@@ -3850,37 +3850,37 @@
     <value>United in Stormwind</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_LinkOpponentDeck" xml:space="preserve">
-    <value>Enable setting opponent deck in non-friendly matches</value>
+    <value>Habilitar ventana del mazo del oponente en partidas competitivas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Stormwind" xml:space="preserve">
-    <value>United in Stormwind</value>
+    <value>Unidos en Ventormenta</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Stormwind" xml:space="preserve">
-    <value>Deck contains cards from the United In Stormwind expansion</value>
+    <value>Este mazo contiene cartas de la expansión Unidos en Ventormenta</value>
   </data>
   <data name="BobsBuddyWarningTooltip_DataQuality" xml:space="preserve">
-    <value>Results may be less accurate than usual. We are actively working on improvements.</value>
+    <value>Los resultados pueden ser menos precisos de lo habitual. Estamos trabajando en mejoras.</value>
   </data>
   <data name="Enum_GameMode_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenarios</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Mercenaries" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenarios</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentHoverAbilities" xml:space="preserve">
-    <value>Show opponent Mercenary abilities on hover</value>
+    <value>Mostrar las habilidades de Mercenario del oponente al pasar el ratón</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerHoverAbilities" xml:space="preserve">
-    <value>Show player Mercenary abilities on hover</value>
+    <value>Mostrar las habilidades de Mercenario propias al pasar el ratón</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_OpponentAbilityIcons" xml:space="preserve">
-    <value>Show ability icons above opponent Mercenaries</value>
+    <value>Mostrar los iconos de habilidad sobre los oponentes</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_PlayerAbilityIcons" xml:space="preserve">
     <value>Show ability icons below player Mercenaries</value>
   </data>
   <data name="Options_Overlay_Mercenaries_Header" xml:space="preserve">
-    <value>Mercenaries</value>
+    <value>Mercenarios</value>
   </data>
   <data name="MercenariesTaskList_GameNotice" xml:space="preserve">
     <value>Task progress will update after the game</value>
