@@ -690,6 +690,9 @@
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>套牌位置垂直居中</value>
   </data>
@@ -716,6 +719,9 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>套牌位置垂直居中</value>
