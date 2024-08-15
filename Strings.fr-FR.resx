@@ -3973,7 +3973,7 @@
     <value>Afficher les cotes initiale et actuelle</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Afficher les 10 dernières parties</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Afficher la fenêtre du récapitulatif de la session</value>
@@ -4030,7 +4030,7 @@
     <value>Réinitialiser la session effacera la liste des dernières parties et réglera la cote de départ pour qu'elle corresponde à votre cote actuelle.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Les 10 dernières parties apparaîtront ici.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Réinitialiser</value>
