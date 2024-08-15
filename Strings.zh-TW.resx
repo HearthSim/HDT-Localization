@@ -3973,7 +3973,7 @@
     <value>顯示開始及目前的天梯分數</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>顯示最近十場的對戰</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
@@ -4030,7 +4030,7 @@
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>最近十場對戰會在這裡顯示</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>復原</value>
