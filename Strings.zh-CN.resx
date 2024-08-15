@@ -3973,7 +3973,7 @@
     <value>显示开始时的和现在的等级积分</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>显示最近十次对局</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>显示时段回顾窗口</value>
@@ -4030,7 +4030,7 @@
     <value>重置时段将清除最近的的对局列表，并将起始的等级积分设置为当前的分数。</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>最近10次对局将会显示在这里。</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>重置</value>
