@@ -3973,7 +3973,7 @@
     <value>Показывать начальный и текущий MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Показывать последние 10 игр</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Показывать окно сводки сессии</value>
@@ -4030,7 +4030,7 @@
     <value>Сброс сессии очистит список последних партий и сделает начальный MMR равным текущему MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Последние 10 партий появятся здесь.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Сбросить</value>
