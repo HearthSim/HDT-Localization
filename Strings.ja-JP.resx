@@ -690,6 +690,9 @@
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>ボードの攻撃力カウンターを表示</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>デッキを垂直に中央揃え</value>
   </data>
@@ -716,6 +719,9 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>ボードの攻撃力カウンターを表示</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>デッキを垂直に中央揃え</value>
@@ -1030,7 +1036,7 @@
     <value>AppData にデータを保存</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Windows起動時に自動起動</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>最小化して起動</value>
@@ -1045,7 +1051,7 @@
     <value>ハースストーンと同時に閉じる</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>起動時にハースストーンを起動</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>更新を確認する</value>
@@ -2353,7 +2359,7 @@
     <value>プレーヤー</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>次ドローの疲労ダメージ: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>対戦相手</value>
@@ -3427,7 +3433,7 @@
     <value>カードセット表示</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>デッキに"爆誕！悪党同盟"のカードが含まれています。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>爆誕！悪党同盟:</value>
@@ -3490,7 +3496,7 @@
     <value>{0} ターン前</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+    <value>バトルグラウンドのミニオンブラウザを表示</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>ガラクロンド カウンターを表示</value>
@@ -3946,10 +3952,10 @@
     <value>Composition</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
-    <value>First Place</value>
+    <value>１位</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
-    <value>Avg Place</value>
+    <value>平均順位</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>レーティング</value>
@@ -3967,7 +3973,7 @@
     <value>Show Start and Current MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 10 Games</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
@@ -4024,13 +4030,13 @@
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 10 games will appear here.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>リセット</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>最終盤面</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>Reset overlay to default</value>

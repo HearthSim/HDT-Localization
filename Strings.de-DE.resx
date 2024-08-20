@@ -690,6 +690,9 @@
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Spielfeld-Angriffszähler anzeigen</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
   </data>
@@ -716,6 +719,9 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Spielfeld-Angriffszähler anzeigen</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
@@ -3967,7 +3973,7 @@
     <value>Start- und aktuelles MMR anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Letzten 10 Spiele anzeigen</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Sitzungsverlauf-Fenster anzeigen</value>
@@ -4024,7 +4030,7 @@
     <value>Das Zurücksetzen der Sitzung wird die Liste der letzten Partien leeren und das Start-MMR auf dein aktuelles MMR setzen.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Die letzten 10 Partien werden hier angezeigt.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>

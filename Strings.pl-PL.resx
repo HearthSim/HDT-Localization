@@ -690,6 +690,9 @@
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Pokaż całkowitą wartość ataku na planszy</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Pokaż okno talii pionowo</value>
   </data>
@@ -716,6 +719,9 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Pokaż całkowitą wartość ataku na planszy</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Pokaż okno talii pionowo</value>
@@ -3967,7 +3973,7 @@
     <value>Pokaż początkowy i bieżący MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Pokaż 10 ostatnich gier</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Pokaż podsumowanie sesji w osobnym oknie</value>
@@ -4024,7 +4030,7 @@
     <value>Zresetowanie sesji spowoduje wyczyszczenie listy Ostatnich Gier i ustawi domyślny MMR, aby odpowiadał bieżącemu MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Ostatnie 10 gier pojawi się tutaj.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Zresetuj</value>

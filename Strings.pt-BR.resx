@@ -690,6 +690,9 @@
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
   </data>
+  <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
+  </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Centrar baralho verticalmente</value>
   </data>
@@ -716,6 +719,9 @@
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Mostrar contador de ataque na mesa</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
+    <value>Show active effects</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Centrar baralho verticalmente</value>
@@ -3967,7 +3973,7 @@
     <value>Exibir MMR Inicial e Atual</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Exibir Últimos 10 Jogos</value>
+    <value>Show Latest 8 Games</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show Session Recap Window</value>
@@ -4024,7 +4030,7 @@
     <value>Redefinir a sessão limpará a lista Últimos Jogos e definirá o MMR inicial para corresponder ao seu MMR atual.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Os ultimos 10 jogos aparecem aqui.</value>
+    <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Redefinir</value>
