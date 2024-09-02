@@ -744,6 +744,9 @@
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>カード不透明度遷移 (推奨) を無効にする</value>
   </data>
+  <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
+    <value>Automatically hide parts of the overlay that interfere with the game (recommended)</value>
+  </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>背景:</value>
   </data>
