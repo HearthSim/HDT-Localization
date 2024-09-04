@@ -744,6 +744,9 @@
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Deaktiviere transparente Kartenübergänge (empfohlen)</value>
   </data>
+  <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
+    <value>Hide parts of the overlay that interfere with the game (recommended)</value>
+  </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>Hintergrund:</value>
   </data>
@@ -4628,5 +4631,8 @@
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
     <value>Deck is missing Tourist card.</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
+    <value>Always show Tavern Tier 7</value>
   </data>
 </root>
