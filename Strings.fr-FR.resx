@@ -3498,8 +3498,8 @@
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>Il y a {0} tour(s)</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
+    <value>Show minion browser</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Afficher le compteur Galakrond :</value>
@@ -3525,8 +3525,8 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
     <value>Les Cendres de l’Outreterre</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Afficher le compteur de tours en champs de bataille</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
+    <value>Show turn counter</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Afficher la notification du héros au début de la partie de Champs de Bataille</value>
@@ -3973,10 +3973,10 @@
     <value>Show banned minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Afficher les cotes initiale et actuelle</value>
+    <value>Show start and current MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games list</value>
+    <value>Show latest games played this session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show session recap window</value>
@@ -4126,7 +4126,7 @@
     <value>La marche du roi-liche</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show hero picking stats</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>Aucune donnée de classement</value>
@@ -4258,10 +4258,10 @@
     <value>Le classement final atteint par cette récompense en moyenne, ajusté en fonction du héros et des types de serviteurs disponibles</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
-    <value>Show quest picking stats</value>
+    <value>Show Quest picking stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>Show first place comp stats</value>
+    <value>Show Comp stats (in session recap)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Chevalier de la mort</value>
@@ -4639,6 +4639,6 @@
     <value>SHOW TRINKET STATS</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>Show trinket picking stats</value>
+    <value>Show Trinket picking stats</value>
   </data>
 </root>
