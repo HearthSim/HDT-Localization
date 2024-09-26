@@ -3498,8 +3498,8 @@
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}턴 전</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>전장 하수인 목록 보기</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
+    <value>Show minion browser</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>갈라크론드 카운터 보기:</value>
@@ -3525,8 +3525,8 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
     <value>황폐한 아웃랜드</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>전장 턴 카운터 보기</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
+    <value>Show turn counter</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>전장 플레이가 시작될 때 영웅 정보 보기</value>
@@ -3973,10 +3973,10 @@
     <value>Show banned minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>시작 평점 및 현재 평점 보기</value>
+    <value>Show start and current MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games list</value>
+    <value>Show latest games played this session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show session recap window</value>
@@ -4126,7 +4126,7 @@
     <value>리치 왕의 진군</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show hero picking stats</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>순위 정보 없음</value>
@@ -4258,10 +4258,10 @@
     <value>현재 영웅과 사용 가능 종족에 맞게 조정된, 보상에 따른 최종 순위 평균</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
-    <value>Show quest picking stats</value>
+    <value>Show Quest picking stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>Show first place comp stats</value>
+    <value>Show Comp stats (in session recap)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>죽음의 기사</value>
@@ -4639,6 +4639,6 @@
     <value>SHOW TRINKET STATS</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>Show trinket picking stats</value>
+    <value>Show Trinket picking stats</value>
   </data>
 </root>
