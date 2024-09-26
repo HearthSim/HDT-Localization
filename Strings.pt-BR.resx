@@ -3967,19 +3967,19 @@
     <value>Últimos Jogos</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Enable Session Recap Overlay</value>
+    <value>Enable session recap overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show Banned Minion Types</value>
+    <value>Show banned minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Exibir MMR Inicial e Atual</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show Latest 8 Games</value>
+    <value>Show latest games list</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show Session Recap Window</value>
+    <value>Show session recap window</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>Redefinir Sessão</value>
@@ -4075,7 +4075,7 @@
     <value>Esperando o próximo jogo</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show Session Recap Overlay between games</value>
+    <value>Show session recap between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>Nenhum lacaio jogado</value>
@@ -4125,8 +4125,8 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
     <value>Ascensão do Lich Rei</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsHeroPicking" xml:space="preserve">
-    <value>Show Battlegrounds Hero Picking Stats</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
+    <value>Show hero picking stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
@@ -4257,11 +4257,11 @@
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPicking" xml:space="preserve">
-    <value>Show Battlegrounds Quest Picking Stats</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
+    <value>Show quest picking stats</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsCompStats" xml:space="preserve">
-    <value>Show Battlegrounds Composition Stats</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
+    <value>Show first place comp stats</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Deathknight</value>
@@ -4287,14 +4287,11 @@
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
     <value>Something went wrong :(</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsQuestPickingComps" xml:space="preserve">
-    <value>Show Reward Composition Stats</value>
-  </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>Show gameplay overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>Show menu overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Show gameplay Overlay while Hearthstone is in the background</value>
@@ -4303,10 +4300,10 @@
     <value>Show menu Overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Habilitar Sobreposição do Tier7</value>
+    <value>Enable Tier7 overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 menu Overlay (MMR &amp; Stats)</value>
+    <value>Show Tier7 in menu (MMR &amp; stats)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4603,7 +4600,7 @@
     <value>Something went wrong :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show Available Minion Types</value>
+    <value>Show available minion types</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
     <value>Available Minions</value>
@@ -4634,5 +4631,14 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
     <value>Always show Tavern Tier 7</value>
+  </data>
+  <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
+    <value>HIDE TRINKET STATS</value>
+  </data>
+  <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
+    <value>SHOW TRINKET STATS</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
+    <value>Show trinket picking stats</value>
   </data>
 </root>
