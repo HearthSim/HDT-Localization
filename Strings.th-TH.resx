@@ -3498,8 +3498,8 @@
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} turn(s) ago</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsMinionBrowser" xml:space="preserve">
-    <value>Show Battlegrounds Minion Browser</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
+    <value>Show minion browser</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Show Galakrond counter:</value>
@@ -3525,8 +3525,8 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackTemple" xml:space="preserve">
     <value>Ashes of Outland</value>
   </data>
-  <data name="Options_Overlay_General_CheckBox_BattlegroundsTurnCounter" xml:space="preserve">
-    <value>Show Battlegrounds Turn Counter</value>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
+    <value>Show turn counter</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero notification at start of Battlegrounds game</value>
@@ -3973,10 +3973,10 @@
     <value>Show banned minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show Start and Current MMR</value>
+    <value>Show start and current MMR</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games list</value>
+    <value>Show latest games played this session</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show session recap window</value>
@@ -4126,7 +4126,7 @@
     <value>March of the Lich King</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show hero picking stats</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
@@ -4258,10 +4258,10 @@
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
-    <value>Show quest picking stats</value>
+    <value>Show Quest picking stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>Show first place comp stats</value>
+    <value>Show Comp stats (in session recap)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>Deathknight</value>
@@ -4639,6 +4639,6 @@
     <value>SHOW TRINKET STATS</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>Show trinket picking stats</value>
+    <value>Show Trinket picking stats</value>
   </data>
 </root>
