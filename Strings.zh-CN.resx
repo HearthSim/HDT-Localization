@@ -730,7 +730,7 @@
     <value>绿色标记手牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_HighlightDrawn" xml:space="preserve">
-    <value>橙色标记抽牌</value>
+    <value>高亮上次抽到的牌</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_RemoveZero" xml:space="preserve">
     <value>不显示数量为0的卡牌</value>
@@ -988,7 +988,7 @@
     <value>禁用</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
-    <value>作者：</value>
+    <value>创建者：</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>显示分享提示</value>
@@ -1054,7 +1054,7 @@
     <value>《炉石传说》关闭时自动关闭</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>运行时启动炉石传说</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>自动检测更新</value>
@@ -3436,7 +3436,7 @@
     <value>显示卡牌所属扩展包</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>包含“暗影崛起”系列的卡牌。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>暗影崛起：</value>
@@ -3526,7 +3526,7 @@
     <value>外域的灰烬</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>显示回合计数器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>在酒馆战棋游戏开始时显示英雄提示</value>
@@ -3691,7 +3691,7 @@
     <value>发现未知卡牌</value>
   </data>
   <data name="CardTooltip_Label_CreatedBy" xml:space="preserve">
-    <value>创建者</value>
+    <value>创建者：</value>
   </data>
   <data name="BattlegroundsCards_Tribe_NotAvailable" xml:space="preserve">
     <value>无法使用</value>
@@ -3808,7 +3808,7 @@
     <value>这个套牌的对战数据较少</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>贫瘠之地的锤炼：</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>贫瘠之地的锤炼</value>
@@ -3829,7 +3829,7 @@
     <value>显示圣契减费计数器：</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>暴风城下的集结：</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>显示圣契减费计数器：</value>
@@ -4114,16 +4114,16 @@
     <value>中立</value>
   </data>
   <data name="DeckSetIcons_Tooltip_LichKing" xml:space="preserve">
-    <value>Deck contains cards from the March of the Lich King expansion.</value>
+    <value>包含“巫妖王的进军”系列的卡牌。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_LichKing" xml:space="preserve">
-    <value>March of the Lich King:</value>
+    <value>巫妖王的进军：</value>
   </data>
   <data name="Enum_ArenaRewardPacks_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>巫妖王的进军</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_LichKing" xml:space="preserve">
-    <value>March of the Lich King</value>
+    <value>巫妖王的进军</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
     <value>Show Hero picking stats</value>
@@ -4219,7 +4219,7 @@
     <value>Uses remaining:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>重置</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
@@ -4228,7 +4228,7 @@
     <value>You're subscribed to Tier7!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>历史最高天梯排名</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>GO TO MY STATS</value>
@@ -4264,19 +4264,19 @@
     <value>Show Comp stats (in session recap)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>死亡骑士</value>
   </data>
   <data name="MainWindow_Menu_Class_Deathknight" xml:space="preserve">
-    <value>Death_knight</value>
+    <value>死亡骑士</value>
   </data>
   <data name="Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>死亡骑士</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Deck contains cards from the Path of Arthas set.</value>
+    <value>包含“阿尔萨斯之路”系列的卡牌。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Path of Arthas</value>
+    <value>阿尔萨斯之路</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}d {1}h</value>
@@ -4318,22 +4318,22 @@
     <value>包含不支持的卡牌</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>精英牛头人酋长的乐队</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>精英牛头人酋长的乐队</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
-    <value>Deck contains cards from the Festival of Legends set.</value>
+    <value>包含“传奇音乐节”系列的卡牌。</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends:</value>
+    <value>传奇音乐节：</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>传奇音乐节</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>传奇音乐节</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
     <value>Unsupported Interaction</value>
@@ -4345,16 +4345,16 @@
     <value>Twist</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contains cards from the TITANS expansion.</value>
+    <value>包含“泰坦诸神”系列的卡牌。</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>泰坦诸神</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>泰坦诸神</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Titans" xml:space="preserve">
-    <value>TITANS:</value>
+    <value>泰坦诸神：</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
     <value>Temporarily disabled. We will be back soon!</value>
@@ -4417,16 +4417,16 @@
     <value>其他</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>决战荒芜之地</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Badlands" xml:space="preserve">
-    <value>Deck contains cards from the Showdown in the Badlands expansion.</value>
+    <value>包含“决战荒芜之地”系列的卡牌。</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>决战荒芜之地</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands:</value>
+    <value>决战荒芜之地：</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
     <value>Show Excavate tier:</value>
@@ -4468,28 +4468,28 @@
     <value>显示法术类别计数器：</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
-    <value>Arcane</value>
+    <value>奥术</value>
   </data>
   <data name="Spell_School_Fel" xml:space="preserve">
-    <value>Fel</value>
+    <value>邪能</value>
   </data>
   <data name="Spell_School_Fire" xml:space="preserve">
-    <value>Fire</value>
+    <value>火焰</value>
   </data>
   <data name="Spell_School_Frost" xml:space="preserve">
-    <value>Frost</value>
+    <value>冰霜</value>
   </data>
   <data name="Spell_School_Holy" xml:space="preserve">
-    <value>Holy</value>
+    <value>神圣</value>
   </data>
   <data name="Spell_School_Nature" xml:space="preserve">
-    <value>Nature</value>
+    <value>自然</value>
   </data>
   <data name="Spell_School_Physical_Combat" xml:space="preserve">
     <value>攻击力</value>
   </data>
   <data name="Spell_School_Shadow" xml:space="preserve">
-    <value>Shadow</value>
+    <value>暗影</value>
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>无</value>
@@ -4501,7 +4501,7 @@
     <value>欢迎</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>重置</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
@@ -4579,13 +4579,13 @@
     <value>读取中……</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>威兹班的工坊</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>威兹班的工坊：</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>威兹班的工坊</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>Show Mulligan Overlay at start of game</value>
@@ -4615,7 +4615,7 @@
     <value>酒馆等级 {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
-    <value>Next Fatigue damage: {0}</value>
+    <value>下一次疲劳伤害: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
     <value>Perils in Paradise</value>
