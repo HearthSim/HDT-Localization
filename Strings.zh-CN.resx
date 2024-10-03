@@ -658,7 +658,7 @@
     <value>手动点击排除奥秘</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>注：当“选项&gt;内嵌&gt;通用&gt;自动排除奥秘”打开时，该操作可能会失效。</value>
+    <value>注：当“选项&gt; 内嵌&gt; 通用&gt; 自动排除奥秘”打开时，该操作可能会失效。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>开启</value>
@@ -691,7 +691,7 @@
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>显示激活的效果</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>套牌位置垂直居中</value>
@@ -721,7 +721,7 @@
     <value>显示场攻计数器</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>显示激活的效果</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>套牌位置垂直居中</value>
@@ -745,7 +745,7 @@
     <value>关闭卡牌透明度渐变（推荐）</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
-    <value>Hide parts of the overlay that interfere with the game (recommended)</value>
+    <value>隐藏干扰对局的内嵌 (推荐)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>背景色：</value>
@@ -4210,7 +4210,7 @@
     <value>鼠标悬停以获取详细信息</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>登录到 HSReplay.net 以在游戏内嵌中直接访问 Tier7！</value>
   </data>
   <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
     <value>欢迎</value>
@@ -4288,16 +4288,16 @@
     <value>发生了某些错误 :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay overlay while Hearthstone is in the background</value>
+    <value>当炉石传说处于后台时显示游戏内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu overlay while Hearthstone is in the background</value>
+    <value>当炉石传说处于后台时显示菜单悬浮窗</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay Overlay while Hearthstone is in the background</value>
+    <value>当炉石传说处于后台时显示游戏内嵌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu Overlay while Hearthstone is in the background</value>
+    <value>当炉石传说处于后台时显示菜单悬浮窗</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
     <value>Enable Tier7 overlay</value>
@@ -4309,10 +4309,10 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW HERO OVERLAY</value>
+    <value>显示英雄内嵌</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE HERO OVERLAY</value>
+    <value>隐藏英雄内嵌</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
     <value>包含不支持的卡牌</value>
@@ -4339,10 +4339,10 @@
     <value>Unsupported Interaction</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>幻变模式</value>
   </data>
   <data name="Enum_Format_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>幻变模式</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
     <value>包含“泰坦诸神”系列的卡牌。</value>
@@ -4429,7 +4429,7 @@
     <value>决战荒芜之地：</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
+    <value>显示发掘层级：</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>普通</value>
@@ -4456,7 +4456,7 @@
     <value>刷新</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
-    <value>Subscribed to Tier7</value>
+    <value>订阅Tier7</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
     <value>Subscribed to HSReplay.net</value>
@@ -4507,10 +4507,10 @@
     <value>Join Tier7 to get unlimited access.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE MULLIGAN GUIDE</value>
+    <value>隐藏换牌指南</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW MULLIGAN GUIDE</value>
+    <value>显示换牌指南</value>
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>法术牌</value>
@@ -4624,19 +4624,19 @@
     <value>Perils in Paradise</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
-    <value>Tourist Only</value>
+    <value>只显示游客卡</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
-    <value>Deck is missing Tourist card.</value>
+    <value>套牌缺少游客卡。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
     <value>Always show Tavern Tier 7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE TRINKET STATS</value>
+    <value>隐藏曲线状态</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW TRINKET STATS</value>
+    <value>显示曲线状态</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Show Trinket picking stats</value>
