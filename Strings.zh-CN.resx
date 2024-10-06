@@ -3499,7 +3499,7 @@
     <value>{0}个回合前</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
-    <value>Show minion browser</value>
+    <value>显示随从浏览器</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>迦拉克隆计数器：</value>
@@ -3970,10 +3970,10 @@
     <value>Enable session recap overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show banned minion types</value>
+    <value>显示禁用的随从类型</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show start and current MMR</value>
+    <value>显示开始时和当前的等级积分</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
     <value>Show latest games played this session</value>
@@ -4033,7 +4033,7 @@
     <value>重置时段将清除最近的的对局列表，并将起始的等级积分设置为当前的分数。</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>最近的8场对局将会显示在这。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>重置</value>
@@ -4279,7 +4279,7 @@
     <value>阿尔萨斯之路</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
-    <value>{0}d {1}h</value>
+    <value>{0}天{1}小时</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
     <value>加载中…</value>
@@ -4528,7 +4528,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>You can use the Tier7 overlay for free for a limited number of times.</value>
+    <value>你可以在有限次数内免费试用Tier7内嵌。</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4630,7 +4630,7 @@
     <value>套牌缺少游客卡。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
-    <value>Always show Tavern Tier 7</value>
+    <value>总是显示酒馆Tier7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
     <value>隐藏曲线状态</value>
