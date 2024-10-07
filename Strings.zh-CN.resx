@@ -3946,13 +3946,13 @@
     <value>已禁用随从</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
-    <value>Composition Stats</value>
+    <value>流派统计</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
-    <value>Failed to load compositions</value>
+    <value>加载流派失败</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
-    <value>Composition</value>
+    <value>流派</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
     <value>First Place</value>
@@ -3967,7 +3967,7 @@
     <value>最近的对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
-    <value>Enable session recap overlay</value>
+    <value>启用时段回顾内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
     <value>显示禁用的随从类型</value>
@@ -4075,7 +4075,7 @@
     <value>等待下次对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
-    <value>Show session recap between games</value>
+    <value>在对局之间显示时段回顾的内嵌窗口</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
     <value>没有打出的随从</value>
@@ -4126,7 +4126,7 @@
     <value>巫妖王的进军</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show Hero picking stats</value>
+    <value>显示英雄选择统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>No placement data</value>
@@ -4198,7 +4198,7 @@
     <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>订阅Tier7以解锁无限制的使用。</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
     <value>Tier7 Battlegrounds Overlay</value>
@@ -4222,7 +4222,7 @@
     <value>重置</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>加入Tier7以获取不受限的使用。</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
     <value>你已订阅Tier7！</value>
@@ -4447,7 +4447,7 @@
     <value>Show Excavate counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>已定阅？</value>
   </data>
   <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
     <value>登录</value>
@@ -4600,7 +4600,7 @@
     <value>发生了某些错误 :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show available minion types</value>
+    <value>显示可用的随从类型</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
     <value>可用的随从</value>
