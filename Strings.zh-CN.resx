@@ -4641,6 +4641,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Show Trinket picking stats</value>
   </data>
+  <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
+    <value>Show counters</value>
+  </data>
+  <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
+    <value>These counters use the old layout and will be removed in a future version.</value>
+  </data>
+  <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
+    <value>Enable old layout counters</value>
+  </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
     <value>Elemental Turn Sequence</value>
   </data>
