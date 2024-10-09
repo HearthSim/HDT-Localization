@@ -3976,10 +3976,10 @@
     <value>显示开始时和当前的等级积分</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games played this session</value>
+    <value>显示本次会话中玩过的最新对局</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
-    <value>Show session recap window</value>
+    <value>显示对局回顾窗口</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Button_ResetSession" xml:space="preserve">
     <value>重置时段数据</value>
@@ -4261,7 +4261,7 @@
     <value>Show Quest picking stats</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>Show Comp stats (in session recap)</value>
+    <value>显示阵容统计(在对局回顾中)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>死亡骑士</value>
