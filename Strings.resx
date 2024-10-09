@@ -4641,4 +4641,28 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Show Trinket picking stats</value>
   </data>
+  <data name="Counter_ElementalTurnSequence" xml:space="preserve">
+    <value>Elemental Turn Sequence</value>
+  </data>
+  <data name="Counter_ExcavateTier" xml:space="preserve">
+    <value>Excavate Tier</value>
+  </data>
+  <data name="Counter_Fatigue" xml:space="preserve">
+    <value>Fatigue</value>
+  </data>
+  <data name="Counter_LibramCostReduction" xml:space="preserve">
+    <value>Libram Cost Reduction</value>
+  </data>
+  <data name="Counter_PlayedSpellSchools" xml:space="preserve">
+    <value>Played Spell Schools</value>
+  </data>
+  <data name="Counter_PlayedSpells" xml:space="preserve">
+    <value>Played Spells</value>
+  </data>
+  <data name="Counter_SelfDamage" xml:space="preserve">
+    <value>Self Damage</value>
+  </data>
+  <data name="Counter_SummonedDragons" xml:space="preserve">
+    <value>Summoned Dragons</value>
+  </data>
 </root>
