@@ -4626,7 +4626,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_GreatDarkBeyond" xml:space="preserve">
     <value>Great Dark Beyond</value>
   </data>
-   <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
+  <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
     <value>Great Dark Beyond</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
@@ -4685,5 +4685,11 @@
   </data>
   <data name="Related_Cards" xml:space="preserve">
     <value>Related Cards</value>
+  </data>
+  <data name="Counter_AsteroidDamage" xml:space="preserve">
+    <value>Asteroid Damage</value>
+  </data>
+  <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
+    <value>{0} Damage</value>
   </data>
 </root>
