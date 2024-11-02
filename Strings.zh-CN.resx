@@ -4141,13 +4141,13 @@
     <value>TIER</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>平均排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
     <value>选择率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>平均排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
@@ -4336,7 +4336,7 @@
     <value>传奇音乐节</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>不支持的交互</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
     <value>幻变模式</value>
@@ -4375,7 +4375,7 @@
     <value>Deck contains cards from the Caverns of Time expansion.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
-    <value>Caverns of Time</value>
+    <value>时光之穴</value>
   </data>
   <data name="Race_Demon" xml:space="preserve">
     <value>恶魔</value>
@@ -4444,7 +4444,7 @@
     <value>传说</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+    <value>显示发掘计数器：</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>已订阅？</value>
@@ -4459,10 +4459,10 @@
     <value>订阅Tier7</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>订阅到 HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>订阅到 HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
     <value>显示法术类别计数器：</value>
@@ -4534,28 +4534,28 @@
     <value>Not on website</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>Mulligan Guide</value>
+    <value>留牌指南</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan Guide</value>
+    <value>启用留牌指南</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
-    <value>Show availability on deck selection screen</value>
+    <value>在牌组选择界面显示可用性</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRate" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>保留率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
     <value>Percent of the time this card is kept when presented during Mulligan.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>保留率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
-    <value>Mulligan WR</value>
+    <value>起手胜率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>Mulligan Winrate</value>
+    <value>起手胜率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
     <value>Average winrate of games where this card ends up in the opening hand.</value>
@@ -4570,7 +4570,7 @@
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>Mulligan Guide Ready</value>
+    <value>留牌指南就绪</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
     <value>暂无数据</value>
@@ -4588,7 +4588,7 @@
     <value>威兹班的工坊</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>对局开始时显示留牌内嵌</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
     <value>Mulligan Stats vs. {0}, Going First</value>
@@ -4618,16 +4618,16 @@
     <value>下一次疲劳伤害: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>胜地历险记</value>
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>胜地历险记</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>深暗领域</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>深暗领域</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
     <value>只显示游客卡</value>
@@ -4648,48 +4648,48 @@
     <value>Show Trinket picking stats</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
-    <value>Show counters</value>
+    <value>显示计数器</value>
   </data>
   <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>These counters use the old layout and will be removed in a future version.</value>
+    <value>这些计数器使用旧的布局，并将在未来的版本中删除。</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
-    <value>Enable old layout counters</value>
+    <value>启用旧布局计数器</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
     <value>Elemental Turn Sequence</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
-    <value>Excavate Tier</value>
+    <value>挖掘等级</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
     <value>疲劳</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
-    <value>Libram Cost Reduction</value>
+    <value>圣契降低费用</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
-    <value>Played Spell Schools</value>
+    <value>使用过的法术派系</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
-    <value>Played Spells</value>
+    <value>使用过的法术</value>
   </data>
   <data name="Counter_SelfDamage" xml:space="preserve">
-    <value>Self Damage</value>
+    <value>法术伤害</value>
   </data>
   <data name="Counter_SummonedDragons" xml:space="preserve">
-    <value>Summoned Dragons</value>
+    <value>已召唤的龙数量</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Related_Cards" xml:space="preserve">
-    <value>Show related cards tooltip</value>
+    <value>显示相关卡牌提示</value>
   </data>
   <data name="Related_Cards" xml:space="preserve">
-    <value>Related Cards</value>
+    <value>相关卡牌</value>
   </data>
   <data name="Counter_AsteroidDamage" xml:space="preserve">
-    <value>Asteroid Damage</value>
+    <value>小行星伤害</value>
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
-    <value>{0} Damage</value>
+    <value>{0} 伤害</value>
   </data>
 </root>
