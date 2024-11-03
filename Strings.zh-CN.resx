@@ -283,7 +283,7 @@
     <value>我的账户</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
-    <value>登陆</value>
+    <value>登录</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>战况 （网页）</value>
@@ -364,7 +364,7 @@
     <value>移动到新窗口</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
-    <value>数据</value>
+    <value>统计</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
     <value>发现新版本</value>
@@ -3508,7 +3508,7 @@
     <value>迦拉克隆计数器：</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>包含“迦拉克隆的觉醒”系列的卡牌。</value>
+    <value>包含“迦拉克隆的觉醒”冒险模式的卡牌。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>迦拉克隆的觉醒</value>
@@ -3769,7 +3769,7 @@
     <value>回合</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
-    <value>使用高清卡图</value>
+    <value>使用高分辨率卡牌图像</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>卡图缩放</value>
@@ -4135,10 +4135,10 @@
     <value>{0} Place: {1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
-    <value>No composition data</value>
+    <value>没有流派数据</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>梯队</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
     <value>平均排名</value>
@@ -4150,7 +4150,7 @@
     <value>平均排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
+    <value>按禁选类型筛选后，英雄的平均最终排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
     <value>选择率</value>
@@ -4159,16 +4159,16 @@
     <value>在对局开始出现该英雄时，这个英雄被选取的百分率</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>第一梯队：霸主卡组</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>第二梯队：强势卡组</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>第三梯队：较弱卡组</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>第四梯队：弱势卡组</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
     <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
@@ -4192,10 +4192,10 @@
     <value>Percentage of 1st place finishes</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>更高护甲等级的英雄提供更容易完成的任务。</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>登录到 HSReplay.net 以访问英雄选择率，平均排名，护甲等级等！</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>订阅Tier7以解锁无限制的使用。</value>
@@ -4228,7 +4228,7 @@
     <value>你已订阅Tier7！</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>历史最高天梯排名</value>
+    <value>历史最高等级积分</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>GO TO MY STATS</value>
@@ -4258,7 +4258,7 @@
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
-    <value>Show Quest picking stats</value>
+    <value>显示任务选择统计</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
     <value>显示阵容统计(在对局回顾中)</value>
@@ -4303,7 +4303,7 @@
     <value>启用Tier7内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 in menu (MMR &amp; stats)</value>
+    <value>在菜单中显示 Tier7 (战棋积分 &amp; 统计)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4360,7 +4360,7 @@
     <value>Temporarily disabled. We will be back soon!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>暂时禁用。我们将很快回来！</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
     <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
@@ -4372,7 +4372,7 @@
     <value>在 HSReplay.net 查找套牌</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
-    <value>Deck contains cards from the Caverns of Time expansion.</value>
+    <value>包含“时光之穴”系列的卡牌。</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
     <value>时光之穴</value>
@@ -4465,7 +4465,7 @@
     <value>订阅到 HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>显示法术类别计数器：</value>
+    <value>显示法术派系计数器：</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>奥术</value>
@@ -4495,7 +4495,7 @@
     <value>无</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>显示法术类别计数器：</value>
+    <value>显示法术派系计数器：</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>欢迎</value>
@@ -4591,10 +4591,10 @@
     <value>对局开始时显示留牌内嵌</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, Going First</value>
+    <value>留牌统计 vs. {0}, 先手</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, On Coin</value>
+    <value>留牌统计 vs. {0}, 后手</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>发生了某些错误 :(</value>
@@ -4645,7 +4645,7 @@
     <value>显示曲线状态</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>Show Trinket picking stats</value>
+    <value>显示曲线选择统计</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>显示计数器</value>
@@ -4654,10 +4654,10 @@
     <value>这些计数器使用旧的布局，并将在未来的版本中删除。</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
-    <value>启用旧布局计数器</value>
+    <value>启用旧的布局计数器</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
-    <value>Elemental Turn Sequence</value>
+    <value>元素连续使用回合</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
     <value>发掘层级</value>
