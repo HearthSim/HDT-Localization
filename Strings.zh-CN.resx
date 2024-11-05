@@ -4657,7 +4657,7 @@
     <value>启用旧的布局计数器</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
-    <value>元素连续使用回合</value>
+    <value>使用元素连续回合</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
     <value>发掘层级</value>
@@ -4669,10 +4669,10 @@
     <value>圣契降低费用</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
-    <value>使用过的法术派系</value>
+    <value>施放过的法术派系</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
-    <value>使用过的法术</value>
+    <value>施放过的法术数量</value>
   </data>
   <data name="Counter_SelfDamage" xml:space="preserve">
     <value>法术伤害</value>
