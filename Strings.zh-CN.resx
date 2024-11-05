@@ -745,7 +745,7 @@
     <value>关闭卡牌透明度渐变（推荐）</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
-    <value>隐藏干扰对局的内嵌 (推荐)</value>
+    <value>隐藏干扰对局的内嵌（推荐）</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>背景色：</value>
@@ -1114,7 +1114,7 @@
     <value>显示</value>
   </data>
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
-    <value>（在套牌或者内嵌上）</value>
+    <value>隐藏干扰对局的内嵌（推荐）</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Versions" xml:space="preserve">
     <value>版本：</value>
@@ -3610,7 +3610,7 @@
     <value>选择“旧版本排位”来查看旧版本排位系统中的对战记录。</value>
   </data>
   <data name="Enum_League_Legacy_All" xml:space="preserve">
-    <value>所有赛季(包含旧版本排位)</value>
+    <value>所有赛季（包含旧版本排位）</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
     <value>酒馆战棋</value>
@@ -3652,16 +3652,16 @@
     <value>显示上一场战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
-    <value>Current Combat (1 Player Not Seen)</value>
+    <value>当前战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
-    <value>Show Current Combat (1 Player Not Seen)</value>
+    <value>显示当前战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
-    <value>Previous Combat (1 Player Not Seen)</value>
+    <value>上一场战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
-    <value>Show Previous Combat (1 Player Not Seen)</value>
+    <value>显示上一场战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>出局</value>
@@ -3955,10 +3955,10 @@
     <value>流派</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
-    <value>First Place</value>
+    <value>第一名</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
-    <value>Avg Place</value>
+    <value>平均排名</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>等级积分</value>
@@ -4129,10 +4129,10 @@
     <value>显示英雄选择统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>没有排名数据</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>第{0}名：{1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
     <value>没有流派数据</value>
@@ -4150,7 +4150,7 @@
     <value>平均排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>按禁选类型筛选后，英雄的平均最终排名</value>
+    <value>根据禁选类型筛选后，英雄的平均最终排名</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
     <value>选择率</value>
@@ -4171,16 +4171,16 @@
     <value>第四梯队：弱势卡组</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>最佳英雄及与其最高排名差距在一个标准差内的英雄</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>平均排名高于等于4.5的英雄</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>平均排名低于4.5的英雄，但与同梯队的最佳英雄相差在1个标准差内</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>相比第3梯队中的最佳英雄，这些英雄的平均排名差距超过1个标准差</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
     <value>所有来自前 {0}% 等级积分 ({1:N0}+)的统计</value>
@@ -4240,28 +4240,28 @@
     <value>护甲等级</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>最佳奖励，以及与其平均排名差距在1个标准差内的奖励</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>平均排名高于等于4.5的奖励</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>平均排名低于4.5的奖励，但与同梯队的最佳奖励相差在1个标准差内</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>相比第3梯队中的最佳奖励，这些奖励的平均排名差距超过1个标准差</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>第一名玩家选择此奖励的时间百分比</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>根据你的英雄和可用随从类型筛选后，奖励的平均最终排名</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
     <value>显示任务选择统计</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>显示阵容统计(在对局回顾中)</value>
+    <value>显示阵容统计（在对局回顾中）</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>死亡骑士</value>
@@ -4303,7 +4303,7 @@
     <value>启用Tier7内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>在菜单中显示 Tier7 (等级积分 &amp; 统计)</value>
+    <value>在菜单中显示 Tier7（等级积分 &amp; 统计）</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4357,13 +4357,13 @@
     <value>泰坦诸神：</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value>暂时禁用。我们将很快回来！</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
     <value>暂时禁用。我们将很快回来！</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>所有来自前 {0}% 等级积分 ({1:N0}+)的统计（根据异常情况调整后）</value>
+    <value>根据异常情况筛选后，所有来自前 {0}% 等级积分 ({1:N0}+)的统计</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>收藏已上传！</value>
@@ -4516,22 +4516,22 @@
     <value>法术牌</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
-    <value>Show Final Combat</value>
+    <value>显示最终战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
-    <value>Final Combat</value>
+    <value>最终战斗</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombatPartial" xml:space="preserve">
-    <value>Show Final Combat (1 Player Not Seen)</value>
+    <value>显示最终战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombatPartial" xml:space="preserve">
-    <value>Final Combat (1 Player Not Seen)</value>
+    <value>最终战斗（1名玩家未出现）</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>你可以在有限次数内免费试用Tier7内嵌。</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
-    <value>Not on website</value>
+    <value>不在网站上</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
     <value>换牌指南</value>
@@ -4546,7 +4546,7 @@
     <value>保留率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this card is kept when presented during Mulligan.</value>
+    <value>这张牌出现在换牌界面时被保留的百分比。</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
     <value>保留率</value>
@@ -4558,7 +4558,7 @@
     <value>起手胜率</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
-    <value>Average winrate of games where this card ends up in the opening hand.</value>
+    <value>这张牌在起手留下后对局的平均胜率。</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
     <value>HAND RANK</value>
