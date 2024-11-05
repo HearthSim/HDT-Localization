@@ -658,7 +658,7 @@
     <value>手动点击排除奥秘</value>
   </data>
   <data name="Options_Overlay_Interactivity_Label_Note" xml:space="preserve">
-    <value>注：当“选项&gt; 内嵌&gt; 通用&gt; 自动排除奥秘”打开时，该操作可能会失效。</value>
+    <value>注：当“选项&gt;内嵌&gt;通用&gt;自动排除奥秘”打开时，该操作可能会失效。</value>
   </data>
   <data name="Options_Overlay_Interactivity_Switch_Enabled" xml:space="preserve">
     <value>开启</value>
@@ -880,7 +880,7 @@
     <value>竞技模式结束后自动将套牌归档</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>套牌列表上显示日期：</value>
+    <value>在套牌列表上显示日期：</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>日期格式：</value>
@@ -1102,7 +1102,7 @@
     <value>好友对战</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
-    <value>冒险/练习模式</value>
+    <value>冒险模式/练习模式</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Spectator" xml:space="preserve">
     <value>观众模式</value>
@@ -2242,7 +2242,7 @@
     <value>1）请查阅</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>GitHub上的问题反馈专区</value>
+    <value>GitHub上的issues页面</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
     <value>如果没有找到相关问题报告，我们欢迎您新建一个；或者亲自动手修复它，并提交修改请求。如果您想要了解问题反馈的更多相关内容，请</value>
@@ -2836,7 +2836,7 @@
     <value>该套牌有HSReplay.net提供的全球统计资料和选牌指南</value>
   </data>
   <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay选牌指南</value>
+    <value>HSReplay留牌指南</value>
   </data>
   <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
     <value>导出</value>
@@ -3031,7 +3031,7 @@
     <value>分职业胜率</value>
   </data>
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>查看更多相关数据</value>
+    <value>套牌统计 / 换牌指南</value>
   </data>
   <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
     <value>此套牌没有足够的统计数据。</value>
@@ -3529,7 +3529,7 @@
     <value>显示回合计数器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>在酒馆战棋游戏开始时显示英雄提示</value>
+    <value>在酒馆战棋对局开始时显示英雄提示</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>第{0}回合</value>
@@ -3697,7 +3697,7 @@
     <value>无法使用</value>
   </data>
   <data name="Options_Tracker_Capture_Battlegrounds_Overlay" xml:space="preserve">
-    <value>捕捉战棋窗口</value>
+    <value>捕捉酒馆战棋内嵌</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Scholomance" xml:space="preserve">
     <value>通灵学园：</value>
@@ -3823,7 +3823,7 @@
     <value>怀旧</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
-    <value>HSReplay.net - 留牌指南</value>
+    <value>HSReplay.net - 换牌指南</value>
   </data>
   <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
     <value>显示圣契减费计数器：</value>
@@ -4045,7 +4045,7 @@
     <value>重置内嵌窗口位置</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
-    <value>对局时段窗口的位置将会被重置为默认。确定要如此吗？</value>
+    <value>酒馆战棋对局时段窗口的位置将会被重置为默认。确定要如此吗？</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
     <value>重置时段数据</value>
@@ -4183,7 +4183,7 @@
     <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>所有来自前 {0}% 等级积分 ({1:N0}+)的统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
     <value>护甲等级</value>
@@ -4231,7 +4231,7 @@
     <value>历史最高等级积分</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>转到我的统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
     <value>护甲范围：{0} - {1}</value>
@@ -4291,19 +4291,19 @@
     <value>当炉石传说处于后台时显示游戏内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>当炉石传说处于后台时显示菜单悬浮窗</value>
+    <value>当炉石传说处于后台时显示菜单内嵌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
     <value>当炉石传说处于后台时显示游戏内嵌</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>当炉石传说处于后台时显示菜单悬浮窗</value>
+    <value>当炉石传说处于后台时显示菜单内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
     <value>启用Tier7内嵌</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>在菜单中显示 Tier7 (战棋积分 &amp; 统计)</value>
+    <value>在菜单中显示 Tier7 (等级积分 &amp; 统计)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4363,7 +4363,7 @@
     <value>暂时禁用。我们将很快回来！</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
+    <value>所有来自前 {0}% 等级积分 ({1:N0}+)的统计（根据异常情况调整后）</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>收藏已上传！</value>
@@ -4534,10 +4534,10 @@
     <value>Not on website</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>留牌指南</value>
+    <value>换牌指南</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
-    <value>启用留牌指南</value>
+    <value>启用换牌指南</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
     <value>在牌组选择界面显示可用性</value>
@@ -4570,7 +4570,7 @@
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>留牌指南就绪</value>
+    <value>换牌指南就绪</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
     <value>暂无数据</value>
@@ -4588,13 +4588,13 @@
     <value>威兹班的工坊</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>对局开始时显示留牌内嵌</value>
+    <value>对局开始时显示换牌内嵌</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
-    <value>留牌统计 vs. {0}, 先手</value>
+    <value>换牌统计 vs. {0}, 先手</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
-    <value>留牌统计 vs. {0}, 后手</value>
+    <value>换牌统计 vs. {0}, 后手</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>发生了某些错误 :(</value>
@@ -4639,13 +4639,13 @@
     <value>总是显示酒馆Tier7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>隐藏曲线状态</value>
+    <value>隐藏饰品统计</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>显示曲线状态</value>
+    <value>显示饰品统计</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>显示曲线选择统计</value>
+    <value>显示饰品选择统计</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>显示计数器</value>
@@ -4690,6 +4690,6 @@
     <value>小行星伤害</value>
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
-    <value>{0} 伤害</value>
+    <value>{0} 点伤害</value>
   </data>
 </root>
