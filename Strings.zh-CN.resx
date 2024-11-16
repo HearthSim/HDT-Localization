@@ -372,6 +372,18 @@
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>点击这里立即更新</value>
   </data>
+  <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
+    <value>Downloading Update…</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
+    <value>Installing Update…</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
+    <value>Updating to latest version failed</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
+    <value>Download on HSReplay.net</value>
+  </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>启动战网/炉石传说</value>
   </data>
