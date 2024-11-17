@@ -373,16 +373,16 @@
     <value>Clique aqui para atualizar agora</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>Baixando atualização…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>Instalando Atualização…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>Falha ao atualizar para a última versão</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>Baixar em HSReplay.net</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Iniciar Cliente/ Hearthstone</value>
@@ -703,7 +703,7 @@
     <value>Mostrar contador de ataque na mesa</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>Mostrar efeitos ativos</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Centrar baralho verticalmente</value>
@@ -733,7 +733,7 @@
     <value>Mostrar contador de ataque na mesa</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>Mostrar efeitos ativos</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Centrar baralho verticalmente</value>
@@ -757,7 +757,7 @@
     <value>Desativar transições de opacidade da carta (recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
-    <value>Hide parts of the overlay that interfere with the game (recommended)</value>
+    <value>Ocultar partes da sobreposição que interferem no jogo (recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
     <value>Segundo plano:</value>
@@ -1051,7 +1051,7 @@
     <value>Salvar dados em AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Iniciar com Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Iniciar minimizado</value>
@@ -1066,7 +1066,7 @@
     <value>Fechar com o Hearthstone</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>Abra o Hearthstone ao iniciar</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Procurar atualizações</value>
@@ -2374,7 +2374,7 @@
     <value>Jogador</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>Próximo compra terá fadiga de: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>Oponente</value>
@@ -3448,7 +3448,7 @@
     <value>Mostrar conjunto de card</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Dalaran" xml:space="preserve">
-    <value>Deck contains cards from the Rise of Shadows expansion.</value>
+    <value>Deck contém cards da expansão Ascensão das Sombras.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Dalaran" xml:space="preserve">
     <value>Ascensão das Sombras:</value>
@@ -3538,7 +3538,7 @@
     <value>Cinzas de Terralém</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>Mostrar contador de turnos</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Mostrar notificação do herói ao iníciar uma partida nos Campos de Batalha</value>
@@ -3661,7 +3661,7 @@
     <value>Combate Anterior</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombat" xml:space="preserve">
-    <value>Show Previous Combat</value>
+    <value>Mostrar Combate Anterior</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
     <value>Current Combat (1 Player Not Seen)</value>
@@ -3955,7 +3955,7 @@
     <value>No Topo</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>Lacaios Banidos</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
     <value>Composition Stats</value>
@@ -4108,7 +4108,7 @@
     <value>Libere seu potencial com o Hearthstone Deck Tracker e HSReplay.net</value>
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
-    <value>Let's Go</value>
+    <value>Vamos Lá</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contém cards da expansão Assassinato no Castelo de Nathria.</value>
@@ -4231,7 +4231,7 @@
     <value>Uses remaining:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Reseta em</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
     <value>Join Tier7 to get unlimited access.</value>
@@ -4336,16 +4336,16 @@
     <value>E.T.C.'s Band</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
-    <value>Deck contains cards from the Festival of Legends set.</value>
+    <value>Deck contém cards da expansão Festival das Lendas.</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends:</value>
+    <value>Festival das Lendas:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>Festival das Lendas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_FestivalOfLegends" xml:space="preserve">
-    <value>Festival of Legends</value>
+    <value>Festival das Lendas</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
     <value>Unsupported Interaction</value>
@@ -4357,16 +4357,16 @@
     <value>Twist</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contains cards from the TITANS expansion.</value>
+    <value>Deck contém cards da expansão TITÃS</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>TITÃS</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Titans" xml:space="preserve">
-    <value>TITANS</value>
+    <value>TITÃS</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Titans" xml:space="preserve">
-    <value>TITANS:</value>
+    <value>TITÃS:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
     <value>Temporarily disabled. We will be back soon!</value>
@@ -4429,16 +4429,16 @@
     <value>Outro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>Confronto Final nos Ermos</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Badlands" xml:space="preserve">
-    <value>Deck contains cards from the Showdown in the Badlands expansion.</value>
+    <value>Deck contém cards da expansão Confronto Final nos Ermos.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>Confronto Final nos Ermos</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands:</value>
+    <value>Confronto Final nos Ermos:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
     <value>Show Excavate tier:</value>
@@ -4459,13 +4459,13 @@
     <value>Show Excavate counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>Inscrito?</value>
   </data>
   <data name="BattlegroundsPreLobby_SignInToSubscription" xml:space="preserve">
-    <value>Sign In</value>
+    <value>Entrar</value>
   </data>
   <data name="BattlegroundsPreLobby_RefreshSubscription" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Atualizar</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
     <value>Subscribed to Tier7</value>
@@ -4510,13 +4510,13 @@
     <value>Show Spell School counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Bem-vindo</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Reseta em</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Junte-se ao Tier7 para ter acesso ilimitado.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
     <value>HIDE MULLIGAN GUIDE</value>
@@ -4591,13 +4591,13 @@
     <value>Carregando...</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Oficina do Rojão</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>Oficina do Rojão:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Oficina do Rojão</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>Show Mulligan Overlay at start of game</value>
@@ -4615,7 +4615,7 @@
     <value>Show available minion types</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>Lacaios Disponíveis</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
     <value>Minion Types</value>
@@ -4630,16 +4630,16 @@
     <value>Next Fatigue damage: {0}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>Perigos no Paraíso</value>
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>Perigos no Paraíso</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>Grande Treva Infinita</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>Grande Treva Infinita</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
     <value>Tourist Only</value>
@@ -4663,7 +4663,7 @@
     <value>Show counters</value>
   </data>
   <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>These counters use the old layout and will be removed in a future version.</value>
+    <value>Esses contadores usam o layout antigo e serão removidos numa versão futura.</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>Enable old layout counters</value>
@@ -4675,7 +4675,7 @@
     <value>Excavate Tier</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
-    <value>Fatigue</value>
+    <value>Fadiga</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
     <value>Libram Cost Reduction</value>
@@ -4702,6 +4702,6 @@
     <value>Asteroid Damage</value>
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
-    <value>{0} Damage</value>
+    <value>{0} Dano</value>
   </data>
 </root>
