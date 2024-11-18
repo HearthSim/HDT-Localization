@@ -372,6 +372,18 @@
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
     <value>Clicca qui per aggiornare ora</value>
   </data>
+  <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
+    <value>Downloading Update…</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
+    <value>Installing Update…</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
+    <value>Updating to latest version failed</value>
+  </data>
+  <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
+    <value>Download on HSReplay.net</value>
+  </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Avvia Hearthstone</value>
   </data>
@@ -4691,5 +4703,14 @@
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
     <value>{0} Damage</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardAge" xml:space="preserve">
+    <value>Show card ages</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarks" xml:space="preserve">
+    <value>Show card marks</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
+    <value>Show possible secrets</value>
   </data>
 </root>
