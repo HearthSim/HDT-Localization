@@ -4704,4 +4704,13 @@
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
     <value>{0} Damage</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_CardAge" xml:space="preserve">
+    <value>Show card age</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_CardMarks" xml:space="preserve">
+    <value>Show card marks</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
+    <value>Show possible secrets</value>
+  </data>
 </root>
