@@ -3646,7 +3646,7 @@
     <value>Não foi possível obter resultados precisos</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
-    <value>Waiting For Teammates...</value>
+    <value>Esperando por colegas de equipe...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Esperando pelo Combate...</value>
@@ -3664,16 +3664,16 @@
     <value>Mostrar Combate Anterior</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
-    <value>Current Combat (1 Player Not Seen)</value>
+    <value>Combate Atual (1 Jogador Não Visto)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
-    <value>Show Current Combat (1 Player Not Seen)</value>
+    <value>Mostrar Combate Atual (1 Jogador Não Visto)</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
-    <value>Previous Combat (1 Player Not Seen)</value>
+    <value>Combate Anterior (1 Jogador Não Visto)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
-    <value>Show Previous Combat (1 Player Not Seen)</value>
+    <value>Mostrar Combate Anterior (1 Jogador Não Visto)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
     <value>Letal</value>
@@ -3820,7 +3820,7 @@
     <value>Sem dados para este deck</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>Forjado nos Sertões:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>Forjado nos Sertões</value>
@@ -3841,7 +3841,7 @@
     <value>Exibir contador de redução de Incunábulos:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>Juntos em Ventobravo:</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
     <value>Exibir contador de redução de Incunábulos:</value>
@@ -3958,16 +3958,16 @@
     <value>Lacaios Banidos</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
-    <value>Composition Stats</value>
+    <value>Dados da Composição</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
-    <value>Failed to load compositions</value>
+    <value>Falha ao carregar composições</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
-    <value>Composition</value>
+    <value>Composição</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
-    <value>First Place</value>
+    <value>1.º Lugar</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
     <value>Avg Place</value>
@@ -3976,7 +3976,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Últimos Jogos</value>
+    <value>Últimas Partidas</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Enable session recap overlay</value>
@@ -3985,10 +3985,10 @@
     <value>Show banned minion types</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show start and current MMR</value>
+    <value>Mostrar MMR Inicial e Atual</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games played this session</value>
+    <value>Mostrar últimas partidas jogadas nesta sessão</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show session recap window</value>
@@ -4006,7 +4006,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>Nenhum jogo nessa sessão.</value>
+    <value>Nenhuma partida nessa sessão.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}º</value>
@@ -4045,7 +4045,7 @@
     <value>Redefinir a sessão limpará a lista Últimos Jogos e definirá o MMR inicial para corresponder ao seu MMR atual.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>As últimas 8 partidas aparecem aqui.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Redefinir</value>
@@ -4144,7 +4144,7 @@
     <value>No placement data</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
-    <value>{0} Place: {1}%</value>
+    <value>{0} Lugar: {1}%</value>
   </data>
   <data name="BattlegroundsHeroPicking_Compositions_NoData" xml:space="preserve">
     <value>No composition data</value>
@@ -4153,13 +4153,13 @@
     <value>TIER</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
-    <value>Avg Placement</value>
+    <value>Colocação MED</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
     <value>Pick Rate</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
-    <value>Average Placement</value>
+    <value>Colocação Média</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement the hero achieves on average, adjusted for the available minion types</value>
@@ -4225,19 +4225,19 @@
     <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
   </data>
   <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Bem-vindo</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining" xml:space="preserve">
-    <value>Uses remaining:</value>
+    <value>Uso restante:</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsResetsIn" xml:space="preserve">
     <value>Reseta em</value>
   </data>
   <data name="BattlegroundsPreLobby_Join" xml:space="preserve">
-    <value>Join Tier7 to get unlimited access.</value>
+    <value>Junte-se ao Tier7 para uso ilimitado.</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_Tier7" xml:space="preserve">
-    <value>You're subscribed to Tier7!</value>
+    <value>Você está inscrito no Tier7!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
     <value>All-time highest MMR</value>
@@ -4276,28 +4276,28 @@
     <value>Show Comp stats (in session recap)</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Cavaleiro da Morte</value>
   </data>
   <data name="MainWindow_Menu_Class_Deathknight" xml:space="preserve">
-    <value>Death_knight</value>
+    <value>_Cavaleiro da Morte</value>
   </data>
   <data name="Deathknight" xml:space="preserve">
-    <value>Deathknight</value>
+    <value>Cavaleiro da Morte</value>
   </data>
   <data name="DeckSetIcons_Tooltip_PathOfArthas" xml:space="preserve">
-    <value>Deck contains cards from the Path of Arthas set.</value>
+    <value>Deck contém cards da expansão Caminho de Arthas.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_PathOfArthas" xml:space="preserve">
-    <value>Path of Arthas</value>
+    <value>Caminho de Arthas</value>
   </data>
   <data name="BattlegroundsPreLobby_Trial_ResetTimeRemaining_DaysHours" xml:space="preserve">
     <value>{0}d {1}h</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>Carregando…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Algo deu errado :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Show gameplay overlay while Hearthstone is in the background</value>
@@ -4327,7 +4327,7 @@
     <value>HIDE HERO OVERLAY</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
-    <value>Found unsupported cards</value>
+    <value>Cards não suportados encontrados</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
     <value>E.T.C.'s Band</value>
@@ -4348,13 +4348,13 @@
     <value>Festival das Lendas</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedInteraction" xml:space="preserve">
-    <value>Unsupported Interaction</value>
+    <value>Interação não suportada</value>
   </data>
   <data name="Enum_DeckType_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>Imprevisível</value>
   </data>
   <data name="Enum_Format_Twist" xml:space="preserve">
-    <value>Twist</value>
+    <value>Imprevisível</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
     <value>Deck contém cards da expansão TITÃS</value>
@@ -4378,16 +4378,16 @@
     <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
-    <value>Collection uploaded!</value>
+    <value>Coleção enviada!</value>
   </data>
   <data name="Toast_Collection_HSReplaynet" xml:space="preserve">
-    <value>Find decks on HSReplay.net</value>
+    <value>Veja decks no HSReplay.net</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Wonders" xml:space="preserve">
-    <value>Deck contains cards from the Caverns of Time expansion.</value>
+    <value>Deck contém cards da expansão Cavernas do Tempo.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wonders" xml:space="preserve">
-    <value>Caverns of Time</value>
+    <value>Cavernas do Tempo</value>
   </data>
   <data name="Race_Demon" xml:space="preserve">
     <value>Demônio</value>
@@ -4441,7 +4441,7 @@
     <value>Confronto Final nos Ermos:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
+    <value>Mostrar nível de Escavação:</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Comum</value>
@@ -4456,7 +4456,7 @@
     <value>Lendário</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+    <value>Mostrar contador de Escavação:</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>Inscrito?</value>
@@ -4468,46 +4468,46 @@
     <value>Atualizar</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
-    <value>Subscribed to Tier7</value>
+    <value>Inscrito no Tier7</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>Inscrito no HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
-    <value>Subscribed to HSReplay.net</value>
+    <value>Inscrito no HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>Mostrar contador da Escola de Feitiços:</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
-    <value>Arcane</value>
+    <value>Arcano</value>
   </data>
   <data name="Spell_School_Fel" xml:space="preserve">
-    <value>Fel</value>
+    <value>Vil</value>
   </data>
   <data name="Spell_School_Fire" xml:space="preserve">
-    <value>Fire</value>
+    <value>Fogo</value>
   </data>
   <data name="Spell_School_Frost" xml:space="preserve">
-    <value>Frost</value>
+    <value>Gelo</value>
   </data>
   <data name="Spell_School_Holy" xml:space="preserve">
-    <value>Holy</value>
+    <value>Sagrado</value>
   </data>
   <data name="Spell_School_Nature" xml:space="preserve">
-    <value>Nature</value>
+    <value>Natureza</value>
   </data>
   <data name="Spell_School_Physical_Combat" xml:space="preserve">
     <value>Ataque</value>
   </data>
   <data name="Spell_School_Shadow" xml:space="preserve">
-    <value>Shadow</value>
+    <value>Sombra</value>
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>Nenhum</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>Mostrar contador da Escola de Feitiços:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Bem-vindo</value>
@@ -4528,16 +4528,16 @@
     <value>Feitiços</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombat" xml:space="preserve">
-    <value>Show Final Combat</value>
+    <value>Mostrar Combate Final</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombat" xml:space="preserve">
-    <value>Final Combat</value>
+    <value>Combate Final</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombatPartial" xml:space="preserve">
-    <value>Show Final Combat (1 Player Not Seen)</value>
+    <value>Mostrar Combate Final (1 Jogador Não Visto)</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombatPartial" xml:space="preserve">
-    <value>Final Combat (1 Player Not Seen)</value>
+    <value>Combate Final (1 Jogador Não Visto)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>You can use the Tier7 overlay for free for a limited number of times.</value>
@@ -4609,7 +4609,7 @@
     <value>Mulligan Stats vs. {0}, On Coin</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Algo deu errado :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
     <value>Show available minion types</value>
@@ -4642,13 +4642,13 @@
     <value>Grande Treva Infinita</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
-    <value>Tourist Only</value>
+    <value>Apenas Turista</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
-    <value>Deck is missing Tourist card.</value>
+    <value>Deck não possui card Turista.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
-    <value>Always show Tavern Tier 7</value>
+    <value>Sempre mostrar Taverna Tier 7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
     <value>HIDE TRINKET STATS</value>
@@ -4660,19 +4660,19 @@
     <value>Show Trinket picking stats</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
-    <value>Show counters</value>
+    <value>Mostrar contadores</value>
   </data>
   <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
     <value>Esses contadores usam o layout antigo e serão removidos numa versão futura.</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
-    <value>Enable old layout counters</value>
+    <value>Ativar contadores com visual antigo</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
     <value>Elemental Turn Sequence</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
-    <value>Excavate Tier</value>
+    <value>Nível de Escavação</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
     <value>Fadiga</value>
@@ -4711,7 +4711,7 @@
     <value>Show card marks</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
-    <value>Show possible secrets</value>
+    <value>Mostrar possíveis segredos</value>
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
     <value>Cards Drawn This Turn</value>
