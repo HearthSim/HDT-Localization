@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -4268,6 +4268,18 @@
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>Le classement final atteint par cette récompense en moyenne, ajusté en fonction du héros et des types de serviteurs disponibles</value>
+  </data>
+  <data name="BattlegroundsInspiration_Title" xml:space="preserve">
+    <value>Tier7 Inspiration</value>
+  </data>
+  <data name="BattlegroundsInspiration_Description" xml:space="preserve">
+    <value>1st Place Boards</value>
+  </data>
+  <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
+    <value>Games from Top {0}% MMR</value>
+  </data>
+  <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
+    <value>No data available. Please check back later.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
     <value>Show Quest picking stats</value>
