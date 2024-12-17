@@ -4269,6 +4269,18 @@
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
     <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
   </data>
+  <data name="BattlegroundsInspiration_Title" xml:space="preserve">
+    <value>Tier7 Inspiration</value>
+  </data>
+  <data name="BattlegroundsInspiration_Description" xml:space="preserve">
+    <value>1st Place Boards</value>
+  </data>
+  <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
+    <value>Games from Top {0}% MMR</value>
+  </data>
+  <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
+    <value>No data available. Please check back later.</value>
+  </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
     <value>Show Quest picking stats</value>
   </data>
@@ -4715,5 +4727,56 @@
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
     <value>Cards Drawn This Turn</value>
+  </data>
+  <data name="Counter_UndeadAttackBonus" xml:space="preserve">
+    <value>Undead Attack Bonus</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
+    <value>All Comp Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
+    <value>All Comp Guides</value>
+  </data> 
+  <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
+    <value>How to Play</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
+    <value>Core Cards</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
+    <value>Addon Cards</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
+    <value>When to Commit</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
+    <value>Common Enablers</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
+    <value>Creato da</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
+    <value>Ultimo aggiornamento</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
+    <value>Comp Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
+    <value>Show Example Boards</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
+    <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
+    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right on this screen!</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
+    <value>Tier7 Version</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Free_Mode" xml:space="preserve">
+    <value>Free Version</value>
+  </data>
+  <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
+    <value>Show Example Boards</value>
   </data>
 </root>
