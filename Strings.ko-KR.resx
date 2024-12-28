@@ -373,16 +373,16 @@
     <value>여기를 클릭하여 지금 업데이트</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>업데이트 다운로드 중…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>업데이트 설치 중…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>최신 버전으로 업데이트 실패</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>HSReplay.net에서 다운로드</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>런쳐 / 하스스톤 시작</value>
@@ -4687,7 +4687,7 @@
     <value>Excavate Tier</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
-    <value>Fatigue</value>
+    <value>탈진</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
     <value>Libram Cost Reduction</value>
@@ -4714,7 +4714,7 @@
     <value>Asteroid Damage</value>
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
-    <value>{0} Damage</value>
+    <value>{0} 데미지</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAge" xml:space="preserve">
     <value>Show card ages</value>
@@ -4723,7 +4723,7 @@
     <value>Show card marks</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
-    <value>Show possible secrets</value>
+    <value>가능한 비밀 보기</value>
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
     <value>Cards Drawn This Turn</value>
