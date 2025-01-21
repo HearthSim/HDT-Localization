@@ -373,16 +373,16 @@
     <value>여기를 클릭하여 지금 업데이트</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>업데이트 다운로드 중…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>업데이트 설치 중…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>최신 버전으로 업데이트 실패</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>HSReplay.net에서 다운로드</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>런쳐 / 하스스톤 시작</value>
@@ -3513,6 +3513,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
     <value>Show minion browser</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
+    <value>Show top tabs browser</value>
+  </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>갈라크론드 카운터 보기:</value>
   </data>
@@ -3727,13 +3730,13 @@
     <value>이용 불가</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowAverageDamage" xml:space="preserve">
-    <value>항상 평균 데미지 보기</value>
+    <value>항상 평균 피해 보기</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
     <value>평균 데미지</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
-    <value>평균 데미지</value>
+    <value>평균 피해</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
     <value>이 패널들은 80% 확률로 입을 수 있는 데미지의 평균을 보여줍니다.</value>
@@ -3982,7 +3985,7 @@
     <value>Enable session recap overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show banned minion types</value>
+    <value>제외된 하수인 종족 보기</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
     <value>Show start and current MMR</value>
@@ -4276,7 +4279,7 @@
     <value>1st Place Boards</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
-    <value>Games from Top {0}% MMR</value>
+    <value>상위 {0}% MMR의 게임</value>
   </data>
   <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
     <value>No data available. Please check back later.</value>
@@ -4657,7 +4660,7 @@
     <value>Tourist Only</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
-    <value>Deck is missing Tourist card.</value>
+    <value>덱에 관광객 카드가 없음</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
     <value>Always show Tavern Tier 7</value>
@@ -4687,34 +4690,34 @@
     <value>Excavate Tier</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
-    <value>Fatigue</value>
+    <value>탈진</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
-    <value>Libram Cost Reduction</value>
+    <value>성서 비용 감소</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
     <value>Played Spell Schools</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
-    <value>Played Spells</value>
+    <value>사용한 주문</value>
   </data>
   <data name="Counter_SelfDamage" xml:space="preserve">
-    <value>Self Damage</value>
+    <value>자해 피해</value>
   </data>
   <data name="Counter_SummonedDragons" xml:space="preserve">
-    <value>Summoned Dragons</value>
+    <value>소환한 용족</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Related_Cards" xml:space="preserve">
     <value>Show related cards tooltip</value>
   </data>
   <data name="Related_Cards" xml:space="preserve">
-    <value>Related Cards</value>
+    <value>관련된 카드</value>
   </data>
   <data name="Counter_AsteroidDamage" xml:space="preserve">
-    <value>Asteroid Damage</value>
+    <value>소행성 피해</value>
   </data>
   <data name="Counter_AsteroidDamage_Damage" xml:space="preserve">
-    <value>{0} Damage</value>
+    <value>{0} 데미지</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAge" xml:space="preserve">
     <value>Show card ages</value>
@@ -4723,13 +4726,13 @@
     <value>Show card marks</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
-    <value>Show possible secrets</value>
+    <value>가능한 비밀 보기</value>
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
-    <value>Cards Drawn This Turn</value>
+    <value>이번 턴에 뽑은 카드</value>
   </data>
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
-    <value>Undead Attack Bonus</value>
+    <value>언데드 공격력 보너스</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
@@ -4738,10 +4741,10 @@
     <value>All Comp Guides</value>
   </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>플레이 방법</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>핵심 카드</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
     <value>Addon Cards</value>
@@ -4774,7 +4777,7 @@
     <value>Tier7 Version</value>
   </data>
   <data name="Battlegrounds_CompGuides_Free_Mode" xml:space="preserve">
-    <value>Free Version</value>
+    <value>무료 버전</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
     <value>Show Example Boards</value>

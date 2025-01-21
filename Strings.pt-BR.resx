@@ -3513,6 +3513,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
     <value>Mostrar navegador de lacaios</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
+    <value>Show top tabs browser</value>
+  </data>
   <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
     <value>Mostrar contador Galakrond:</value>
   </data>
@@ -4072,7 +4075,7 @@
     <value>Minions Tripled At Tier</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
-    <value>No Upgrades</value>
+    <value>Sem Melhorias</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>Resumo da Sessão</value>
@@ -4150,13 +4153,13 @@
     <value>Sem dados de composição</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier" xml:space="preserve">
-    <value>TIER</value>
+    <value>GRAU</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacement" xml:space="preserve">
     <value>Colocação MED</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRate" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taxa de Escolha</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_AvgPlacementTooltip_Title" xml:space="preserve">
     <value>Colocação Média</value>
@@ -4165,55 +4168,55 @@
     <value>A posição final que o herói alcança em média, ajustada pelos tipos de lacaios disponíveis</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Pick Rate</value>
+    <value>Taxa de Escolha</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this hero is picked at the start of a game when presented as an option</value>
+    <value>Porcentagem de vezes que este herói é escolhido quando apresentado como uma opção inicial</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Title" xml:space="preserve">
-    <value>Tier 1: Overperforming</value>
+    <value>Grau 1: Desempenho Bom</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Title" xml:space="preserve">
-    <value>Tier 2: Winning</value>
+    <value>Grau 2: Ganhando</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Title" xml:space="preserve">
-    <value>Tier 3: Underperforming</value>
+    <value>Grau 3: Desempenho Mal</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Title" xml:space="preserve">
-    <value>Tier 4: Losing</value>
+    <value>Grau 4: Perdendo</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing hero, and heroes with higher placement within one standard deviation of the best placing hero</value>
+    <value>O melhor herói e outros heróis com colocações superiores em um desvio padrão do herói com a melhor colocação</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements better than or equal to 4.5</value>
+    <value>Heróis com colocações médias melhores ou iguais a 4,5</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than 4.5 and within one standard deviation of the best hero in this tier</value>
+    <value>Heróis com colocações médias abaixo de 4,5, porém dentro de um desvio padrão do melhor herói desse grau</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Heroes with average placements worse than one standard deviation from the best tier 3 hero</value>
+    <value>Heróis com colocações significativamente inferiores ao melhor herói de grau 3</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+)</value>
+    <value>Dados de Todo Top {0}% MMR ({1:N0}+)</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTier" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Armadura Grau</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_CompositionTooltip" xml:space="preserve">
     <value>Porcentagem de conclusão em 1° lugar</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Desc" xml:space="preserve">
-    <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
+    <value>Heróis com mais armadura recebem missões com requisitos de conclusão mais fáceis.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Logue no HSReplay.net para ver Escolha de Heróis, Colocações Médias, Grau de Armadura e mais!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>Inscreva-se no Tier7 para uso ilimitado.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Tier7 Battlegrounds Overlay</value>
+    <value>Campos de Batalha Tier7</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
     <value>Carregando...</value>
@@ -4222,7 +4225,7 @@
     <value>Hover for more details</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Tier7 Stats directly in the overlay!</value>
+    <value>Entre no HSReplay.net para acessar os dados do Tier7 nessa sobreposição!</value>
   </data>
   <data name="BattlegroundsPreLobby_Welcome" xml:space="preserve">
     <value>Bem-vindo</value>
@@ -4240,46 +4243,46 @@
     <value>Você está inscrito no Tier7!</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_AllTimeMMR" xml:space="preserve">
-    <value>All-time highest MMR</value>
+    <value>Maior MMR histórico</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
     <value>GO TO MY STATS</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
-    <value>Armor Range: {0} - {1}</value>
+    <value>Faixa de Armadura: {0} - {1}</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Title" xml:space="preserve">
-    <value>Armor Tier</value>
+    <value>Armadura Grau</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier1Tooltip_Desc" xml:space="preserve">
-    <value>The best placing reward, and rewards with higher placements within one standard deviation of the best placing reward</value>
+    <value>A melhor recompensa e outras recompensas com colocações superiores dentro de um desvio padrão da melhor recompensa</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier2Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements better than or equal to 4.5</value>
+    <value>Recompensas com colocações médias melhores ou iguais a 4,5</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier3Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than 4.5 and within one standard deviation of the best reward in this tier</value>
+    <value>Recompensas com colocações médias piores que 4,5, porém dentro de um desvio padrão da melhor recompensa neste grau</value>
   </data>
   <data name="BattlegroundsQuestPicking_Header_Tier4Tooltip_Desc" xml:space="preserve">
-    <value>Rewards with average placements worse than one standard deviation from the best tier 3 reward</value>
+    <value>Recompensas com colocação decepcionantes em comparação com a melhor recompensa de grau 3</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_PickRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this reward is picked by first place players</value>
+    <value>Porcentagem de vezes que essa recompensa é escolhida pelos primeiros colocados</value>
   </data>
   <data name="BattlegroundsQuestPickingHeader_AvgPlacementTooltip_Desc" xml:space="preserve">
-    <value>The final placement this reward achieves on average, adjusted for your hero and the available minion types</value>
+    <value>Colocação final média que uma recompensa consegue, ajustada para seu herói e lacaios disponíveis</value>
   </data>
   <data name="BattlegroundsInspiration_Title" xml:space="preserve">
-    <value>Tier7 Inspiration</value>
+    <value>Tier 7 Inspiração</value>
   </data>
   <data name="BattlegroundsInspiration_Description" xml:space="preserve">
-    <value>1st Place Boards</value>
+    <value>Primeiros Lugares</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
-    <value>Games from Top {0}% MMR</value>
+    <value>Partidas do Top {0}% MMR</value>
   </data>
   <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
-    <value>No data available. Please check back later.</value>
+    <value>Sem dados disponíveis. Volte mais tarde.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
     <value>Mostrar estatísticas de escolha de Missões</value>
@@ -4381,13 +4384,13 @@
     <value>TITÃS:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value> Desativado no momento. Voltaremos em breve!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value>Temporarily disabled. We will be back soon!</value>
+    <value> Desativado no momento. Voltaremos em breve!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
-    <value>All Stats From Top {0}% MMR ({1:N0}+), Adjusted for Anomaly</value>
+    <value>Dados de Todo Top {0}% MMR ({1:N0}+), Ajustado por Anomaly</value>
   </data>
   <data name="Toast_Collection_Uploaded" xml:space="preserve">
     <value>Coleção enviada!</value>
@@ -4558,7 +4561,7 @@
     <value>Not on website</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
-    <value>Mulligan Guide</value>
+    <value>Mulligan Guia</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
     <value>Enable Mulligan Guide</value>
@@ -4591,13 +4594,13 @@
     <value>Hand Rank</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
-    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+    <value>O #{0} melhor card para manter, dos  {1} cards distintos nesse deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
     <value>Mulligan Guide Ready</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
-    <value>No Data</value>
+    <value>Sem Dados</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Loading" xml:space="preserve">
     <value>Carregando...</value>
@@ -4633,10 +4636,10 @@
     <value>Tipos de Lacaios</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>Taverna Grau {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>Taverna Grau {0} - {1}</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueDamage" xml:space="preserve">
     <value>Próximo dano de fadiga: {0}</value>
@@ -4660,7 +4663,7 @@
     <value>Deck não possui card Turista.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
-    <value>Sempre mostrar Taverna Tier 7</value>
+    <value>Sempre mostrar Taverna Grau 7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
     <value>OCULTAR DADOS DE BERLOQUE</value>
@@ -4690,22 +4693,22 @@
     <value>Fadiga</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
-    <value>Libram Cost Reduction</value>
+    <value>Redução de Incunábulos</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
-    <value>Played Spell Schools</value>
+    <value>Escola de Feitiço Jogadas</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
-    <value>Played Spells</value>
+    <value>Feitiços Jogados</value>
   </data>
   <data name="Counter_SelfDamage" xml:space="preserve">
-    <value>Self Damage</value>
+    <value>Dano Próprio</value>
   </data>
   <data name="Counter_SummonedDragons" xml:space="preserve">
-    <value>Summoned Dragons</value>
+    <value>Dragões Invocados</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Related_Cards" xml:space="preserve">
-    <value>Show related cards tooltip</value>
+    <value>Mostrar dicas de cards relacionados</value>
   </data>
   <data name="Related_Cards" xml:space="preserve">
     <value>Cards Relacionados</value>
@@ -4726,31 +4729,31 @@
     <value>Mostrar possíveis segredos</value>
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
-    <value>Cards Drawn This Turn</value>
+    <value>Cards comprados no turno</value>
   </data>
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
-    <value>Undead Attack Bonus</value>
+    <value>Morto-Vivo Ataque Bônus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>Todos os Guias de Composição</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>Todos os Guias de Composição</value>
   </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>Como Jogar</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>Cards Principais</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>Cards Adicionais</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>Quando dedicar-se</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>Ativadores Comuns</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>Criado por</value>
@@ -4759,24 +4762,24 @@
     <value>Última atualização há</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
-    <value>Comp Guides</value>
+    <value>Comp Guia</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>Mostrar Exemplos de Tabuleiros</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
+    <value>Assine o Tier7 para ver os melhores tabuleiros com os cards principais nesta tela!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right on this screen!</value>
+    <value>Assine o Tier7 para filtrar a lista de guias por lacaios e ver os níveis de cada comp diretamente nessa tela!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
-    <value>Tier7 Version</value>
+    <value>Versão Tier7</value>
   </data>
   <data name="Battlegrounds_CompGuides_Free_Mode" xml:space="preserve">
-    <value>Free Version</value>
+    <value>Versão Gratuita</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>Mostrar Exemplo de Tabuleiros</value>
   </data>
 </root>
