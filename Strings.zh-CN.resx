@@ -373,16 +373,16 @@
     <value>点击这里立即更新</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>正在下载更新...</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>正在安装更新…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>更新到最新版本失败</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>在 HSReplay.net 上下载</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>启动战网/炉石传说</value>
@@ -4774,15 +4774,15 @@
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right on this screen!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
-    <value>Tier7 Version</value>
+    <value>Tier7 版本</value>
   </data>
   <data name="Battlegrounds_CompGuides_Free_Mode" xml:space="preserve">
-    <value>Free Version</value>
+    <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
     <value>Show Example Boards</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
-    <value>Protoss Minions Cost Reduction</value>
+    <value>星灵随从减少费用</value>
   </data>
 </root>
