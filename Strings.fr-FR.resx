@@ -373,16 +373,16 @@
     <value>Cliquez ici pour mettre à jour maintenant</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>Téléchargement de la mise à jour…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>Installation de la mise à jour…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>La mise à jour de la dernière version a échoué</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>Télécharger sur HSReplay.net</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Démarrer lanceur / Hearthstone</value>
@@ -3511,7 +3511,7 @@
     <value>Il y a {0} tour(s)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
-    <value>Show minion browser</value>
+    <value>Afficher la recherche de serviteurs</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
@@ -3541,7 +3541,7 @@
     <value>Les Cendres de l’Outreterre</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>Afficher le compteur de tour</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Afficher la notification du héros au début de la partie de Champs de Bataille</value>
