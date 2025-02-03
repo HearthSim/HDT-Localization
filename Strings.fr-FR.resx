@@ -4315,10 +4315,10 @@
     <value>Une erreur s'est produite :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay overlay while Hearthstone is in the background</value>
+    <value>Afficher l'overlay pendant que Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu overlay while Hearthstone is in the background</value>
+    <value>Afficher le menu de l'overlay lorsque Hearthstone est en arrière-plan</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Afficher l'overlay de gameplay lorsque Hearthstone est en arrière-plan</value>
@@ -4372,7 +4372,7 @@
     <value>Twist</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contains cards from the TITANS expansion.</value>
+    <value>Le jeu contient des cartes de l'extension TITANS.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
     <value>TITANS</value>
@@ -4456,7 +4456,7 @@
     <value>Rixe en terres Ingrates :</value>
   </data>
   <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
+    <value>Montrer le niveau d'excavation :</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Commune</value>
@@ -4471,7 +4471,7 @@
     <value>Légendaire</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
+    <value>Afficher le compteur d'excavation :</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>Déjà abonné(e) ?</value>
@@ -4492,7 +4492,7 @@
     <value>Abonné(e) à HSReplay.net</value>
   </data>
   <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>Afficher le compteur de l'école de magie :</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>Arcanes</value>
@@ -4522,7 +4522,7 @@
     <value>Aucun</value>
   </data>
   <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
+    <value>Afficher le compteur de l'école de magie :</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Bienvenue</value>
@@ -4588,10 +4588,10 @@
     <value>Taux de victoires moyen des parties où cette carte a été présente dans la main de départ.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
-    <value>HAND RANK</value>
+    <value>CLASSEMENT DES MAINS</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
-    <value>Hand Rank</value>
+    <value>Classement des mains</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
     <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
@@ -4615,7 +4615,7 @@
     <value>L’Atelier de Mystifix</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>Afficher l'overlay Mulligan au début de la partie</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
     <value>Mulligan Stats vs. {0}, Going First</value>
@@ -4666,10 +4666,10 @@
     <value>Toujours afficher le niveau de taverne 7</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE TRINKET STATS</value>
+    <value>CACHER LES STATISTIQUES DES BIBELOTS</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW TRINKET STATS</value>
+    <value>AFFICHER LES STATISTIQUES DES BIBELOTS</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Show Trinket picking stats</value>
