@@ -4785,4 +4785,19 @@
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Protoss Minions Cost Reduction</value>
   </data>
+  <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
+    <value>Waiting for Hero Pick</value>
+  </data>
+  <data name="Battlegrounds_Guides_NoGuideAvailable" xml:space="preserve">
+    <value>No Guide Available</value>
+  </data>
+  <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
+    <value>Favorable Minions</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
+    <value>Show Minions and Guides Browser</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
+    <value>Show Hero and Comp Guides</value>
+  </data>
 </root>

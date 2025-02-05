@@ -4282,7 +4282,7 @@
     <value>Games from Top {0}% MMR</value>
   </data>
   <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
-    <value>No data available. Please check back later.</value>
+    <value>没有可用数据。请稍后再试。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
     <value>显示任务选择统计</value>
@@ -4732,25 +4732,25 @@
     <value>Cards Drawn This Turn</value>
   </data>
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
-    <value>Undead Attack Bonus</value>
+    <value>亡灵攻击加成</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>所有组合指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>所有组合指南</value>
   </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>玩法说明</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>核心卡牌</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>附加卡牌</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>成型组合</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Common Enablers</value>
@@ -4762,7 +4762,7 @@
     <value>最后更新</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
-    <value>Comp Guides</value>
+    <value>组合指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
     <value>Show Example Boards</value>
@@ -4784,5 +4784,20 @@
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
+  </data>
+  <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
+    <value>等待英雄选择</value>
+  </data>
+  <data name="Battlegrounds_Guides_NoGuideAvailable" xml:space="preserve">
+    <value>没有可用指南</value>
+  </data>
+  <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
+    <value>Favorable Minions</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
+    <value>Show Minions and Guides Browser</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
+    <value>Show Hero and Comp Guides</value>
   </data>
 </root>

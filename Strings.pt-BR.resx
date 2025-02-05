@@ -592,7 +592,7 @@
     <value>Ocultar decks</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideTimers" xml:space="preserve">
-    <value>Ocultar contadores</value>
+    <value>Ocultar Temporizadores</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_HideCardAge" xml:space="preserve">
     <value>Ocultar antiguidade das cartas</value>
@@ -1255,7 +1255,7 @@
     <value>Média de vitórias:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_Winrate" xml:space="preserve">
-    <value>Taxa de vitórias</value>
+    <value>Taxa de vitória:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestRun" xml:space="preserve">
     <value>Melhor série:</value>
@@ -2767,10 +2767,10 @@
     <value>Volte a ligar</value>
   </data>
   <data name="ConfigWarning_Button_Ignore" xml:space="preserve">
-    <value>Está tudo bem, não mostre novamente</value>
+    <value>Tudo bem, não mostre novamente</value>
   </data>
   <data name="Enum_ConfigWarning_AutoDeckDetection" xml:space="preserve">
-    <value>A seleção automática do baralho está desativada. \ N \ n É recomendável ativar esta configuração para que o HDT funcione melhor.</value>
+    <value>A seleção automática de deck está desativada. \n\n É recomendável ativar esta configuração para que o HDT funcione melhor.</value>
   </data>
   <data name="Enum_ConfigWarning_ConstructedAutoImportNew" xml:space="preserve">
     <value>A importação automática de novos baralhos construídos está desativada no momento. \n\n É recomendável ativar esta configuração para que o HDT funcione melhor.</value>
@@ -3010,7 +3010,7 @@
     <value>Estatísticas globais - HSReplay.net</value>
   </data>
   <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>Meus jogos</value>
+    <value>Minhas Partidas</value>
   </data>
   <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
     <value>Tem filtros ativos</value>
@@ -4069,7 +4069,7 @@
     <value>Isso limpará a lista Últimas Partidas e definirá o MMR inicial para coincidir ao seu MMR atual.</value>
   </data>
   <data name="Overlay_Battlegrounds_Latest_TierUp" xml:space="preserve">
-    <value>Latest Tier Up</value>
+    <value>Grau Mais Recente</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
     <value>Minions Tripled At Tier</value>
@@ -4144,7 +4144,7 @@
     <value>Mostrar estatísticas de escolha de Herói</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
-    <value>No placement data</value>
+    <value>Sem dados de colocação</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_BarTooltip" xml:space="preserve">
     <value>{0} Lugar: {1}%</value>
@@ -4345,10 +4345,10 @@
     <value>Cards não suportados encontrados</value>
   </data>
   <data name="Enum_DeckPanel_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Banda C.T.E.'s</value>
   </data>
   <data name="DeckSideboard_Label_ETCBand" xml:space="preserve">
-    <value>E.T.C.'s Band</value>
+    <value>Banda C.T.E.'s</value>
   </data>
   <data name="DeckSetIcons_Tooltip_FestivalOfLegends" xml:space="preserve">
     <value>Deck contém cards da expansão Festival das Lendas.</value>
@@ -4372,7 +4372,7 @@
     <value>Imprevisível</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contém cards da expansão TITÃS</value>
+    <value>Deck contém cards da expansão TITÃNS.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
     <value>TITÃS</value>
@@ -4384,10 +4384,10 @@
     <value>TITÃS:</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Disabled" xml:space="preserve">
-    <value> Desativado no momento. Voltaremos em breve!</value>
+    <value>Desativado no momento. Voltaremos em breve!</value>
   </data>
   <data name="BattlegroundsPreLobby_Disabled" xml:space="preserve">
-    <value> Desativado no momento. Voltaremos em breve!</value>
+    <value>Desativado no momento. Voltaremos em breve!</value>
   </data>
   <data name="BattlegroundsOverlayMessage_MMR_AnomalyAdjusted" xml:space="preserve">
     <value>Dados de Todo Top {0}% MMR ({1:N0}+), Ajustado por Anomaly</value>
@@ -4558,34 +4558,34 @@
     <value>Você pode usar a sobreposição do Tier7 por algumas vezes sem custo.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
-    <value>Not on website</value>
+    <value>Nada no site</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
     <value>Mulligan Guia</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan Guide</value>
+    <value>Habilitar Mulligan</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_PreLobby" xml:space="preserve">
-    <value>Show availability on deck selection screen</value>
+    <value>Mostrar disponibilidade na seleção de deck</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRate" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>Manter</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Desc" xml:space="preserve">
-    <value>Percent of the time this card is kept when presented during Mulligan.</value>
+    <value>Porcentagem das vezes que o card foi mantido desde o Mulligan.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_KeepRateTooltip_Title" xml:space="preserve">
-    <value>Keep Rate</value>
+    <value>Manter</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWR" xml:space="preserve">
     <value>Mulligan WR</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Title" xml:space="preserve">
-    <value>Mulligan Winrate</value>
+    <value>Taxa de vitória do Mulligan</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_MulliganWRTooltip_Desc" xml:space="preserve">
-    <value>Average winrate of games where this card ends up in the opening hand.</value>
+    <value>Chance de vitória quando o card começa na mão inicial.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
     <value>HAND RANK</value>
@@ -4615,7 +4615,7 @@
     <value>Oficina do Rojão</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
-    <value>Show Mulligan Overlay at start of game</value>
+    <value>Mostrar Mulligan no início da partida</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
     <value>Mulligan Stats vs. {0}, Going First</value>
@@ -4720,10 +4720,10 @@
     <value>{0} Dano</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardAge" xml:space="preserve">
-    <value>Show card ages</value>
+    <value>Mostrar desde qual turno o card esta na mão</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarks" xml:space="preserve">
-    <value>Show card marks</value>
+    <value>Mostrar ícone de identificação do card</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
     <value>Mostrar possíveis segredos</value>
@@ -4780,9 +4780,24 @@
     <value>Versão Gratuita</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Mostrar Exemplo de Tabuleiros</value>
+    <value>Mostrar Exemplos de Tabuleiros</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
-    <value>Protoss Minions Cost Reduction</value>
+    <value>Redução de Custo dos Protoss</value>
+  </data>
+  <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
+    <value>Aguardando Escolha do Herói</value>
+  </data>
+  <data name="Battlegrounds_Guides_NoGuideAvailable" xml:space="preserve">
+    <value>Nenhum Guia Disponível</value>
+  </data>
+  <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
+    <value>Lacaios Favoráveis</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
+    <value>Show Minions and Guides Browser</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
+    <value>Mostrar Guias de Herói e Composição</value>
   </data>
 </root>
