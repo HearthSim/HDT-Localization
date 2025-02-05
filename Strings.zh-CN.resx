@@ -4279,7 +4279,7 @@
     <value>1st Place Boards</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
-    <value>Games from Top {0}% MMR</value>
+    <value>来自等级积分前{0}%的对局</value>
   </data>
   <data name="BattlegroundsInspiration_NoData" xml:space="preserve">
     <value>没有可用数据。请稍后再试。</value>
@@ -4594,7 +4594,7 @@
     <value>Hand Rank</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
-    <value>The #{0} best card to keep, from the {1} distinct cards in this deck.</value>
+    <value>此套牌的{1}张不同的牌中最值得保留的第#{0}张牌。</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
     <value>换牌指南就绪</value>
@@ -4729,7 +4729,7 @@
     <value>显示可能的奥秘</value>
   </data>
   <data name="Counter_CardsDrawnThisTurn" xml:space="preserve">
-    <value>Cards Drawn This Turn</value>
+    <value>本回合抽到的卡牌</value>
   </data>
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
     <value>亡灵攻击加成</value>
@@ -4765,7 +4765,7 @@
     <value>组合指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>显示样板棋盘</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
@@ -4780,7 +4780,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>显示样板棋盘</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
