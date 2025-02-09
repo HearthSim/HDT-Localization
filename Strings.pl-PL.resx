@@ -2625,6 +2625,12 @@
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
     <value>Jeśli to nie pomoże, kliknij "Pokaż instrukcję" aby zobaczyć jak zaktualizować program manualnie.</value>
   </data>
+  <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
+    <value>Unable to connect to Hearthstone</value>
+  </data>
+  <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
+    <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Kontynuuj...</value>
   </data>
