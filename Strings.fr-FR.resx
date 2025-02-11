@@ -3513,6 +3513,27 @@
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>Râle d'agonie</value>
   </data>
+  <data name="GameTag_Venomous" xml:space="preserve">
+    <value>Venomous</value>
+  </data>
+  <data name="GameTag_Battlecry" xml:space="preserve">
+    <value>Battlecry</value>
+  </data>
+  <data name="GameTag_ChooseOne" xml:space="preserve">
+    <value>Choose One</value>
+  </data>
+  <data name="GameTag_EndOfTurn" xml:space="preserve">
+    <value>End Of Turn</value>
+  </data>
+  <data name="GameTag_Reborn" xml:space="preserve">
+    <value>Reborn</value>
+  </data>
+  <data name="GameTag_Modular" xml:space="preserve">
+    <value>Magnetic</value>
+  </data>
+  <data name="GameTag_BGSpell" xml:space="preserve">
+    <value>Sort</value>
+  </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>Il y a {0} tour(s)</value>
   </data>
