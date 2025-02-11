@@ -3513,6 +3513,27 @@
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>亡语</value>
   </data>
+  <data name="GameTag_Venomous" xml:space="preserve">
+    <value>Venomous</value>
+  </data>
+  <data name="GameTag_Battlecry" xml:space="preserve">
+    <value>Battlecry</value>
+  </data>
+  <data name="GameTag_ChooseOne" xml:space="preserve">
+    <value>Choose One</value>
+  </data>
+  <data name="GameTag_EndOfTurn" xml:space="preserve">
+    <value>End Of Turn</value>
+  </data>
+  <data name="GameTag_Reborn" xml:space="preserve">
+    <value>Reborn</value>
+  </data>
+  <data name="GameTag_Modular" xml:space="preserve">
+    <value>Magnetic</value>
+  </data>
+  <data name="GameTag_BGSpell" xml:space="preserve">
+    <value>法术</value>
+  </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
   </data>
