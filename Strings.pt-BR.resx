@@ -2623,7 +2623,13 @@
     <value>Tente iniciar o HDT como administrador.</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>Se isso não ajudar, clique 'mostrar instruções' para ver como atualizar manualmente.</value>
+    <value>Se não funcionar, clique em 'mostrar instruções' para ver como atualizar manualmente.</value>
+  </data>
+  <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
+    <value>Não foi possível conectar-se ao Hearthstone</value>
+  </data>
+  <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
+    <value>Por favor, reinicie a Battle.net e o Hearthstone sem privilégios de administrador.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Continuar...</value>
@@ -3507,6 +3513,27 @@
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>Último Suspiro</value>
   </data>
+  <data name="GameTag_Venomous" xml:space="preserve">
+    <value>Peçonhento</value>
+  </data>
+  <data name="GameTag_Battlecry" xml:space="preserve">
+    <value>Grito de Guerra</value>
+  </data>
+  <data name="GameTag_ChooseOne" xml:space="preserve">
+    <value>Escolha Um</value>
+  </data>
+  <data name="GameTag_EndOfTurn" xml:space="preserve">
+    <value>Fim do Turno</value>
+  </data>
+  <data name="GameTag_Reborn" xml:space="preserve">
+    <value>Renascer</value>
+  </data>
+  <data name="GameTag_Modular" xml:space="preserve">
+    <value>Magnético</value>
+  </data>
+  <data name="GameTag_BGSpell" xml:space="preserve">
+    <value>Feitiço</value>
+  </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} turno(s) atrás</value>
   </data>
@@ -3649,7 +3676,7 @@
     <value>Não foi possível obter resultados precisos</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
-    <value>Esperando por colegas de equipe...</value>
+    <value>Esperando por colegas de equipes...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Esperando pelo Combate...</value>
@@ -4072,7 +4099,7 @@
     <value>Grau Mais Recente</value>
   </data>
   <data name="Overlay_Battlegrounds_Minions_TripledAtTier" xml:space="preserve">
-    <value>Minions Tripled At Tier</value>
+    <value>Trinca de Lacaios por Grau</value>
   </data>
   <data name="Overlay_Battlegrounds_No_Upgrades" xml:space="preserve">
     <value>Sem Melhorias</value>
@@ -4246,7 +4273,7 @@
     <value>Maior MMR histórico</value>
   </data>
   <data name="BattlegroundsPreLobby_Subscribed_MyStats" xml:space="preserve">
-    <value>GO TO MY STATS</value>
+    <value>VER MINHAS ESTATÍSTICAS</value>
   </data>
   <data name="BattlegroundsHeroPicking_Hero_ArmorTierTooltip_Range" xml:space="preserve">
     <value>Faixa de Armadura: {0} - {1}</value>
@@ -4372,7 +4399,7 @@
     <value>Imprevisível</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Titans" xml:space="preserve">
-    <value>Deck contém cards da expansão TITÃNS.</value>
+    <value>Deck contém cards da expansão TITÃS.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Titans" xml:space="preserve">
     <value>TITÃS</value>
@@ -4534,10 +4561,10 @@
     <value>Junte-se ao Tier7 para ter acesso ilimitado.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE MULLIGAN GUIDE</value>
+    <value>OCULTAR GUIA DE MULLIGAN</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW MULLIGAN GUIDE</value>
+    <value>MOSTRAR GUIA DE MULLIGAN</value>
   </data>
   <data name="Battlegrounds_Spells" xml:space="preserve">
     <value>Feitiços</value>
@@ -4597,7 +4624,7 @@
     <value>O #{0} melhor card para manter, dos  {1} cards distintos nesse deck.</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Ready" xml:space="preserve">
-    <value>Mulligan Guide Ready</value>
+    <value>Guia de Mulligan Pronto</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_NoData" xml:space="preserve">
     <value>Sem Dados</value>
@@ -4618,10 +4645,10 @@
     <value>Mostrar Mulligan no início da partida</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_GoingFirst" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, Going First</value>
+    <value>Retrospecto do Mulligan vs. {0}, Indo Primeiro</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_VsClass_ExtraCard" xml:space="preserve">
-    <value>Mulligan Stats vs. {0}, On Coin</value>
+    <value>Retrospecto do Mulligan vs. {0}, Com Moeda</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
     <value>Algo deu errado :(</value>
@@ -4684,7 +4711,7 @@
     <value>Ativar contadores com visual antigo</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
-    <value>Elemental Turn Sequence</value>
+    <value>Elemental em Turnos Consecutivos</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
     <value>Nível de Escavação</value>

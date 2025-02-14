@@ -2625,6 +2625,12 @@
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
     <value>만약 도움이 되지 않았다면, "안내 보기" 버튼을 눌러 수동으로 업데이트 하는 방법을 확인하세요.</value>
   </data>
+  <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
+    <value>Unable to connect to Hearthstone</value>
+  </data>
+  <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
+    <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>그 외...</value>
   </data>
@@ -3506,6 +3512,27 @@
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>죽음의 메아리</value>
+  </data>
+  <data name="GameTag_Venomous" xml:space="preserve">
+    <value>Venomous</value>
+  </data>
+  <data name="GameTag_Battlecry" xml:space="preserve">
+    <value>Battlecry</value>
+  </data>
+  <data name="GameTag_ChooseOne" xml:space="preserve">
+    <value>Choose One</value>
+  </data>
+  <data name="GameTag_EndOfTurn" xml:space="preserve">
+    <value>End Of Turn</value>
+  </data>
+  <data name="GameTag_Reborn" xml:space="preserve">
+    <value>Reborn</value>
+  </data>
+  <data name="GameTag_Modular" xml:space="preserve">
+    <value>Magnetic</value>
+  </data>
+  <data name="GameTag_BGSpell" xml:space="preserve">
+    <value>주문</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}턴 전</value>
