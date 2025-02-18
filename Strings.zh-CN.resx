@@ -2625,6 +2625,12 @@
   <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
     <value>如果没有得到帮助，请单击“显示说明”，查看如何手动更新它。</value>
   </data>
+  <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
+    <value>Unable to connect to Hearthstone</value>
+  </data>
+  <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
+    <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>更多……</value>
   </data>
@@ -3506,6 +3512,27 @@
   </data>
   <data name="GameTag_Deathrattle" xml:space="preserve">
     <value>亡语</value>
+  </data>
+  <data name="GameTag_Venomous" xml:space="preserve">
+    <value>Venomous</value>
+  </data>
+  <data name="GameTag_Battlecry" xml:space="preserve">
+    <value>Battlecry</value>
+  </data>
+  <data name="GameTag_ChooseOne" xml:space="preserve">
+    <value>Choose One</value>
+  </data>
+  <data name="GameTag_EndOfTurn" xml:space="preserve">
+    <value>End Of Turn</value>
+  </data>
+  <data name="GameTag_Reborn" xml:space="preserve">
+    <value>Reborn</value>
+  </data>
+  <data name="GameTag_Modular" xml:space="preserve">
+    <value>Magnetic</value>
+  </data>
+  <data name="GameTag_BGSpell" xml:space="preserve">
+    <value>法术</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
@@ -4735,10 +4762,10 @@
     <value>亡灵攻击加成</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>所有组合指南</value>
+    <value>所有流派指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>所有组合指南</value>
+    <value>所有流派指南</value>
   </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>玩法说明</value>
@@ -4750,10 +4777,10 @@
     <value>附加卡牌</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>成型组合</value>
+    <value>成型随从组合</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>常用推动者</value>
+    <value>常用过渡随从</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>创建者：</value>
@@ -4762,7 +4789,7 @@
     <value>最后更新</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
-    <value>组合指南</value>
+    <value>流派指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
     <value>显示样板棋盘</value>
@@ -4780,7 +4807,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>显示样板棋盘</value>
+    <value>显示示例棋盘</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
