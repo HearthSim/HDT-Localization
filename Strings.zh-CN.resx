@@ -2626,10 +2626,10 @@
     <value>如果没有得到帮助，请单击“显示说明”，查看如何手动更新它。</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
-    <value>Unable to connect to Hearthstone</value>
+    <value>无法连接到炉石传说</value>
   </data>
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
-    <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
+    <value>请重启战网和炉石传说（不要以管理员身份运行）。</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>更多……</value>
@@ -3514,22 +3514,22 @@
     <value>亡语</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>烈毒</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>战吼</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>抉择</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>回合结束时</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>复生</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>磁力</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>法术</value>
@@ -4826,5 +4826,8 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>显示英雄和流派指南</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
+    <value>Highlight synergies in the deck</value>
   </data>
 </root>
