@@ -4470,6 +4470,9 @@
   <data name="Race_Other" xml:space="preserve">
     <value>Autres</value>
   </data>
+  <data name="Race_NoType" xml:space="preserve">
+    <value>No Type</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>Rixe en terres Ingrates</value>
   </data>
@@ -4826,6 +4829,12 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>Afficher les guides de héros et de composition</value>
+  </data> 
+  <data name="Battlegrounds_Browser_Filter_Minions" xml:space="preserve">
+    <value>Serviteurs</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Mechanics" xml:space="preserve">
+    <value>Mécaniques</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
     <value>Highlight synergies in the deck</value>
