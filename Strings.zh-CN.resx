@@ -4470,6 +4470,9 @@
   <data name="Race_Other" xml:space="preserve">
     <value>其他</value>
   </data>
+  <data name="Race_NoType" xml:space="preserve">
+    <value>No Type</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>决战荒芜之地</value>
   </data>
@@ -4826,6 +4829,12 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>显示英雄和流派指南</value>
+  </data> 
+  <data name="Battlegrounds_Browser_Filter_Minions" xml:space="preserve">
+    <value>随从牌</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Mechanics" xml:space="preserve">
+    <value>关键词组成</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
     <value>高亮套牌中有协同作用的卡牌</value>
