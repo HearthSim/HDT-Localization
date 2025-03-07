@@ -3525,6 +3525,9 @@
   <data name="GameTag_EndOfTurn" xml:space="preserve">
     <value>回合结束时</value>
   </data>
+  <data name="GameTag_StartOfCombat" xml:space="preserve">
+    <value>Start Of Combat</value>
+  </data>
   <data name="GameTag_Reborn" xml:space="preserve">
     <value>复生</value>
   </data>
@@ -3533,6 +3536,9 @@
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>法术</value>
+  </data>
+  <data name="GameTag_BGBuddy" xml:space="preserve">
+    <value>Buddy</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
@@ -4470,6 +4476,9 @@
   <data name="Race_Other" xml:space="preserve">
     <value>其他</value>
   </data>
+  <data name="Race_NoType" xml:space="preserve">
+    <value>无种族</value>
+  </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>决战荒芜之地</value>
   </data>
@@ -4827,7 +4836,61 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>显示英雄和流派指南</value>
   </data>
+  <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
+    <value>Card Types</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Minions" xml:space="preserve">
+    <value>随从牌</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Mechanics" xml:space="preserve">
+    <value>关键词组成</value>
+  </data>
   <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
     <value>高亮套牌中有协同作用的卡牌</value>
+  </data>
+  <data name="Race_Demon_Uppercase" xml:space="preserve">
+    <value>DEMON</value>
+  </data>
+  <data name="Race_Mechanical_Uppercase" xml:space="preserve">
+    <value>MECH</value>
+  </data>
+  <data name="Race_Beast_Uppercase" xml:space="preserve">
+    <value>BEAST</value>
+  </data>
+  <data name="Race_Dragon_Uppercase" xml:space="preserve">
+    <value>DRAGON</value>
+  </data>
+  <data name="Race_Murloc_Uppercase" xml:space="preserve">
+    <value>MURLOC</value>
+  </data>
+  <data name="Race_Pirate_Uppercase" xml:space="preserve">
+    <value>PIRATE</value>
+  </data>
+  <data name="Race_Elemental_Uppercase" xml:space="preserve">
+    <value>ELEMENTAL</value>
+  </data>
+  <data name="Race_Quilboar_Uppercase" xml:space="preserve">
+    <value>QUILBOAR</value>
+  </data>
+  <data name="Race_Naga_Uppercase" xml:space="preserve">
+    <value>NAGA</value>
+  </data>
+  <data name="Race_Undead_Uppercase" xml:space="preserve">
+    <value>UNDEAD</value>
+  </data>
+  <data name="Race_Totem_Uppercase" xml:space="preserve">
+    <value>TOTEM</value>
+  </data>
+  <data name="Race_All_Uppercase" xml:space="preserve">
+    <value>ALL</value>
+  </data>
+  <data name="Race_NoType_Uppercase" xml:space="preserve">
+    <value>NO TYPE</value>
+  </data>
+  <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
+    <value>SPELL</value>
+  </data>
+  <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
+    <value>BUDDY</value>
   </data>
 </root>
