@@ -3526,7 +3526,7 @@
     <value>回合结束时</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>战斗开始时</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
     <value>复生</value>
@@ -3538,7 +3538,7 @@
     <value>法术</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>伙伴</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
@@ -4837,7 +4837,7 @@
     <value>显示英雄和流派指南</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
-    <value>Card Types</value>
+    <value>卡牌类型</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Minions" xml:space="preserve">
     <value>随从牌</value>
@@ -4849,48 +4849,48 @@
     <value>高亮套牌中有协同作用的卡牌</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
-    <value>DEMON</value>
+    <value>恶魔</value>
   </data>
   <data name="Race_Mechanical_Uppercase" xml:space="preserve">
-    <value>MECH</value>
+    <value>机械</value>
   </data>
   <data name="Race_Beast_Uppercase" xml:space="preserve">
-    <value>BEAST</value>
+    <value>野兽</value>
   </data>
   <data name="Race_Dragon_Uppercase" xml:space="preserve">
-    <value>DRAGON</value>
+    <value>龙</value>
   </data>
   <data name="Race_Murloc_Uppercase" xml:space="preserve">
-    <value>MURLOC</value>
+    <value>鱼人</value>
   </data>
   <data name="Race_Pirate_Uppercase" xml:space="preserve">
-    <value>PIRATE</value>
+    <value>海盗</value>
   </data>
   <data name="Race_Elemental_Uppercase" xml:space="preserve">
-    <value>ELEMENTAL</value>
+    <value>元素</value>
   </data>
   <data name="Race_Quilboar_Uppercase" xml:space="preserve">
-    <value>QUILBOAR</value>
+    <value>野猪人</value>
   </data>
   <data name="Race_Naga_Uppercase" xml:space="preserve">
-    <value>NAGA</value>
+    <value>纳迦</value>
   </data>
   <data name="Race_Undead_Uppercase" xml:space="preserve">
-    <value>UNDEAD</value>
+    <value>亡灵</value>
   </data>
   <data name="Race_Totem_Uppercase" xml:space="preserve">
-    <value>TOTEM</value>
+    <value>图腾</value>
   </data>
   <data name="Race_All_Uppercase" xml:space="preserve">
-    <value>ALL</value>
+    <value>全部</value>
   </data>
   <data name="Race_NoType_Uppercase" xml:space="preserve">
-    <value>NO TYPE</value>
+    <value>无类型</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>法术</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>伙伴</value>
   </data>
 </root>
