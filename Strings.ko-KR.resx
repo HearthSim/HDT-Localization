@@ -3514,31 +3514,31 @@
     <value>죽음의 메아리</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>독소</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>전투의 함성</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>선택</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>내 턴이 끝날 때</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>기선 제압</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>환생</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>합체</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>주문</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>전우</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}턴 전</value>
@@ -4849,48 +4849,54 @@
     <value>Highlight synergies in the deck</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
-    <value>DEMON</value>
+    <value>악마</value>
   </data>
   <data name="Race_Mechanical_Uppercase" xml:space="preserve">
-    <value>MECH</value>
+    <value>기계</value>
   </data>
   <data name="Race_Beast_Uppercase" xml:space="preserve">
-    <value>BEAST</value>
+    <value>야수</value>
   </data>
   <data name="Race_Dragon_Uppercase" xml:space="preserve">
-    <value>DRAGON</value>
+    <value>용족</value>
   </data>
   <data name="Race_Murloc_Uppercase" xml:space="preserve">
-    <value>MURLOC</value>
+    <value>멀록</value>
   </data>
   <data name="Race_Pirate_Uppercase" xml:space="preserve">
-    <value>PIRATE</value>
+    <value>해적</value>
   </data>
   <data name="Race_Elemental_Uppercase" xml:space="preserve">
-    <value>ELEMENTAL</value>
+    <value>정령</value>
   </data>
   <data name="Race_Quilboar_Uppercase" xml:space="preserve">
-    <value>QUILBOAR</value>
+    <value>가시멧돼지</value>
   </data>
   <data name="Race_Naga_Uppercase" xml:space="preserve">
-    <value>NAGA</value>
+    <value>나가</value>
   </data>
   <data name="Race_Undead_Uppercase" xml:space="preserve">
-    <value>UNDEAD</value>
+    <value>언데드</value>
   </data>
   <data name="Race_Totem_Uppercase" xml:space="preserve">
-    <value>TOTEM</value>
+    <value>토템</value>
   </data>
   <data name="Race_All_Uppercase" xml:space="preserve">
-    <value>ALL</value>
+    <value>모두</value>
   </data>
   <data name="Race_NoType_Uppercase" xml:space="preserve">
-    <value>NO TYPE</value>
+    <value>종족 없음</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>주문</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>전우</value>
+  </data>
+  <data name="Counter_PlayedDragons" xml:space="preserve">
+    <value>Played Dragons</value>
+  </data>
+  <data name="Counter_FriendlyMinionsDiedThisGame" xml:space="preserve">
+    <value>Friendly Minions That Died</value>
   </data>
 </root>
