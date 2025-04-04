@@ -4624,10 +4624,10 @@
     <value>Chance de vitória quando o card começa na mão inicial.</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRank" xml:space="preserve">
-    <value>RANK DA MÃO</value>
+    <value>MÃO RANK</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Title" xml:space="preserve">
-    <value>Hand Rank</value>
+    <value>Mão Rank</value>
   </data>
   <data name="ConstructedMulliganGuide_Header_HandRankTooltip_Desc" xml:space="preserve">
     <value>O #{0} melhor card para manter, dos  {1} cards distintos nesse deck.</value>
@@ -4691,6 +4691,15 @@
   </data>
   <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
     <value>Grande Treva Infinita</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_EmeraldDream" xml:space="preserve">
+    <value>Rumo ao Sonho Esmeralda</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_EmeraldDream" xml:space="preserve">
+    <value>Rumo ao Sonho Esmeralda</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
+    <value>Rumo ao Sonho Esmeralda:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
     <value>Apenas Turista</value>
@@ -4894,12 +4903,12 @@
     <value>CAMARADA</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
-    <value>Played Dragons</value>
+    <value>Dragões Jogados</value>
   </data>
   <data name="Counter_FriendlyMinionsDiedThisGame" xml:space="preserve">
-    <value>Friendly Minions That Died</value>
+    <value>Lacaios Aliados Mortos</value>
   </data>
   <data name="Counter_Imbue" xml:space="preserve">
-    <value>Imbue</value>
+    <value>Intensificar</value>
   </data>
 </root>
