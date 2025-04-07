@@ -2626,7 +2626,7 @@
     <value>만약 도움이 되지 않았다면, "안내 보기" 버튼을 눌러 수동으로 업데이트 하는 방법을 확인하세요.</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
-    <value>Unable to connect to Hearthstone</value>
+    <value>하스스톤에 연결할 수 없습니다</value>
   </data>
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
@@ -3574,7 +3574,7 @@
     <value>황폐한 아웃랜드</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>턴 카운트 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>전장 플레이가 시작될 때 영웅 정보 보기</value>
@@ -4663,7 +4663,7 @@
     <value>뭔가 잘못 되었습니다 :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show available minion types</value>
+    <value>사용 가능한 하수인 종족 보기</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
     <value>사용 가능한 하수인</value>
@@ -4720,13 +4720,13 @@
     <value>Show Trinket picking stats</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
-    <value>Show counters</value>
+    <value>카운트 보기</value>
   </data>
   <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>These counters use the old layout and will be removed in a future version.</value>
+    <value>이 카운트들은 이전 레이아웃을 사용하며 향후 버전에서는 제거됩니다.</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
-    <value>Enable old layout counters</value>
+    <value>이전 레이아웃 카운트 활성화</value>
   </data>
   <data name="Counter_ElementalTurnSequence" xml:space="preserve">
     <value>Elemental Turn Sequence</value>
@@ -4741,7 +4741,7 @@
     <value>성서 비용 감소</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
-    <value>Played Spell Schools</value>
+    <value>낸 주문 속성</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
     <value>사용한 주문</value>
@@ -4828,7 +4828,7 @@
     <value>Show Example Boards</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
-    <value>Protoss Minions Cost Reduction</value>
+    <value>프로토스 하수인 비용 감소</value>
   </data>
   <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
     <value>영웅 선택 기다리는 중</value>
@@ -4903,12 +4903,12 @@
     <value>전우</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
-    <value>Played Dragons</value>
+    <value>낸 용족</value>
   </data>
   <data name="Counter_FriendlyMinionsDiedThisGame" xml:space="preserve">
     <value>죽은 아군 하수인들</value>
   </data>
   <data name="Counter_Imbue" xml:space="preserve">
-    <value>Imbue</value>
+    <value>연마</value>
   </data>
 </root>
