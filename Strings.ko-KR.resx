@@ -703,7 +703,7 @@
     <value>전장 공격 카운터 보기</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>활성화된 효과 표시</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>덱을 수직 방향으로 가운데 정렬</value>
@@ -733,7 +733,7 @@
     <value>전장 공격 카운터 보기</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>활성화된 효과 표시</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>덱을 수직 방향으로 가운데 정렬</value>
@@ -4081,7 +4081,7 @@
     <value>세션 초기화를 클릭하면 이전 게임 리스트가 초기화 되며, 시작 평점이 현재 평점으로 변경됩니다.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>최근 8번의 게임이 여기에 표시됩니다.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>초기화</value>
@@ -4687,19 +4687,19 @@
     <value>극한의 극락</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>끝없는 어둠</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GreatDarkBeyond" xml:space="preserve">
-    <value>Great Dark Beyond</value>
+    <value>끝없는 어둠</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>에메랄드의 꿈 속으로</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>에메랄드의 꿈 속으로</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream:</value>
+    <value>에메랄드의 꿈 속으로:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
     <value>Tourist Only</value>
@@ -4792,7 +4792,7 @@
     <value>핵심 카드</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>추가 카드</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
     <value>When to Commit</value>
@@ -4831,7 +4831,7 @@
     <value>Protoss Minions Cost Reduction</value>
   </data>
   <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
-    <value>Waiting for Hero Pick</value>
+    <value>영웅 선택 기다리는 중</value>
   </data>
   <data name="Battlegrounds_Guides_NoGuideAvailable" xml:space="preserve">
     <value>No Guide Available</value>
@@ -4906,7 +4906,7 @@
     <value>Played Dragons</value>
   </data>
   <data name="Counter_FriendlyMinionsDiedThisGame" xml:space="preserve">
-    <value>Friendly Minions That Died</value>
+    <value>죽은 아군 하수인들</value>
   </data>
   <data name="Counter_Imbue" xml:space="preserve">
     <value>Imbue</value>
