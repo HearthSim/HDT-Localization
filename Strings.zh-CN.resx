@@ -4693,13 +4693,13 @@
     <value>深暗领域</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>漫游翡翠梦境</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>漫游翡翠梦境</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream:</value>
+    <value>漫游翡翠梦境：</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Tourist" xml:space="preserve">
     <value>只显示游客卡</value>
@@ -4910,5 +4910,8 @@
   </data>
   <data name="Counter_Imbue" xml:space="preserve">
     <value>灌注</value>
+  </data>
+  <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
+    <value>显示最大资源 (生命值，法力水晶，手牌上限...)</value>
   </data>
 </root>
