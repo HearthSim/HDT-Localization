@@ -4779,6 +4779,21 @@
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
     <value>亡灵攻击加成</value>
   </data>
+  <data name="Counter_ElementalExtraStats" xml:space="preserve">
+    <value>元素额外增益</value>
+  </data>
+  <data name="Counter_ElementalTavernBuff" xml:space="preserve">
+    <value>元素酒馆增益</value>
+  </data>
+  <data name="Counter_FreeRefresh" xml:space="preserve">
+    <value>免费刷新次数</value>
+  </data>
+  <data name="Counter_GoldNextTurn" xml:space="preserve">
+    <value>下回合额外的铸币</value>
+  </data>
+  <data name="Counter_TavernSpellsBuff" xml:space="preserve">
+    <value>酒馆法术额外增益</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>所有流派指南</value>
   </data>
