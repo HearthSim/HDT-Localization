@@ -4929,4 +4929,7 @@
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
     <value>显示最大资源 (生命值，法力水晶，手牌上限...)</value>
   </data>
+    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+    <value>Cards Played This Turn</value>
+  </data>
 </root>
