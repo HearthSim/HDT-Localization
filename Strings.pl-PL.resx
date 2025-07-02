@@ -693,12 +693,6 @@
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>Przezroczystość okna sekretów:</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Pokaż licznik C'Thuna:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Pokaż licznik zaklęć (Yogg):</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Pokaż całkowitą wartość ataku na planszy</value>
   </data>
@@ -722,12 +716,6 @@
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>Przezroczystość:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Pokaż licznik C'Thuna:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Pokaż licznik rzuconych zaklęć (Yogg):</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Pokaż całkowitą wartość ataku na planszy</value>
@@ -2757,12 +2745,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>Ciemne zaułki Gadżetonu</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Pokaż siłę Jade Golemów:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Pokaż siłę Jade Golemów:</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Usuń użyte sekrety z listy</value>
   </data>
@@ -3432,12 +3414,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>Projekt Hukatomba</value>
   </data>
-  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>Pokaż licznik Kicoskoczka:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>Pokaż licznik Kicoskoczka:</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Rozróba Rastakana".</value>
   </data>
@@ -3548,12 +3524,6 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>Pokaż licznik Galakronda:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>Pokaż licznik Galakronda:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>Talia zawiera karty z przygody "Przebudzenie Galakronda".</value>
@@ -3873,14 +3843,8 @@
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan (Poradnik)</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>Pokaż licznik redukcji kosztu Libram:</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>Zjednoczeni w Wichrogrodzie:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>Pokaż licznik redukcji kosztu Libram:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>Oczekiwanie na etap zakupów</value>
@@ -4112,12 +4076,6 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>Podsumowanie sesji</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Pokaż licznik Klątwy Głębin:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Pokaż licznik Klątwy Głębin:</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>Oczekiwanie na następną grę</value>
@@ -4491,9 +4449,6 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>Finałowe starcie na Bezludziu:</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
-  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Zwykły</value>
   </data>
@@ -4505,9 +4460,6 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>Legendarny</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>Subscribed?</value>
@@ -4526,9 +4478,6 @@
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
     <value>Subscribed to HSReplay.net</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>Moc tajemna</value>
@@ -4556,9 +4505,6 @@
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>-</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Witamy</value>
@@ -4722,9 +4668,6 @@
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>Show counters</value>
   </data>
-  <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>These counters use the old layout and will be removed in a future version.</value>
-  </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>Enable old layout counters</value>
   </data>
@@ -4797,9 +4740,6 @@
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
-  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
-  </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>How to Play</value>
   </data>
@@ -4929,7 +4869,7 @@
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
     <value>Show Max Resources (Health, Mana, Hand Size...)</value>
   </data>
-    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+  <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
   </data>
 </root>
