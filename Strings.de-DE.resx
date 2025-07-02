@@ -697,7 +697,7 @@
     <value>Spielfeld-Angriffszähler anzeigen</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>Aktive Effekte anzeigen</value>
   </data>
   <data name="Options_Overlay_Opponent_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
@@ -721,7 +721,7 @@
     <value>Spielfeld-Angriffszähler anzeigen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_ActiveEffects" xml:space="preserve">
-    <value>Show active effects</value>
+    <value>Aktive Effekte anzeigen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_CenterVertically" xml:space="preserve">
     <value>Deck vertikal zentrieren</value>
@@ -3493,10 +3493,10 @@
     <value>Venomous</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>Kampfschrei</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>Wählt aus</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
     <value>End Of Turn</value>
@@ -3505,16 +3505,16 @@
     <value>Start Of Combat</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>Wiederkehr</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>Magnetisch</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>Zauber</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>Partner</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>Vor {0} Zug/Zügen</value>
@@ -3544,7 +3544,7 @@
     <value>Ruinen der Scherbenwelt</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>Zugzähler anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Heldenbenachrichtigung bei Beginn einer Runde Schlachtfeld anzeigen</value>
@@ -3652,7 +3652,7 @@
     <value>Konnte keine aussagekräftigen Ergebnisse ermitteln</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForTeammates" xml:space="preserve">
-    <value>Waiting For Teammates...</value>
+    <value>Warte auf Teammitglieder...</value>
   </data>
   <data name="BobsBuddyStatusMessage_WaitingForCombat" xml:space="preserve">
     <value>Warte auf Kampf...</value>
@@ -3913,7 +3913,7 @@
     <value>Task {0}: {1}</value>
   </data>
   <data name="MercenariesTaskList_TaskCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Abgeschlossen!</value>
   </data>
   <data name="Options_Overlay_Mercenaries_CheckBox_Tasks" xml:space="preserve">
     <value>Show Tasks panel while in Mercenaries mode</value>
@@ -3970,7 +3970,7 @@
     <value>First Place</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
-    <value>Avg Place</value>
+    <value>⌀-Plazierung</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
@@ -3982,13 +3982,13 @@
     <value>Enable session recap overlay</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsBanned" xml:space="preserve">
-    <value>Show banned minion types</value>
+    <value>Gebannte Dienertypen anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMMR" xml:space="preserve">
-    <value>Show start and current MMR</value>
+    <value>Start- und aktuelles MMR anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowLatestGames" xml:space="preserve">
-    <value>Show latest games played this session</value>
+    <value>Letzte Partie der Sitzung anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowExternalWindow" xml:space="preserve">
     <value>Show session recap window</value>
@@ -4006,7 +4006,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>Keine Spiele in dieser Sitzung gespielt.</value>
+    <value>Keine Partien in dieser Sitzung gespielt.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}.</value>
@@ -4132,7 +4132,7 @@
     <value>Marsch des Lichkönigs</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show Hero picking stats</value>
+    <value>Statistiken zur Heldenauswahl anzeigen</value>
   </data>
   <data name="BattlegroundsHeroPicking_PlacementDistribution_NoData" xml:space="preserve">
     <value>Keine Platzierungsdaten</value>
@@ -4201,10 +4201,10 @@
     <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Sign in to HSReplay.net to access Pick Rates, Average Placements, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
-    <value>Subscribe to Tier7 to unlock unlimited usage.</value>
+    <value>Abonniere Tier7 für unbegrenzten Zugang.</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Header" xml:space="preserve">
     <value>Tier7-Schlachtfeld-Overlay</value>
@@ -4276,7 +4276,7 @@
     <value>No data available. Please check back later.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowQuestPickingStats" xml:space="preserve">
-    <value>Show Quest picking stats</value>
+    <value>Statistiken zur Questauswahl anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
     <value>Show Comp stats (in session recap)</value>
@@ -4306,22 +4306,22 @@
     <value>Something went wrong :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Show gameplay overlay while Hearthstone is in the background</value>
+    <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund läuft</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
     <value>Show menu overlay while Hearthstone is in the background</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
-    <value>Gameplay-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
+    <value>Gameplay-Overlay anzeigen, während Hearthstone im Hintergrund läuft</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
     <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_EnableTier7" xml:space="preserve">
-    <value>Enable Tier7 overlay</value>
+    <value>Tier7-Overlay aktivieren</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_ShowTier7PreLobby" xml:space="preserve">
-    <value>Show Tier7 in menu (MMR &amp; stats)</value>
+    <value>Tier7-Menü-Overlay anzeigen (MMR &amp; Statistiken)</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Tier7" xml:space="preserve">
     <value>Tier7</value>
@@ -4609,7 +4609,7 @@
     <value>Something went wrong :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
-    <value>Show available minion types</value>
+    <value>Verfügbare Dienertypen anzeigen</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
     <value>Verfügbare Diener</value>
@@ -4654,7 +4654,7 @@
     <value>Deck is missing Tourist card.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
-    <value>Always show Tavern Tier 7</value>
+    <value>Gasthausstufe 7 immer anzeigen</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
     <value>HIDE TRINKET STATS</value>
@@ -4663,10 +4663,10 @@
     <value>SHOW TRINKET STATS</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
-    <value>Show Trinket picking stats</value>
+    <value>Statistiken zur Schmuckstückauswahl anzeigen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
-    <value>Show counters</value>
+    <value>Zähler anzeigen</value>
   </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>Enable old layout counters</value>
@@ -4675,19 +4675,19 @@
     <value>Elemental Turn Sequence</value>
   </data>
   <data name="Counter_ExcavateTier" xml:space="preserve">
-    <value>Excavate Tier</value>
+    <value>Ausgraben-Stufe</value>
   </data>
   <data name="Counter_Fatigue" xml:space="preserve">
-    <value>Fatigue</value>
+    <value>Erschöpfung</value>
   </data>
   <data name="Counter_LibramCostReduction" xml:space="preserve">
     <value>Libram Cost Reduction</value>
   </data>
   <data name="Counter_PlayedSpellSchools" xml:space="preserve">
-    <value>Played Spell Schools</value>
+    <value>Gespielte Zaubertypen</value>
   </data>
   <data name="Counter_PlayedSpells" xml:space="preserve">
-    <value>Played Spells</value>
+    <value>Gespielte Zauber</value>
   </data>
   <data name="Counter_SelfDamage" xml:space="preserve">
     <value>Self Damage</value>
@@ -4795,7 +4795,7 @@
     <value>Favorable Minions</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
-    <value>Show Minions and Guides Browser</value>
+    <value>Diener und Ratgeber anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>Show Hero and Comp Guides</value>
@@ -4810,7 +4810,7 @@
     <value>Mechaniken</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
-    <value>Highlight synergies in the deck</value>
+    <value>Synergien im Deck anzeigen</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
     <value>DEMON</value>
@@ -4858,16 +4858,16 @@
     <value>BUDDY</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
-    <value>Played Dragons</value>
+    <value>Gespielte Drachen</value>
   </data>
   <data name="Counter_FriendlyMinionsDiedThisGame" xml:space="preserve">
     <value>Friendly Minions That Died</value>
   </data>
   <data name="Counter_Imbue" xml:space="preserve">
-    <value>Imbue</value>
+    <value>Erfüllen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
-    <value>Show Max Resources (Health, Mana, Hand Size...)</value>
+    <value>Show maximum Health, Mana, and Hand Size</value>
   </data>
   <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
