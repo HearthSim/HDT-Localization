@@ -4797,9 +4797,6 @@
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
-  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
-  </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>How to Play</value>
   </data>
@@ -4929,7 +4926,7 @@
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
     <value>Show Max Resources (Health, Mana, Hand Size...)</value>
   </data>
-    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+  <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
   </data>
 </root>
