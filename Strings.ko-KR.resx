@@ -693,12 +693,6 @@
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>비밀 불투명도:</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>크툰 카운터 보기:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>주문 카운터 보기:</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>전장 공격 카운터 보기</value>
   </data>
@@ -722,12 +716,6 @@
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>불투명도:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>크툰 카운터 보기:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>주문 카운터 보기:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>전장 공격 카운터 보기</value>
@@ -2757,12 +2745,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>비열한 거리의 가젯잔</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>비취 골렘 스택 보기:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>비취 골렘 스택 보기:</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>확인된 비밀 지우기</value>
   </data>
@@ -3432,12 +3414,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>박사 붐의 폭심만만 프로젝트</value>
   </data>
-  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>토깽이 콩콩 카운터 보기:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>토깽이 콩콩 카운터 보기:</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>덱에 라스타칸의 대난투 확장팩 카드가 포함되어 있습니다.</value>
   </data>
@@ -3548,12 +3524,6 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>갈라크론드 카운터 보기:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>갈라크론드 카운터 보기:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>덱에 갈라크론드의 부활 모험 카드가 포함되어 있습니다.</value>
@@ -3873,14 +3843,8 @@
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 멀리건 가이드</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>성서 비용 감소 카운터 보기:</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>스톰윈드:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>성서 비용 감소 카운터 보기:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>구매가 끝나길 기다리는 중</value>
@@ -4113,12 +4077,6 @@
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>세션 요약</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>심해의 저주 카운터 보기:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>심해의 저주 카운터 보기:</value>
-  </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>다음 게임을 기다리는 중</value>
   </data>
@@ -4243,7 +4201,7 @@
     <value>방어도 티어가 높은 영웅일수록 더 달성하기 쉬운 퀘스트들이 제안됩니다.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>HSReplay.net에 로그인하여 영웅 선택 비율, 평균 순위, 방어도 티어 등을 확인하세요!</value>
+    <value>Sign in to HSReplay.net to access Pick Rates, Average Placements, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>7티어 무제한 사용을 위해 구독하세요.</value>
@@ -4491,9 +4449,6 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>황야의 땅 결투:</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>발굴 등급 보기</value>
-  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>공용</value>
   </data>
@@ -4505,9 +4460,6 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>전설</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>발굴 횟수 보기</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>구독 중이신가요?</value>
@@ -4526,9 +4478,6 @@
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
     <value>HSReplay.net 구독하기</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>신비</value>
@@ -4556,9 +4505,6 @@
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>없음</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>주문 속성 카운터 보기:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>환영합니다</value>
@@ -4722,9 +4668,6 @@
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>카운트 보기</value>
   </data>
-  <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>이 카운트들은 이전 레이아웃을 사용하며 향후 버전에서는 제거됩니다.</value>
-  </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>이전 레이아웃 카운트 활성화</value>
   </data>
@@ -4797,9 +4740,6 @@
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
-  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
-  </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>플레이 방법</value>
   </data>
@@ -4927,9 +4867,9 @@
     <value>연마</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
-    <value>Show Max Resources (Health, Mana, Hand Size...)</value>
+    <value>Show maximum Health, Mana, and Hand Size</value>
   </data>
-    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+  <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
   </data>
 </root>
