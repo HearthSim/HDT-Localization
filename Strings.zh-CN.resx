@@ -693,12 +693,6 @@
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>奥秘不透明度：</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>克苏恩计数器：</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>法术（尤格萨隆）计数器：</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
   </data>
@@ -722,12 +716,6 @@
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>不透明度：</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>克苏恩计数器：</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>法术（尤格萨隆）计数器：</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>显示场攻计数器</value>
@@ -2757,12 +2745,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>龙争虎斗加基森</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>青玉魔像计数器：</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>青玉魔像计数器：</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>隐藏被排除的奥秘</value>
   </data>
@@ -3432,12 +3414,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>砰砰计划</value>
   </data>
-  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>蹦蹦兔计数器：</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>蹦蹦兔计数器：</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>包含“拉斯塔哈的大乱斗”系列的卡牌。</value>
   </data>
@@ -3548,12 +3524,6 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>显示顶部标签浏览器</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>迦拉克隆计数器：</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>迦拉克隆计数器：</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>包含“迦拉克隆的觉醒”冒险模式的卡牌。</value>
@@ -3873,14 +3843,8 @@
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 换牌指南</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>显示圣契减费计数器：</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>暴风城下的集结：</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>显示圣契减费计数器：</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>等待招募阶段</value>
@@ -4113,12 +4077,6 @@
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>时段回顾</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>显示深渊诅咒计数器：</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>显示深渊诅咒计数器：</value>
-  </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>等待下次对局</value>
   </data>
@@ -4243,7 +4201,7 @@
     <value>更高护甲等级的英雄提供更容易完成的任务。</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>登录到 HSReplay.net 以访问英雄选择率，平均排名，护甲等级等！</value>
+    <value>登录到 HSReplay.net 查看选取率，平均排名等信息！</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>订阅Tier7以解锁无限制的使用。</value>
@@ -4491,9 +4449,6 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>决战荒芜之地：</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>显示发掘层级：</value>
-  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>普通</value>
   </data>
@@ -4505,9 +4460,6 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>传说</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>显示发掘计数器：</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>已订阅？</value>
@@ -4526,9 +4478,6 @@
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
     <value>订阅到 HSReplay.net</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>显示法术派系计数器：</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>奥术</value>
@@ -4556,9 +4505,6 @@
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>无</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>显示法术派系计数器：</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>欢迎</value>
@@ -4722,9 +4668,6 @@
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>显示计数器</value>
   </data>
-  <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>这些计数器使用旧的布局，并将在未来的版本中删除。</value>
-  </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>启用旧的布局计数器</value>
   </data>
@@ -4797,9 +4740,6 @@
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>所有流派指南</value>
   </data>
-  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>所有流派指南</value>
-  </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>玩法说明</value>
   </data>
@@ -4927,9 +4867,9 @@
     <value>灌注</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
-    <value>显示最大资源 (生命值，法力水晶，手牌上限...)</value>
+    <value>显示最大生命值、法力水晶和手牌上限</value>
   </data>
-    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+  <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>本回合使用的卡牌</value>
   </data>
 </root>
