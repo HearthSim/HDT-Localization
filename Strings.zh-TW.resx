@@ -693,12 +693,6 @@
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>秘密不透明度:</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>顯示克蘇恩計算器:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>顯示法術計算器:</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>顯示場攻計算器:</value>
   </data>
@@ -722,12 +716,6 @@
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>不透明度:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>顯示克蘇恩計算器:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>顯示法術計算器:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>顯示場攻計算器:</value>
@@ -2757,12 +2745,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>黑街英雄之加基森風雲:</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>翠玉魔像計數器:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>翠玉魔像計數器:</value>
-  </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>移除灰色的秘密</value>
   </data>
@@ -3432,12 +3414,6 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Boomsday" xml:space="preserve">
     <value>爆爆計畫</value>
   </data>
-  <data name="Options_Overlay_Player_Label_PogoHopper" xml:space="preserve">
-    <value>顯示蹦蹦兔計數器:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_PogoHopper" xml:space="preserve">
-    <value>顯示蹦蹦兔計數器:</value>
-  </data>
   <data name="DeckSetIcons_Tooltip_Trolls" xml:space="preserve">
     <value>套牌包含《拉斯塔哈大混戰》的卡片。</value>
   </data>
@@ -3548,12 +3524,6 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Galakrond" xml:space="preserve">
-    <value>顯示葛拉克朗計數器:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Galakrond" xml:space="preserve">
-    <value>顯示葛拉克朗計數器:</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
     <value>套牌包含《葛拉克朗的覺醒》冒險篇章的卡片。</value>
@@ -3873,14 +3843,8 @@
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 選牌攻略</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Libram" xml:space="preserve">
-    <value>顯示聖契降費計數器:</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
     <value>United in Stormwind:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Libram" xml:space="preserve">
-    <value>顯示聖契降費計數器:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>等待招募階段</value>
@@ -4113,12 +4077,6 @@
   <data name="Options_Overlay_Battlegrounds_Group_Label" xml:space="preserve">
     <value>Session Recap</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Abyssal_Curse" xml:space="preserve">
-    <value>Show Abyssal Curse counter:</value>
-  </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
     <value>等待下一場對戰</value>
   </data>
@@ -4243,7 +4201,7 @@
     <value>Higher armor tier heroes are offered quests with easier completion requirements.</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Top" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Hero Pick Rates, Average Placements, Armor Tiers, and more!</value>
+    <value>Sign in to HSReplay.net to access Pick Rates, Average Placements, and more!</value>
   </data>
   <data name="BattlegroundsPreLobby_AnonymousTooltip_Bottom" xml:space="preserve">
     <value>Subscribe to Tier7 to unlock unlimited usage.</value>
@@ -4491,9 +4449,6 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands:</value>
   </data>
-  <data name="Options_Overlay_Player_Label_Excavate_Tier" xml:space="preserve">
-    <value>Show Excavate tier:</value>
-  </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>普通</value>
   </data>
@@ -4505,9 +4460,6 @@
   </data>
   <data name="Counter_Excavate_Tier3" xml:space="preserve">
     <value>傳說</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Excavate" xml:space="preserve">
-    <value>Show Excavate counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_AlreadySubscribed" xml:space="preserve">
     <value>Subscribed?</value>
@@ -4526,9 +4478,6 @@
   </data>
   <data name="Options_HSReplay_Account_Subscription_Bundle" xml:space="preserve">
     <value>Subscribed to HSReplay.net</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
   </data>
   <data name="Spell_School_Arcane" xml:space="preserve">
     <value>Arcane</value>
@@ -4556,9 +4505,6 @@
   </data>
   <data name="Counter_Spell_School_None" xml:space="preserve">
     <value>無</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Spell_Schools" xml:space="preserve">
-    <value>Show Spell School counter:</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Welcome" xml:space="preserve">
     <value>Welcome</value>
@@ -4722,9 +4668,6 @@
   <data name="Options_Overlay_Player_CheckBox_Counters" xml:space="preserve">
     <value>Show counters</value>
   </data>
-  <data name="Options_Overlay_Label_DeprecatedWotogsWarning" xml:space="preserve">
-    <value>These counters use the old layout and will be removed in a future version.</value>
-  </data>
   <data name="Options_Overlay_Checkbox_EnableWotogs" xml:space="preserve">
     <value>Enable old layout counters</value>
   </data>
@@ -4797,9 +4740,6 @@
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
-  <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
-  </data> 
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>How to Play</value>
   </data>
@@ -4927,9 +4867,9 @@
     <value>Imbue</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
-    <value>Show Max Resources (Health, Mana, Hand Size...)</value>
+    <value>Show maximum Health, Mana, and Hand Size</value>
   </data>
-    <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
+  <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
   </data>
 </root>
