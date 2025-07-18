@@ -4888,27 +4888,42 @@
     <value>Willkommen</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_DraftsRemaining" xml:space="preserve">
-    <value>Drafts remaining:</value>
+    <value>Verbleibend:</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_Title" xml:space="preserve">
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_JoinForMore" xml:space="preserve">
-    <value>Join Premium to get unlimited access.</value>
+    <value>Abonniere Premium, um unbegrenzten Zugriff zu erhalten.</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_SubscribeNow" xml:space="preserve">
-    <value>Subscribe Now</value>
+    <value>Jetzt abonnieren</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_ViewArenaStats" xml:space="preserve">
-    <value>View Arena Card Stats</value>
+    <value>Arena-Statistiken anzeigen</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_ThanksForSubscribing" xml:space="preserve">
-    <value>Thanks for subscribing to Premium!</value>
+    <value>Danke, dass du ein Premium-Abonnent bis!</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_SubscriptionBenefit" xml:space="preserve">
-    <value>Your subscription gives you unlimited access to Arenasmith.</value>
+    <value>Dein Abo gibt dir unbegrenzten Zugang zu Arenasmith.</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_Join" xml:space="preserve">
-    <value>Join Premium to get access.</value>
+    <value>Abonniere Premium, um Zugriff zu erhalten.</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
+    <value>Has related cards</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
+    <value>Additional information available</value>
+  </data>
+  <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
+    <value>Improves, or is improved by, cards in your deck</value>
+  </data>
+  <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
+    <value>Gewinnrate</value>
+  </data>
+  <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
+    <value>Picked</value>
   </data>
 </root>
