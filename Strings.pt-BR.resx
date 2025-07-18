@@ -3547,7 +3547,7 @@
     <value>Mostrar contador de turnos</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Mostrar notificação do herói ao iníciar uma partida nos Campos de Batalha</value>
+    <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>Turno {0}</value>
@@ -3778,7 +3778,7 @@
     <value>Delírios em Negraluna</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Mostrar Contador de Experiência</value>
+    <value>Show experience progress</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>Turno</value>
@@ -3811,7 +3811,7 @@
     <value>Deck contém cards da expansão Caverna Ululante.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Mostrar notificação de mulligan no início do jogo em modo ranqueado</value>
+    <value>Show mulligan stats notification in Traditional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Deck contém cards do conjunto Legado.</value>
@@ -4647,7 +4647,7 @@
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
     <value>Rumo ao Sonho Esmeralda:</value>
   </data>
-    <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>The Lost City of Un'Goro</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
