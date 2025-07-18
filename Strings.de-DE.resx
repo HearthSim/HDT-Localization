@@ -4537,7 +4537,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Du kannst das Tier7-Overlay kostenlos für eine begrenzte Anzahl an Partien nutzen.</value>
+    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4925,5 +4925,8 @@
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
     <value>Picked</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
   </data>
 </root>
