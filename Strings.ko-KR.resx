@@ -4537,7 +4537,7 @@
     <value>마지막 전투 (한 명 보이지 않음)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>무료로 제한된 횟수의 7티어 사용이 가능합니다.</value>
+    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>웹사이트에 없음</value>
@@ -4925,5 +4925,8 @@
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
     <value>Picked</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
   </data>
 </root>
