@@ -3547,7 +3547,7 @@
     <value>Zugzähler anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Heldenbenachrichtigung bei Beginn einer Runde Schlachtfeld anzeigen</value>
+    <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0}. Zug</value>
@@ -3778,7 +3778,7 @@
     <value>Dunkelmond-Wahnsinn</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show Experience Counter</value>
+    <value>Show experience progress</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>Zug</value>
@@ -3811,7 +3811,7 @@
     <value>Deck contains cards from the Wailing Caverns expansion.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan notification at start of Constructed game</value>
+    <value>Show mulligan stats notification in Traditional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Deck contains cards from the Legacy set.</value>
@@ -4537,7 +4537,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Du kannst das Tier7-Overlay kostenlos für eine begrenzte Anzahl an Partien nutzen.</value>
+    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4647,7 +4647,7 @@
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
     <value>Into the Emerald Dream:</value>
   </data>
-    <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>The Lost City of Un'Goro</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
@@ -4880,5 +4880,56 @@
   </data>
   <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_Loading" xml:space="preserve">
+    <value>Wird geladen...</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_Welcome" xml:space="preserve">
+    <value>Willkommen</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_DraftsRemaining" xml:space="preserve">
+    <value>Verbleibend:</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_Title" xml:space="preserve">
+    <value>Arenasmith</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_JoinForMore" xml:space="preserve">
+    <value>Abonniere Premium, um unbegrenzten Zugriff zu erhalten.</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_SubscribeNow" xml:space="preserve">
+    <value>Jetzt abonnieren</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_ViewArenaStats" xml:space="preserve">
+    <value>Arena-Statistiken anzeigen</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_ThanksForSubscribing" xml:space="preserve">
+    <value>Danke, dass du ein Premium-Abonnent bis!</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_SubscriptionBenefit" xml:space="preserve">
+    <value>Dein Abo gibt dir unbegrenzten Zugang zu Arenasmith.</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_Join" xml:space="preserve">
+    <value>Abonniere Premium, um Zugriff zu erhalten.</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
+    <value>Has related cards</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
+    <value>Additional information available</value>
+  </data>
+  <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
+    <value>Improves, or is improved by, cards in your deck</value>
+  </data>
+  <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
+    <value>Gewinnrate</value>
+  </data>
+  <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
+    <value>Picked</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
+  </data>
+  <data name="ArenaPick_Message_Error" xml:space="preserve">
+    <value>Something went wrong :(</value>
   </data>
 </root>
