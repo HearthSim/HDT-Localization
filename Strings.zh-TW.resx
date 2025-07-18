@@ -3547,7 +3547,7 @@
     <value>Show turn counter</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>在英雄戰場開始時顯示英雄通知</value>
+    <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>回合{0}</value>
@@ -3778,7 +3778,7 @@
     <value>暗月馬戲團</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>顯示經驗值計數器</value>
+    <value>Show experience progress</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>回合</value>
@@ -3811,7 +3811,7 @@
     <value>套牌包含《哀嚎洞穴》的卡片。</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>在遊戲起手時顯示換牌通知</value>
+    <value>Show mulligan stats notification in Traditional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>套牌包含傳承系列的卡片。</value>
@@ -4647,7 +4647,7 @@
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
     <value>Into the Emerald Dream:</value>
   </data>
-    <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>The Lost City of Un'Goro</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
