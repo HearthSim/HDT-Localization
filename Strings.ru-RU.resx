@@ -4911,4 +4911,19 @@
   <data name="ArenaPreLobby_SubscriptionPanel_Join" xml:space="preserve">
     <value>Join Premium to get access.</value>
   </data>
+  <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
+    <value>Has related cards</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
+    <value>Additional information available</value>
+  </data>
+  <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
+    <value>Improves, or is improved by, cards in your deck</value>
+  </data>
+  <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
+    <value>Доля побед</value>
+  </data>
+  <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
+    <value>Picked</value>
+  </data>
 </root>
