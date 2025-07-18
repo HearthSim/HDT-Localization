@@ -3547,7 +3547,7 @@
     <value>턴 카운트 보기</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>전장 플레이가 시작될 때 영웅 정보 보기</value>
+    <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0}턴</value>
@@ -3778,7 +3778,7 @@
     <value>다크문 축제</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>경험치 보기</value>
+    <value>Show experience progress</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>턴</value>
@@ -3811,7 +3811,7 @@
     <value>덱에 통곡의 동굴 확장팩 카드가 포함되어 있습니다.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>사용자 구성 덱으로 게임이 시작될 때 멀리건 알림 표시</value>
+    <value>Show mulligan stats notification in Traditional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>덱에 고전 세트 카드가 포함되어 있습니다.</value>
@@ -4647,7 +4647,7 @@
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
     <value>에메랄드의 꿈 속으로:</value>
   </data>
-    <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>The Lost City of Un'Goro</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
