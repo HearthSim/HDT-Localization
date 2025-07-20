@@ -373,16 +373,16 @@
     <value>Hier klicken zum Updaten</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>Update wird heruntergeladen…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
     <value>Update wird installiert…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>Update auf die neueste Version fehlgeschlagen</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
-    <value>Download on HSReplay.net</value>
+    <value>Auf HSReplay.net herunterladen</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
     <value>Hearthstone / Launcher starten</value>
@@ -3490,7 +3490,7 @@
     <value>Todesröcheln</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>Toxisch</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
     <value>Kampfschrei</value>
@@ -3925,10 +3925,10 @@
     <value>Gespalten im Alteractal:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Gespalten im Alteractal</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Alterac" xml:space="preserve">
-    <value>Fractured in Alterac Valley</value>
+    <value>Gespalten im Alteractal</value>
   </data>
   <data name="DeckSetIcons_Tooltip_SunkenCity" xml:space="preserve">
     <value>Deck contains cards from the Voyage to the Sunken City expansion.</value>
