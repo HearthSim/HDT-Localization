@@ -4933,7 +4933,7 @@
     <value>Что-то пошло не так :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
-    <value>Top Cards</value>
+    <value>Cards to look out for</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
     <value>Related Cards:</value>
@@ -4975,7 +4975,7 @@
     <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowClassImpactfulCards" xml:space="preserve">
-    <value>Show Class Most Impactful Cards</value>
+    <value>Show Cards to look out for in a class</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Show Arenasmith Scores</value>
@@ -4984,6 +4984,6 @@
     <value>Show Related Cards</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>Show Synergies in Deck</value>
+    <value>Show Synergies in your Deck</value>
   </data>
 </root>
