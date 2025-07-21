@@ -4962,4 +4962,28 @@
   <data name="ArenaPreLobby_StatusPanel_ArenasmithLoading" xml:space="preserve">
     <value>Loading Arenasmith Ratings…</value>
   </data>
+  <data name="Options_Overlay_Arena_Header" xml:space="preserve">
+    <value>闘技場</value>
+  </data>
+  <data name="Options_Overlay_Arena_Label_Arenasmith" xml:space="preserve">
+    <value>Arenasmith</value>
+  </data>
+  <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
+    <value>Enable Arenasmith</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
+    <value>Show Hero picking stats</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowClassImpactfulCards" xml:space="preserve">
+    <value>Show Class Most Impactful Cards</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
+    <value>Show Arenasmith Scores</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
+    <value>Show Related Cards</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
+    <value>Show Synergies in Deck</value>
+  </data>
 </root>
