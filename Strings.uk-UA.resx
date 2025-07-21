@@ -681,12 +681,6 @@
   <data name="Options_Overlay_Opponent_LabelSecretOpacity" xml:space="preserve">
     <value>Прозорість секретів:</value>
   </data>
-  <data name="Options_Overlay_Opponent_Label_Cthun" xml:space="preserve">
-    <value>Рахувати силу К'туна:</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Yogg" xml:space="preserve">
-    <value>Рахувати закляття:</value>
-  </data>
   <data name="Options_Overlay_Opponent_CheckBox_Attack" xml:space="preserve">
     <value>Рахувати силу атаки істот на полі</value>
   </data>
@@ -707,12 +701,6 @@
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>Прозорість:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Cthun" xml:space="preserve">
-    <value>Рахувати силу К'туна:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Yogg" xml:space="preserve">
-    <value>Рахувати закляття:</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Attack" xml:space="preserve">
     <value>Рахувати силу атаки на полі</value>
@@ -2349,9 +2337,6 @@
   <data name="PlayerWindow_Title" xml:space="preserve">
     <value>Гравець</value>
   </data>
-  <data name="Overlay_DeckList_Label_Fatigue" xml:space="preserve">
-    <value>Наступний хід завдасть шкоди від віснаження колоди на:</value>
-  </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>Супротивник</value>
   </data>
@@ -2726,12 +2711,6 @@
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Msg" xml:space="preserve">
     <value>Перчене місто Прибамбаск</value>
-  </data>
-  <data name="Options_Overlay_Opponent_Label_Jade" xml:space="preserve">
-    <value>Рахувати силу нефритових големів:</value>
-  </data>
-  <data name="Options_Overlay_Player_Label_Jade" xml:space="preserve">
-    <value>Рахувати силу нефритових големів:</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_RemoveSecrets" xml:space="preserve">
     <value>Видаляти виключені секрети</value>
