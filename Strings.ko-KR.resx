@@ -4950,4 +4950,16 @@
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
     <value>Suggested Discard</value>
   </data>
+  <data name="ArenaPreLobby_StatusPanel_ArenasmithRatings" xml:space="preserve">
+    <value>Arenasmith Ratings</value>
+  </data>
+  <data name="ArenaPreLobby_StatusPanel_AvailableTooltip" xml:space="preserve">
+    <value>Arenasmith is up-to-date and ready to rate cards in Arena drafts.</value>
+  </data>
+  <data name="ArenaPreLobby_StatusPanel_UnavailableTooltip" xml:space="preserve">
+    <value>Arenasmith is still gathering data for the current Arena meta and will be available soon.</value>
+  </data>
+  <data name="ArenaPreLobby_StatusPanel_ArenasmithLoading" xml:space="preserve">
+    <value>Loading Arenasmith Ratings…</value>
+  </data>
 </root>
