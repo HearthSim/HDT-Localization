@@ -4932,4 +4932,22 @@
   <data name="ArenaPick_Message_Error" xml:space="preserve">
     <value>뭔가 잘못 되었습니다 :(</value>
   </data>
+  <data name="ArenaPick_ClassTopCards" xml:space="preserve">
+    <value>Top Cards</value>
+  </data>
+  <data name="ArenaPick_RelatedCards" xml:space="preserve">
+    <value>Related Cards:</value>
+  </data>
+  <data name="ArenaPick_SynergyImprove" xml:space="preserve">
+    <value>{0} improves {1}</value>
+  </data>
+  <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
+    <value>No Related Cards</value>
+  </data>
+  <data name="ArenaPick_SortedByWinrate" xml:space="preserve">
+    <value>Sorted by Winrate</value>
+  </data>
+  <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
+    <value>Suggested Discard</value>
+  </data>
 </root>
