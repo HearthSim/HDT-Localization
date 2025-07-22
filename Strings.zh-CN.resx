@@ -5020,13 +5020,13 @@
     <value>卡池：{0} （+{1} 可生成）</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>在接下来的{0}张牌中发现 [1/2/3]的概率：{1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>联动不足：在剩下的{0}张选牌中，难以获得足够联动</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>重复卡牌：将会导致{0}被禁用</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
     <value>Duplicate: Lowers chance of battlecry for {0}</value>
