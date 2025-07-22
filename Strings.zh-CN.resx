@@ -4942,10 +4942,10 @@
     <value>显示套牌中的卡牌联动</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
-    <value>Show Arenasmith in Arena Menu</value>
+    <value>在竞技模式中显示 Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
-    <value>Show redraft discard suggestions</value>
+    <value>显示重选弃牌建议</value>
   </data>
   <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
     <value>Arenasmith</value>
@@ -4954,7 +4954,7 @@
     <value>加载中…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
-    <value>Preparing Draft Ratings…</value>
+    <value>正在加载选牌评分…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
     <value>Arenasmith is still gathering data for the current meta. Check back soon!</value>
@@ -5039,5 +5039,11 @@
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
     <value>Quest: This card helps to complete your {0} quest</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
+    <value>Tavern Tickets</value>
+  </data>
+  <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
+    <value>Tavern Tickets</value>
   </data>
 </root>
