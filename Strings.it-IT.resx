@@ -5011,13 +5011,13 @@
     <value>Deck: {0}</value>
   </data>
     <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} generated)</value>
+    <value>Deck: {0} (+{1} that can generate)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
     <value>Pool: {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} generated)</value>
+    <value>Pool: {0} (+{1} that can generate)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
     <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
