@@ -5029,13 +5029,13 @@
     <value>重复卡牌：将会导致{0}被禁用</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>重复卡牌：将降低{0}的战吼触发几率</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>高频出现卡牌：后续可能发现重复卡牌</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>超稀有：这张卡只在{0}%的选牌中出现过</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
     <value>Quest: This card helps to complete your {0} quest</value>
