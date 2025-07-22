@@ -4537,7 +4537,7 @@
     <value>最终战斗（1名玩家未出现）</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>在限定次数对局中免费体验内嵌Tier7会员，我们会不定期赠送您更多。</value>
+    <value>在限定次数对局中免费体验内嵌Tier7会员，我们会定期赠送您更多。</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>不在站点</value>
@@ -4897,7 +4897,7 @@
     <value>选取率</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>在限定次数对局中免费体验Arenasmith，我们会不定期赠送您更多。</value>
+    <value>在限定次数对局中免费体验Arenasmith，我们会定期赠送您更多。</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
     <value>发生了某些错误 :(</value>
@@ -4909,7 +4909,7 @@
     <value>相关卡牌：</value>
   </data>
   <data name="ArenaPick_SynergyImprove" xml:space="preserve">
-    <value>{0} 增强了 {1}</value>
+    <value>{0} 搭配 {1}</value>
   </data>
   <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
     <value>没有相关卡牌</value>
@@ -4957,7 +4957,7 @@
     <value>正在加载选牌评分…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
-    <value>Arenasmith is still gathering data for the current meta. Check back soon!</value>
+    <value>Arenasmith 仍在收集当前竞技模式环境数据，请稍后再来！</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
     <value>加入会员即可使用。</value>
@@ -4966,19 +4966,19 @@
     <value>立即订阅</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate offered cards and heroes.</value>
+    <value>Arenasmith 已更新，可用于卡牌和英雄评分推荐。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>重置</value>
+    <value>重置于</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>Your Arenasmith trial is active for this draft.</value>
+    <value>本次选牌中已启用 Arenasmith 试用。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
     <value>加入会员即可获取无限制的使用。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>Join Premium now to get access to Arenasmith for this and future drafts.</value>
+    <value>立即加入会员，即可在本次及后续选牌中使用 Arenasmith。</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
     <value>已订阅？</value>
@@ -4996,22 +4996,22 @@
     <value>剩余可用次数：</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
-    <value>在限定次数对局中免费体验Arenasmith，我们会不定期赠送您更多。</value>
+    <value>在限定次数对局中免费体验Arenasmith，我们会定期赠送您更多。</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
-    <value>查看竞技模式卡牌数据</value>
+    <value>查看竞技模式卡牌统计</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>搭配卡牌：{0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
-    <value>Ideal number in winning decks: {0}</value>
+    <value>高胜率套牌中的最佳数量：{0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
-    <value>Deck: {0}</value>
+    <value>套牌：{0}</value>
   </data>
     <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} that can generate)</value>
+    <value>套牌：{0} (+{1} 可生成)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
     <value>Pool: {0}</value>
@@ -5041,9 +5041,15 @@
     <value>Quest: This card helps to complete your {0} quest</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>Tickets</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
     <value>Tavern Tickets</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
+    <value>Crowds Favors:</value>
+  </data>
+  <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
+    <value>Crowds Favors</value>
   </data>
 </root>
