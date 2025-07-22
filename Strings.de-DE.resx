@@ -4974,9 +4974,6 @@
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
     <value>Statistiken zur Heldenauswahl anzeigen</value>
   </data>
-  <data name="Options_Overlay_Arena_CheckBox_ShowClassImpactfulCards" xml:space="preserve">
-    <value>Show Cards to look out for in a class</value>
-  </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Show Arenasmith Scores</value>
   </data>
@@ -4985,5 +4982,11 @@
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
     <value>Show Synergies in your Deck</value>
+  </data>
+  <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
+    <value>Show Arenasmith in Arena Menu</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
+    <value>Show redraft discard suggestions</value>
   </data>
 </root>
