@@ -4881,36 +4881,6 @@
   <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>Cards Played This Turn</value>
   </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_Loading" xml:space="preserve">
-    <value>Chargement...</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_Welcome" xml:space="preserve">
-    <value>Bienvenue</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_DraftsRemaining" xml:space="preserve">
-    <value>Drafts remaining:</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_Title" xml:space="preserve">
-    <value>Arenasmith</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_JoinForMore" xml:space="preserve">
-    <value>Join Premium to get unlimited access.</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_SubscribeNow" xml:space="preserve">
-    <value>Subscribe Now</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_ViewArenaStats" xml:space="preserve">
-    <value>View Arena Card Stats</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_ThanksForSubscribing" xml:space="preserve">
-    <value>Thanks for subscribing to Premium!</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_SubscriptionBenefit" xml:space="preserve">
-    <value>Your subscription gives you unlimited access to Arenasmith.</value>
-  </data>
-  <data name="ArenaPreLobby_SubscriptionPanel_Join" xml:space="preserve">
-    <value>Join Premium to get access.</value>
-  </data>
   <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
     <value>Has related cards</value>
   </data>
@@ -4949,18 +4919,6 @@
   </data>
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
     <value>Suggested Discard</value>
-  </data>
-  <data name="ArenaPreLobby_StatusPanel_ArenasmithRatings" xml:space="preserve">
-    <value>Arenasmith Ratings</value>
-  </data>
-  <data name="ArenaPreLobby_StatusPanel_AvailableTooltip" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate cards in Arena drafts.</value>
-  </data>
-  <data name="ArenaPreLobby_StatusPanel_UnavailableTooltip" xml:space="preserve">
-    <value>Arenasmith is still gathering data for the current Arena meta and will be available soon.</value>
-  </data>
-  <data name="ArenaPreLobby_StatusPanel_ArenasmithLoading" xml:space="preserve">
-    <value>Loading Arenasmith Ratings…</value>
   </data>
   <data name="Options_Overlay_Arena_Header" xml:space="preserve">
     <value>Arène</value>
