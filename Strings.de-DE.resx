@@ -5001,4 +5001,37 @@
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
     <value>Arena-Statistiken anzeigen</value>
   </data>
+  <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
+    <value>Synergizes with: {0}</value>
+  </data>
+  <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
+    <value>Ideal number in winning decks: {0}</value>
+  </data>
+  <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
+    <value>Deck: {0} (+{1} generated)</value>
+  </data>
+  <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
+    <value>Pool: {0} (+{1} generated)</value>
+  </data>
+  <data name="ArenaPick_Message_Odds" xml:space="preserve">
+    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+  </data>
+  <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
+    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+  </data>
+  <data name="ArenaPick_Message_Highlander" xml:space="preserve">
+    <value>Duplicate: Will disable {0}</value>
+  </data>
+  <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
+    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+  </data>
+  <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
+    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+  </data>
+  <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
+    <value>Super Rare: This card appears in {0}% of drafts</value>
+  </data>
+  <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
+    <value>Quest: This card helps to complete your {0} quest</value>
+  </data>
 </root>
