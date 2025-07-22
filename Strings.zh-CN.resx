@@ -4974,9 +4974,6 @@
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
     <value>显示英雄选择统计</value>
   </data>
-  <data name="Options_Overlay_Arena_CheckBox_ShowClassImpactfulCards" xml:space="preserve">
-    <value>显示该职业关键卡牌</value>
-  </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>显示 Arenasmith 评分</value>
   </data>
@@ -4985,5 +4982,11 @@
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
     <value>显示套牌中的卡牌联动</value>
+  </data>
+  <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
+    <value>Show Arenasmith in Arena Menu</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
+    <value>Show redraft discard suggestions</value>
   </data>
 </root>
