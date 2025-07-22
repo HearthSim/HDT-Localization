@@ -5008,9 +5008,15 @@
     <value>Ideal number in winning decks: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
+    <value>Deck: {0}</value>
+  </data>
+    <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
     <value>Deck: {0} (+{1} generated)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
+    <value>Pool: {0}</value>
+  </data>
+  <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
     <value>Pool: {0} (+{1} generated)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
