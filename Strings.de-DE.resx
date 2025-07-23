@@ -4837,7 +4837,7 @@
     <value>Zusätzliche Informationen verfügbar</value>
   </data>
   <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
-    <value>Improves, or is improved by, cards in your deck</value>
+    <value>Verbessert oder wird durch Karten im Deck verbessert</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
     <value>Gewinnrate</value>
@@ -4852,7 +4852,7 @@
     <value>Etwas ist schiefgegangen :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
-    <value>Cards to look for</value>
+    <value>Zu suchende Karten</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
     <value>Verwandte Karten:</value>
@@ -4867,7 +4867,7 @@
     <value>Nach Gewinnrate sortiert</value>
   </data>
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
-    <value>Suggested Discard</value>
+    <value>Empfohlener Abwurf</value>
   </data>
   <data name="Options_Overlay_Arena_Header" xml:space="preserve">
     <value>Arena</value>
@@ -4876,25 +4876,25 @@
     <value>Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
-    <value>Enable Arenasmith</value>
+    <value>Arenasmith aktivieren</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
     <value>Statistiken zur Heldenauswahl anzeigen</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
-    <value>Show Arenasmith Scores</value>
+    <value>Arenasmith-Bewertungen anzeigen</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
-    <value>Show Related Cards</value>
+    <value>Verwandte Karten anzeigen</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>Show Synergies in your Deck</value>
+    <value>Synergien in deinem Deck anzeigen</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
-    <value>Show Arenasmith in Arena Menu</value>
+    <value>Arenasmith im Arena-Menü anzeigen</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
-    <value>Show redraft discard suggestions</value>
+    <value>Abwurf-Empfehlungen bei Deckänderung anzeigen</value>
   </data>
   <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
     <value>Arenasmith</value>
@@ -4903,10 +4903,10 @@
     <value>Wird geladen…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
-    <value>Preparing Draft Ratings…</value>
+    <value>Deckbau-Bewertungen werden vorbereitet…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
-    <value>Arenasmith is still gathering data for the current meta. Check back soon!</value>
+    <value>Arenasmith sammelt noch Daten für das aktuelle Meta. Schau nachher nochmal vorbei!</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
     <value>Abonniere Premium, um Zugriff zu erhalten.</value>
@@ -4915,19 +4915,19 @@
     <value>Jetzt abonnieren</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate offered cards and heroes.</value>
+    <value>Arenasmith ist aktuell und bereit, angebotene Karten und Helden bei der Arena-Deckerstellung zu bewerten.</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
     <value>Wird zurückgesetzt in</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>Your Arenasmith trial is active for this draft.</value>
+    <value>Deine Arenasmith-Testphase ist für diesen Deckbau aktiv.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
     <value>Abonniere Premium, um unbegrenzten Zugriff zu erhalten.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>Join Premium now to get access to Arenasmith for this and future drafts.</value>
+    <value>Tritt jetzt Premium bei, um Zugriff auf Arenasmith für diesen und zukünftige Deckbauten zu haben.</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
     <value>Abonnent?</value>
@@ -4951,7 +4951,7 @@
     <value>Arena-Statistiken anzeigen</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>Synergiert mit: {0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
     <value>Ideal number in winning decks: {0}</value>
