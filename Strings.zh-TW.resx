@@ -1272,18 +1272,6 @@
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
     <value>平均:</value>
   </data>
-  <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
-    <value>花費:</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>粉塵:</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
-    <value>總計:</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
-    <value>平均:</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
     <value>卡包:</value>
   </data>
@@ -1337,9 +1325,6 @@
   </data>
   <data name="Stats_Arena_Runs_Table_Gold" xml:space="preserve">
     <value>金幣</value>
-  </data>
-  <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>魔塵</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>卡包</value>
@@ -1439,33 +1424,6 @@
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
     <value>最少使用</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>德魯伊</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
-    <value>獵人</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>法師</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>聖騎士</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
-    <value>牧師</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>盜賊</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>薩滿</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
-    <value>術士</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
-    <value>戰士</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
     <value>勝率</value>
@@ -1668,17 +1626,11 @@
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
     <value>可輸入值 例如50+125</value>
   </data>
-  <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>魔塵</value>
-  </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
     <value>卡包</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>卡片</value>
-  </data>
-  <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>付款方式</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>金幣</value>
@@ -3558,9 +3510,6 @@
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Battlegrounds</value>
   </data>
-  <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>惡魔獵人</value>
-  </data>
   <data name="DemonHunter" xml:space="preserve">
     <value>惡魔獵人</value>
   </data>
@@ -5010,7 +4959,7 @@
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
     <value>Deck: {0}</value>
   </data>
-    <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
+  <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
     <value>Deck: {0} (+{1} that can generate)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
