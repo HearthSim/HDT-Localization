@@ -1272,18 +1272,6 @@
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
     <value>Durchschnitt:</value>
   </data>
-  <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
-    <value>Ausgegeben:</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Staub</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
-    <value>Gesamt:</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
-    <value>Durchschnitt:</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
     <value>Packungen</value>
   </data>
@@ -1337,9 +1325,6 @@
   </data>
   <data name="Stats_Arena_Runs_Table_Gold" xml:space="preserve">
     <value>Gold</value>
-  </data>
-  <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Staub</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Packungen</value>
@@ -1439,33 +1424,6 @@
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
     <value>Seltensten gewähltes</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>Druide</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
-    <value>Jäger</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>Magier</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
-    <value>Priester</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>Schurke</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>Schamane</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
-    <value>Hexenmeister</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
-    <value>Krieger</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
     <value>Gewinnrate</value>
@@ -1668,17 +1626,11 @@
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
     <value>Du kannst Werte wie z.B. 50+125 eingeben</value>
   </data>
-  <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Staub</value>
-  </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
     <value>Packungen</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>Karten</value>
-  </data>
-  <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>Zahlungsmethode</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>Gold</value>
@@ -3558,9 +3510,6 @@
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Schlachtfeld</value>
   </data>
-  <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>Dämonenjäger</value>
-  </data>
   <data name="DemonHunter" xml:space="preserve">
     <value>Dämonenjäger</value>
   </data>
@@ -5010,7 +4959,7 @@
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
     <value>Deck: {0}</value>
   </data>
-    <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
+  <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
     <value>Deck: {0} (+{1} that can generate)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
