@@ -1272,11 +1272,8 @@
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
     <value>平均：</value>
   </data>
-  <data name="Stats_Arena_Rewards_Label_Gold_Spent" xml:space="preserve">
-    <value>花费：</value>
-  </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>奥术之尘</value>
+    <value>Dust</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>总计：</value>
@@ -1339,7 +1336,7 @@
     <value>金币</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>奥术之尘</value>
+    <value>Dust</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>卡包</value>
@@ -1439,33 +1436,6 @@
   </data>
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
     <value>最少使用</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>德魯伊</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
-    <value>猎人</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>法师</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>圣骑士</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
-    <value>牧师</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Rogue" xml:space="preserve">
-    <value>潜行者</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Shaman" xml:space="preserve">
-    <value>萨满祭司</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warlock" xml:space="preserve">
-    <value>术士</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Warrior" xml:space="preserve">
-    <value>战士</value>
   </data>
   <data name="Stats_Constructed_Charts_Label_Winrate" xml:space="preserve">
     <value>胜率</value>
@@ -1668,17 +1638,11 @@
   <data name="ArenaRewards_Label_Gold_Tooltip" xml:space="preserve">
     <value>你可以输入形如“50+125”的值</value>
   </data>
-  <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>奥术之尘</value>
-  </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
     <value>卡包</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>卡牌</value>
-  </data>
-  <data name="ArenaRewards_Label_PaymentMethod" xml:space="preserve">
-    <value>入场费付款方法</value>
   </data>
   <data name="ArenaRewards_Payment_Label_Gold" xml:space="preserve">
     <value>金币</value>
@@ -3547,7 +3511,7 @@
     <value>显示回合计数器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>在酒馆战棋对局开始时显示英雄提示</value>
+    <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>第{0}回合</value>
@@ -3557,9 +3521,6 @@
   </data>
   <data name="Toast_Battlegrounds_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 酒馆战棋</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_DemonHunter" xml:space="preserve">
-    <value>恶魔猎手</value>
   </data>
   <data name="DemonHunter" xml:space="preserve">
     <value>恶魔猎手</value>
@@ -3778,7 +3739,7 @@
     <value>疯狂的暗月马戏团</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>显示经验计数器</value>
+    <value>Show experience progress</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>回合</value>
@@ -3811,7 +3772,7 @@
     <value>包含“哀嚎洞穴”系列的卡牌。</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>在构筑模式对局开始时显示换牌提示</value>
+    <value>Show mulligan stats notification in Traditional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>包含“怀旧”系列的卡牌。</value>
@@ -4537,7 +4498,7 @@
     <value>最终战斗（1名玩家未出现）</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>你可以在有限次数内免费试用Tier7内嵌。</value>
+    <value>在限定次数对局中免费体验内嵌Tier7会员，我们会定期赠送您更多。</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>不在站点</value>
@@ -4647,7 +4608,7 @@
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
     <value>漫游翡翠梦境：</value>
   </data>
-    <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
+  <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>安戈洛龟途</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
@@ -4880,5 +4841,179 @@
   </data>
   <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
     <value>本回合使用的卡牌</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
+    <value>有相关卡牌</value>
+  </data>
+  <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
+    <value>额外信息可用</value>
+  </data>
+  <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
+    <value>与套牌中卡牌有增益效果</value>
+  </data>
+  <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
+    <value>胜率</value>
+  </data>
+  <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
+    <value>选取率</value>
+  </data>
+  <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>在限定次数对局中免费体验Arenasmith，我们会定期赠送您更多。</value>
+  </data>
+  <data name="ArenaPick_Message_Error" xml:space="preserve">
+    <value>发生了某些错误 :(</value>
+  </data>
+  <data name="ArenaPick_ClassTopCards" xml:space="preserve">
+    <value>Cards to look for</value>
+  </data>
+  <data name="ArenaPick_RelatedCards" xml:space="preserve">
+    <value>相关卡牌：</value>
+  </data>
+  <data name="ArenaPick_SynergyImprove" xml:space="preserve">
+    <value>{0} 搭配 {1}</value>
+  </data>
+  <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
+    <value>没有相关卡牌</value>
+  </data>
+  <data name="ArenaPick_SortedByWinrate" xml:space="preserve">
+    <value>按胜率牌序</value>
+  </data>
+  <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
+    <value>建议弃牌</value>
+  </data>
+  <data name="Options_Overlay_Arena_Header" xml:space="preserve">
+    <value>竞技模式</value>
+  </data>
+  <data name="Options_Overlay_Arena_Label_Arenasmith" xml:space="preserve">
+    <value>Arenasmith</value>
+  </data>
+  <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
+    <value>启用 Arenasmith</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
+    <value>显示英雄选择统计</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
+    <value>显示 Arenasmith 评分</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
+    <value>显示相关卡牌</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
+    <value>显示套牌中的卡牌联动</value>
+  </data>
+  <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
+    <value>在竞技模式中显示 Arenasmith</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
+    <value>显示重选弃牌建议</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
+    <value>Arenasmith</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
+    <value>加载中…</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
+    <value>正在加载选牌评分…</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
+    <value>Arenasmith 仍在收集当前竞技模式环境数据，请稍后再来！</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
+    <value>加入会员即可使用。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_SubscribeNow" xml:space="preserve">
+    <value>立即订阅</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
+    <value>Arenasmith 已更新，可用于卡牌和英雄评分推荐。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
+    <value>重置于</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
+    <value>本次选牌中已启用 Arenasmith 试用。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
+    <value>加入会员即可获取无限制的使用。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
+    <value>立即加入会员，即可在本次及后续选牌中使用 Arenasmith。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
+    <value>已订阅？</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
+    <value>感谢您订阅会员！</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_TrialDraftsRemaining" xml:space="preserve">
+    <value>剩余可用次数：</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
+    <value>在限定次数对局中免费体验Arenasmith，我们会定期赠送您更多。</value>
+  </data>
+  <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
+    <value>查看竞技模式卡牌统计</value>
+  </data>
+  <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
+    <value>搭配卡牌：{0}</value>
+  </data>
+  <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
+    <value>高胜率套牌中的最佳数量：{0}</value>
+  </data>
+  <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
+    <value>套牌：{0}</value>
+  </data>
+  <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
+    <value>套牌：{0} （+{1} 可生成）</value>
+  </data>
+  <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
+    <value>卡池：{0}</value>
+  </data>
+  <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
+    <value>卡池：{0} （+{1} 可生成）</value>
+  </data>
+  <data name="ArenaPick_Message_Odds" xml:space="preserve">
+    <value>在接下来的{0}张牌中发现 [1/2/3]的概率：{1}%/{2}%/{3}%</value>
+  </data>
+  <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
+    <value>联动不足：在剩下的{0}张选牌中，难以获得足够联动</value>
+  </data>
+  <data name="ArenaPick_Message_Highlander" xml:space="preserve">
+    <value>重复卡牌：将会导致{0}被禁用</value>
+  </data>
+  <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
+    <value>重复卡牌：将降低{0}的战吼触发几率</value>
+  </data>
+  <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
+    <value>高频出现卡牌：后续可能发现重复卡牌</value>
+  </data>
+  <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
+    <value>超稀有：这张卡只在{0}%的选牌中出现过</value>
+  </data>
+  <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
+    <value>任务：此卡可以帮助你完成你的{0}任务</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
+    <value>Tickets</value>
+  </data>
+  <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
+    <value>Tavern Tickets</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
+    <value>Crowd's Favors:</value>
+  </data>
+  <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
+    <value>Crowd's Favor</value>
+  </data>
+  <data name="ArenaRewards_Label_Dust" xml:space="preserve">
+    <value>Dust</value>
   </data>
 </root>
