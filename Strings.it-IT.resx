@@ -1272,6 +1272,15 @@
   <data name="Stats_Arena_Rewards_Label_Gold_Average" xml:space="preserve">
     <value>Media:</value>
   </data>
+  <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
+    <value>Dust</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
+    <value>Totale:</value>
+  </data>
+  <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
+    <value>Media:</value>
+  </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
     <value>Pacchetti</value>
   </data>
@@ -1325,6 +1334,9 @@
   </data>
   <data name="Stats_Arena_Runs_Table_Gold" xml:space="preserve">
     <value>Oro</value>
+  </data>
+  <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
+    <value>Dust</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Pacchetti</value>
