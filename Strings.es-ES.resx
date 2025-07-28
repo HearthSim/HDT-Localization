@@ -4978,40 +4978,40 @@
     <value>Bolsa: {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} that can generate)</value>
+    <value>Bolsa: {0} (+{1} que puede generar)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>Probabilidad de encontrar [1/2/3] en siguiente {0}: {1} %/{2} %/{3} %</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>Sinergia baja: Baja probabilidad de obtener sinergias suficientes con {0} elecciones restantes</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>Duplicado: Se deshabilitará {0}</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>Duplicado: Disminuye la probabilidad de grito de batalla en {0}</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>Tarjeta ofrecida frecuentemente: Aumenta la probabilidad de encontrar un duplicado más tarde</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>Superrara: Esta carta aparece en el {0} % de los drafts</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>Quest: This card helps to complete your {0} quest</value>
+    <value>Misión: Esta carta ayuda a completar tu misión {0}</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>Entradas</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>Entradas para la taberna</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>Favores de la multitud:</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>Favor de la multitud</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>Polvo</value>
