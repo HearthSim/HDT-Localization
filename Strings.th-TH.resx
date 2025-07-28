@@ -1273,13 +1273,13 @@
     <value>Average:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>ฝุ่น</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
-    <value>Total:</value>
+    <value>ทั้งหมด:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
-    <value>Average:</value>
+    <value>เฉลี่ย:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
     <value>Packs</value>
@@ -1336,7 +1336,7 @@
     <value>Gold</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>ฝุ่น</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Packs</value>
@@ -4498,7 +4498,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
+    <value>ลองใช้โอเวอร์เลย์ Tier7 ได้ฟรีในจำนวนเกมที่จำกัด และเราจะมอบจำนวนเพิ่มเติมให้คุณเป็นระยะ ๆ</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4849,7 +4849,7 @@
     <value>Additional information available</value>
   </data>
   <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
-    <value>Improves, or is improved by, cards in your deck</value>
+    <value>ช่วยเสริม หรือได้รับการเสริมจากการ์ดในเด็คของคุณ</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
     <value>Winrate</value>
@@ -5014,6 +5014,6 @@
     <value>Crowd's Favor</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>ฝุ่น</value>
   </data>
 </root>
