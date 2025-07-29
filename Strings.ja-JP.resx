@@ -4498,7 +4498,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Tier7 オーバーレイを限定回数まで無料で試せます！定期的に追加で使えるようになります。</value>
+    <value>Tier7オーバーレイを限定数の試合で無料体験できます！その後も定期的に追加でプレゼントします。</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4858,10 +4858,10 @@
     <value>ピック率</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Arenasmith を限定数のドラフトで無料体験！その後も定期的に追加で使えます。</value>
+    <value>Arenasmithを限定数のドラフトで無料体験できます！その後も定期的に追加でプレゼントします。</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>何かうまくいきませんでした :(</value>
+    <value>問題が発生しました</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>狙い目カード</value>
@@ -4870,13 +4870,13 @@
     <value>関連カード：</value>
   </data>
   <data name="ArenaPick_SynergyImprove" xml:space="preserve">
-    <value>{0} は {1} を強化します</value>
+    <value>{0}は{1}を強化します</value>
   </data>
   <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
     <value>関連カードなし</value>
   </data>
   <data name="ArenaPick_SortedByWinrate" xml:space="preserve">
-    <value>勝率順にソート</value>
+    <value>勝率順</value>
   </data>
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
     <value>破棄候補</value>
@@ -4888,13 +4888,13 @@
     <value>Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
-    <value>Arenasmith を有効化</value>
+    <value>Arenasmithを有効化</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
     <value>ヒーロー選択統計を表示</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
-    <value>Arenasmith スコアを表示</value>
+    <value>Arenasmithスコアを表示</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
     <value>関連カードを表示</value>
@@ -4903,7 +4903,7 @@
     <value>デッキ内のシナジーを表示</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
-    <value>アリーナメニューに Arenasmith を表示</value>
+    <value>アリーナメニューにArenasmithを表示</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
     <value>再ドラフトの破棄候補を表示</value>
@@ -4918,7 +4918,7 @@
     <value>ドラフト評価を準備中…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
-    <value>現在のメタ情報を収集中です。もうしばらくお待ちください！</value>
+    <value>現在のメタに関する情報を収集中です。もうしばらくお待ちください！</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
     <value>プレミアム加入で利用できます。</value>
@@ -4927,19 +4927,19 @@
     <value>今すぐ加入</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith は最新の状態です。カードとヒーローを評価できます。</value>
+    <value>Arenasmithは最新の状態です。カードとヒーローを評価できます。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>リセットまで</value>
+    <value>リセットまであと</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>このドラフトでは Arenasmith 無料体験が有効です。</value>
+    <value>このドラフトではArenasmith無料体験が有効です。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
     <value>プレミアム加入で無制限に利用できます。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>今すぐプレミアム加入して、今回と今後のドラフトで Arenasmith を使おう。</value>
+    <value>今すぐプレミアム加入して、今回と今後のドラフトでArenasmithを使いましょう。</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
     <value>すでに加入済み？</value>
@@ -4951,19 +4951,19 @@
     <value>更新</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
-    <value>プレミアム加入ありがとう！</value>
+    <value>プレミアムに加入していただきありがとうございます！</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining" xml:space="preserve">
     <value>残りドラフト数：</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
-    <value>Arenasmith を限定数のドラフトで無料体験！その後も定期的に追加で使えます。</value>
+    <value>Arenasmithを限定数のドラフトで無料体験できます！その後も定期的に追加でプレゼントします。</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
     <value>アリーナカード統計を表示</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>{0} とシナジー</value>
+    <value>シナジー効果：{0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
     <value>勝利デッキの理想枚数：{0}</value>
@@ -4972,34 +4972,34 @@
     <value>デッキ：{0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>デッキ：{0} （+生成可能 {1} 枚）</value>
+    <value>デッキ：{0}（+{1}枚生成可能）</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
     <value>プール：{0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>プール：{0} （+生成可能 {1} 枚）</value>
+    <value>プール：{0}（+{1}枚生成可能）</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>次の {0} 回で [1/2/3] を引く確率：{1}%／{2}%／{3}%</value>
+    <value>次の{0}回で [1/2/3] を引く確率：{1}%／{2}%／{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>シナジー不足：残り {0} ピックで十分なシナジーを揃えるのは難しい</value>
+    <value>シナジー不足：残り{0}ピックで十分なシナジーを揃えるのは難しい</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>重複制限：{0} を無効化</value>
+    <value>重複制限：{0}を無効化</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>重複制限：{0} の雄叫び成功率低下</value>
+    <value>重複制限：{0}の雄叫び成功率低下</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
     <value>頻出カード：後で重複を引く確率が上昇</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>超レア：このカードはドラフトの {0}% に登場</value>
+    <value>超レア：このカードはドラフトの{0}%に登場</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>クエスト：{0} クエストの達成に貢献</value>
+    <value>クエスト：{0}任务の達成に貢献</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
     <value>チケット</value>
