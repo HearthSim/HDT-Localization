@@ -1273,7 +1273,7 @@
     <value>Średnio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Pył</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Całość:</value>
@@ -1336,7 +1336,7 @@
     <value>Złoto</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Pył</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Pakiety</value>
@@ -4498,7 +4498,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
+    <value>Wypróbuj nakładkę POZIOM7 za darmo przez ograniczoną liczbę gier, a okresowo damy Ci więcej.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4843,19 +4843,19 @@
     <value>Cards Played This Turn</value>
   </data>
   <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
-    <value>Has related cards</value>
+    <value>Ma powiązane karty</value>
   </data>
   <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
-    <value>Additional information available</value>
+    <value>Dostępne są dodatkowe informacje</value>
   </data>
   <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
-    <value>Improves, or is improved by, cards in your deck</value>
+    <value>Poprawia karty w talii lub jest przez nie poprawiana</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
     <value>Ogólny współczynnik zwycięstw</value>
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
-    <value>Picked</value>
+    <value>Wybrano</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
@@ -5014,6 +5014,6 @@
     <value>Crowd's Favor</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Pył</value>
   </data>
 </root>
