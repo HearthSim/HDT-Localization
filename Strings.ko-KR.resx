@@ -4984,7 +4984,7 @@
     <value>다음 {0}에서 [1/2/3]을 찾을 확률: {1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>시너지 부족: 남은 {0}번의 선택으로는 충분한 시너지를 획득할 확률이 낮음</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
     <value>Duplicate: Will disable {0}</value>
