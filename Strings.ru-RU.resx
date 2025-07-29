@@ -1273,7 +1273,7 @@
     <value>В среднем:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Пыль</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Всего:</value>
@@ -1336,7 +1336,7 @@
     <value>Золото</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Пыль</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Комплекты</value>
@@ -4498,7 +4498,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
+    <value>Попробуйте интерфейс Tier7 бесплатно в определенном количестве игр — мы будем периодически давать вам больше попыток.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4843,28 +4843,28 @@
     <value>Cards Played This Turn</value>
   </data>
   <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
-    <value>Has related cards</value>
+    <value>Есть связанные карты</value>
   </data>
   <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
-    <value>Additional information available</value>
+    <value>Доступна дополнительная информация</value>
   </data>
   <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
-    <value>Improves, or is improved by, cards in your deck</value>
+    <value>Улучшает карты в вашей колоде или улучшается ими</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
     <value>Доля побед</value>
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
-    <value>Picked</value>
+    <value>Выбирают</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
+    <value>Попробуйте Arenasmith бесплатно в определенном количестве драфтов — мы будем периодически давать вам больше попыток.</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
     <value>Что-то пошло не так :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
-    <value>Cards to look for</value>
+    <value>Карты для поиска</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
     <value>Related Cards:</value>
@@ -4957,7 +4957,7 @@
     <value>Drafts remaining:</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
-    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
+    <value>Попробуйте Arenasmith бесплатно в определенном количестве драфтов — мы будем периодически давать вам больше попыток.</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
     <value>View Arena Card Stats</value>
@@ -5014,6 +5014,6 @@
     <value>Crowd's Favor</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Пыль</value>
   </data>
 </root>
