@@ -4858,7 +4858,7 @@
     <value>選擇率</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>在次數有限的選秀中免費體驗 Arenasmith！我們之後還會定期為你送上更多驚喜。</value>
+    <value>在次數有限的選牌中免費體驗 Arenasmith！我們之後還會定期為你送上更多驚喜。</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
     <value>發生錯誤 :(</value>
@@ -4900,13 +4900,13 @@
     <value>顯示相關卡牌</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>顯示牌組中的卡牌聯動</value>
+    <value>顯示牌組中的卡牌組合技</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
     <value>在競技選單中顯示 Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
-    <value>顯示重新選秀棄牌建議</value>
+    <value>顯示重新選牌的棄牌建議</value>
   </data>
   <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
     <value>Arenasmith</value>
@@ -4915,70 +4915,70 @@
     <value>正在載入…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
-    <value>正在準備選秀評等…</value>
+    <value>正在準備選牌評等…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
     <value>Arenasmith 還在收集目前遊戲環境資料。請稍後再返回查看！</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
-    <value>Join Premium to get access.</value>
+    <value>加入尊榮會員即可使用。</value>
   </data>
   <data name="ArenaPreDraft_Panel_SubscribeNow" xml:space="preserve">
-    <value>Subscribe Now</value>
+    <value>立即訂閱</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate offered cards and heroes.</value>
+    <value>Arenasmith 已更新，可為提供的卡牌和英雄進行評等。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>重設倒數：</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>Your Arenasmith trial is active for this draft.</value>
+    <value>已為此選牌啟用 Arenasmith 試用版。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
-    <value>Join Premium to get unlimited access.</value>
+    <value>加入尊榮會員即可無限制使用。</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>Join Premium now to get access to Arenasmith for this and future drafts.</value>
+    <value>立即加入尊榮會員，即可使用 Arenasmith 進行此次和未來的選牌。</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>已訂閱？</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>Sign In</value>
+    <value>登入</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>Refresh</value>
+    <value>重新整理</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
-    <value>Thanks for subscribing to Premium!</value>
+    <value>感謝你訂閱尊榮會員！</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining" xml:space="preserve">
-    <value>Drafts remaining:</value>
+    <value>剩餘選牌次數：</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
-    <value>在次數有限的選秀中免費體驗 Arenasmith！我們之後還會定期為你送上更多驚喜。</value>
+    <value>在次數有限的選牌中免費體驗 Arenasmith！我們之後還會定期為你送上更多驚喜。</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
-    <value>View Arena Card Stats</value>
+    <value>查看競技場卡牌統計數據</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>卡牌組合技：{0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
-    <value>Ideal number in winning decks: {0}</value>
+    <value>獲勝牌組的最佳數量：{0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
-    <value>Deck: {0}</value>
+    <value>牌組：{0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} that can generate)</value>
+    <value>牌組：{0}（可產生 +{1} ）</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
-    <value>Pool: {0}</value>
+    <value>卡牌池：{0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} that can generate)</value>
+    <value>卡牌池：{0}（可產生 +{1} ）</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
     <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
