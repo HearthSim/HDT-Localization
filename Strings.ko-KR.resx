@@ -4900,7 +4900,7 @@
     <value>관련된 카드 표시</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>덱에서의 시너지 표시</value>
+    <value>덱에서 시너지 표시</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
     <value>투기장 메뉴에서 Arenasmith 표시</value>
@@ -4927,7 +4927,7 @@
     <value>지금 구독</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith는 최신 데이터로 제공된 카드와 영웅을 평가할 준비가 되어 있습니다.</value>
+    <value>Arenasmith는 최신 데이터를 사용하여 제공된 카드와 영웅을 평가할 준비가 되어 있습니다.</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
     <value>재설정</value>
@@ -4984,34 +4984,34 @@
     <value>다음 {0}에서 [1/2/3]을 찾을 확률: {1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>시너지 부족: 남은 {0}번의 선택으로는 충분한 시너지를 획득할 확률이 낮음</value>
+    <value>시너지 부족: 남은 {0}번의 선택으로 충분한 시너지를 획득할 확률이 낮음</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>중복: {0} 무효화</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>중복: {0}의 전투의 함성 확률이 낮아짐</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>자주 나오는 카드: 이후에 중복을 찾을 확률이 높아짐</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>매우 희귀: 이 카드는 드래프트의 {0}%에서 나타남</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>Quest: This card helps to complete your {0} quest</value>
+    <value>퀘스트: 이 카드는 {0} 퀘스트 완료에 유용함</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>티켓</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>선술집 티켓</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>구경꾼의 호의:</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>구경꾼의 호의</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>가루</value>
