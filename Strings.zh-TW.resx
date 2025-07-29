@@ -4927,7 +4927,7 @@
     <value>立即訂閱</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith 已更新，可為提供的卡牌和英雄進行評等。</value>
+    <value>Arenasmith 已更新，可為你出的卡牌和英雄進行評等。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
     <value>重設倒數：</value>
@@ -4981,37 +4981,37 @@
     <value>卡牌池：{0}（可產生 +{1} ）</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>在接下來 {0} 中找到 [1/2/3] 的機率：{1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>組合技效果低：剩下 {0} 次選牌，獲得足夠組合技效果的機率較低</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>重複：將停用 {0}</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>複製：降低 {0} 戰吼成功機率</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>常出的卡牌：之後找到重複卡牌的機率變高</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>超稀有：此卡牌在 {0}% 的選牌中出現</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>Quest: This card helps to complete your {0} quest</value>
+    <value>任務：此卡牌能幫你完成你的 {0} 任務</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>票券</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>旅店票券</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>人氣獎：</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>人氣獎</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>魔塵</value>
