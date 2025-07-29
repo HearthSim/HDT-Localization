@@ -4867,19 +4867,19 @@
     <value>Карты для поиска</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
-    <value>Related Cards:</value>
+    <value>Связанные карты:</value>
   </data>
   <data name="ArenaPick_SynergyImprove" xml:space="preserve">
-    <value>{0} improves {1}</value>
+    <value>{0} улучшает карту {1}</value>
   </data>
   <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
-    <value>No Related Cards</value>
+    <value>Нет связанных карт</value>
   </data>
   <data name="ArenaPick_SortedByWinrate" xml:space="preserve">
-    <value>Sorted by Winrate</value>
+    <value>Отсортировано по доле побед</value>
   </data>
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
-    <value>Suggested Discard</value>
+    <value>Рекомендуется сбросить</value>
   </data>
   <data name="Options_Overlay_Arena_Header" xml:space="preserve">
     <value>Арена</value>
@@ -4888,16 +4888,16 @@
     <value>Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
-    <value>Enable Arenasmith</value>
+    <value>Включить Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show Hero picking stats</value>
+    <value>Показать статистику выбора героев</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
-    <value>Show Arenasmith Scores</value>
+    <value>Показать счет Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
-    <value>Show Related Cards</value>
+    <value>Показывать связанные карты</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
     <value>Show Synergies in your Deck</value>
