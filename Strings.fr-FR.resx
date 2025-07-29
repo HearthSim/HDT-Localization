@@ -4972,13 +4972,13 @@
     <value>Deck : {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck : {0} (+{1} pouvant générer)</value>
+    <value>Deck : {0} (+{1} pouvant être généré(s))</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
     <value>Pool : {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool : {0} (+{1} pouvant générer)</value>
+    <value>Pool : {0} (+{1} pouvant être généré(s))</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
     <value>Chances de trouver [1/2/3] dans le prochain {0} : {1} %/{2} %/{3} %</value>
@@ -4996,7 +4996,7 @@
     <value>Carte fréquemment offerte : augmente les chances de trouver un doublon plus tard</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare : cette carte apparaît dans {0} % des drafts</value>
+    <value>Super rare : cette carte apparaît dans {0} % des drafts</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
     <value>Quête : cette carte aide à terminer ta quête {0}</value>
