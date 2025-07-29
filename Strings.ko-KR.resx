@@ -4963,25 +4963,25 @@
     <value>투기장 카드 통계 보기</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>시너지를 내는 카드: {0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
-    <value>Ideal number in winning decks: {0}</value>
+    <value>승률이 좋은 덱에서의 최적 수량: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
-    <value>Deck: {0}</value>
+    <value>덱: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} that can generate)</value>
+    <value>덱: {0} (+생성 가능 {1}장)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
-    <value>Pool: {0}</value>
+    <value>풀: {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} that can generate)</value>
+    <value>풀: {0} (+생성 가능 {1}장)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>다음 {0}에서 [1/2/3]을 찾을 확률: {1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
     <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
