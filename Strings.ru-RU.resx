@@ -4891,22 +4891,22 @@
     <value>Включить Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Показать статистику выбора героев</value>
+    <value>Показывать статистику выбора героев</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
-    <value>Показать счет Arenasmith</value>
+    <value>Показывать результаты Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
     <value>Показывать связанные карты</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>Show Synergies in your Deck</value>
+    <value>Показывать синергию в вашей колоде</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
-    <value>Show Arenasmith in Arena Menu</value>
+    <value>Показывать Arenasmith в меню Арены</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
-    <value>Show redraft discard suggestions</value>
+    <value>Показывать рекомендации по сбросу при повторном драфте</value>
   </data>
   <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
     <value>Arenasmith</value>
@@ -4915,103 +4915,103 @@
     <value>Загрузка…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
-    <value>Preparing Draft Ratings…</value>
+    <value>Идет подготовка рейтинга драфта…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
-    <value>Arenasmith is still gathering data for the current meta. Check back soon!</value>
+    <value>Arenasmith еще собирает данные для текущей меты. Загляните позже!</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
-    <value>Join Premium to get access.</value>
+    <value>Оформите Премиум для получения доступа.</value>
   </data>
   <data name="ArenaPreDraft_Panel_SubscribeNow" xml:space="preserve">
-    <value>Subscribe Now</value>
+    <value>Оформить подписку</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate offered cards and heroes.</value>
+    <value>Arenasmith предагает актуальные рейтинги карт и героев и сведения о них.</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Сброс через</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>Your Arenasmith trial is active for this draft.</value>
+    <value>Для этого драфта действует пробный период Arenasmith.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
-    <value>Join Premium to get unlimited access.</value>
+    <value>Оформите Премиум для неограниченного доступа.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>Join Premium now to get access to Arenasmith for this and future drafts.</value>
+    <value>Оформите подписку Премиум, чтобы получить доступ к Arenasmith для этого и последующих драфтов.</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>Уже подписаны?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
     <value>Войти</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Обновить</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
-    <value>Thanks for subscribing to Premium!</value>
+    <value>Спасибо за оформление Премиум-подписки!</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining" xml:space="preserve">
-    <value>Drafts remaining:</value>
+    <value>Осталось драфтов:</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
     <value>Попробуйте Arenasmith бесплатно в определенном количестве драфтов — мы будем периодически давать вам больше попыток.</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
-    <value>View Arena Card Stats</value>
+    <value>Просмотр статистики карт на Арене</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>Синергия с: {0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
-    <value>Ideal number in winning decks: {0}</value>
+    <value>Идеальное количество в выигрышных колодах: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
-    <value>Deck: {0}</value>
+    <value>Колода: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} that can generate)</value>
+    <value>Колода: {0} (+{1} к созданию)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
-    <value>Pool: {0}</value>
+    <value>Серия: {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} that can generate)</value>
+    <value>Серия: {0} (+{1} к созданию)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>Вероятность найти [1/2/3] в след. {0}: {1}%/{2}%/{3}%</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>Слабая синергия: низкий шанс получения достаточной синергии при оставшемся количестве выборов ({0})</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>Дубликат: отключит {0}</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>Дубликат: понижает шанс боевого клича для {0}</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>Часто предлагаемая карта: увеличивает шанс нахождения дубликата позднее</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>Очень редкая карта: появляется в {0}% драфтов</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>Quest: This card helps to complete your {0} quest</value>
+    <value>Карта задачи: позволяет выполнить задачу {0}</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>Пропуски</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>Пропуски в таверну</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>Любимчики публики:</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>Любимчик публики</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>Пыль</value>
