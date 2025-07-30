@@ -1273,7 +1273,7 @@
     <value>Promedio:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Total:</value>
@@ -1336,7 +1336,7 @@
     <value>Oro</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Paquetes</value>
@@ -4498,7 +4498,7 @@
     <value>Final Combat (1 Player Not Seen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Tier7 overlay for free for a limited number of games, and we'll periodically give you more.</value>
+    <value>Prueba la superposición Tier7 gratis en un número limitado de juegos, y te daremos periódicamente más.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
     <value>Not on website</value>
@@ -4843,43 +4843,43 @@
     <value>Cards Played This Turn</value>
   </data>
   <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
-    <value>Has related cards</value>
+    <value>Tiene cartas relacionadas</value>
   </data>
   <data name="ArenaPick_SingleCard_HasAdditionalInfo" xml:space="preserve">
-    <value>Additional information available</value>
+    <value>Información adicional disponible</value>
   </data>
   <data name="ArenaPick_SingleCard_ImprovesOrImprovedByCards" xml:space="preserve">
-    <value>Improves, or is improved by, cards in your deck</value>
+    <value>Mejora, o es mejorado por, las cartas de tu mazo</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
     <value>Porcentaje de Victorias</value>
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
-    <value>Picked</value>
+    <value>Elegido</value>
   </data>
   <data name="ArenaPreLobby_SubscriptionPanel_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
+    <value>Prueba Arenasmith gratis en un número limitado de drafts. Luego te daremos periódicamente más.</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Algo ha salido mal :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
-    <value>Cards to look for</value>
+    <value>Cartas que buscar</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
-    <value>Related Cards:</value>
+    <value>Cartas relacionadas:</value>
   </data>
   <data name="ArenaPick_SynergyImprove" xml:space="preserve">
-    <value>{0} improves {1}</value>
+    <value>{0} mejora {1}</value>
   </data>
   <data name="ArenaPick_NoRelatedCards" xml:space="preserve">
-    <value>No Related Cards</value>
+    <value>No hay cartas relacionadas</value>
   </data>
   <data name="ArenaPick_SortedByWinrate" xml:space="preserve">
-    <value>Sorted by Winrate</value>
+    <value>Ordenado por porcentaje de victorias</value>
   </data>
   <data name="ArenaRedraft_SuggestedDiscard" xml:space="preserve">
-    <value>Suggested Discard</value>
+    <value>Descarte sugerido</value>
   </data>
   <data name="Options_Overlay_Arena_Header" xml:space="preserve">
     <value>Arena</value>
@@ -4888,132 +4888,132 @@
     <value>Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_EnableArenasmith" xml:space="preserve">
-    <value>Enable Arenasmith</value>
+    <value>Habilitar Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Show Hero picking stats</value>
+    <value>Mostrar estadísticas de selección de héroes</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
-    <value>Show Arenasmith Scores</value>
+    <value>Mostrar puntuaciones de Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRelatedCards" xml:space="preserve">
-    <value>Show Related Cards</value>
+    <value>Mostrar cartas relacionadas</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowDeckSynergies" xml:space="preserve">
-    <value>Show Synergies in your Deck</value>
+    <value>Mostrar sinergias en tu mazo</value>
   </data>
   <data name="Options_Overlay_Arena_ShowArenasmithPreLobby" xml:space="preserve">
-    <value>Show Arenasmith in Arena Menu</value>
+    <value>Mostrar Arenasmith en el menú de Arena</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowRedraftDiscardSuggestions" xml:space="preserve">
-    <value>Show redraft discard suggestions</value>
+    <value>Mostrar sugerencias de descarte de nuevo draft</value>
   </data>
   <data name="ArenaPreDraft_Panel_Title" xml:space="preserve">
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
-    <value>Loading…</value>
+    <value>Cargando…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
-    <value>Preparing Draft Ratings…</value>
+    <value>Preparando clasificaciones de draft…</value>
   </data>
   <data name="ArenaPreDraft_Panel_GatheringData" xml:space="preserve">
-    <value>Arenasmith is still gathering data for the current meta. Check back soon!</value>
+    <value>Arenasmith sigue recopilando datos para el meta actual. ¡Vuelve pronto!</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForAccess" xml:space="preserve">
-    <value>Join Premium to get access.</value>
+    <value>Únete a Premium para obtener acceso.</value>
   </data>
   <data name="ArenaPreDraft_Panel_SubscribeNow" xml:space="preserve">
-    <value>Subscribe Now</value>
+    <value>Suscríbete ahora</value>
   </data>
   <data name="ArenaPreDraft_Panel_ReadyForRatings" xml:space="preserve">
-    <value>Arenasmith is up-to-date and ready to rate offered cards and heroes.</value>
+    <value>Arenasmith está actualizado y listo para clasificar las cartas y héroes ofrecidos.</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>Resets In</value>
+    <value>Se restablece en</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
-    <value>Your Arenasmith trial is active for this draft.</value>
+    <value>Tu prueba de Arenasmith está activa para este draft.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinForUnlimitedAccess" xml:space="preserve">
-    <value>Join Premium to get unlimited access.</value>
+    <value>Únete a Premium para obtener acceso ilimitado.</value>
   </data>
   <data name="ArenaPreDraft_Panel_JoinThisDraft" xml:space="preserve">
-    <value>Join Premium now to get access to Arenasmith for this and future drafts.</value>
+    <value>Únete a Premium ahora para tener acceso a Arenasmith en este y en futuros drafts.</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>Subscribed?</value>
+    <value>¿Suscrito?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>Sign In</value>
+    <value>Iniciar sesión</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Actualizar</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
-    <value>Thanks for subscribing to Premium!</value>
+    <value>¡Gracias por suscribirte a Premium!</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining" xml:space="preserve">
-    <value>Drafts remaining:</value>
+    <value>Drafts restantes:</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialDraftsRemaining_Tooltip" xml:space="preserve">
-    <value>Try Arenasmith for free for a limited number of drafts! Then, we'll periodically give you more.</value>
+    <value>Prueba Arenasmith gratis en un número limitado de drafts. Luego te daremos periódicamente más.</value>
   </data>
   <data name="ArenaPreDraft_Panel_ViewArenaStats" xml:space="preserve">
-    <value>View Arena Card Stats</value>
+    <value>Ver estadísticas de cartas de Arena</value>
   </data>
   <data name="ArenaPick_Message_Synergizes" xml:space="preserve">
-    <value>Synergizes with: {0}</value>
+    <value>Crea sinergias con: {0}</value>
   </data>
   <data name="ArenaPick_Message_IdealNumber" xml:space="preserve">
-    <value>Ideal number in winning decks: {0}</value>
+    <value>Número ideal en mazos ganadores: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount" xml:space="preserve">
-    <value>Deck: {0}</value>
+    <value>Mazo: {0}</value>
   </data>
   <data name="ArenaPick_Message_DeckCount_Generated" xml:space="preserve">
-    <value>Deck: {0} (+{1} that can generate)</value>
+    <value>Mazo: {0} (+{1} que puede generar)</value>
   </data>
   <data name="ArenaPick_Message_PoolCount" xml:space="preserve">
-    <value>Pool: {0}</value>
+    <value>Bolsa: {0}</value>
   </data>
   <data name="ArenaPick_Message_PoolCount_Generated" xml:space="preserve">
-    <value>Pool: {0} (+{1} that can generate)</value>
+    <value>Bolsa: {0} (+{1} que puede generar)</value>
   </data>
   <data name="ArenaPick_Message_Odds" xml:space="preserve">
-    <value>Odds to find [1/2/3] in next {0}: {1}%/{2}%/{3}%</value>
+    <value>Probabilidad de encontrar [1/2/3] en siguiente {0}: {1} %/{2} %/{3} %</value>
   </data>
   <data name="ArenaPick_Message_LowSynergy" xml:space="preserve">
-    <value>Low Synergy: Low chance to obtain enough synergy with {0} picks remaining</value>
+    <value>Sinergia baja: baja probabilidad de obtener suficiente sinergia con {0} selecciones restantes</value>
   </data>
   <data name="ArenaPick_Message_Highlander" xml:space="preserve">
-    <value>Duplicate: Will disable {0}</value>
+    <value>Duplicado: Se deshabilitará(n) {0}</value>
   </data>
   <data name="ArenaPick_Message_SoftHighlander" xml:space="preserve">
-    <value>Duplicate: Lowers chance of battlecry for {0}</value>
+    <value>Duplicado: Reduce la probabilidad de grito de batalla en {0}</value>
   </data>
   <data name="ArenaPick_Message_HighlanderChance" xml:space="preserve">
-    <value>Frequently offered card: Increases chance of finding a duplicate later</value>
+    <value>Tarjeta que se ofrece frecuentemente: aumenta la probabilidad de encontrar un duplicado más adelante</value>
   </data>
   <data name="ArenaPick_Message_VeryRare" xml:space="preserve">
-    <value>Super Rare: This card appears in {0}% of drafts</value>
+    <value>Súper rara: esta carta aparece en el {0}% de los drafts</value>
   </data>
   <data name="ArenaPick_Message_HelpsQuest" xml:space="preserve">
-    <value>Quest: This card helps to complete your {0} quest</value>
+    <value>Misión: Esta carta te ayuda a completar tu misión {0}</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>Boletos</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>Boletos para la taberna</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>Favores de la multitud:</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>Favores de la multitud</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Polvo</value>
   </data>
 </root>
