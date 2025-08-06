@@ -1273,7 +1273,7 @@
     <value>平均：</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>奥术之尘</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>总计：</value>
@@ -1336,7 +1336,7 @@
     <value>金币</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>奥术之尘</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>卡包</value>
@@ -3480,6 +3480,9 @@
   <data name="GameTag_BGBuddy" xml:space="preserve">
     <value>伙伴</value>
   </data>
+  <data name="GameTag_BGRally" xml:space="preserve">
+    <value>Rally</value>
+  </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
   </data>
@@ -4864,7 +4867,7 @@
     <value>发生了某些错误 :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
-    <value>Cards to look for</value>
+    <value>值得关注的卡牌</value>
   </data>
   <data name="ArenaPick_RelatedCards" xml:space="preserve">
     <value>相关卡牌：</value>
@@ -5002,18 +5005,18 @@
     <value>任务：此卡可以帮助你完成你的{0}任务</value>
   </data>
   <data name="Stats_Arena_Runs_Table_TavernTickets" xml:space="preserve">
-    <value>Tickets</value>
+    <value>通票</value>
   </data>
   <data name="ArenaRewards_Label_TavernTickets" xml:space="preserve">
-    <value>Tavern Tickets</value>
+    <value>旅店通票</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_CrowdsFavors_Total" xml:space="preserve">
-    <value>Crowd's Favors:</value>
+    <value>人气大奖：</value>
   </data>
   <data name="ArenaRewards_Label_CrowdsFavor" xml:space="preserve">
-    <value>Crowd's Favor</value>
+    <value>人气大奖</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>奥术之尘</value>
   </data>
 </root>
