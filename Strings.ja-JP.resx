@@ -3480,6 +3480,9 @@
   <data name="GameTag_BGBuddy" xml:space="preserve">
     <value>Buddy</value>
   </data>
+  <data name="GameTag_BGRally" xml:space="preserve">
+    <value>Rally</value>
+  </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} ターン前</value>
   </data>
@@ -5015,5 +5018,14 @@
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>ダスト</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SaleTag" xml:space="preserve">
+    <value>Sale!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
+    <value>Limited Time Offer!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
+    <value>Enjoy the new season with all the Tier7 stats and features at {0}% Off for a limited time!</value>
   </data>
 </root>
