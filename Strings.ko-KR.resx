@@ -5019,4 +5019,13 @@
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>가루</value>
   </data>
+  <data name="BattlegroundsPreLobby_SaleTag" xml:space="preserve">
+    <value>Sale!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
+    <value>Limited Time Offer!</value>
+  </data>
+  <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
+    <value>Enjoy the new season with all the Tier7 stats and features at {0}% Off for a limited time!</value>
+  </data>
 </root>
