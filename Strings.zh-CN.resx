@@ -3481,10 +3481,10 @@
     <value>伙伴</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value>进击</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>复仇</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0}个回合前</value>
@@ -3517,7 +3517,7 @@
     <value>显示回合计数器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero pick stats notification in Battlegrounds</value>
+    <value>在酒馆战棋中显示英雄选择统计通知</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>第{0}回合</value>
@@ -3745,7 +3745,7 @@
     <value>疯狂的暗月马戏团</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show experience progress</value>
+    <value>显示经验进度</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>回合</value>
@@ -3778,7 +3778,7 @@
     <value>包含“哀嚎洞穴”系列的卡牌。</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan stats notification in Traditional</value>
+    <value>在传统模式中显示换牌统计通知</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>包含“怀旧”系列的卡牌。</value>
@@ -5023,7 +5023,7 @@
     <value>奥术之尘</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTag" xml:space="preserve">
-    <value>Sale!</value>
+    <value>促销！</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
     <value>Limited Time Offer!</value>
