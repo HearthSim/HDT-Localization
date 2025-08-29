@@ -5031,4 +5031,10 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>畅享全新赛季，尽享所有Tier7统计与功能，限时优惠最多可省{0}%！</value>
   </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
+    <value>Use Hardware Acceleration when available</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
+    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+  </data>
 </root>
