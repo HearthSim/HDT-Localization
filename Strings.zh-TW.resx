@@ -373,10 +373,10 @@
     <value>點及這裡更新</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>正在下載更新…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>正在安裝更新…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
     <value>Updating to latest version failed</value>
@@ -1039,7 +1039,7 @@
     <value>儲存資料到AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>開機時啟動</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>自動後最小化</value>
@@ -1054,7 +1054,7 @@
     <value>爐石關閉時一起關閉</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
-    <value>Launch Hearthstone on start</value>
+    <value>開啟時啟動爐石戰記</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>檢查更新</value>
@@ -2326,7 +2326,7 @@
     <value>玩家</value>
   </data>
   <data name="Overlay_DeckList_Label_FatigueNextDraw" xml:space="preserve">
-    <value>Next draw fatigues for: {0}</value>
+    <value>下次抽牌疲勞傷害: {0}</value>
   </data>
   <data name="OpponentWindow_Title" xml:space="preserve">
     <value>對手</value>
@@ -2578,7 +2578,7 @@
     <value>如果這無法幫助你，請點擊"顯示說明"並教你如何手動更新</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
-    <value>Unable to connect to Hearthstone</value>
+    <value>無法連線至爐石戰記</value>
   </data>
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
@@ -3454,25 +3454,25 @@
     <value>死亡之聲</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>毒素</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>戰吼</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>二選一</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>回合結束時</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
     <value>Start Of Combat</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>重生</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>合體</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>法術</value>
@@ -3514,7 +3514,7 @@
     <value>外域之燼</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
-    <value>Show turn counter</value>
+    <value>顯示回合計數器</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
@@ -3793,7 +3793,7 @@
     <value>沒有找到此套牌的數據</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_TheBarrens" xml:space="preserve">
-    <value>Forged in the Barrens:</value>
+    <value>貧瘠之地:</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheBarrens" xml:space="preserve">
     <value>貧瘠之地</value>
@@ -3811,7 +3811,7 @@
     <value>HSReplay.net - 選牌攻略</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Stormwind" xml:space="preserve">
-    <value>United in Stormwind:</value>
+    <value>暴風城:</value>
   </data>
   <data name="BobsBuddyStatusMessage_AwaitingShopping" xml:space="preserve">
     <value>等待招募階段</value>
@@ -3976,16 +3976,16 @@
     <value>No games played this session.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
-    <value>{0}st</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_2" xml:space="preserve">
-    <value>{0}nd</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_3" xml:space="preserve">
-    <value>{0}rd</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_5" xml:space="preserve">
-    <value>{0}th</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
     <value>開始</value>
@@ -3994,16 +3994,16 @@
     <value>目前</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>{0}th</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>{0}th</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>{0}th</value>
+    <value>第{0}</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>{0}th</value>
+    <value>第{0}</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>縮放</value>
@@ -5030,5 +5030,11 @@
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>Enjoy the new season with all the Tier7 stats and features saving up to {0}% for a limited time!</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
+    <value>Use Hardware Acceleration when available</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
+    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
   </data>
 </root>
