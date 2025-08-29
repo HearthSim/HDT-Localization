@@ -5031,4 +5031,10 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>Enjoy the new season with all the Tier7 stats and features saving up to {0}% for a limited time!</value>
   </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
+    <value>Use Hardware Acceleration when available</value>
+  </data>
+  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
+    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+  </data>
 </root>
