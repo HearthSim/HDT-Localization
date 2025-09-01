@@ -5032,9 +5032,9 @@
     <value>畅享全新赛季，尽享所有Tier7统计与功能，限时优惠最多可省{0}%！</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
-    <value>Use Hardware Acceleration when available</value>
+    <value>可用时使用硬件加速</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
-    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+    <value>若遇到内存不足导致崩溃时请禁用此设置</value>
   </data>
 </root>
