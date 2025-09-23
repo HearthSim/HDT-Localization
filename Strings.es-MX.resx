@@ -5037,4 +5037,13 @@
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
     <value>Disable this setting if you are encountering Out Of Memory crashes</value>
   </data>
+  <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
+    <value>{0} Group</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowOpponentPackage" xml:space="preserve">
+    <value>Show Opponent's Legendary groups</value>
+  </data>
+  <data name="Options_Overlay_Arena_CheckBox_ShowOpponentPackage_Tooltip" xml:space="preserve">
+    <value>Dynamically appears during match when the opponent plays a card that can identify the group</value>
+  </data>
 </root>
