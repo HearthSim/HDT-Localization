@@ -5052,4 +5052,67 @@
   <data name="Find_Meta_Decks_Button" xml:space="preserve">
     <value>Find Meta Decks</value>
   </data>
+  <data name="BattlegroundsTavernPinning_Title" xml:space="preserve">
+    <value>Tavern Pinning</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_Tier7Tag" xml:space="preserve">
+    <value>Tier7 Feature</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
+    <value>Quick Guide</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
+    <value>Ever accidentally rolled past that minion you were looking for?</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
+    <value>In the Tavern</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageManual" xml:space="preserve">
+    <value>Manual Pin</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageTribe" xml:space="preserve">
+    <value>Minion Type Pin</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageKeyPiece" xml:space="preserve">
+    <value>Key Piece Pin</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Pin" xml:space="preserve">
+    <value>Pin cards from:</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
+    <value>● The Minion Browser</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
+    <value>● Comp Guides</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
+    <value>● Or pin entire minion types below</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_Clear" xml:space="preserve">
+    <value>消去</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_NoPins" xml:space="preserve">
+    <value>No cards pinned</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_KeyPieces_Title" xml:space="preserve">
+    <value>Key Comp Pieces</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_KeyPieces_Explain" xml:space="preserve">
+    <value>Automatically pin cards which are key pieces for comps available in the current lobby. These are based on “Enablers” and “When to commit” from our comp guides.</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_PopupMessage" xml:space="preserve">
+    <value>Enable Key Comp Pieces when a new game starts?</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_PopupDisclaimer" xml:space="preserve">
+    <value>This behavior can be changed any time in the settings.</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning" xml:space="preserve">
+    <value>Show Tavern Pinning</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning_AutoEnable" xml:space="preserve">
+    <value>Auto-Enable Comps Key Pieces on Game Start</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
+    <value>Show Quick Guides</value>
+  </data>
 </root>
