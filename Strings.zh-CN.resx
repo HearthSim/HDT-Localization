@@ -5050,6 +5050,72 @@
     <value>伙伴指南</value>
   </data>
   <data name="Find_Meta_Decks_Button" xml:space="preserve">
-    <value>Find Meta Decks</value>
+    <value>查找当前环境套牌</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_Title" xml:space="preserve">
+    <value>酒馆标记</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_Tier7Tag" xml:space="preserve">
+    <value>Tier7 功能</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
+    <value>快速指南</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
+    <value>有没有意外错过了想要找的随从？</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
+    <value>在酒馆中</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_GotIt" xml:space="preserve">
+    <value>明白了</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageManual" xml:space="preserve">
+    <value>手动标记</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageTribe" xml:space="preserve">
+    <value>随从种类标记</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_ImageKeyPiece" xml:space="preserve">
+    <value>关键随从标记</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Pin" xml:space="preserve">
+    <value>从以下来源标记卡牌：</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
+    <value>●随从浏览器</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
+    <value>●流派指南</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
+    <value>●或者标记此种族的所有随从</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_Clear" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_NoPins" xml:space="preserve">
+    <value>没有已标记的卡牌</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_KeyPieces_Title" xml:space="preserve">
+    <value>流派关键卡牌</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_KeyPieces_Explain" xml:space="preserve">
+    <value>自动标记当前对局可用流派的关键随从。这些卡牌基于我们阵容指南中的“启动核心”和“成型核心”部分。</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_PopupMessage" xml:space="preserve">
+    <value>在新对局开始时启用关键流派随从标记？</value>
+  </data>
+  <data name="BattlegroundsTavernPinning_PopupDisclaimer" xml:space="preserve">
+    <value>此选项可随时在设置中更改。</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning" xml:space="preserve">
+    <value>显示酒馆标记</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning_AutoEnable" xml:space="preserve">
+    <value>在对局开始时自动启用关键随从标记</value>
+  </data>
+  <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
+    <value>显示快速指南</value>
   </data>
 </root>
