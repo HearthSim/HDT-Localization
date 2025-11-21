@@ -5031,6 +5031,9 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>畅享全新赛季，尽享所有Tier7统计与功能，限时优惠最多可省{0}%！</value>
   </data>
+  <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
+    <value>黑色星期五来袭酒馆！解锁会员 + Tier7 ，限时享受{0}%折扣！</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
     <value>可用时使用硬件加速</value>
   </data>
@@ -5062,7 +5065,7 @@
     <value>快速指南</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
-    <value>有没有意外错过了想要找的随从？</value>
+    <value>意外错过了想要找的随从？</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
     <value>在酒馆中</value>
@@ -5117,5 +5120,17 @@
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
     <value>显示快速指南</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
+    <value>Failed to Load Comp Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
+    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
+    <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
   </data>
 </root>
