@@ -5032,7 +5032,7 @@
     <value>Aproveite a nova temporada com todas as estatísticas e recursos do Tier7 economizando até {0}% por tempo limitado!</value>
   </data>
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
-    <value>Black Friday arrives to the Tavern! Unlock Premium + Tier7 at {0}% OFF for a limited time!</value>
+    <value>A Black Friday chegou à Taverna! Desbloqueie Premium + Tier7 com {0}% de desconto por tempo limitado!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
     <value>Usar Aceleração de Hardware quando disponível</value>
@@ -5122,15 +5122,15 @@
     <value>Exibir Guias Rápidos</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
-    <value>Failed to Load Comp Guides</value>
+    <value>Falha ao Carregar Guias de Comp</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
-    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+    <value>Não foi possível carregar os guias de composição por um problema de rede. Por favor, tente mais tarde.</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
-    <value>Retry</value>
+    <value>Repetir</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
-    <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
+    <value>Ainda sem carregar os guias de composição. Sua rede ou provedor pode estar lento, ou bloqueando a conexão.</value>
   </data>
 </root>
