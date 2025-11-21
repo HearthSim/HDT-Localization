@@ -5121,4 +5121,16 @@
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
     <value>Show Quick Guides</value>
   </data>
+  <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
+    <value>Failed to Load Comp Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
+    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
+    <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
+  </data>
 </root>
