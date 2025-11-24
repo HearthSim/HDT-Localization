@@ -5122,15 +5122,15 @@
     <value>显示快速指南</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
-    <value>Failed to Load Comp Guides</value>
+    <value>加载流派失败</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
-    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+    <value>无法加载流派指南。由于网络问题，无法加载这些指南。请稍后再试。</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
-    <value>Retry</value>
+    <value>重试</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
-    <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
+    <value>仍然无法加载流派指南。根据您的网络或运营商，某些连接可能较慢或被屏蔽。</value>
   </data>
 </root>
