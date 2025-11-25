@@ -5133,4 +5133,10 @@
   <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
     <value>Ainda sem carregar os guias de composição. Sua rede ou provedor pode estar lento, ou bloqueando a conexão.</value>
   </data>
+  <data name="Battlegrounds_CompGuides_Empty_Title" xml:space="preserve">
+    <value>No Comp Guides Available</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
+    <value>We could not find any comp guides for the current lobby. Check back after more data becomes available.</value>
+  </data>
 </root>
