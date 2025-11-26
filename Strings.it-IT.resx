@@ -5031,6 +5031,9 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>Enjoy the new season with all the Tier7 stats and features saving up to {0}% for a limited time!</value>
   </data>
+  <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
+    <value>Black Friday arrives to the Tavern! Unlock Premium + Tier7 at {0}% OFF for a limited time!</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
     <value>Use Hardware Acceleration when available</value>
   </data>
@@ -5117,5 +5120,23 @@
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
     <value>Show Quick Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
+    <value>Failed to Load Comp Guides</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
+    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
+    <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Title" xml:space="preserve">
+    <value>No Comp Guides Available</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
+    <value>We could not find any comp guides for the current lobby. Check back after more data becomes available.</value>
   </data>
 </root>

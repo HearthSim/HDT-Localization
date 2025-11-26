@@ -3517,7 +3517,7 @@
     <value>Mostrar contador de turnos</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero pick stats notification in Battlegrounds</value>
+    <value>Exibir notificação com dados de escolha do herói nos Campos de Batalha</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>Turno {0}</value>
@@ -3778,7 +3778,7 @@
     <value>Deck contém cards da expansão Caverna Ululante.</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Mulligan" xml:space="preserve">
-    <value>Show mulligan stats notification in Traditional</value>
+    <value>Exibir notificação com dados do mulligan no modo Tradicional</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Legacy" xml:space="preserve">
     <value>Deck contém cards do conjunto Legado.</value>
@@ -5031,91 +5031,112 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>Aproveite a nova temporada com todas as estatísticas e recursos do Tier7 economizando até {0}% por tempo limitado!</value>
   </data>
+  <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
+    <value>A Black Friday chegou à Taverna! Desbloqueie Premium + Tier7 com {0}% de desconto por tempo limitado!</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
     <value>Usar Aceleração de Hardware quando disponível</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
-    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+    <value>Desative esta opção se você estiver enfrentando falhas por falta de memória</value>
   </data>
   <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
-    <value>{0} Group</value>
+    <value>{0} Grupo</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowOpponentPackage" xml:space="preserve">
-    <value>Show Opponent's Legendary groups</value>
+    <value>Exibir grupos de Lendários do Oponente</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowOpponentPackage_Tooltip" xml:space="preserve">
-    <value>Dynamically appears during match when the opponent plays a card that can identify the group</value>
+    <value>Aparece dinamicamente durante a partida quando o oponente joga um card que pode identificar o grupo</value>
   </data>
   <data name="Battlegrounds_CompGuide_BuddyGuide" xml:space="preserve">
-    <value>Buddy Guide</value>
+    <value>Guia do Camarada</value>
   </data>
   <data name="Find_Meta_Decks_Button" xml:space="preserve">
-    <value>Find Meta Decks</value>
+    <value>Ver os Decks do Meta</value>
   </data>
   <data name="BattlegroundsTavernPinning_Title" xml:space="preserve">
-    <value>Tavern Pinning</value>
+    <value>Fixador da Taverna</value>
   </data>
   <data name="BattlegroundsTavernPinning_Tier7Tag" xml:space="preserve">
-    <value>Tier7 Feature</value>
+    <value>Recurso do Tier7</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
-    <value>Quick Guide</value>
+    <value>Guia Rápido</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
-    <value>Ever accidentally rolled past that minion you were looking for?</value>
+    <value>Já passou acidentalmente pelo lacaio que estava procurando?</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
-    <value>In the Tavern</value>
+    <value>Na Taverna</value>
   </data>
   <data name="BattlegroundsTavernPinning_GotIt" xml:space="preserve">
-    <value>Got it</value>
+    <value>Certo</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_ImageManual" xml:space="preserve">
-    <value>Manual Pin</value>
+    <value>Fixar Manualmente</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_ImageTribe" xml:space="preserve">
-    <value>Minion Type Pin</value>
+    <value>Fixar por Tipo de Lacaio</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_ImageKeyPiece" xml:space="preserve">
-    <value>Key Piece Pin</value>
+    <value>Fixar por Palavra-Chave</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Pin" xml:space="preserve">
-    <value>Pin cards from:</value>
+    <value>Fixar cards por:</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
-    <value>● The Minion Browser</value>
+    <value>● Navegador de Lacaios</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
-    <value>● Comp Guides</value>
+    <value>● Guias de Composições</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
-    <value>● Or pin entire minion types below</value>
+    <value>● Ou fixar todos os tipos de lacaios abaixo</value>
   </data>
   <data name="BattlegroundsTavernPinning_Clear" xml:space="preserve">
     <value>Limpar</value>
   </data>
   <data name="BattlegroundsTavernPinning_NoPins" xml:space="preserve">
-    <value>No cards pinned</value>
+    <value>Sem cards fixados</value>
   </data>
   <data name="BattlegroundsTavernPinning_KeyPieces_Title" xml:space="preserve">
-    <value>Key Comp Pieces</value>
+    <value>Peças-Chaves da Comp</value>
   </data>
   <data name="BattlegroundsTavernPinning_KeyPieces_Explain" xml:space="preserve">
-    <value>Automatically pin cards which are key pieces for comps available in the current lobby. These are based on “Enablers” and “When to commit” from our comp guides.</value>
+    <value>Fixar automaticamente os cards que são peças-chaves das comps disponíveis no lobby atual. Baseado em “Ativadores” e “Quando dedicar-se” dos nossos guias de comp.</value>
   </data>
   <data name="BattlegroundsTavernPinning_PopupMessage" xml:space="preserve">
-    <value>Enable Key Comp Pieces when a new game starts?</value>
+    <value>Habilitar peças-chaves da comp ao iniciar uma nova partida?</value>
   </data>
   <data name="BattlegroundsTavernPinning_PopupDisclaimer" xml:space="preserve">
-    <value>This behavior can be changed any time in the settings.</value>
+    <value>Pode ser alterado a qualquer momento em configurações.</value>
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning" xml:space="preserve">
-    <value>Show Tavern Pinning</value>
+    <value>Exibir Fixador da Taverna</value>
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_AutoEnable" xml:space="preserve">
-    <value>Auto-Enable Comps Key Pieces on Game Start</value>
+    <value>Autoativar Peças-Chaves da Comp no Início da Partida</value>
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
-    <value>Show Quick Guides</value>
+    <value>Exibir Guias Rápidos</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
+    <value>Falha ao Carregar Guias de Comp</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
+    <value>Não foi possível carregar os guias de composição por um problema de rede. Por favor, tente mais tarde.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
+    <value>Repetir</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
+    <value>Ainda sem carregar os guias de composição. Sua rede ou provedor pode estar lento, ou bloqueando a conexão.</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Title" xml:space="preserve">
+    <value>No Comp Guides Available</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
+    <value>We could not find any comp guides for the current lobby. Check back after more data becomes available.</value>
   </data>
 </root>

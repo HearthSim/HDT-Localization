@@ -5031,6 +5031,9 @@
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>畅享全新赛季，尽享所有Tier7统计与功能，限时优惠最多可省{0}%！</value>
   </data>
+  <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
+    <value>黑色星期五来袭酒馆！解锁会员 + Tier7 ，限时享受{0}%折扣！</value>
+  </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
     <value>可用时使用硬件加速</value>
   </data>
@@ -5062,7 +5065,7 @@
     <value>快速指南</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
-    <value>有没有意外错过了想要找的随从？</value>
+    <value>意外错过了想要找的随从？</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
     <value>在酒馆中</value>
@@ -5117,5 +5120,23 @@
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
     <value>显示快速指南</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
+    <value>加载流派失败</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
+    <value>无法加载流派指南。由于网络问题，无法加载这些指南。请稍后再试。</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
+    <value>重试</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
+    <value>仍然无法加载流派指南。根据您的网络或运营商，某些连接可能较慢或被屏蔽。</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Title" xml:space="preserve">
+    <value>没有可用的流派指南</value>
+  </data>
+  <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
+    <value>我们找不到当前酒馆环境的任何流派指南。请在我们获得更多数据后再回来查看。</value>
   </data>
 </root>
