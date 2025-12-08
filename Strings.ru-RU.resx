@@ -5139,4 +5139,16 @@
   <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
     <value>We could not find any comp guides for the current lobby. Check back after more data becomes available.</value>
   </data>
+  <data name="Stats_Arena_Rewards_Label_Packs_AcrossTheTimeways" xml:space="preserve">
+    <value>Across The Timeways:</value>
+  </data>
+  <data name="Enum_ArenaRewardPacks_AcrossTheTimeways" xml:space="preserve">
+    <value>Across The Timeways</value>
+  </data>
+  <data name="MainWindow_DeckBuilder_Filter_Set_AcrossTheTimeways" xml:space="preserve">
+    <value>Across The Timeways</value>
+  </data>
+  <data name="CardTile_Created_By" xml:space="preserve">
+    <value>Created by {0}</value>
+  </data>
 </root>
