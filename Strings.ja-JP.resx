@@ -640,7 +640,7 @@
     <value>不透明度:</value>
   </data>
   <data name="Options_Overlay_General_Label_MoveResize" xml:space="preserve">
-    <value>Move overlay:</value>
+    <value>：</value>
   </data>
   <data name="Options_Overlay_General_Button_Reset" xml:space="preserve">
     <value>リセット</value>
@@ -3457,10 +3457,10 @@
     <value>Venomous</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>勝鬨</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value/>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
     <value>End Of Turn</value>
@@ -3469,19 +3469,19 @@
     <value>Start Of Combat</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>蘇り</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>超電磁</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>呪文</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>バディ</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value/>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
     <value>Avenge</value>
@@ -4698,6 +4698,12 @@
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
     <value>Undead Attack Bonus</value>
   </data>
+  <data name="Counter_RightMostTavernMinionBuff" xml:space="preserve">
+    <value>Right Most Tavern Buff</value>
+  </data>
+  <data name="Counter_VolumizerBuff" xml:space="preserve">
+    <value>Volumizer Buff</value>
+  </data>
   <data name="Counter_ElementalExtraStats" xml:space="preserve">
     <value>Elemental Extra Buff</value>
   </data>
@@ -5150,5 +5156,8 @@
   </data>
   <data name="CardTile_Created_By" xml:space="preserve">
     <value>Created by {0}</value>
+  </data>
+  <data name="Toast_Battlegrounds_Timewarp" xml:space="preserve">
+    <value>Compare Timewarped Cards</value>
   </data>
 </root>

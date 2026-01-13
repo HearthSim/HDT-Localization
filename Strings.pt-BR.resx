@@ -4698,6 +4698,12 @@
   <data name="Counter_UndeadAttackBonus" xml:space="preserve">
     <value>Morto-Vivo Ataque Bônus</value>
   </data>
+  <data name="Counter_RightMostTavernMinionBuff" xml:space="preserve">
+    <value>Buff Mais a Direita</value>
+  </data>
+  <data name="Counter_VolumizerBuff" xml:space="preserve">
+    <value>Buff do Amplificador</value>
+  </data>
   <data name="Counter_ElementalExtraStats" xml:space="preserve">
     <value>Elemental Buff Extra</value>
   </data>
@@ -5149,6 +5155,9 @@
     <value>Através dos Percursos Temporais</value>
   </data>
   <data name="CardTile_Created_By" xml:space="preserve">
-    <value>Created by {0}</value>
+    <value>Criado por {0}</value>
+  </data>
+  <data name="Toast_Battlegrounds_Timewarp" xml:space="preserve">
+    <value>Comparar Cards da Distorção Temporal</value>
   </data>
 </root>
