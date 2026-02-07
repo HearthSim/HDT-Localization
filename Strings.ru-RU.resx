@@ -5160,4 +5160,10 @@
   <data name="Toast_Battlegrounds_Timewarp" xml:space="preserve">
     <value>Compare Timewarped Cards</value>
   </data>
+  <data name="SortByCost" xml:space="preserve">
+    <value>Стоимость</value>
+  </data>
+  <data name="SortByWinrate" xml:space="preserve">
+    <value>Mulligan Winrate</value>
+  </data>
 </root>
