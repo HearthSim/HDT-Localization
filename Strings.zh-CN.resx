@@ -4699,10 +4699,10 @@
     <value>亡灵攻击加成</value>
   </data>
   <data name="Counter_RightMostTavernMinionBuff" xml:space="preserve">
-    <value>Right Most Tavern Buff</value>
+    <value>酒馆中最右边的增益</value>
   </data>
   <data name="Counter_VolumizerBuff" xml:space="preserve">
-    <value>Volumizer Buff</value>
+    <value>扩音机增益</value>
   </data>
   <data name="Counter_ElementalExtraStats" xml:space="preserve">
     <value>元素额外增益</value>
@@ -5155,9 +5155,15 @@
     <value>穿越时间流</value>
   </data>
   <data name="CardTile_Created_By" xml:space="preserve">
-    <value>Created by {0}</value>
+    <value>创建者：{0}</value>
   </data>
   <data name="Toast_Battlegrounds_Timewarp" xml:space="preserve">
-    <value>Compare Timewarped Cards</value>
+    <value>对比时空扭曲卡牌</value>
+  </data>
+  <data name="SortByCost" xml:space="preserve">
+    <value>费用</value>
+  </data>
+  <data name="SortByWinrate" xml:space="preserve">
+    <value>起手胜率</value>
   </data>
 </root>
