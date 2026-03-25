@@ -3211,7 +3211,7 @@
     <value>回放已关联</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
-    <value>订阅高级版</value>
+    <value>Subscribed to Premium</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>立即启用</value>
@@ -5200,7 +5200,7 @@
     <value>加入会员即可获取无限制的使用。</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>你已订阅了Tier7！</value>
+    <value>你已订阅了高级会员！</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
     <value>配合指示器</value>
@@ -5212,13 +5212,13 @@
     <value>决定箭头</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>被顶级玩家保留或换掉的可能性指示。绿色高亮卡可保留，红色高亮卡可换掉。</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
     <value>阴影栏</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>指示出此卡如何受您手牌中其余卡的影响。替换卡牌将自动更新 "决定箭头"</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
     <value>留牌指南V2无法用于这个卡组</value>
@@ -5245,13 +5245,13 @@
     <value>动态保留率： {0}%</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
-    <value>Top players keep {0} {1}% of the time with this hand, deck, initiative, and opponent class.</value>
+    <value>顶级玩家在这个手牌、卡组、先后手和对手职业之下，保留了 {0} {1}%的次数</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更多的保留。\n\n全手牌整体保留率: {2}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更少的保留。\n\n全手牌整体保留率: {2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
     <value>数据不足</value>
