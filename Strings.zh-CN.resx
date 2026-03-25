@@ -5254,7 +5254,7 @@
     <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>数据不足</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
     <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
@@ -5263,30 +5263,30 @@
     <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>当 {2} 也在时，顶级玩家会 {0} {1}%更少的留下</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>当 {2} 也在时，顶级玩家会更多的留下 {0} {1}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>当第二张也在时，顶级玩家会 {0} {1}%更少的保留</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>当第二张也在时，顶级玩家会 {0} {1}%更多的保留</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>卡片交互： {0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>留牌</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>部分留牌指南G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>留牌指南V1就绪</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>留牌指南G-V2就绪</value>
   </data>
 </root>
