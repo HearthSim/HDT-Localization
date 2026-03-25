@@ -3211,7 +3211,7 @@
     <value>回放已关联</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Premium" xml:space="preserve">
-    <value>订阅高级版</value>
+    <value>你已订阅级版</value>
   </data>
   <data name="Options_HSReplay_Account_EnableNow" xml:space="preserve">
     <value>立即启用</value>
@@ -4438,7 +4438,7 @@
     <value>刷新</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Tier7" xml:space="preserve">
-    <value>订阅Tier7</value>
+    <value>你已订阅Tier7</value>
   </data>
   <data name="Options_HSReplay_Account_Subscription_Generic" xml:space="preserve">
     <value>订阅到 HSReplay.net</value>
@@ -5168,5 +5168,125 @@
   </data>
   <data name="SortByWinrate" xml:space="preserve">
     <value>起手胜率</value>
+  </data>
+  <data name="Counter_Herald" xml:space="preserve">
+    <value>兆示</value>
+  </data>
+  <data name="Counter_DeathwingDiscount" xml:space="preserve">
+    <value>死亡之翼减费</value>
+  </data>
+  <data name="ConstructedPreLobby_InteractivePanel_Header" xml:space="preserve">
+    <value>留牌指南游戏内嵌浮窗</value>
+  </data>
+  <data name="ConstructedPreLobby_OnboardingNotification_Title" xml:space="preserve">
+    <value>新的留牌指南第2版在这里！</value>
+  </data>
+  <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
+    <value>像顶尖玩家一样留牌</value>
+  </data>
+  <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
+    <value>了解更多</value>
+  </data>
+  <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
+    <value>鼠标悬停以获取详细信息</value>
+  </data>
+  <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
+    <value>登录到 HSReplay.net 以直接访问留牌指南！</value>
+  </data>
+  <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
+    <value>可以在几局游戏中免费试用换牌指南，我们也将定期给您提供更多的试用次数。标准模式的G-V2留牌指南和狂野模式的留牌指南都会占用这些次数。</value>
+  </data>
+  <data name="ConstructedPreLobby_Join" xml:space="preserve">
+    <value>加入会员即可获取无限制的使用。</value>
+  </data>
+  <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
+    <value>你已订阅了高级会员！</value>
+  </data>
+  <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
+    <value>配合指示器</value>
+  </data>
+  <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
+    <value>当与你手中的另一张卡有着强大数据驱动的配合(或反配合)时会出现。 箭头数表示了配合的强度。</value>
+  </data>
+  <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
+    <value>决定箭头</value>
+  </data>
+  <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
+    <value>被顶级玩家保留或换掉的可能性指示。绿色高亮卡可保留，红色高亮卡可换掉。</value>
+  </data>
+  <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
+    <value>阴影栏</value>
+  </data>
+  <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
+    <value>指示出此卡如何受您手牌中其余卡的影响。替换卡牌将自动更新 "决定箭头"</value>
+  </data>
+  <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
+    <value>留牌指南V2无法用于这个卡组</value>
+  </data>
+  <data name="MulliganGV2_Replace" xml:space="preserve">
+    <value>替换</value>
+  </data>
+  <data name="MulliganGV2_Keep" xml:space="preserve">
+    <value>继续</value>
+  </data>
+  <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
+    <value>启用 Mulligan G-V2留牌指南</value>
+  </data>
+  <data name="Options_Overlay_MulliganGV2_Group_Label" xml:space="preserve">
+    <value>G-V2留牌指南</value>
+  </data>
+  <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
+    <value>留牌统计(狂野和竞技场)</value>
+  </data>
+  <data name="MulliganGV2_ContextualKeepRate_Title" xml:space="preserve">
+    <value>全手牌整体保留率 {0}%</value>
+  </data>
+  <data name="MulliganGV2_DynamicKeepRate_Title" xml:space="preserve">
+    <value>动态保留率： {0}%</value>
+  </data>
+  <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
+    <value>顶级玩家在这个手牌、卡组、先后手和对手职业之下，保留了 {0} {1}%的次数</value>
+  </data>
+  <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
+    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更多的保留。\n\n全手牌整体保留率: {2}%</value>
+  </data>
+  <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
+    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更少的保留。\n\n全手牌整体保留率: {2}%</value>
+  </data>
+  <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
+    <value>数据不足</value>
+  </data>
+  <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
+    <value>数据少警告\n\n 显示的保存率可能更不可靠。</value>
+  </data>
+  <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
+    <value>数据少警告\n\n 我们虽有关于此卡足够的数据，但不是与其它的卡牌组合。\n显示的保存率可能较不可靠。</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
+    <value>当 {2} 也在时，顶级玩家会 {0} {1}%更少的留下</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
+    <value>当 {2} 也在时，顶级玩家会更多的留下 {0} {1}</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
+    <value>当第二张也在时，顶级玩家会 {0} {1}%更少的保留</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
+    <value>当第二张也在时，顶级玩家会 {0} {1}%更多的保留</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
+    <value>卡片交互： {0}{1}%</value>
+  </data>
+  <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
+    <value>留牌</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
+    <value>部分留牌指南G-V2</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
+    <value>留牌指南V1就绪</value>
+  </data>
+  <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
+    <value>留牌指南G-V2就绪</value>
   </data>
 </root>
