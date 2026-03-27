@@ -5176,117 +5176,117 @@
     <value>Deathwing Discount</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Mulligan Guide Overlay</value>
+    <value>멀리건 가이드 오버레이</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Title" xml:space="preserve">
-    <value>New Mulligan Guide Version 2 is Here!</value>
+    <value>새로운 멀리건 가이드 버전 2가 출시되었습니다!</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>Mulligan like the Top players</value>
+    <value>상위 플레이어들처럼 멀리건하세요</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
-    <value>Learn More</value>
+    <value>자세한 내용</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>커서를 올려 세부 정보 보기</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Mulligan Guide directly in the overlay!</value>
+    <value>HSReplay.net에 로그인하여 오버레이에서 멀리건 가이드를 바로 사용해보세요!</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Mulligan Guide overlay for free for a limited number of games, and we'll periodically give you more. The use count is shared between Mulligan G-V2 in Standard and Mulligan Stats in Wild</value>
+    <value>한정된 수량의 게임에서 멀리건 가이드 오버레이를 무료로 사용해보세요. 주기적으로 더 많은 게임이 제공될 예정입니다. 사용 횟수는 정규전의 멀리건 G-V2와 야생전의 멀리건 통계에서 공유됩니다</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>무제한으로 이용하려면 프리미엄에 가입하세요.</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>You're subscribed to Premium!</value>
+    <value>프리미엄을 구독하셨습니다!</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
-    <value>Synergy Indicator</value>
+    <value>시너지 표시기</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>들고 있는 다른 카드와 강력한 데이터 기반 시너지(또는 안티 시너지)가 있는 경우 나타납니다. 화살표의 수는 시너지의 세기를 나타냅니다</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>결정 화살표</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>상위 플레이어가 카드를 유지하거나 교체할 가능성을 나타냅니다. 초록색으로 표시된 카드는 유지하고 빨간색으로 표시된 카드는 교체합니다</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>섀도우 바</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>현재 카드가 나머지 들고 있는 카드에 어떤 영향을 미치는지를 나타냅니다. 카드를 교체하면 '결정 화살표'가 자동으로 업데이트됩니다</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
-    <value>Mulligan V2 is not Available for this Deck</value>
+    <value>이 덱에는 멀리건 V2를 사용할 수 없습니다</value>
   </data>
   <data name="MulliganGV2_Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>교체</value>
   </data>
   <data name="MulliganGV2_Keep" xml:space="preserve">
     <value>유지</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan G-V2</value>
+    <value>멀리건 G-V2 활성화</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_Group_Label" xml:space="preserve">
-    <value>Mulligan G-V2</value>
+    <value>멀리건 G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
-    <value>Mulligan Stats (Wild and Arena)</value>
+    <value>멀리건 통계(야생전 및 투기장)</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Title" xml:space="preserve">
-    <value>Contextual Keep Rate: {0}%</value>
+    <value>컨텍스트에 따른 유지 비율: {0}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Title" xml:space="preserve">
-    <value>Dynamic Keep Rate: {0}%</value>
+    <value>동적 유지 비율: {0}%</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
-    <value>Top players keep {0} {1}% of the time with this hand, deck, initiative, and opponent class.</value>
+    <value>상위 플레이어는 이 손패, 덱, 선후공, 상대 직업에서 {1}%의 비율로 {0}을(를) 유지합니다.</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>상위 플레이어는 교체(X) 표시된 카드가 없는 경우 {1}% 더 자주 {0}을(를) 유지합니다.\n\n컨텍스트에 따른 유지 비율: {2}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>상위 플레이어는 교체(X) 표시된 카드가 없는 경우 {1}% 적게 {0}을(를) 유지합니다.\n\n컨텍스트에 따른 유지 비율: {2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>데이터 부족</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>데이터 부족 경고\n\n표시된 유지 비율의 신뢰도가 낮을 수 있습니다</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>데이터 부족 경고\n\n이 카드에 대한 데이터는 충분하지만 제공된 다른 일부 카드와의 조합 데이터는 충분하지 않습니다.\n표시된 유지 비율의 신뢰도가 낮을 수 있습니다</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>상위 플레이어에게 {2}도 있는 경우 {1}% 적게 {0}을(를) 유지합니다</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>상위 플레이어에게 {2}도 있는 경우 {1}% 자주 {0}을(를) 유지합니다</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>상위 플레이어에게 동일한 카드가 두 번째 들어온 경우 {1}% 적게 {0}을(를) 유지합니다</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>상위 플레이어에게 동일한 카드가 두 번째 들어온 경우 {1}% 더 자주 {0}을(를) 유지합니다</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>카드 상호작용: {0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>멀리건</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>일부 멀리건 G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>멀리건 가이드 V1 준비</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>멀리건 G-V2 준비</value>
   </data>
 </root>
