@@ -5248,10 +5248,10 @@
     <value>顶级玩家在这个手牌、卡组、先后手和对手职业之下，保留了 {0} {1}%的次数</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更多的保留。\n\n全手牌整体保留率: {2}%</value>
+    <value>当标记的卡牌(X)被换掉时，顶级玩家会{1}%更多的保留{0} 。\n\n全手牌整体保留率: {2}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>当标记的卡牌(X)会被换掉时，顶级玩家会{0} {1}%更少的保留。\n\n全手牌整体保留率: {2}%</value>
+    <value>当标记的卡牌(X)被换掉时，顶级玩家会 {1}%更少的保留{0}。\n\n全手牌整体保留率: {2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
     <value>数据不足</value>
@@ -5263,16 +5263,16 @@
     <value>数据少警告\n\n 我们虽有关于此卡足够的数据，但不是与其它的卡牌组合。\n显示的保存率可能较不可靠。</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>当 {2} 也在时，顶级玩家会 {0} {1}%更少的留下</value>
+    <value>当 {2} 也在时，顶级玩家{1}%更少的留下 {0} </value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>当 {2} 也在时，顶级玩家会更多的留下 {0} {1}</value>
+    <value>当 {2} 也在时，顶级玩家会{1}%更多的留下 {0} </value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>当第二张也在时，顶级玩家会 {0} {1}%更少的保留</value>
+    <value>当第二张也在时，顶级玩家会{1}%更少的保留 {0} </value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>当第二张也在时，顶级玩家会 {0} {1}%更多的保留</value>
+    <value>当第二张也在时，顶级玩家会 {1}%更多的保留 {0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
     <value>卡片交互： {0}{1}%</value>
