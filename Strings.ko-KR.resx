@@ -5206,16 +5206,16 @@
     <value>시너지 표시기</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>들고 있는 다른 카드와 강력한 데이터 기반 시너지(또는 안티 시너지)가 있는 경우 나타납니다. 화살표의 수는 시너지의 세기를 나타냅니다</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>결정 화살표</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
     <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>섀도우 바</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
     <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
