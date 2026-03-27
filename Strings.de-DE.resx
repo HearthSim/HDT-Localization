@@ -5218,55 +5218,55 @@
     <value>Schattenleiste</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>Zeigt an, wie diese Karte von den anderen Karten in deiner Hand beeinflusst wird. Wenn du eine Karte austauschst, wird der 'Entscheidungspfeil' automatisch aktualisiert</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
-    <value>Mulligan V2 is not Available for this Deck</value>
+    <value>Mulligan V2 ist für dieses Deck nicht verfügbar</value>
   </data>
   <data name="MulliganGV2_Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Ersetzen</value>
   </data>
   <data name="MulliganGV2_Keep" xml:space="preserve">
     <value>Behalten</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan G-V2</value>
+    <value>Mulligan G-V2 aktivieren</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_Group_Label" xml:space="preserve">
     <value>Mulligan G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
-    <value>Mulligan Stats (Wild and Arena)</value>
+    <value>Mulligan-Statistiken (Wild und Arena)</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Title" xml:space="preserve">
-    <value>Contextual Keep Rate: {0}%</value>
+    <value>Kontextbezogene Behalten-Rate: {0} %</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Title" xml:space="preserve">
-    <value>Dynamic Keep Rate: {0}%</value>
+    <value>Dynamische Behalten-Rate: {0} %</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
-    <value>Top players keep {0} {1}% of the time with this hand, deck, initiative, and opponent class.</value>
+    <value>Top-Spieler behalten {0} in {1} % der Fälle mit dieser Hand, Initiative, Gegnerklasse und diesem Deck.</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Top-Spieler würden {0} in {1} % der Fälle öfter behalten, wenn die zum Austausch markierten Karten (X) nicht angeboten würden.\n\nKontextbezogene Behalten-Rate: {2} %</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Top-Spieler würden {0} in {1} % der Fälle seltener behalten, wenn die zum Austausch markierten Karten (X) nicht angeboten würden.\n\nKontextbezogene Behalten-Rate: {2} %</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>Unzureichende Daten</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>Warnung: wenig Daten\n\nDie angezeigten Behalten-Raten sind möglicherweise weniger zuverlässig</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>Warnung: wenig Daten\n\nWir verfügen über genug Daten zu dieser Karte, jedoch nicht in Kombination mit einigen der anderen vorgeschlagenen Karten.\nDie angezeigten Behalten-Raten sind möglicherweise weniger zuverlässig</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>Top-Spieler behalten {0} {1} % seltener, wenn {2} ebenfalls angeboten wird</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>Top-Spieler behalten {0} {1} % öfter, wenn {2} ebenfalls angeboten wird</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
     <value>Top players keep {0} {1}% less often when a second copy is offered</value>
