@@ -5248,40 +5248,40 @@
     <value>Топ-игроки оставляют {0} в {1}% случаев при данной руке, колоде, инициативе и классе оппонента.</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Топ-игроки оставляли бы {0} на {1}% чаще, если бы карты, отмеченные для замены (X), не предлагались.\n\nКонтекстуальный процент удержания: {2}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Топ-игроки оставляли бы {0} на {1}% реже, если бы карты, отмеченные для замены (X), не предлагались.\n\nКонтекстуальный процент удержания: {2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>Недостаточно данных</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>Предупреждение о недостатке данных\n\nОтображаемые проценты удержания могут быть менее надежными</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>Предупреждение о недостатке данных\n\nУ нас достаточно данных по этой карте, но не в сочетании с некоторыми из других предложенных карт.\nОтображаемые проценты удержания могут быть менее надежными</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>Топ-игроки оставляют {0} на {1}% реже, когда также предлагается {2}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>Топ-игроки оставляют {0} на {1}% чаще, когда также предлагается {2}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>Топ-игроки оставляют {0} на {1}% реже, когда предлагается вторая копия</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>Топ-игроки оставляют {0} на {1}% чаще, когда предлагается вторая копия</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>Взаимодействие карт: {0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>Муллиган</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>Неполный доступ к Mulligan G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
     <value>Mulligan Guide V1 Ready</value>
