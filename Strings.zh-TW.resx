@@ -5194,7 +5194,7 @@
     <value>登入 HSReplay.net 即可在內嵌中直接取得起手換牌指南！</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>在幾場遊戲中免費試用起手換牌指南內嵌，我們會定期為你提供更多試用次數。在標準模式的「起手換牌 G-V2」和狂野模式的「起手換牌統計」中使用的次數都會計入</value>
+    <value>在幾場遊戲中免費試用起手換牌指南內嵌，我們會定期為你提供更多試用次數。在標準模式的「起手換牌 G-V2」和狂野模式的「起手換牌數據」中使用的次數都會計入</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>加入尊榮會員即可無限制使用。</value>
@@ -5212,7 +5212,7 @@
     <value>決定箭頭</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>顯示頂級玩家保留或換掉卡牌的可能性。綠色標記保留的卡牌，紅色標記換掉的卡牌</value>
+    <value>顯示頂尖玩家保留或換掉此卡牌的可能性。綠色表示建議保留，紅色則表示建議換掉</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
     <value>暗影列</value>
@@ -5236,57 +5236,57 @@
     <value>起手留牌指南G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
-    <value>Mulligan Stats (Wild and Arena)</value>
+    <value>起手留牌數據（狂野模式與競技場模式）</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Title" xml:space="preserve">
-    <value>Contextual Keep Rate: {0}%</value>
+    <value>特定對局留牌率：{0}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Title" xml:space="preserve">
-    <value>Dynamic Keep Rate: {0}%</value>
+    <value>動態留牌率：{0}%</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
-    <value>Top players keep {0} {1}% of the time with this hand, deck, initiative, and opponent class.</value>
+    <value>頂尖玩家在目前手牌、套牌、先後手及對手職業下，保留 {0} 的機率為 {1}%。</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>若未提供標示為換掉 (X) 的卡牌，頂尖玩家保留 {0} 的機率會增加 {1}%。\n\n特定對局留牌率：{2}%</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>若未提供標示為換掉 (X) 的卡牌，頂尖玩家保留 {0} 的機率會減少 {1}%。\n\n特定對局留牌率：{2}%</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>資料不足</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>資料不足警告\n\n顯示的保留率可能較不可靠</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>資料不足警告\n\n此卡牌的相關資料雖然足夠，但尚缺少其與部分發放卡牌組合的相關資料。\n顯示的保留率可能較不可靠</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>當 {2} 同時出現時，頂尖玩家保留 {0} 的機率會降低 {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>當 {2} 同時出現時，頂尖玩家保留 {0} 的機率會增加 {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>當出現第二張時，頂尖玩家保留 {0} 的機率會降低 {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>當出現第二張時，頂尖玩家保留 {0} 的機率會增加 {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>卡牌交互影響：{0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
-    <value>Mulligan</value>
+    <value>起手換牌</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>部分起手留牌指南G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>起手換牌指南V1就緒</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>起手換牌指南V2就緒</value>
   </data>
 </root>
