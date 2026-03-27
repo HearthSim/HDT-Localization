@@ -5292,4 +5292,10 @@
   <data name="MulliganGV2_Error_NotAvailable" xml:space="preserve">
     <value>Mulligan G-V2 Not Available for this Deck</value>
   </data>
+  <data name="MulliganGV2_Tooltip_BaseKeepRate" xml:space="preserve">
+    <value>Base Keep Rate: {0}%</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_AdjustedKeepRate" xml:space="preserve">
+    <value>Adjusted Keep Rate: {0}%</value>
+  </data>
 </root>
