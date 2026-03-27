@@ -5176,46 +5176,46 @@
     <value>Deathwing Discount</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Mulligan Guide Overlay</value>
+    <value>Mulligan-Guide-Overlay</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Title" xml:space="preserve">
-    <value>New Mulligan Guide Version 2 is Here!</value>
+    <value>Neue Mulligan-Guide-Version 2 ist da!</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>Mulligan like the Top players</value>
+    <value>Mulligan wie die Top-Spieler</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
-    <value>Learn More</value>
+    <value>Mehr erfahren</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Hover for more details</value>
+    <value>Fahre mit dem Cursor darüber für mehr Infos</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Mulligan Guide directly in the overlay!</value>
+    <value>Melde dich bei HSReplay.net an um den Mulligan-Guide direkt im Overlay zu sehen!</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Mulligan Guide overlay for free for a limited number of games, and we'll periodically give you more. The use count is shared between Mulligan G-V2 in Standard and Mulligan Stats in Wild</value>
+    <value>Der Mulligan-Guide-Overlay steht für eine begrenzte Anzahl von Partien kostenlos zur Verfügung. Danach werden wir in regelmäßigen Abständen weitere Versuche zur Verfügung stellen. Die Anzahl der Verwendungen des Overlays in Mulligan G-V2 in Standard und den Mulligan-Statistiken in Wilds wird zusammen gezählt</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>Abonniere Premium, um unbegrenzten Zugriff zu erhalten.</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>You're subscribed to Premium!</value>
+    <value>Du hast Premium abonniert!</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
-    <value>Synergy Indicator</value>
+    <value>Synergie-Indikator</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>Wird angezeigt, wenn eine starke datenbasierte Synergie (oder Antisynergie) mit einer anderen Karte in deiner Hand besteht. Die Anzahl der Pfeile gibt die Intensität der Synergie an</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>Entscheidungspfeil</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>Gibt die Wahrscheinlichkeit an, mit der ein Top-Spieler die Karte behalten oder austauschen wird. Grün markiert die behaltenen Karten, Rot die ausgetauschten</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>Schattenleiste</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
     <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
