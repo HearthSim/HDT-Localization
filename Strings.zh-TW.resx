@@ -5191,49 +5191,49 @@
     <value>滑鼠游標移到此處查看詳細資訊</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Mulligan Guide directly in the overlay!</value>
+    <value>登入 HSReplay.net 即可在內嵌中直接取得起手換牌指南！</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Mulligan Guide overlay for free for a limited number of games, and we'll periodically give you more. The use count is shared between Mulligan G-V2 in Standard and Mulligan Stats in Wild</value>
+    <value>在幾場遊戲中免費試用起手換牌指南內嵌，我們會定期為你提供更多試用次數。在標準模式的「起手換牌 G-V2」和狂野模式的「起手換牌統計」中使用的次數都會計入</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>加入尊榮會員即可無限制使用。</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>You're subscribed to Premium!</value>
+    <value>你已訂閱尊榮會員！</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
-    <value>Synergy Indicator</value>
+    <value>組合技指示器</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>當你手中其他卡牌有強大的資料型組合技（或反組合技）時會出現。箭頭數量代表組合技的強度。</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>決定箭頭</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>顯示頂級玩家保留或換掉卡牌的可能性。綠色標記保留的卡牌，紅色標記換掉的卡牌</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>暗影列</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>顯示這張卡牌如何受到你手中其他卡牌的影響。換掉卡牌會自動更新「決定箭頭」</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
-    <value>Mulligan V2 is not Available for this Deck</value>
+    <value>起手留牌指南V2不適用於此套牌</value>
   </data>
   <data name="MulliganGV2_Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>替換</value>
   </data>
   <data name="MulliganGV2_Keep" xml:space="preserve">
     <value>繼續</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan G-V2</value>
+    <value>啟用起手留牌指南G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_Group_Label" xml:space="preserve">
-    <value>Mulligan G-V2</value>
+    <value>起手留牌指南G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
     <value>Mulligan Stats (Wild and Arena)</value>
