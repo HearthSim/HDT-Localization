@@ -5182,43 +5182,43 @@
     <value>Новая версия Mulligan Guide Version 2 уже доступна!</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>Mulligan like the Top players</value>
+    <value>Муллиган как у топ-игроков</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
-    <value>Learn More</value>
+    <value>Подробнее</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Hover for more details</value>
+    <value>Наведите курсор, чтобы узнать больше</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Mulligan Guide directly in the overlay!</value>
+    <value>Войдите в HSReplay.net, чтобы использовать Mulligan Guide прямо в оверлее!</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Mulligan Guide overlay for free for a limited number of games, and we'll periodically give you more. The use count is shared between Mulligan G-V2 in Standard and Mulligan Stats in Wild</value>
+    <value>Оверлей Mulligan Guide доступен бесплатно на ограниченное число игр. Затем мы будем периодически давать вам дополнительные попытки. Количество использований оверлея в версии Mulligan G-V2 для стандартного формата и в Статистике муллигана для диких карт учитывается совместно</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>Оформите Премиум для неограниченного доступа.</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>You're subscribed to Premium!</value>
+    <value>Вы подписаны на Premium!</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
-    <value>Synergy Indicator</value>
+    <value>Индикатор синергии</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>Появляется, когда на основе данных выявлена сильная синергия (или антисинергия) с другой картой в вашей руке. Количество стрелок указывает на силу синергии.</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>Стрелка решения</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>Указывает на вероятность того, что карта будет оставлена или заменена топ-игроком. Зеленым выделяются карты, которые стоит оставить, красным — те, которые стоит заменить.</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>Шкала вероятности</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>Показывает, как на эту карту влияют остальные карты в вашей руке. Замена карты автоматически обновляет «Стрелку решения»</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
     <value>Mulligan V2 is not Available for this Deck</value>
