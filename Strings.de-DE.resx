@@ -5269,24 +5269,24 @@
     <value>Top-Spieler behalten {0} {1} % öfter, wenn {2} ebenfalls angeboten wird</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>Top-Spieler behalten {0} {1} % seltener, wenn auch eine zweite Kopie angeboten wird</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>Top-Spieler behalten {0} {1} % öfter, wenn auch eine zweite Kopie angeboten wird</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>Karteninteraktion: {0}{1} %</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
     <value>Mulligan</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>Teilweiser Mulligan G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>Mulligan-Guide V1 bereit</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>Mulligan-Guide G-V2 bereit</value>
   </data>
 </root>
