@@ -5176,117 +5176,126 @@
     <value>Deathwing Discount</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>Mulligan Guide Overlay</value>
+    <value>Overlay Guide des mulligans</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Title" xml:space="preserve">
-    <value>New Mulligan Guide Version 2 is Here!</value>
+    <value>Le nouveau Guide des mulligans version 2 est arrivé !</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>Mulligan like the Top players</value>
+    <value>Faites des mulligans comme les meilleurs joueurs</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
-    <value>Learn More</value>
+    <value>En savoir plus</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Survolez pour plus de détails</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>Sign in to HSReplay.net to access Mulligan Guide directly in the overlay!</value>
+    <value>Connectez-vous à HSReplay.net pour accéder Guide des mulligans directement dans l'overlay !</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>Try the Mulligan Guide overlay for free for a limited number of games, and we'll periodically give you more. The use count is shared between Mulligan G-V2 in Standard and Mulligan Stats in Wild</value>
+    <value>Essayez gratuitement l'overlay Guide des mulligans pendant un nombre limité de parties et nous vous donnerons plus d'utilisation de temps en temps. Le décompte des utilisations est partagé entre Mulligan G-V2 en Standard et Mulligan Stats en Libre</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>Obtiens l'accès illimité avec un abonnement Premium.</value>
   </data>
   <data name="ConstructedPreLobby_Subscribed_Premium" xml:space="preserve">
-    <value>You're subscribed to Premium!</value>
+    <value>Vous avez un abonnement Premium !</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Title" xml:space="preserve">
-    <value>Synergy Indicator</value>
+    <value>Indicateur de synergie</value>
   </data>
   <data name="MulliganGV2_OnboardingSynergy_Description" xml:space="preserve">
-    <value>Appears when there is a strong data-driven synergy (or anti-synergy) with another card in your hand. The number of arrows indicates the strength of the synergy</value>
+    <value>Apparaît quand une puissante synergie (ou anti-synergie) avec une autre carte de votre main, d'après les données, est détectée. Le nombre de flèches indique la puissance de la synergie</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Title" xml:space="preserve">
-    <value>Decision Arrow</value>
+    <value>Flèche de décision</value>
   </data>
   <data name="MulliganGV2_OnboardingBar_Description" xml:space="preserve">
-    <value>Indicates the likelihood of the card being kept or replaced by a top player. Green highlights cards to keep and red highlights cards to replace</value>
+    <value>Indique la probabilité qu'un joueur du top conserve ou remplace la carte. Les cartes en surbrillance verte sont à garder, et celles en surbrillances rouges sont à remplacer</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Title" xml:space="preserve">
-    <value>Shadow Bar</value>
+    <value>Barre d'ombre</value>
   </data>
   <data name="MulliganGV2_OnboardingShadowBar_Description" xml:space="preserve">
-    <value>Indicates how this card is affected by the rest of your hand. Replacing a card will update the 'Decision Arrow' automatically</value>
+    <value>Indique comment cette carte est affectée par le reste de votre main. Remplacer une carte met automatiquement à jour la « Flèche de décision »</value>
   </data>
   <data name="MulliganGuide_DeckNotSupported" xml:space="preserve">
-    <value>Mulligan V2 is not Available for this Deck</value>
+    <value>Mulligan V2 n'est pas disponible pour ce deck</value>
   </data>
   <data name="MulliganGV2_Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Remplacer</value>
   </data>
   <data name="MulliganGV2_Keep" xml:space="preserve">
     <value>Garder</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Mulligan G-V2</value>
+    <value>Activer Mulligan G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_Group_Label" xml:space="preserve">
     <value>Mulligan G-V2</value>
   </data>
   <data name="Options_Overlay_MulliganStats_Group_Label" xml:space="preserve">
-    <value>Mulligan Stats (Wild and Arena)</value>
+    <value>Mulligan Stats (Libre et Arène)</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Title" xml:space="preserve">
-    <value>Contextual Keep Rate: {0}%</value>
+    <value>Taux de conservation contextuel : {0} %</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Title" xml:space="preserve">
-    <value>Dynamic Keep Rate: {0}%</value>
+    <value>Taux de conservation dynamique : {0} %</value>
   </data>
   <data name="MulliganGV2_ContextualKeepRate_Description" xml:space="preserve">
-    <value>Top players keep {0} {1}% of the time with this hand, deck, initiative, and opponent class.</value>
+    <value>Les joueurs du top gardent {0} {1} % du temps avec cette main, ce deck, cette initiative et un adversaire de cette classe.</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Positive_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% more often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Les joueurs du top conserveraient {0} {1} % plus souvent si les cartes marquées à remplacer (X) n'étaient pas proposées.\n\nTaux de conservation contextuel : {2} %</value>
   </data>
   <data name="MulliganGV2_DynamicKeepRate_Negative_Description" xml:space="preserve">
-    <value>Top players would keep {0} {1}% less often if the cards marked to be replaced (X) were not offered.\n\nContextual Keep Rate: {2}%</value>
+    <value>Les joueurs du top conserveraient {0} {1} % moins souvent si les cartes marquées à remplacer (X) n'étaient pas proposées.\n\nTaux de conservation contextuel : {2} %</value>
   </data>
   <data name="MulliganGV2_Error_InsufficientData" xml:space="preserve">
-    <value>Insufficient Data</value>
+    <value>Données insuffisantes</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>Avertissement : peu de données\n\nLes taux de conservation affichés peuvent être moins fiables</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>Avertissement : peu de données\n\nNous avons suffisamment de données pour cette carte, mais pas en combinaison avec certaines des autres cartes proposées.\nLes taux de conservation affichés peuvent être moins fiables</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>Les joueurs du top conservent {0} {1} % moins souvent quand {2} est aussi proposé</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>Les joueurs du top conservent {0} {1} % plus souvent quand {2} est aussi proposé</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>Les joueurs du top conservent {0} {1} % moins souvent quand une deuxième copie est proposée</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>Les joueurs du top conservent {0} {1} % plus souvent quand une deuxième copie est proposée</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>Interaction avec cette carte : {0}{1} %</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
     <value>Mulligan</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>Mulligan G-V2 partiel</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>Guide des mulligans V1 prêt</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>Mulligan G-V2 prêt</value>
+  </data>
+  <data name="MulliganGV2_Error_NotAvailable" xml:space="preserve">
+    <value>Mulligan G-V2 Not Available for this Deck</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_BaseKeepRate" xml:space="preserve">
+    <value>Base Keep Rate: {0}%</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_AdjustedKeepRate" xml:space="preserve">
+    <value>Adjusted Keep Rate: {0}%</value>
   </data>
 </root>
