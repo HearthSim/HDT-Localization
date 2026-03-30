@@ -5182,7 +5182,7 @@
     <value>¡Ya disponible la nueva Guía de Mulligan versión 2!</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>Dominia el Mulligan</value>
+    <value>Domina el Mulligan</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
     <value>Más información</value>
@@ -5257,37 +5257,37 @@
     <value>Datos Insuficientes</value>
   </data>
   <data name="MulliganGV2_Warning_LowData" xml:space="preserve">
-    <value>Low Data Warning\n\nDisplayed keep-rates may be less reliable</value>
+    <value>Aviso de falta de datos\n\nLas tasas de conservación pueden ser poco fiables</value>
   </data>
   <data name="MulliganGV2_Warning_LowDataCombination" xml:space="preserve">
-    <value>Low Data Warning\n\nWe have enough data for this card, but not in combination with some of the other offered cards.\nDisplayed keep-rates may be less reliable</value>
+    <value>Aviso de falta de datos\n\nTenemos datos suficientes sobre la carta, pero no con la combinación de algunas cartas ofrecidas.\nLas tasas de conservación pueden ser poco fiables</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when {2} is also offered</value>
+    <value>Los mejores jugadores suelen conservarla un {0} {1} % menos si también se ofrece {2}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when {2} is also offered</value>
+    <value>Los mejores jugadores suelen conservarla un {0} {1} % más si también se ofrece {2}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when a second copy is offered</value>
+    <value>Los mejores jugadores suelen conservarla un {0} {1} % menos si se ofrece otra copia</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_SecondCopy" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when a second copy is offered</value>
+    <value>Los mejores jugadores suelen conservarla un {0} {1} % más si se ofrece otra copia</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>Card Interaction: {0}{1}%</value>
+    <value>Interacción de la carta: {0}{1} %</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
     <value>Mulligan</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
-    <value>Partial Mulligan G-V2</value>
+    <value>Mulligan G-V2 parcial</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>Mulligan Guide V1 Ready</value>
+    <value>Guía Mulligan V1 lista</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>Mulligan G-V2 Ready</value>
+    <value>Mulligan G-V2 lista</value>
   </data>
   <data name="MulliganGV2_Error_NotAvailable" xml:space="preserve">
     <value>Mulligan G-V2 Not Available for this Deck</value>
