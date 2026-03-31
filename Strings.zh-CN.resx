@@ -5290,12 +5290,12 @@
     <value>留牌指南G-V2就绪</value>
   </data>
   <data name="MulliganGV2_Error_NotAvailable" xml:space="preserve">
-    <value>Mulligan G-V2 Not Available for this Deck</value>
+    <value>留牌指南V2无法用于这个卡组</value>
   </data>
   <data name="MulliganGV2_Tooltip_BaseKeepRate" xml:space="preserve">
-    <value>Base Keep Rate: {0}%</value>
+    <value>基础保留率： {0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_AdjustedKeepRate" xml:space="preserve">
-    <value>Adjusted Keep Rate: {0}%</value>
+    <value>调整后保持率： {0}%</value>
   </data>
 </root>
