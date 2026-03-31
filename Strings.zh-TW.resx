@@ -5176,13 +5176,13 @@
     <value>Deathwing Discount</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Header" xml:space="preserve">
-    <value>起手換牌指南內嵌</value>
+    <value>起手留牌指南內嵌</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Title" xml:space="preserve">
-    <value>全新起手換牌指南第2版來囉！</value>
+    <value>全新起手留牌指南第2版來囉！</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_Description" xml:space="preserve">
-    <value>跟頂尖玩家一樣起手換牌</value>
+    <value>跟頂尖玩家一樣起手留牌</value>
   </data>
   <data name="ConstructedPreLobby_OnboardingNotification_LearnMore" xml:space="preserve">
     <value>了解更多</value>
@@ -5191,10 +5191,10 @@
     <value>滑鼠游標移到此處查看詳細資訊</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
-    <value>登入 HSReplay.net 即可在內嵌中直接取得起手換牌指南！</value>
+    <value>登入 HSReplay.net 即可在內嵌中直接取得起手留牌指南！</value>
   </data>
   <data name="ConstructedPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
-    <value>在幾場遊戲中免費試用起手換牌指南內嵌，我們會定期為你提供更多試用次數。在標準模式的「起手換牌 G-V2」和狂野模式的「起手換牌數據」中使用的次數都會計入</value>
+    <value>在幾場遊戲中免費試用起手留牌指南內嵌，我們會定期為你提供更多試用次數。在標準模式的「起手留牌G-V2」和狂野模式的「起手留牌數據」中使用的次數都會計入</value>
   </data>
   <data name="ConstructedPreLobby_Join" xml:space="preserve">
     <value>加入尊榮會員即可無限制使用。</value>
@@ -5278,16 +5278,16 @@
     <value>卡牌交互影響：{0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
-    <value>起手換牌</value>
+    <value>起手留牌</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_Partial" xml:space="preserve">
     <value>部分起手留牌指南G-V2</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V1Ready" xml:space="preserve">
-    <value>起手換牌指南V1就緒</value>
+    <value>起手留牌指南V1已就緒</value>
   </data>
   <data name="ConstructedMulliganGuidePreLobby_Status_V2Ready" xml:space="preserve">
-    <value>起手換牌指南V2就緒</value>
+    <value>起手留牌指南V2已就緒</value>
   </data>
   <data name="MulliganGV2_Error_NotAvailable" xml:space="preserve">
     <value>Mulligan G-V2 Not Available for this Deck</value>
