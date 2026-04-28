@@ -4705,10 +4705,10 @@
     <value>Buff Mais a Direita</value>
   </data>
   <data name="Counter_RandomTavernMinionBuff" xml:space="preserve">
-    <value>Random Tavern Minion Buff</value>
+    <value>Buff Aleatório da Taverna</value>
   </data>
   <data name="Counter_NextRefreshDemonFodder" xml:space="preserve">
-    <value>Next Refresh Demon Fodders</value>
+    <value>Comida de Demônio na Próxima Atualização</value>
   </data>
   <data name="Counter_VolumizerBuff" xml:space="preserve">
     <value>Buff do Amplificador</value>
@@ -5299,18 +5299,18 @@
     <value>Mulligan G-V2 Não Disponível para este Deck</value>
   </data>
   <data name="MulliganGV2_Tooltip_BaseKeepRate" xml:space="preserve">
-    <value>Base Keep Rate: {0}%</value>
+    <value>Retenção Base: {0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_AdjustedKeepRate" xml:space="preserve">
-    <value>Adjusted Keep Rate: {0}%</value>
+    <value>Retenção Ajustada: {0}%</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_CATACLYSM" xml:space="preserve">
-    <value>CATACLYSM</value>
+    <value>CATACLISMO</value>
   </data>
   <data name="Enum_ArenaRewardPacks_CATACLYSM" xml:space="preserve">
-    <value>CATACLYSM</value>
+    <value>CATACLISMO</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_CATACLYSM" xml:space="preserve">
-    <value>CATACLYSM</value>
+    <value>CATACLISMO</value>
   </data>
 </root>
