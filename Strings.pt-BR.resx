@@ -4698,8 +4698,8 @@
   <data name="Counter_WhelpBuff" xml:space="preserve">
     <value>Dragonete Buff</value>
   </data>
-  <data name="Counter_UndeadAttackBonus" xml:space="preserve">
-    <value>Morto-Vivo Ataque Bônus</value>
+  <data name="Counter_UndeadBuff" xml:space="preserve">
+    <value>Undead Buff</value>
   </data>
   <data name="Counter_RightMostTavernMinionBuff" xml:space="preserve">
     <value>Buff Mais a Direita</value>
@@ -5318,5 +5318,8 @@
   </data>
   <data name="Counter_AnimalCompanionCost" xml:space="preserve">
     <value>{0} Cost</value>
+  </data>
+  <data name="Counter_MuradinLastStand" xml:space="preserve">
+    <value>Cost: {0}</value>
   </data>
 </root>

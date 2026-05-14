@@ -4698,8 +4698,8 @@
   <data name="Counter_WhelpBuff" xml:space="preserve">
     <value>Whelp Buff</value>
   </data>
-  <data name="Counter_UndeadAttackBonus" xml:space="preserve">
-    <value>언데드 공격력 보너스</value>
+  <data name="Counter_UndeadBuff" xml:space="preserve">
+    <value>Undead Buff</value>
   </data>
   <data name="Counter_RightMostTavernMinionBuff" xml:space="preserve">
     <value>Right Most Tavern Buff</value>
@@ -5318,5 +5318,8 @@
   </data>
   <data name="Counter_AnimalCompanionCost" xml:space="preserve">
     <value>{0} Cost</value>
+  </data>
+  <data name="Counter_MuradinLastStand" xml:space="preserve">
+    <value>Cost: {0}</value>
   </data>
 </root>
