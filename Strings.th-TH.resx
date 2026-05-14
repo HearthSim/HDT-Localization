@@ -5322,4 +5322,40 @@
   <data name="Counter_MuradinLastStand" xml:space="preserve">
     <value>Cost: {0}</value>
   </data>
+  <data name="MulliganGV2_IconTooltip_Title_Opponent" xml:space="preserve">
+    <value>Opponent Class Interaction: {0}{1}%</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptLess_Opponent" xml:space="preserve">
+    <value>Top players keep {0} {1}% less often against {2}</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptMore_Opponent" xml:space="preserve">
+    <value>Top players keep {0} {1}% more often against {2}</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_OtherOpponentKeepRate" xml:space="preserve">
+    <value>Keep Rate against All classes: {0}%</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_ThisOpponentKeepRate" xml:space="preserve">
+    <value>Keep Rate against {0}: {1}%</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_Title_Initiative" xml:space="preserve">
+    <value>Initiative Interaction: {0}{1}%</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptLess_First" xml:space="preserve">
+    <value>Top players keep {0} {1}% less when going first</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptMore_First" xml:space="preserve">
+    <value>Top players keep {0} {1}% more when going first</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptLess_Coin" xml:space="preserve">
+    <value>Top players keep {0} {1}% less when going second</value>
+  </data>
+  <data name="MulliganGV2_IconTooltip_KeptMore_Coin" xml:space="preserve">
+    <value>Top players keep {0} {1}% more when going second</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_GoingFirstKeepRate" xml:space="preserve">
+    <value>Keep Rate going first: {0}%</value>
+  </data>
+  <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
+    <value>Keep Rate going second: {0}%</value>
+  </data>
 </root>
