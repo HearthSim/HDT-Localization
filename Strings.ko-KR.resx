@@ -4801,7 +4801,7 @@
     <value>효과</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Highlight_Synergies" xml:space="preserve">
-    <value>Highlight synergies in the deck</value>
+    <value>덱에 시너지 효과 강조</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
     <value>악마</value>
@@ -5041,7 +5041,7 @@
     <value>할인!</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
-    <value>Limited Time Offer!</value>
+    <value>기간 한정 혜택!</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>새로운 시즌을 Tier7 통계 및 기능의 최대 {0}% 기간 한정 할인과 함께 즐겨보세요!</value>
@@ -5050,13 +5050,13 @@
     <value>선술집에 블랙 프라이데이가 도착했습니다! 한정 기간내에 프리미엄 + Tier7을 {0}% 할인된 가격으로 이용하세요!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
-    <value>Use Hardware Acceleration when available</value>
+    <value>가능한 경우 하드웨어 가속 사용</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
-    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+    <value>메모리 부족 오류가 발생할 경우 비활성화</value>
   </data>
   <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
-    <value>{0} Group</value>
+    <value>{0} 그룹</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowOpponentPackage" xml:space="preserve">
     <value>상대방의 전설 그룹 보기</value>
@@ -5065,10 +5065,10 @@
     <value>Dynamically appears during match when the opponent plays a card that can identify the group</value>
   </data>
   <data name="Battlegrounds_CompGuide_BuddyGuide" xml:space="preserve">
-    <value>Buddy Guide</value>
+    <value>전우 가이드</value>
   </data>
   <data name="Find_Meta_Decks_Button" xml:space="preserve">
-    <value>Find Meta Decks</value>
+    <value>메타 덱 찾기</value>
   </data>
   <data name="BattlegroundsTavernPinning_Title" xml:space="preserve">
     <value>Tavern Pinning</value>
@@ -5077,7 +5077,7 @@
     <value>Tier7 기능</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
-    <value>Quick Guide</value>
+    <value>퀵 가이드</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideExplain" xml:space="preserve">
     <value>Ever accidentally rolled past that minion you were looking for?</value>
