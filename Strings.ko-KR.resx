@@ -4741,10 +4741,10 @@
     <value>추가 카드</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>조합의 핵심</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>조합의 준비</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>만든이:</value>
@@ -4753,10 +4753,10 @@
     <value>마지막 업데이트</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
-    <value>Comp Guides</value>
+    <value>조합 가이드</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>예제 보기</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
@@ -4771,7 +4771,7 @@
     <value>무료 버전</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>예제 보기</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>프로토스 하수인 비용 감소</value>
@@ -5134,16 +5134,16 @@
     <value>Auto-Enable Comps Key Pieces on Game Start</value>
   </data>
   <data name="Options_Overlay_BattlegroundsTavernPinning_QuickGuides" xml:space="preserve">
-    <value>Show Quick Guides</value>
+    <value>퀵 가이드 표시</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Title" xml:space="preserve">
-    <value>Failed to Load Comp Guides</value>
+    <value>조합 가이드 불러오기 실패</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Message" xml:space="preserve">
-    <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
+    <value>조합 가이드를 불러오는데 실패하였습니다. 네트워크 문제가 원인일 수 있습니다. 나중에 다시 시도하세요.</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
-    <value>Retry</value>
+    <value>다시 시도</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
     <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
