@@ -5323,39 +5323,39 @@
     <value>法力值消耗：{0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title_Opponent" xml:space="preserve">
-    <value>Opponent Class Interaction: {0}{1}%</value>
+    <value>对手职业联动率：{0}{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_Opponent" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often against {2}</value>
+    <value>对阵{2}时，顶尖选手会{1}%更少的保留{0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_Opponent" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often against {2}</value>
+    <value>对阵{2}时，顶尖选手会{1}%更多的保留{0}</value>
   </data>
   <data name="MulliganGV2_Tooltip_OtherOpponentKeepRate" xml:space="preserve">
-    <value>Keep Rate against other classes: {0}%</value>
+    <value>对阵其它职业的保留率：{0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_ThisOpponentKeepRate" xml:space="preserve">
-    <value>Keep Rate against {0}: {1}%</value>
+    <value>对阵{0}的保留率：{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title_Initiative" xml:space="preserve">
-    <value>Initiative Interaction: {0}{1}%</value>
+    <value>主动联动率：{0}{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_First" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when going first</value>
+    <value>当先手时，顶尖选手会{1}%更少的保留{0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_First" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when going first</value>
+    <value>当先手时，顶尖选手会{1}%更多的保留{0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_Coin" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when going second</value>
+    <value>当后手时，顶尖选手会{1}%更少的保留{0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_Coin" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when going second</value>
+    <value>当后手时，顶尖选手会{1}%更多的保留{0}</value>
   </data>
   <data name="MulliganGV2_Tooltip_GoingFirstKeepRate" xml:space="preserve">
-    <value>Keep Rate going first: {0}%</value>
+    <value>先手保留率: {0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
-    <value>Keep Rate going second: {0}%</value>
+    <value>后手保留率: {0}%</value>
   </data>
 </root>
