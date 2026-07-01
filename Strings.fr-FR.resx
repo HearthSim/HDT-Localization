@@ -3966,9 +3966,6 @@
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>Héros</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Final</value>
-  </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>Cote</value>
   </data>
@@ -5366,5 +5363,8 @@
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
     <value>Keep Rate going second: {0}%</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
+    <value>Place</value>
   </data>
 </root>
