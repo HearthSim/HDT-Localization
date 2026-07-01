@@ -3966,9 +3966,6 @@
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>Eroe</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Finale</value>
-  </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
@@ -5367,10 +5364,7 @@
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
     <value>Keep Rate going second: {0}%</value>
   </data>
-  <data name="MainWindow_StatusBar32BitSupport_NoLongerSupported" xml:space="preserve">
-    <value>HDT will stop working on this 32-bit device soon</value>
-  </data>
-  <data name="MainWindow_StatusBar32BitSupport_LearnMore" xml:space="preserve">
-    <value>Learn more</value>
+  <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
+    <value>Place</value>
   </data>
 </root>
