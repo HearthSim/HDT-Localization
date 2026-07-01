@@ -3966,9 +3966,6 @@
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>英雄</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>最終名次</value>
-  </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>天梯分数</value>
   </data>
@@ -5366,5 +5363,8 @@
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
     <value>Keep Rate going second: {0}%</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
+    <value>Place</value>
   </data>
 </root>

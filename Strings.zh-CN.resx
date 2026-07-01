@@ -3966,9 +3966,6 @@
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>英雄</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>排名</value>
-  </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>等级积分</value>
   </data>
@@ -4618,13 +4615,13 @@
     <value>安戈洛龟途</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>逃离紫罗兰监狱</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>逃离紫罗兰监狱逃离紫罗兰监狱</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>逃离紫罗兰监狱</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheLostCity" xml:space="preserve">
     <value>安戈洛龟途</value>
@@ -5366,5 +5363,8 @@
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
     <value>后手保留率: {0}%</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
+    <value>Place</value>
   </data>
 </root>
