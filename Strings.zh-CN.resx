@@ -5367,4 +5367,49 @@
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
     <value>Place</value>
   </data>
+  <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
+    <value>Enable The OutFinder</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
+    <value>Show in deck</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_ShowInHand" xml:space="preserve">
+    <value>Show in hand</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_UsePercentages" xml:space="preserve">
+    <value>Use percentages</value>
+  </data>
+  <data name="TheOutfinder_Label_Title" xml:space="preserve">
+    <value>The OutFinder</value>
+  </data>
+  <data name="TheOutfinder_Label_FreeVersion" xml:space="preserve">
+    <value>免费版本</value>
+  </data>
+  <data name="TheOutfinder_Label_Filters" xml:space="preserve">
+    <value>筛选</value>
+  </data>
+  <data name="TheOutfinder_Label_Cost" xml:space="preserve">
+    <value>费用</value>
+  </data>
+  <data name="TheOutfinder_Label_Attack" xml:space="preserve">
+    <value>攻击力</value>
+  </data>
+  <data name="TheOutfinder_Label_Health" xml:space="preserve">
+    <value>生命值</value>
+  </data>
+  <data name="TheOutfinder_Label_Median" xml:space="preserve">
+    <value>median</value>
+  </data>
+  <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
+    <value>Pool of {0} cards</value>
+  </data>
+  <data name="TheOutfinder_Label_PoolHeader" xml:space="preserve">
+    <value>{0} Pool: {1} cards</value>
+  </data>
+  <data name="TheOutfinder_Label_DefaultHeader" xml:space="preserve">
+    <value>相关卡牌</value>
+  </data>
+  <data name="TheOutfinder_Label_RightClickHint" xml:space="preserve">
+    <value>Right-click to see all options</value>
+  </data>
 </root>
