@@ -5371,13 +5371,13 @@
     <value>Enable The OutFinder</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
-    <value>Show in deck</value>
+    <value>在套牌中显示</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInHand" xml:space="preserve">
-    <value>Show in hand</value>
+    <value>在手牌中显示</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UsePercentages" xml:space="preserve">
-    <value>Use percentages</value>
+    <value>使用百分比</value>
   </data>
   <data name="TheOutfinder_Label_Title" xml:space="preserve">
     <value>The OutFinder</value>
@@ -5398,52 +5398,52 @@
     <value>生命值</value>
   </data>
   <data name="TheOutfinder_Label_Median" xml:space="preserve">
-    <value>median</value>
+    <value>中位数</value>
   </data>
   <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
-    <value>Pool of {0} cards</value>
+    <value>{0} 卡池</value>
   </data>
   <data name="TheOutfinder_Label_PoolHeader" xml:space="preserve">
-    <value>{0} Pool: {1} cards</value>
+    <value>{0} 卡池: {1} 卡牌</value>
   </data>
   <data name="TheOutfinder_Label_DefaultHeader" xml:space="preserve">
     <value>相关卡牌</value>
   </data>
   <data name="TheOutfinder_Label_RightClickHint" xml:space="preserve">
-    <value>Right-click to see all options</value>
+    <value>右键点击查看所有选项</value>
   </data>
   <data name="TheOutfinder_Keyword_starship_piece" xml:space="preserve">
-    <value>Starship Piece</value>
+    <value>星舰组件</value>
   </data>
   <data name="TheOutfinder_Keyword_silence" xml:space="preserve">
-    <value>Silence</value>
+    <value>沉默</value>
   </data>
   <data name="TheOutfinder_Keyword_excavate" xml:space="preserve">
-    <value>Excavate</value>
+    <value>发掘</value>
   </data>
   <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
     <value>复生</value>
   </data>
   <data name="TheOutfinder_Keyword_adjacent_buff" xml:space="preserve">
-    <value>Buff Adjacent</value>
+    <value>相邻单位增益</value>
   </data>
   <data name="TheOutfinder_Keyword_freeze" xml:space="preserve">
-    <value>Freeze</value>
+    <value>冻结</value>
   </data>
   <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
     <value>磁力</value>
   </data>
   <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
-    <value>Outcast</value>
+    <value>流放</value>
   </data>
   <data name="TheOutfinder_Keyword_lifesteal" xml:space="preserve">
-    <value>Lifesteal</value>
+    <value>吸血</value>
   </data>
   <data name="TheOutfinder_Keyword_poisonous" xml:space="preserve">
     <value>剧毒</value>
   </data>
   <data name="TheOutfinder_Keyword_rush" xml:space="preserve">
-    <value>Rush</value>
+    <value>突袭</value>
   </data>
   <data name="TheOutfinder_Keyword_discover" xml:space="preserve">
     <value>发现</value>
