@@ -3966,9 +3966,6 @@
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
     <value>Hero</value>
   </data>
-  <data name="Battlegrounds_Session_Games_Label_Final" xml:space="preserve">
-    <value>Final</value>
-  </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
@@ -5366,5 +5363,125 @@
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
     <value>Keep Rate going second: {0}%</value>
+  </data>
+  <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
+    <value>Place</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
+    <value>Enable The OutFinder</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
+    <value>Show in deck</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_ShowInHand" xml:space="preserve">
+    <value>Show in hand</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_UsePercentages" xml:space="preserve">
+    <value>Use percentages</value>
+  </data>
+  <data name="TheOutfinder_Label_Title" xml:space="preserve">
+    <value>The OutFinder</value>
+  </data>
+  <data name="TheOutfinder_Label_FreeVersion" xml:space="preserve">
+    <value>Free Version</value>
+  </data>
+  <data name="TheOutfinder_Label_Filters" xml:space="preserve">
+    <value>Filtros</value>
+  </data>
+  <data name="TheOutfinder_Label_Cost" xml:space="preserve">
+    <value>Coste</value>
+  </data>
+  <data name="TheOutfinder_Label_Attack" xml:space="preserve">
+    <value>Ataque</value>
+  </data>
+  <data name="TheOutfinder_Label_Health" xml:space="preserve">
+    <value>Salud</value>
+  </data>
+  <data name="TheOutfinder_Label_Median" xml:space="preserve">
+    <value>median</value>
+  </data>
+  <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
+    <value>Pool of {0} cards</value>
+  </data>
+  <data name="TheOutfinder_Label_PoolHeader" xml:space="preserve">
+    <value>{0} Pool: {1} cards</value>
+  </data>
+  <data name="TheOutfinder_Label_DefaultHeader" xml:space="preserve">
+    <value>Related Cards</value>
+  </data>
+  <data name="TheOutfinder_Label_RightClickHint" xml:space="preserve">
+    <value>Right-click to see all options</value>
+  </data>
+  <data name="TheOutfinder_Keyword_starship_piece" xml:space="preserve">
+    <value>Starship Piece</value>
+  </data>
+  <data name="TheOutfinder_Keyword_silence" xml:space="preserve">
+    <value>Silence</value>
+  </data>
+  <data name="TheOutfinder_Keyword_excavate" xml:space="preserve">
+    <value>Excavate</value>
+  </data>
+  <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
+    <value>Reborn</value>
+  </data>
+  <data name="TheOutfinder_Keyword_adjacent_buff" xml:space="preserve">
+    <value>Buff Adjacent</value>
+  </data>
+  <data name="TheOutfinder_Keyword_freeze" xml:space="preserve">
+    <value>Freeze</value>
+  </data>
+  <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
+    <value>Magnetic</value>
+  </data>
+  <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
+    <value>Outcast</value>
+  </data>
+  <data name="TheOutfinder_Keyword_lifesteal" xml:space="preserve">
+    <value>Lifesteal</value>
+  </data>
+  <data name="TheOutfinder_Keyword_poisonous" xml:space="preserve">
+    <value>Veneno</value>
+  </data>
+  <data name="TheOutfinder_Keyword_rush" xml:space="preserve">
+    <value>Rush</value>
+  </data>
+  <data name="TheOutfinder_Keyword_discover" xml:space="preserve">
+    <value>Discover</value>
+  </data>
+  <data name="TheOutfinder_Keyword_taunt" xml:space="preserve">
+    <value>Provocar</value>
+  </data>
+  <data name="TheOutfinder_Keyword_spellpower" xml:space="preserve">
+    <value>Spell Damage +</value>
+  </data>
+  <data name="TheOutfinder_Keyword_divine_shield" xml:space="preserve">
+    <value>Escudo divino</value>
+  </data>
+  <data name="TheOutfinder_Keyword_charge" xml:space="preserve">
+    <value>Charge</value>
+  </data>
+  <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
+    <value>Sobrecarga</value>
+  </data>
+  <data name="TheOutfinder_Keyword_secret" xml:space="preserve">
+    <value>Secret</value>
+  </data>
+  <data name="TheOutfinder_Keyword_card_draw" xml:space="preserve">
+    <value>Card Draw</value>
+  </data>
+  <data name="TheOutfinder_Keyword_deal_face_damage" xml:space="preserve">
+    <value>Face Damage</value>
+  </data>
+  <data name="TheOutfinder_Keyword_heal" xml:space="preserve">
+    <value>Heal</value>
+  </data>
+  <data name="TheOutfinder_Keyword_invoke_galakrond" xml:space="preserve">
+    <value>Invoke</value>
+  </data>
+  <data name="TheOutfinder_Keyword_herald" xml:space="preserve">
+    <value>Herald</value>
+  </data>
+  <data name="TheOutfinder_Keyword_imbue" xml:space="preserve">
+    <value>Imbue</value>
   </data>
 </root>
