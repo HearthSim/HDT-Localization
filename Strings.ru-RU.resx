@@ -4056,6 +4056,12 @@
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
     <value>В колоде больше 40 карт.</value>
   </data>
+  <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
+    <value>Deck has less than 20 cards.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
+    <value>Deck has more than 20 cards.</value>
+  </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>Welcome back to</value>
   </data>
