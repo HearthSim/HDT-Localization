@@ -4056,6 +4056,12 @@
   <data name="Enum_DeckEditorWarnings_MoreThan40" xml:space="preserve">
     <value>덱에 포함된 카드가 40장을 초과합니다</value>
   </data>
+  <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
+    <value>Deck has less than 20 cards.</value>
+  </data>
+  <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
+    <value>Deck has more than 20 cards.</value>
+  </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>에 돌아오신 것을 환영합니다</value>
   </data>
