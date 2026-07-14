@@ -4057,10 +4057,10 @@
     <value>套牌中的卡牌多于40张</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
-    <value>Deck has less than 20 cards.</value>
+    <value>套牌中的卡牌少于20张。</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
-    <value>Deck has more than 20 cards.</value>
+    <value>套牌中的卡牌多于20张。</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>欢迎回到</value>
@@ -5374,7 +5374,7 @@
     <value>名次</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
-    <value>Enable The OutFinder</value>
+    <value>启用 The OutFinder</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
     <value>在套牌中显示</value>
@@ -5491,6 +5491,6 @@
     <value>灌注</value>
   </data>
   <data name="DeckLens_Label_Overdrawn" xml:space="preserve">
-    <value>Overdrawn</value>
+    <value>过量抽取</value>
   </data>
 </root>
