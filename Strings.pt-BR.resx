@@ -3601,7 +3601,7 @@
     <value>Campos de Batalha</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
-    <value>Bob's Amigo</value>
+    <value>Camarada Bob</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_RunCombatSimulations" xml:space="preserve">
     <value>Habilitar simulações de combate</value>
@@ -4057,10 +4057,10 @@
     <value>Deck tem mais de 40 cards.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
-    <value>Deck has less than 20 cards.</value>
+    <value>Deck possui menos de 20 cards.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
-    <value>Deck has more than 20 cards.</value>
+    <value>Deck possui mais de 20 cards.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>Bem-vindo de volta ao</value>
@@ -5335,55 +5335,55 @@
     <value>Custo: {0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title_Opponent" xml:space="preserve">
-    <value>Opponent Class Interaction: {0}{1}%</value>
+    <value>Interação da Classe Adversária: {0}{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_Opponent" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often against {2}</value>
+    <value>Os melhores mantêm {0} {1}% menos vezes contra {2}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_Opponent" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often against {2}</value>
+    <value>Os melhores mantêm {0} {1}% mais vezes contra {2}</value>
   </data>
   <data name="MulliganGV2_Tooltip_OtherOpponentKeepRate" xml:space="preserve">
-    <value>Keep Rate against other classes: {0}%</value>
+    <value>Manter contra outras classes: {0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_ThisOpponentKeepRate" xml:space="preserve">
-    <value>Keep Rate against {0}: {1}%</value>
+    <value>Manter contra {0}: {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title_Initiative" xml:space="preserve">
     <value>Initiative Interaction: {0}{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_First" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when going first</value>
+    <value>Os melhores mantêm {0} {1}% menos vezes indo primeiro</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_First" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when going first</value>
+    <value>Os melhores mantêm {0} {1}% mais vezes indo primeiro</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_Coin" xml:space="preserve">
-    <value>Top players keep {0} {1}% less often when going second</value>
+    <value>Os melhores mantêm {0} {1}% menos vezes indo por segundo</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptMore_Coin" xml:space="preserve">
-    <value>Top players keep {0} {1}% more often when going second</value>
+    <value>Os melhores mantêm {0} {1}% mais vezes indo por segundo</value>
   </data>
   <data name="MulliganGV2_Tooltip_GoingFirstKeepRate" xml:space="preserve">
-    <value>Keep Rate going first: {0}%</value>
+    <value>Manter indo primeiro: {0}%</value>
   </data>
   <data name="MulliganGV2_Tooltip_GoingSecondKeepRate" xml:space="preserve">
-    <value>Keep Rate going second: {0}%</value>
+    <value>Manter indo por segundo: {0}%</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
-    <value>Place</value>
+    <value>Lugar</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
     <value>Enable The OutFinder</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
-    <value>Show in deck</value>
+    <value>Exibir no deck</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInHand" xml:space="preserve">
-    <value>Show in hand</value>
+    <value>Exibir na mão</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UsePercentages" xml:space="preserve">
-    <value>Use percentages</value>
+    <value>Usar porcentagens</value>
   </data>
   <data name="TheOutfinder_Label_Title" xml:space="preserve">
     <value>The OutFinder</value>
@@ -5407,87 +5407,99 @@
     <value>median</value>
   </data>
   <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
-    <value>Pool of {0} cards</value>
+    <value>Conjunto de {0} cards</value>
   </data>
   <data name="TheOutfinder_Label_PoolHeader" xml:space="preserve">
-    <value>{0} Pool: {1} cards</value>
+    <value>{0} Conjunto: {1} cards</value>
   </data>
   <data name="TheOutfinder_Label_DefaultHeader" xml:space="preserve">
     <value>Cards Relacionados</value>
   </data>
   <data name="TheOutfinder_Label_RightClickHint" xml:space="preserve">
-    <value>Right-click to see all options</value>
+    <value>Clique direito para ver todas as opções</value>
   </data>
   <data name="TheOutfinder_Keyword_starship_piece" xml:space="preserve">
-    <value>Starship Piece</value>
+    <value>Peça de Nave Estelar</value>
   </data>
   <data name="TheOutfinder_Keyword_silence" xml:space="preserve">
-    <value>Silence</value>
+    <value>Silenciar</value>
   </data>
   <data name="TheOutfinder_Keyword_excavate" xml:space="preserve">
-    <value>Excavate</value>
+    <value>Escavar</value>
   </data>
   <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
     <value>Renascer</value>
   </data>
   <data name="TheOutfinder_Keyword_adjacent_buff" xml:space="preserve">
-    <value>Buff Adjacent</value>
+    <value>Buff Adjacente</value>
   </data>
   <data name="TheOutfinder_Keyword_freeze" xml:space="preserve">
-    <value>Freeze</value>
+    <value>Congelar</value>
   </data>
   <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
     <value>Magnético</value>
   </data>
   <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
-    <value>Outcast</value>
+    <value>Exilar</value>
   </data>
   <data name="TheOutfinder_Keyword_lifesteal" xml:space="preserve">
-    <value>Lifesteal</value>
+    <value>Roubar Vida</value>
   </data>
   <data name="TheOutfinder_Keyword_poisonous" xml:space="preserve">
     <value>Venenoso</value>
   </data>
   <data name="TheOutfinder_Keyword_rush" xml:space="preserve">
-    <value>Rush</value>
+    <value>Rapidez</value>
   </data>
   <data name="TheOutfinder_Keyword_discover" xml:space="preserve">
-    <value>Discover</value>
+    <value>Descubra</value>
   </data>
   <data name="TheOutfinder_Keyword_taunt" xml:space="preserve">
     <value>Provocar</value>
   </data>
   <data name="TheOutfinder_Keyword_spellpower" xml:space="preserve">
-    <value>Spell Damage +</value>
+    <value>Dano Mágico +</value>
   </data>
   <data name="TheOutfinder_Keyword_divine_shield" xml:space="preserve">
     <value>Escudo Divino</value>
   </data>
   <data name="TheOutfinder_Keyword_charge" xml:space="preserve">
-    <value>Charge</value>
+    <value>Investida</value>
   </data>
   <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
     <value>Sobrecarga</value>
   </data>
   <data name="TheOutfinder_Keyword_secret" xml:space="preserve">
-    <value>Secret</value>
+    <value>Segredo</value>
   </data>
   <data name="TheOutfinder_Keyword_card_draw" xml:space="preserve">
-    <value>Card Draw</value>
+    <value>Comprar Card</value>
   </data>
   <data name="TheOutfinder_Keyword_deal_face_damage" xml:space="preserve">
-    <value>Face Damage</value>
+    <value>Dano Direto</value>
   </data>
   <data name="TheOutfinder_Keyword_heal" xml:space="preserve">
-    <value>Heal</value>
+    <value>Cura</value>
   </data>
   <data name="TheOutfinder_Keyword_invoke_galakrond" xml:space="preserve">
-    <value>Invoke</value>
+    <value>Invocar</value>
   </data>
   <data name="TheOutfinder_Keyword_herald" xml:space="preserve">
     <value>Proclamar</value>
   </data>
   <data name="TheOutfinder_Keyword_imbue" xml:space="preserve">
     <value>Intensificar</value>
+  </data>
+  <data name="DeckLens_Label_Overdrawn" xml:space="preserve">
+    <value>Overdrawn</value>
+  </data>
+  <data name="TheOutfinder_Keyword_aoe" xml:space="preserve">
+    <value>AoE</value>
+  </data>
+  <data name="TheOutfinder_Keyword_single_target_removal" xml:space="preserve">
+    <value>Single Target Removal</value>
+  </data>
+  <data name="TheOutfinder_Keyword_armor_gain" xml:space="preserve">
+    <value>Armor Gain</value>
   </data>
 </root>
