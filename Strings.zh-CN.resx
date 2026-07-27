@@ -5466,6 +5466,9 @@
   <data name="TheOutfinder_Keyword_charge" xml:space="preserve">
     <value>冲锋</value>
   </data>
+  <data name="TheOutfinder_Keyword_stealth" xml:space="preserve">
+    <value>Stealth</value>
+  </data>
   <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
     <value>过载</value>
   </data>
@@ -5504,5 +5507,8 @@
   </data>
   <data name="Counter_PlayedMinionTypes" xml:space="preserve">
     <value>打出的随从类型数量</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
+    <value>Show pools as a card list (uses less data)</value>
   </data>
 </root>
