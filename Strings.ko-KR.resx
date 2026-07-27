@@ -5511,4 +5511,13 @@
   <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
     <value>Show pools as a card list (uses less data)</value>
   </data>
+  <data name="ConstructedTrialsExhausted_Header" xml:space="preserve">
+    <value>멀리건 가이드 오버레이</value>
+  </data>
+  <data name="ConstructedTrialsExhausted_Title" xml:space="preserve">
+    <value>That was your last free game</value>
+  </data>
+  <data name="ConstructedTrialsExhausted_Description" xml:space="preserve">
+    <value>You have used all of your free Premium games, so it will not be available in your next game. Subscribe to HSReplay.net Premium to keep using it in every game.</value>
+  </data>
 </root>
