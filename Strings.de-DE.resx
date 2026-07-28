@@ -5466,6 +5466,9 @@
   <data name="TheOutfinder_Keyword_charge" xml:space="preserve">
     <value>Charge</value>
   </data>
+  <data name="TheOutfinder_Keyword_stealth" xml:space="preserve">
+    <value>Stealth</value>
+  </data>
   <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
     <value>Überladung</value>
   </data>
@@ -5504,5 +5507,20 @@
   </data>
   <data name="Counter_PlayedMinionTypes" xml:space="preserve">
     <value>Minion Types Played</value>
+  </data>
+  <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
+    <value>Show pools as a card list (uses less data)</value>
+  </data>
+  <data name="ConstructedTrialsExhausted_Header" xml:space="preserve">
+    <value>Mulligan-Guide-Overlay</value>
+  </data>
+  <data name="ConstructedTrialsExhausted_Title" xml:space="preserve">
+    <value>That was your last free game</value>
+  </data>
+  <data name="ConstructedTrialsExhausted_Description" xml:space="preserve">
+    <value>You have used all of your free Premium games, so it will not be available in your next game. Subscribe to HSReplay.net Premium to keep using it in every game.</value>
+  </data>
+  <data name="Options_Overlay_TheOutFinder_Header" xml:space="preserve">
+    <value>The OutFinder</value>
   </data>
 </root>
