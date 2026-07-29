@@ -631,7 +631,7 @@
     <value>Mostrar texto extra ao passar o mouse (mesa/mão)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
-    <value>Show the order cards entered the board</value>
+    <value>Exibir ordem de entrada dos cards no tabuleiro</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Mostrar estado da bateria</value>
@@ -2746,7 +2746,7 @@
     <value>Só aparecerá se o cursor permanecer imóvel em uma carta por um curto período de tempo.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
-    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
+    <value>Desenha um número sob cada lacaio e arma. Apenas Hearthstone tradicional.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
@@ -3667,7 +3667,7 @@
     <value>Derrota</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
-    <value>Bob's Amigo</value>
+    <value>Camarada Bob</value>
   </data>
   <data name="Label_Beta" xml:space="preserve">
     <value>Beta</value>
@@ -5065,7 +5065,7 @@
     <value>Aproveite a nova temporada com todas as estatísticas e recursos do Tier7 economizando até {0}% por tempo limitado!</value>
   </data>
   <data name="TraditionalPreLobby_SaleTooltip_Description" xml:space="preserve">
-    <value>Enjoy the new expansion with all the Premium stats and features saving up to {0}% for a limited time!</value>
+    <value>Aproveite a nova expansão com todos os recursos e estatísticas Premium economizando até {0}% por tempo limitado!</value>
   </data>
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
     <value>A Black Friday chegou à Taverna! Desbloqueie Premium + Tier7 com {0}% de desconto por tempo limitado!</value>
@@ -5359,7 +5359,7 @@
     <value>Manter contra {0}: {1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title_Initiative" xml:space="preserve">
-    <value>Initiative Interaction: {0}{1}%</value>
+    <value>Interação de Iniciativa: {0}{1}%</value>
   </data>
   <data name="MulliganGV2_IconTooltip_KeptLess_First" xml:space="preserve">
     <value>Os melhores mantêm {0} {1}% menos vezes indo primeiro</value>
@@ -5383,7 +5383,7 @@
     <value>Lugar</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
-    <value>Enable The OutFinder</value>
+    <value>Habilitar o OutFinder</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
     <value>Exibir no deck</value>
@@ -5395,7 +5395,7 @@
     <value>Usar porcentagens</value>
   </data>
   <data name="TheOutfinder_Label_Title" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>OutFinder</value>
   </data>
   <data name="TheOutfinder_Label_FreeVersion" xml:space="preserve">
     <value>Versão Gratuita</value>
@@ -5413,7 +5413,7 @@
     <value>Vida</value>
   </data>
   <data name="TheOutfinder_Label_Median" xml:space="preserve">
-    <value>median</value>
+    <value>média</value>
   </data>
   <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
     <value>Conjunto de {0} cards</value>
@@ -5476,7 +5476,7 @@
     <value>Investida</value>
   </data>
   <data name="TheOutfinder_Keyword_stealth" xml:space="preserve">
-    <value>Stealth</value>
+    <value>Furtividade</value>
   </data>
   <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
     <value>Sobrecarga</value>
@@ -5509,27 +5509,27 @@
     <value>AoE</value>
   </data>
   <data name="TheOutfinder_Keyword_single_target_removal" xml:space="preserve">
-    <value>Single Target Removal</value>
+    <value>Remoção de Alvo Único</value>
   </data>
   <data name="TheOutfinder_Keyword_armor_gain" xml:space="preserve">
-    <value>Armor Gain</value>
+    <value>Ganho de Armadura</value>
   </data>
   <data name="Counter_PlayedMinionTypes" xml:space="preserve">
-    <value>Minion Types Played</value>
+    <value>Tipos de Lacaios Jogados</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
-    <value>Show pools as a card list (uses less data)</value>
+    <value>Exibir conjuntos como lista de cards (utiliza menos dados)</value>
   </data>
   <data name="ConstructedTrialsExhausted_Header" xml:space="preserve">
     <value>Overlay de Guia de Mulligan</value>
   </data>
   <data name="ConstructedTrialsExhausted_Title" xml:space="preserve">
-    <value>That was your last free game</value>
+    <value>Essa foi sua última partida gratuita</value>
   </data>
   <data name="ConstructedTrialsExhausted_Description" xml:space="preserve">
-    <value>You have used all of your free Premium games, so it will not be available in your next game. Subscribe to HSReplay.net Premium to keep using it in every game.</value>
+    <value>Suas partidas Premium gratuitas acabaram, por isso não estará disponível na próxima partida. Assine o HSReplay.net Premium para usá-lo em todas as partidas.</value>
   </data>
   <data name="Options_Overlay_TheOutFinder_Header" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>OutFinder</value>
   </data>
 </root>
