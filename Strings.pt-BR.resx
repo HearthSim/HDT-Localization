@@ -630,6 +630,9 @@
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Mostrar texto extra ao passar o mouse (mesa/mão)</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
+    <value>Show the order cards entered the board</value>
+  </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Mostrar estado da bateria</value>
   </data>
@@ -2741,6 +2744,9 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>Só aparecerá se o cursor permanecer imóvel em uma carta por um curto período de tempo.</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
+    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Funciona em dispositivos móveis (Laptop, Tablet, ...) somente.</value>
