@@ -630,6 +630,9 @@
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）*</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
+    <value>Show the order cards entered the board</value>
+  </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>显示电池状态*</value>
   </data>
@@ -2741,6 +2744,9 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>当鼠标静止一会后才会显示。</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
+    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>仅对移动设备（笔记本、平板电脑等）有效。</value>
