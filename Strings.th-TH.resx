@@ -630,6 +630,9 @@
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
     <value>Show card flavor text on mouseover (board/hand)</value>
   </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
+    <value>Show the order cards entered the board</value>
+  </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Show battery status</value>
   </data>
@@ -2741,6 +2744,9 @@
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText_Tooltip" xml:space="preserve">
     <value>Will only appear if the cursor stays still on a card for a short period of time.</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
+    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Works for mobile devices (Laptop, Tablet, ...) only.</value>
@@ -5057,6 +5063,9 @@
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Description" xml:space="preserve">
     <value>Enjoy the new season with all the Tier7 stats and features saving up to {0}% for a limited time!</value>
+  </data>
+  <data name="TraditionalPreLobby_SaleTooltip_Description" xml:space="preserve">
+    <value>Enjoy the new expansion with all the Premium stats and features saving up to {0}% for a limited time!</value>
   </data>
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
     <value>Black Friday arrives to the Tavern! Unlock Premium + Tier7 at {0}% OFF for a limited time!</value>
