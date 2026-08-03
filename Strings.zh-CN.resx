@@ -5532,4 +5532,46 @@
   <data name="Options_Overlay_TheOutFinder_Header" xml:space="preserve">
     <value>The OutFinder</value>
   </data>
+  <data name="Options_Overlay_Counters_Header" xml:space="preserve">
+    <value>Counters</value>
+  </data>
+  <data name="OptionsCounters_Description" xml:space="preserve">
+    <value>Choose which counters are shown. "Auto" uses the built-in rules, which show a counter only when it is relevant.</value>
+  </data>
+  <data name="OptionsCounters_Group_Traditional" xml:space="preserve">
+    <value>Traditional</value>
+  </data>
+  <data name="OptionsCounters_Group_Battlegrounds" xml:space="preserve">
+    <value>酒馆战棋</value>
+  </data>
+  <data name="OptionsCounters_Column_Player" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="OptionsCounters_Column_Opponent" xml:space="preserve">
+    <value>对手</value>
+  </data>
+  <data name="OptionsCounters_Mode_Auto" xml:space="preserve">
+    <value>自动显示</value>
+  </data>
+  <data name="OptionsCounters_Mode_Disabled" xml:space="preserve">
+    <value>Never show</value>
+  </data>
+  <data name="OptionsCounters_Mode_Enabled" xml:space="preserve">
+    <value>Always show</value>
+  </data>
+  <data name="OptionsCounters_ResetAll" xml:space="preserve">
+    <value>Reset all to Auto</value>
+  </data>
+  <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
+    <value>Filter counters...</value>
+  </data>
+  <data name="OptionsCounters_NoResults" xml:space="preserve">
+    <value>No counters match your filter.</value>
+  </data>
+  <data name="OptionsCounters_OpponentUnsupportedTooltip" xml:space="preserve">
+    <value>Opponent counters are not shown in Battlegrounds.</value>
+  </data>
+  <data name="Counter_PlayedSpellsForNagas" xml:space="preserve">
+    <value>Played Spells (Nagas)</value>
+  </data>
 </root>
