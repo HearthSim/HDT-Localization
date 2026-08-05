@@ -5577,4 +5577,7 @@
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
+    <value>Show Maximum Gold</value>
+  </data>
 </root>
