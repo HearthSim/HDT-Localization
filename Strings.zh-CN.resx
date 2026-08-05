@@ -631,7 +631,7 @@
     <value>鼠标悬停时显示卡牌的背景描述（包括场上/手牌中）*</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
-    <value>Show the order cards entered the board</value>
+    <value>显示卡牌进入场上的顺序</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>显示电池状态*</value>
@@ -2746,7 +2746,7 @@
     <value>当鼠标静止一会后才会显示。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
-    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
+    <value>在每一个随从和武器下方显示一个小数字。仅限炉石传说传统对战。</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>仅对移动设备（笔记本、平板电脑等）有效。</value>
@@ -5065,7 +5065,7 @@
     <value>畅享全新赛季，尽享所有Tier7统计与功能，限时优惠最多可省{0}%！</value>
   </data>
   <data name="TraditionalPreLobby_SaleTooltip_Description" xml:space="preserve">
-    <value>Enjoy the new expansion with all the Premium stats and features saving up to {0}% for a limited time!</value>
+    <value>畅享全新扩展包，尽享所有会员统计与功能，限时优惠最多可省{0}%！</value>
   </data>
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
     <value>黑色星期五来袭酒馆！解锁会员 + Tier7 ，限时享受{0}%折扣！</value>
@@ -5383,7 +5383,7 @@
     <value>名次</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
-    <value>启用 The OutFinder</value>
+    <value>启用最佳解探寻器</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
     <value>在套牌中显示</value>
@@ -5395,7 +5395,7 @@
     <value>使用百分比</value>
   </data>
   <data name="TheOutfinder_Label_Title" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>最佳解探寻器</value>
   </data>
   <data name="TheOutfinder_Label_FreeVersion" xml:space="preserve">
     <value>免费版本</value>
@@ -5527,9 +5527,57 @@
     <value>这是你最后一场免费对局</value>
   </data>
   <data name="ConstructedTrialsExhausted_Description" xml:space="preserve">
-    <value>You have used all of your free Premium games, so it will not be available in your next game. Subscribe to HSReplay.net Premium to keep using it in every game.</value>
+    <value>你已经用完了所有的高级游戏功能免费试用次数，所以在你的下一局游戏中它将不再可用。订阅 HSReplay.net 会员以在每一场对局中继续使用它。</value>
   </data>
   <data name="Options_Overlay_TheOutFinder_Header" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>最佳解探寻器</value>
+  </data>
+  <data name="Options_Overlay_Counters_Header" xml:space="preserve">
+    <value>计数器</value>
+  </data>
+  <data name="OptionsCounters_Description" xml:space="preserve">
+    <value>选择要显示哪些计数器。“自动”使用内置规则，计数器仅在有关联时才显示。</value>
+  </data>
+  <data name="OptionsCounters_Group_Traditional" xml:space="preserve">
+    <value>传统对战</value>
+  </data>
+  <data name="OptionsCounters_Group_Battlegrounds" xml:space="preserve">
+    <value>酒馆战棋</value>
+  </data>
+  <data name="OptionsCounters_Column_Player" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="OptionsCounters_Column_Opponent" xml:space="preserve">
+    <value>对手</value>
+  </data>
+  <data name="OptionsCounters_Mode_Auto" xml:space="preserve">
+    <value>自动显示</value>
+  </data>
+  <data name="OptionsCounters_Mode_Disabled" xml:space="preserve">
+    <value>不显示</value>
+  </data>
+  <data name="OptionsCounters_Mode_Enabled" xml:space="preserve">
+    <value>始终显示</value>
+  </data>
+  <data name="OptionsCounters_ResetAll" xml:space="preserve">
+    <value>全部重置为自动</value>
+  </data>
+  <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
+    <value>过滤器计数器……</value>
+  </data>
+  <data name="OptionsCounters_NoResults" xml:space="preserve">
+    <value>没有符合过滤规则的计数器。</value>
+  </data>
+  <data name="OptionsCounters_OpponentUnsupportedTooltip" xml:space="preserve">
+    <value>酒馆战棋中不会显示对手的计数器。</value>
+  </data>
+  <data name="Counter_PlayedSpellsForNagas" xml:space="preserve">
+    <value>施放过的法术数量（纳迦）</value>
+  </data>
+  <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
+    <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
+    <value>Show Maximum Gold</value>
   </data>
 </root>
