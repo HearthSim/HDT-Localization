@@ -5533,13 +5533,13 @@
     <value>OutFinder</value>
   </data>
   <data name="Options_Overlay_Counters_Header" xml:space="preserve">
-    <value>Counters</value>
+    <value>Contadores</value>
   </data>
   <data name="OptionsCounters_Description" xml:space="preserve">
-    <value>Choose which counters are shown. "Auto" uses the built-in rules, which show a counter only when it is relevant.</value>
+    <value>Escolha quais contadores serão exibidos. "Automático" usa as regras integradas, que mostram um contador apenas quando for relevante.</value>
   </data>
   <data name="OptionsCounters_Group_Traditional" xml:space="preserve">
-    <value>Traditional</value>
+    <value>Tradicional</value>
   </data>
   <data name="OptionsCounters_Group_Battlegrounds" xml:space="preserve">
     <value>Campos de Batalha</value>
@@ -5554,30 +5554,36 @@
     <value>Automático</value>
   </data>
   <data name="OptionsCounters_Mode_Disabled" xml:space="preserve">
-    <value>Never show</value>
+    <value>Nunca exibir</value>
   </data>
   <data name="OptionsCounters_Mode_Enabled" xml:space="preserve">
-    <value>Always show</value>
+    <value>Exibir sempre</value>
   </data>
   <data name="OptionsCounters_ResetAll" xml:space="preserve">
-    <value>Reset all to Auto</value>
+    <value>Tudo Automático</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Filtro de contadores...</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
-    <value>No counters match your filter.</value>
+    <value>Nenhum contador encontrado para este filtro.</value>
   </data>
   <data name="OptionsCounters_OpponentUnsupportedTooltip" xml:space="preserve">
-    <value>Opponent counters are not shown in Battlegrounds.</value>
+    <value>Contadores de oponentes desabilitados nos Campos de Batalha.</value>
   </data>
   <data name="Counter_PlayedSpellsForNagas" xml:space="preserve">
-    <value>Played Spells (Nagas)</value>
+    <value>Feitiços Jogados (Nagas)</value>
   </data>
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
-    <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
+    <value>Uma nova versão do Hearthstone Deck Tracker ({0}) está disponível. Resultados menos precisos até você atualizar.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>Show Maximum Gold</value>
+    <value>Exibir Ouro Máximo</value>
+  </data>
+  <data name="Counter_SummonedBeasts" xml:space="preserve">
+    <value>Summoned Beasts</value>
+  </data>
+  <data name="Counter_AmountHealedThisGame" xml:space="preserve">
+    <value>Amount Healed</value>
   </data>
 </root>
