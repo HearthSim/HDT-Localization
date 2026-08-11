@@ -5175,6 +5175,9 @@
   <data name="Battlegrounds_CompGuides_Empty_Message" xml:space="preserve">
     <value>Nenhum guia de comp para o lobby atual. Verifique novamente quando mais dados estiverem disponíveis.</value>
   </data>
+  <data name="Battlegrounds_CompGuides_Loading_Message" xml:space="preserve">
+    <value>Loading comp guides...</value>
+  </data>
   <data name="Stats_Arena_Rewards_Label_Packs_AcrossTheTimeways" xml:space="preserve">
     <value>Através dos Percursos Temporais:</value>
   </data>
@@ -5585,5 +5588,8 @@
   </data>
   <data name="Counter_AmountHealedThisGame" xml:space="preserve">
     <value>Amount Healed</value>
+  </data>
+  <data name="OptionsCounters_Corpses" xml:space="preserve">
+    <value>Corpses</value>
   </data>
 </root>
