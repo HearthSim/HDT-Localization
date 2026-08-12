@@ -5592,4 +5592,22 @@
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
   </data>
+  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
+    <value>请重新安装Hearthstone Deck Tracker以继续接收更新</value>
+  </data>
+  <data name="PortableDiscontinued_Header" xml:space="preserve">
+    <value>请重新安装Hearthstone Deck Tracker</value>
+  </data>
+  <data name="PortableDiscontinued_Message" xml:space="preserve">
+    <value>此Hearthstone Deck Tracker安装版本已无法自动更新，需要重新安装。它仍可继续使用，但无法支持新卡牌、扩展包或游戏模式。</value>
+  </data>
+  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
+    <value>要解决此问题，请使用下方按钮下载最新的安装程序。</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
+    <value>获取最新版本</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
+    <value>继续</value>
+  </data>
 </root>

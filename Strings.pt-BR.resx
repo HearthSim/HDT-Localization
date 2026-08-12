@@ -5592,4 +5592,22 @@
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
   </data>
+  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
+    <value>Reinstale o Hearthstone Deck Tracker para continuar recebendo atualizações</value>
+  </data>
+  <data name="PortableDiscontinued_Header" xml:space="preserve">
+    <value>Reinstale o Hearthstone Deck Tracker</value>
+  </data>
+  <data name="PortableDiscontinued_Message" xml:space="preserve">
+    <value>Esta instalação do Hearthstone Deck Tracker não consegue mais se atualizar e precisa ser reinstalada. Ela continuará funcionando, mas não terá suporte para novas cartas, coleções ou modos de jogo.</value>
+  </data>
+  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
+    <value>Para corrigir isso, baixe o instalador mais recente usando o botão abaixo.</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
+    <value>Obter a versão mais recente</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
 </root>

@@ -5592,4 +5592,22 @@
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
   </data>
+  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
+    <value>กรุณาติดตั้ง Hearthstone Deck Tracker ใหม่เพื่อรับการอัปเดตต่อไป</value>
+  </data>
+  <data name="PortableDiscontinued_Header" xml:space="preserve">
+    <value>กรุณาติดตั้ง Hearthstone Deck Tracker ใหม่</value>
+  </data>
+  <data name="PortableDiscontinued_Message" xml:space="preserve">
+    <value>การติดตั้ง Hearthstone Deck Tracker นี้ไม่สามารถอัปเดตตัวเองได้อีกต่อไปและจำเป็นต้องติดตั้งใหม่ มันจะยังคงทำงานได้ แต่จะไม่รองรับการ์ด ชุด หรือโหมดเกมใหม่</value>
+  </data>
+  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
+    <value>หากต้องการแก้ไข ให้ดาวน์โหลดตัวติดตั้งล่าสุดโดยใช้ปุ่มด้านล่าง</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
+    <value>รับเวอร์ชันล่าสุด</value>
+  </data>
+  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
+    <value>เล่นต่อ</value>
+  </data>
 </root>
