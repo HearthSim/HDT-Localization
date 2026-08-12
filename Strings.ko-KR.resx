@@ -5593,21 +5593,21 @@
     <value>Corpses</value>
   </data>
   <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>Please reinstall Hearthstone Deck Tracker to continue receiving updates</value>
+    <value>업데이트를 계속 받으려면 하스스톤 덱 트래커를 다시 설치해 주세요</value>
   </data>
   <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>Please reinstall Hearthstone Deck Tracker</value>
+    <value>하스스톤 덱 트래커를 다시 설치해 주세요</value>
   </data>
   <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>This installation of Hearthstone Deck Tracker can no longer update itself and requires a reinstall. It will keep working, but it will not pick up support for new cards, sets or game modes.</value>
+    <value>현재 설치된 하스스톤 덱 트래커는 더 이상 자체 업데이트를 할 수 없어 다시 설치해야 합니다. 계속 작동하지만, 새로운 카드, 세트, 게임 모드에 대한 지원은 받을 수 없습니다.</value>
   </data>
   <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>To fix this, download the latest installer using the button below.</value>
+    <value>이 문제를 해결하려면 아래 버튼을 사용하여 최신 설치 프로그램을 다운로드하세요.</value>
   </data>
   <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>Get the latest version</value>
+    <value>최신 버전 받기</value>
   </data>
   <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>계속</value>
   </data>
 </root>
