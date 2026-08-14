@@ -742,22 +742,22 @@
     <value>생성된 카드 포함 (예: 동전 한 닢)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
-    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+    <value>참고: 이 설정이 필요하지 않을 수 있으며, 대개 별도의 창 없이 오버레이를 직접 캡처할 수 있습니다.</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show separate capturable overlay window</value>
+    <value>캡처 가능한 별도의 오버레이 창 보기</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
+    <value>크로마 키와 호환되지 않는 투명도 전환 방지 (권장)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>게임에 방해되는 오버레이 부분 숨기기 (권장)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Chroma key color:</value>
+    <value>크로마 키 색상:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show setup instructions for capturing the overlay</value>
+    <value>오버레이 캡처를 위한 설정 방법 보기</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>언어:</value>
@@ -3130,10 +3130,10 @@
     <value>오프라인</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Content Creation</value>
+    <value>콘텐츠 제작</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay Capturing</value>
+    <value>오버레이 캡처</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>트위치 확장</value>
