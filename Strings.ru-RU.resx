@@ -742,22 +742,22 @@
     <value>Отображать созданные карты (например Монетку)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
-    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+    <value>Примечание: эти настройки могут вам не понадобиться — обычно интерфейс можно захватить напрямую, без отдельного окна.</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show separate capturable overlay window</value>
+    <value>Показать отдельное окно интерфейса для захвата</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
+    <value>Отключить переходы прозрачности, несовместимые с хромакеем (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Chroma key color:</value>
+    <value>Цвет хромакея:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show setup instructions for capturing the overlay</value>
+    <value>Показать инструкции по настройке захвата интерфейса</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Язык:</value>
@@ -3130,10 +3130,10 @@
     <value>Не в сети</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Content Creation</value>
+    <value>Создание контента</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay Capturing</value>
+    <value>Захват интерфейса</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Расширение Twitch</value>
