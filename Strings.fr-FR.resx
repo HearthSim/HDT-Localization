@@ -742,25 +742,19 @@
     <value>Inclure les cartes créées dans la main (p.ex. La Pièce)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Afficher une fenêtre d'overlay capturable</value>
+    <value>Show overlay in separate, capturable window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Désactiver les transitions d'opacité de cartes (recommandé)</value>
+    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Masquer les parties de l'overlay qui interfèrent avec le jeu (recommandé)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Arrière-plan :</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>Cela ajoutera une copie incrustable de l'overlay derrière votre fenêtre Hearthstone.</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note : la copie de l'overlay peut s'afficher une fois devant Hearthstone. Cliquer dessus la cachera pour le reste de la session.</value>
+    <value>Chroma key color:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Afficher les instructions de démarrage (ouvre le wiki)</value>
+    <value>Show setup instructions for capturing the overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Langue :</value>
@@ -3133,10 +3127,10 @@
     <value>Hors ligne</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Content Creation</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay capturable</value>
+    <value>Overlay Capturing</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Extension Twitch</value>
@@ -5591,23 +5585,5 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
-  </data>
-  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>Veuillez réinstaller Hearthstone Deck Tracker pour continuer à recevoir les mises à jour</value>
-  </data>
-  <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>Veuillez réinstaller Hearthstone Deck Tracker</value>
-  </data>
-  <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>Cette installation de Hearthstone Deck Tracker ne peut plus se mettre à jour et nécessite une réinstallation. Elle continuera de fonctionner, mais ne prendra pas en charge les nouvelles cartes, extensions ou modes de jeu.</value>
-  </data>
-  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>Pour corriger cela, téléchargez le dernier programme d'installation à l'aide du bouton ci-dessous.</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>Obtenir la dernière version</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>Poursuivre</value>
   </data>
 </root>
