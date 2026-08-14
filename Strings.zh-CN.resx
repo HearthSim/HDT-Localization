@@ -742,25 +742,19 @@
     <value>包括手牌创建的卡牌（例如幸运币）</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>显示可捕捉的内嵌窗口</value>
+    <value>Show overlay in separate, capturable window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>关闭卡牌透明度渐变（推荐）</value>
+    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>隐藏干扰对局的内嵌（推荐）</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>背景色：</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>在你的炉石窗口后复制一个带调色钮的辅助器。</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>注意：复制出的界面可能会在游戏界面前出现一次。单击它可使其隐藏。</value>
+    <value>Chroma key color:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>使用说明（点击打开GitHub）</value>
+    <value>Show setup instructions for capturing the overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>语言：</value>
@@ -3133,10 +3127,10 @@
     <value>离线</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Twitch直播</value>
+    <value>Content Creation</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>可捕捉层</value>
+    <value>Overlay Capturing</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch插件</value>
@@ -5591,23 +5585,5 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
-  </data>
-  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>请重新安装Hearthstone Deck Tracker以继续接收更新</value>
-  </data>
-  <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>请重新安装Hearthstone Deck Tracker</value>
-  </data>
-  <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>此Hearthstone Deck Tracker安装版本已无法自动更新，需要重新安装。它仍可继续使用，但无法支持新卡牌、扩展包或游戏模式。</value>
-  </data>
-  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>要解决此问题，请使用下方按钮下载最新的安装程序。</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>获取最新版本</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>继续</value>
   </data>
 </root>
