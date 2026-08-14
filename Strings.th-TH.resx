@@ -742,22 +742,22 @@
     <value>Include cards created in hand (e.g. The Coin)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
-    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+    <value>หมายเหตุ: คุณอาจไม่จำเป็นต้องใช้การตั้งค่าเหล่านี้ และมักจะจับภาพ overlay ได้โดยตรงโดยไม่ต้องใช้หน้าต่างแยกต่างหาก</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show separate capturable overlay window</value>
+    <value>แสดงหน้าต่าง overlay แยกที่จับภาพได้</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
+    <value>ป้องกันการเปลี่ยนความทึบแสงที่ไม่รองรับกับการทำ chroma key (แนะนำ)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Chroma key color:</value>
+    <value>สี chroma key:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show setup instructions for capturing the overlay</value>
+    <value>แสดงคำแนะนำการตั้งค่าสำหรับการจับภาพ overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Language:</value>
@@ -3130,10 +3130,10 @@
     <value>Offline</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Content Creation</value>
+    <value>การสร้างคอนเทนต์</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay Capturing</value>
+    <value>การจับภาพ Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch Extension</value>
