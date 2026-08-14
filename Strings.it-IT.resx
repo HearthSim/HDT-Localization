@@ -742,22 +742,22 @@
     <value>Include le carte create in mano (es. Moneta)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
-    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+    <value>Nota: potresti non aver bisogno di queste impostazioni e di solito puoi catturare l'overlay direttamente, senza una finestra separata.</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show separate capturable overlay window</value>
+    <value>Mostra finestra dell'overlay catturabile separata</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
+    <value>Impedisci le transizioni di opacità incompatibili con il chroma key (consigliato)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Chroma key color:</value>
+    <value>Colore del chroma key:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show setup instructions for capturing the overlay</value>
+    <value>Mostra le istruzioni di configurazione per catturare l'overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Lingua:</value>
@@ -3130,10 +3130,10 @@
     <value>Non in linea</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Content Creation</value>
+    <value>Creazione di contenuti</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay Capturing</value>
+    <value>Cattura dell'overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Estensione Twitch</value>
