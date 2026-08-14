@@ -741,26 +741,23 @@
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Include cards created in hand (e.g. The Coin)</value>
   </data>
+  <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
+    <value>หมายเหตุ: คุณอาจไม่จำเป็นต้องใช้การตั้งค่าเหล่านี้ และมักจะจับภาพ overlay ได้โดยตรงโดยไม่ต้องใช้หน้าต่างแยกต่างหาก</value>
+  </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show capturable overlay window</value>
+    <value>แสดงหน้าต่าง overlay แยกที่จับภาพได้</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Disable card opacity transitions (recommended)</value>
+    <value>ป้องกันการเปลี่ยนความทึบแสงที่ไม่รองรับกับการทำ chroma key (แนะนำ)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Background:</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>This will add a chroma-key-able copy of the overlay behind your Hearthstone window.</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Note: The overlay copy may show up in front of Hearthstone once. Clicking it will hide it for the rest of the session.</value>
+    <value>สี chroma key:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show instructions for getting started (opens wiki)</value>
+    <value>แสดงคำแนะนำการตั้งค่าสำหรับการจับภาพ overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Language:</value>
@@ -3133,10 +3130,10 @@
     <value>Offline</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
+    <value>การสร้างคอนเทนต์</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
+    <value>การจับภาพ Overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch Extension</value>
@@ -5591,23 +5588,5 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
-  </data>
-  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>กรุณาติดตั้ง Hearthstone Deck Tracker ใหม่เพื่อรับการอัปเดตต่อไป</value>
-  </data>
-  <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>กรุณาติดตั้ง Hearthstone Deck Tracker ใหม่</value>
-  </data>
-  <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>การติดตั้ง Hearthstone Deck Tracker นี้ไม่สามารถอัปเดตตัวเองได้อีกต่อไปและจำเป็นต้องติดตั้งใหม่ มันจะยังคงทำงานได้ แต่จะไม่รองรับการ์ด ชุด หรือโหมดเกมใหม่</value>
-  </data>
-  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>หากต้องการแก้ไข ให้ดาวน์โหลดตัวติดตั้งล่าสุดโดยใช้ปุ่มด้านล่าง</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>รับเวอร์ชันล่าสุด</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>เล่นต่อ</value>
   </data>
 </root>

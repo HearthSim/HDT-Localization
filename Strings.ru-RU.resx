@@ -741,26 +741,23 @@
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Отображать созданные карты (например Монетку)</value>
   </data>
+  <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
+    <value>Примечание: эти настройки могут вам не понадобиться — обычно интерфейс можно захватить напрямую, без отдельного окна.</value>
+  </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Включить копию оверлея для захвата изображения</value>
+    <value>Показать отдельное окно интерфейса для захвата</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Отключить смену прозрачности карт (рекомендуется)</value>
+    <value>Отключить переходы прозрачности, несовместимые с хромакеем (рекомендуется)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Фон (хромакей):</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>Добавляет копию интерфейса на заднем плане с поддержкой хромакея.</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>Примечание: копия интерфейса может появиться поверх Hearthstone. Кликните по ней, чтобы скрыть до конца сессии.</value>
+    <value>Цвет хромакея:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Показать руководство (откроется в браузере)</value>
+    <value>Показать инструкции по настройке захвата интерфейса</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Язык:</value>
@@ -3133,10 +3130,10 @@
     <value>Не в сети</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Трансляция</value>
+    <value>Создание контента</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Интерфейс с хромакеем</value>
+    <value>Захват интерфейса</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Расширение Twitch</value>
@@ -5591,23 +5588,5 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
-  </data>
-  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>Пожалуйста, переустановите Hearthstone Deck Tracker, чтобы продолжать получать обновления</value>
-  </data>
-  <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>Пожалуйста, переустановите Hearthstone Deck Tracker</value>
-  </data>
-  <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>Эта установка Hearthstone Deck Tracker больше не может обновляться, и её нужно переустановить. Она продолжит работать, но не будет получать поддержку новых карт, наборов и игровых режимов.</value>
-  </data>
-  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>Чтобы это исправить, скачайте последнюю версию установщика с помощью кнопки ниже.</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>Скачать последнюю версию</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>Продолжить</value>
   </data>
 </root>
