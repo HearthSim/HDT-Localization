@@ -742,22 +742,22 @@
     <value>Incluir cartas criadas na mão (e.g. Moeda)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
-    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+    <value>Observação: talvez você não precise dessas configurações e geralmente possa capturar o overlay diretamente, sem uma janela separada.</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show separate capturable overlay window</value>
+    <value>Mostrar janela de overlay capturável separada</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
+    <value>Impedir transições de opacidade incompatíveis com chroma key (recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Ocultar partes da sobreposição que interferem no jogo (recomendado)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>Chroma key color:</value>
+    <value>Cor do chroma key:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>Show setup instructions for capturing the overlay</value>
+    <value>Mostrar instruções de configuração para capturar o overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>Idioma:</value>
@@ -3130,10 +3130,10 @@
     <value>Desconectado</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Content Creation</value>
+    <value>Criação de conteúdo</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Overlay Capturing</value>
+    <value>Captura de overlay</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch Extensão</value>
