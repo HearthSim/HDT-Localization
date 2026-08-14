@@ -741,8 +741,11 @@
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
     <value>Dołącz do listy karty stworzone na ręce (np. Moneta)</value>
   </data>
+  <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
+    <value>Note: You may not need these settings and can usually capture the overlay directly, without a separate window.</value>
+  </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>Show overlay in separate, capturable window</value>
+    <value>Show separate capturable overlay window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
