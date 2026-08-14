@@ -742,25 +742,19 @@
     <value>包括卡片變出的卡(例如幸運幣)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
-    <value>顯示可捕捉的內嵌視窗</value>
+    <value>Show overlay in separate, capturable window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
-    <value>關閉卡片透明度轉換(推薦)</value>
+    <value>Prevent opacity transitions that are incompatible with chroma keying (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_MaskOverlay" xml:space="preserve">
     <value>Hide parts of the overlay that interfere with the game (recommended)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Background" xml:space="preserve">
-    <value>背景:</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text1" xml:space="preserve">
-    <value>這會在您爐石視窗的後方，新增一個被合成色彩鍵的內嵌複本。</value>
-  </data>
-  <data name="Options_Overlay_Streaming_Text2" xml:space="preserve">
-    <value>注意: 內嵌的複本可能先出現在爐石畫面前一次，點擊後將在剩下的階段隱藏它。</value>
+    <value>Chroma key color:</value>
   </data>
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
-    <value>使用說明 (開啟 Wiki)</value>
+    <value>Show setup instructions for capturing the overlay</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
     <value>語言:</value>
@@ -3133,10 +3127,10 @@
     <value>離線</value>
   </data>
   <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>實況</value>
+    <value>Content Creation</value>
   </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>可捕捉的內嵌</value>
+    <value>Overlay Capturing</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
     <value>Twitch 附加功能</value>
@@ -5591,23 +5585,5 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
-  </data>
-  <data name="MainWindow_StatusBarPortableDiscontinued_Message" xml:space="preserve">
-    <value>請重新安裝爐石戰記記牌器以繼續接收更新</value>
-  </data>
-  <data name="PortableDiscontinued_Header" xml:space="preserve">
-    <value>請重新安裝爐石戰記記牌器</value>
-  </data>
-  <data name="PortableDiscontinued_Message" xml:space="preserve">
-    <value>此爐石戰記記牌器安裝版本已無法自動更新，需要重新安裝。它仍可正常運作，但將無法支援新卡牌、系列或遊戲模式。</value>
-  </data>
-  <data name="PortableDiscontinued_Message_Action" xml:space="preserve">
-    <value>若要修正此問題，請使用下方按鈕下載最新安裝程式。</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Download" xml:space="preserve">
-    <value>取得最新版本</value>
-  </data>
-  <data name="PortableDiscontinued_Button_Continue" xml:space="preserve">
-    <value>繼續</value>
   </data>
 </root>
