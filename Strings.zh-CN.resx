@@ -553,10 +553,10 @@
     <value>搜索</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
-    <value>玩家卡牌</value>
+    <value>玩家</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Opponent" xml:space="preserve">
-    <value>对手卡牌</value>
+    <value>对手</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Topmost" xml:space="preserve">
     <value>窗口置顶</value>
@@ -895,7 +895,7 @@
     <value>操作</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>删除所选项目</value>
+    <value>删除已选项目</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>新建</value>
@@ -982,10 +982,10 @@
     <value>打开插件文件夹</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>启用</value>
+    <value>开启</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>禁用</value>
+    <value>关闭</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
     <value>创建者：</value>
@@ -1189,7 +1189,7 @@
     <value>打开网页(_W)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>打开HearthStats</value>
+    <value>打开 HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>归档(_A)</value>
@@ -1411,7 +1411,7 @@
     <value>各职业均胜</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Wins" xml:space="preserve">
-    <value>胜场分布</value>
+    <value>胜</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
     <value>摘要</value>
@@ -1489,7 +1489,7 @@
     <value>移动所选</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>删除已选</value>
+    <value>删除已选项目</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
     <value>套牌</value>
@@ -1525,7 +1525,7 @@
     <value>开始时间</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
-    <value>对战时长</value>
+    <value>总对战时长</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
     <value>服务器</value>
@@ -1537,7 +1537,7 @@
     <value>说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>查看回放</value>
+    <value>回放</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>查看对手套牌</value>
@@ -1546,10 +1546,10 @@
     <value>选择套牌</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
-    <value>修改游戏记录</value>
+    <value>修改</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>修改说明</value>
+    <value>说明</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>修改套牌</value>
@@ -1696,7 +1696,7 @@
     <value>到</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>类型：</value>
+    <value>日期格式：</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
     <value>结果：</value>
@@ -1759,7 +1759,7 @@
     <value>自动刷新</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>重置</value>
+    <value>复位</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>筛选</value>
@@ -1888,7 +1888,7 @@
     <value>上次使用时间</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>不显示</value>
+    <value>无</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>默认</value>
@@ -2254,7 +2254,7 @@
     <value>点击“未使用”或双击套牌来使用套牌</value>
   </data>
   <data name="DeckPicker_Button_Auto" xml:space="preserve">
-    <value>自动</value>
+    <value>自动显示</value>
   </data>
   <data name="DeckPicker_Button_NoDeckMode" xml:space="preserve">
     <value>不使用套牌</value>
@@ -2272,7 +2272,7 @@
     <value>上次使用时间</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
-    <value>已归档</value>
+    <value>已归档套牌</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
     <value>该套牌可以在标准模式中使用。</value>
@@ -2293,10 +2293,10 @@
     <value>竞技模式</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>标准模式</value>
+    <value>标准</value>
   </data>
   <data name="Enum_DeckType_Wild" xml:space="preserve">
-    <value>狂野模式</value>
+    <value>狂野</value>
   </data>
   <data name="SplashScreen_Button_Skip" xml:space="preserve">
     <value>跳过</value>
@@ -2314,7 +2314,7 @@
     <value>计时器</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>数据</value>
+    <value>统计</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>对手套牌</value>
@@ -2350,7 +2350,7 @@
     <value>回车保存</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>显示对手套牌</value>
+    <value>查看对手套牌</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
     <value>隐藏对手套牌</value>
@@ -2374,19 +2374,19 @@
     <value>模式：</value>
   </data>
   <data name="AddGameDialog_Label_Format" xml:space="preserve">
-    <value>类型：</value>
+    <value>日期格式：</value>
   </data>
   <data name="AddGameDialog_Label_Region" xml:space="preserve">
     <value>服务器：</value>
   </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
-    <value>等级：</value>
+    <value>等级/排名：</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
     <value>传说排名：</value>
   </data>
   <data name="AddGameDialog_Label_Coin" xml:space="preserve">
-    <value>幸运币（后手）：</value>
+    <value>幸运币：</value>
   </data>
   <data name="AddGameDialog_Label_Conceded" xml:space="preserve">
     <value>投降：</value>
@@ -2407,7 +2407,7 @@
     <value>玩家：</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>添加游戏</value>
+    <value>添加游戏记录</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>取消</value>
@@ -2623,7 +2623,7 @@
     <value>筛选条目控制：</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>且</value>
+    <value>和</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
     <value>或</value>
@@ -2689,7 +2689,7 @@
     <value>将网址或套牌粘贴（Ctrl+V）到HDT后，程序做出的反应</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>手动选择</value>
+    <value>手动操作</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>保存在HDT中</value>
@@ -2887,13 +2887,13 @@
     <value>卡牌数据库</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>查找……</value>
+    <value>搜索……</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
     <value>查找卡牌文字</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
-    <value>过滤</value>
+    <value>筛选</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
     <value>卡牌少于30张</value>
@@ -2992,7 +2992,7 @@
     <value>快去玩几局游戏！</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>载入中……</value>
+    <value>读取中……</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>分职业胜率</value>
@@ -3013,7 +3013,7 @@
     <value>点击查看最近的热门套牌！</value>
   </data>
   <data name="Druid" xml:space="preserve">
-    <value>德鲁伊</value>
+    <value>德魯伊</value>
   </data>
   <data name="Hunter" xml:space="preserve">
     <value>猎人</value>
@@ -3070,7 +3070,7 @@
     <value>启动炉石传说</value>
   </data>
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>无套牌模式</value>
+    <value>不使用套牌</value>
   </data>
   <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
     <value>自动选择</value>
@@ -3355,7 +3355,7 @@
     <value>关闭时隐藏到托盘区</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>无动作</value>
+    <value>无</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>闪烁窗口</value>
@@ -3580,7 +3580,7 @@
     <value>白银</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>黄金</value>
+    <value>金币</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
     <value>白金</value>
@@ -3661,13 +3661,13 @@
     <value>出局</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>胜利</value>
+    <value>胜</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>平局</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>失败</value>
+    <value>负</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>鲍勃之友</value>
@@ -3760,7 +3760,7 @@
     <value>回合</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>回合</value>
+    <value>回合数</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>使用高分辨率卡牌图像</value>
@@ -3778,7 +3778,7 @@
     <value>经典</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>经典模式</value>
+    <value>经典</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
     <value>包含“贫瘠之地的锤炼”系列的卡牌。</value>
@@ -3814,7 +3814,7 @@
     <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>怀旧</value>
+    <value>传统</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 换牌指南</value>
@@ -4021,7 +4021,7 @@
     <value>最近的8场对局将会显示在这。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>重置</value>
+    <value>复位</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>最终阵容</value>
@@ -4492,7 +4492,7 @@
     <value>重置</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>加入Tier7以获得无限制的访问</value>
+    <value>加入Tier7以获取不受限的使用。</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
     <value>隐藏换牌指南</value>
@@ -4633,7 +4633,7 @@
     <value>逃离紫罗兰监狱</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EscapeFromVioletHold" xml:space="preserve">
-    <value>逃离紫罗兰监狱逃离紫罗兰监狱</value>
+    <value>逃离紫罗兰监狱</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EscapeFromVioletHold" xml:space="preserve">
     <value>逃离紫罗兰监狱</value>
@@ -4792,7 +4792,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>显示示例棋盘</value>
+    <value>显示样板棋盘</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
@@ -4972,7 +4972,7 @@
     <value>Arenasmith 已更新，可用于卡牌和英雄评分推荐。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>重置于</value>
+    <value>重置</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
     <value>本次选牌中已启用 Arenasmith 试用。</value>
@@ -5260,7 +5260,7 @@
     <value>替换</value>
   </data>
   <data name="MulliganGV2_Keep" xml:space="preserve">
-    <value>保留</value>
+    <value>继续</value>
   </data>
   <data name="Options_Overlay_MulliganGV2_CheckBox_Enable" xml:space="preserve">
     <value>启用留牌指南G-V2</value>
