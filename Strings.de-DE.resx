@@ -895,7 +895,7 @@
     <value>Aktion</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>Ausgewählte löschen</value>
+    <value>Ausgewählte Sicherung löschen</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>Neu</value>
@@ -1171,7 +1171,7 @@
     <value>Labels bearbeiten</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>Label setzen (_Q)</value>
+    <value>Label setzen</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>In Arena verschieben</value>
@@ -1183,7 +1183,7 @@
     <value>Fehlende Karten anzeigen (_M)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Update (Web)</value>
+    <value>Aktualisieren (Web)</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
     <value>_Webseite öffnen</value>
@@ -1195,7 +1195,7 @@
     <value>_Archivieren</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
-    <value>Entarchivieren</value>
+    <value>Dearchivieren</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
     <value>Löschen</value>
@@ -1207,7 +1207,7 @@
     <value>Gesamtes Deck</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>Gewählte Version</value>
+    <value>Ausgewählte Version</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>Link zur UR_L</value>
@@ -1255,13 +1255,13 @@
     <value>Bestes Matchup:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_BestMatchupFallback" xml:space="preserve">
-    <value>Keines</value>
+    <value>Keiner</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchup" xml:space="preserve">
     <value>Schlechtestes Matchup:</value>
   </data>
   <data name="Stats_Arena_ClassStats_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>Keines</value>
+    <value>Keiner</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Gold" xml:space="preserve">
     <value>Gold</value>
@@ -1273,7 +1273,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Gesamt:</value>
@@ -1336,7 +1336,7 @@
     <value>Gold</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Packungen</value>
@@ -1396,7 +1396,7 @@
     <value>Aufzeichnung</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>Notiz</value>
+    <value>Hinweis</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
     <value>Diagramme</value>
@@ -1471,13 +1471,13 @@
     <value>Bestes Matchup:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_BestMatchupFallback" xml:space="preserve">
-    <value>Keines</value>
+    <value>Keiner</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
     <value>Schlechtestes Matchup:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
-    <value>Keines</value>
+    <value>Keiner</value>
   </data>
   <data name="Stats_Constructed_Games_Label_Matches" xml:space="preserve">
     <value>Spiele</value>
@@ -1489,7 +1489,7 @@
     <value>Ausgewähltes verschieben</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Ausgewähltes löschen</value>
+    <value>Ausgewählte Sicherung löschen</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
     <value>Deck</value>
@@ -1534,7 +1534,7 @@
     <value>Aufzeichnung</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Notiz</value>
+    <value>Hinweis</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
     <value>Aufzeichnung</value>
@@ -1549,7 +1549,7 @@
     <value>Bearbeiten</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>Notiz</value>
+    <value>Hinweis</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>Verschieben</value>
@@ -1660,7 +1660,7 @@
     <value>Golden</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>Keine</value>
+    <value>Keiner</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
     <value>Nur aktives Deck</value>
@@ -1795,7 +1795,7 @@
     <value>Keine neuen Decks gefunden.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>Starte Launcher / Hearthstone</value>
+    <value>Hearthstone / Launcher starten</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>Warte auf Hearthstone...</value>
@@ -1861,13 +1861,13 @@
     <value>Manuell</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>Keine</value>
+    <value>Keiner</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
     <value>Klassik</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
-    <value>Goblins gegen Gnome</value>
+    <value>Goblins Gegen Gnome</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
     <value>Das Große Turnier</value>
@@ -1876,7 +1876,7 @@
     <value>Flüstern Der Alten Götter</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Klassisch</value>
+    <value>Klassik</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternativ</value>
@@ -1888,7 +1888,7 @@
     <value>Zuletzt Gespielt</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>Keins</value>
+    <value>Keiner</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Standard</value>
@@ -1957,7 +1957,7 @@
     <value>Zuschauermodus</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
-    <value>Kein</value>
+    <value>Keiner</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
     <value>Alle</value>
@@ -1972,7 +1972,7 @@
     <value>Unentschieden</value>
   </data>
   <data name="Enum_GameResult_None" xml:space="preserve">
-    <value>Kein</value>
+    <value>Keiner</value>
   </data>
   <data name="Enum_HeroClass_All" xml:space="preserve">
     <value>Alle</value>
@@ -2107,7 +2107,7 @@
     <value>Nein</value>
   </data>
   <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>Alles</value>
+    <value>Alle</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Klassenfarben:</value>
@@ -2248,7 +2248,7 @@
     <value>Aktives Deck:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
-    <value>Keines</value>
+    <value>Keiner</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
     <value>Klicke "Benutzen" um ein Deck zu aktivieren</value>
@@ -2344,7 +2344,7 @@
     <value>Notiz zu dieser Partie</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Übernehmen</value>
+    <value>Set</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>Speichern mit ENTER</value>
@@ -2596,7 +2596,7 @@
     <value>Decksortierung: Arena</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtern</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Hoch</value>
@@ -3355,7 +3355,7 @@
     <value>In Infobereich schließen</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>Keine</value>
+    <value>Keiner</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Blinken</value>
@@ -3499,7 +3499,7 @@
     <value>Vor {0} Zug/Zügen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
-    <value>Show minion browser</value>
+    <value>Minion-Browser anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
@@ -3661,13 +3661,13 @@
     <value>Tödlich</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Sieg</value>
+    <value>Gewonnen</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>Unentschieden</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Niederlage</value>
+    <value>Verloren</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3814,7 +3814,7 @@
     <value>Die Höhlen des Wehklagens</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Archiv</value>
+    <value>Ursprünglich</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan-Guide</value>
@@ -4066,10 +4066,10 @@
     <value>Deck hat mehr als 40 Karten.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
-    <value>Deck has less than 20 cards.</value>
+    <value>Deck hat weniger als 20 Karten.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
-    <value>Deck has more than 20 cards.</value>
+    <value>Deck hat mehr als 20 Karten.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>Willkommen zurück bei</value>
@@ -4414,7 +4414,7 @@
     <value>Sonstige</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
-    <value>No Type</value>
+    <value>Kein Typ</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands</value>
@@ -4567,13 +4567,13 @@
     <value>Wird geladen...</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Wurbelfitz’ Werkstatt</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>Wurbelfitz’ Werkstatt:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Wurbelfitz’ Werkstatt</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>Mulligan-Overlay am Anfang der Partie anzeigen</value>
@@ -4648,16 +4648,16 @@
     <value>Tourist Only</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
-    <value>Deck is missing Tourist card.</value>
+    <value>Dem Deck fehlt eine Touristenkarte.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
     <value>Gasthausstufe 7 immer anzeigen</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE TRINKET STATS</value>
+    <value>SCHMUCKSTÜCK-STATISTIKEN AUSBLENDEN</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW TRINKET STATS</value>
+    <value>SCHMUCKSTÜCK-STATISTIKEN ZEIGEN</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Statistiken zur Schmuckstückauswahl anzeigen</value>
@@ -4825,43 +4825,43 @@
     <value>Synergien im Deck anzeigen</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
-    <value>DEMON</value>
+    <value>DÄMON</value>
   </data>
   <data name="Race_Mechanical_Uppercase" xml:space="preserve">
     <value>MECH</value>
   </data>
   <data name="Race_Beast_Uppercase" xml:space="preserve">
-    <value>BEAST</value>
+    <value>WILDTIER</value>
   </data>
   <data name="Race_Dragon_Uppercase" xml:space="preserve">
-    <value>DRAGON</value>
+    <value>DRACHE</value>
   </data>
   <data name="Race_Murloc_Uppercase" xml:space="preserve">
     <value>MURLOC</value>
   </data>
   <data name="Race_Pirate_Uppercase" xml:space="preserve">
-    <value>PIRATE</value>
+    <value>PIRAT</value>
   </data>
   <data name="Race_Elemental_Uppercase" xml:space="preserve">
-    <value>ELEMENTAL</value>
+    <value>ELEMENTAR</value>
   </data>
   <data name="Race_Quilboar_Uppercase" xml:space="preserve">
-    <value>QUILBOAR</value>
+    <value>STACHELEBER</value>
   </data>
   <data name="Race_Naga_Uppercase" xml:space="preserve">
     <value>NAGA</value>
   </data>
   <data name="Race_Undead_Uppercase" xml:space="preserve">
-    <value>UNDEAD</value>
+    <value>UNTOT</value>
   </data>
   <data name="Race_Totem_Uppercase" xml:space="preserve">
     <value>TOTEM</value>
   </data>
   <data name="Race_All_Uppercase" xml:space="preserve">
-    <value>ALL</value>
+    <value>ALLE</value>
   </data>
   <data name="Race_NoType_Uppercase" xml:space="preserve">
-    <value>NO TYPE</value>
+    <value>KEIN TYP</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
     <value>ZAUBER</value>
@@ -4903,7 +4903,7 @@
     <value>Probiere Arenasmith für eine begrenzte Anzahl Deckerstellungen aus! Im Anschluss bekommst du von Zeit zu Zeit mehr.</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>Etwas ist schiefgegangen :(</value>
+    <value>Something went wrong :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>Zu suchende Karten</value>
@@ -5056,10 +5056,10 @@
     <value>Crowd's Favor</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTag" xml:space="preserve">
-    <value>Sale!</value>
+    <value>Angebot!</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
     <value>Limited Time Offer!</value>
@@ -5098,7 +5098,7 @@
     <value>Tavern Pinning</value>
   </data>
   <data name="BattlegroundsTavernPinning_Tier7Tag" xml:space="preserve">
-    <value>Tier7 Feature</value>
+    <value>Tier7-Feature</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
     <value>Quick Guide</value>
@@ -5221,7 +5221,7 @@
     <value>Mehr erfahren</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Fahre mit dem Cursor darüber für mehr Infos</value>
+    <value>Hover for more details</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Melde dich bei HSReplay.net an um den Mulligan-Guide direkt im Overlay zu sehen!</value>
