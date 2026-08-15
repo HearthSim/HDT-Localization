@@ -514,7 +514,7 @@
     <value>Tracker</value>
   </data>
   <data name="Options_Tracker_General_Header" xml:space="preserve">
-    <value>Generali</value>
+    <value>Generale</value>
   </data>
   <data name="Options_Tracker_Stats_Header" xml:space="preserve">
     <value>Statistiche</value>
@@ -715,7 +715,7 @@
     <value>Utilizzare lo stesso ridimensionamento per giocatore ed avversario</value>
   </data>
   <data name="Options_Overlay_Player_Label_Scaling" xml:space="preserve">
-    <value>Ridimensionamento:</value>
+    <value>Ridimensiona:</value>
   </data>
   <data name="Options_Overlay_Player_Label_Opacity" xml:space="preserve">
     <value>Opacità:</value>
@@ -1108,7 +1108,7 @@
     <value>Spettatore</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Atro</value>
+    <value>Altro</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Mostra</value>
@@ -1168,10 +1168,10 @@
     <value>Modifica _note</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>Modifica _tag</value>
+    <value>Modifica _tags</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>_Rapida impostazione tag</value>
+    <value>_Impostazione rapida tag</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>Sposta in Arena</value>
@@ -1183,7 +1183,7 @@
     <value>Mostra carte _mancanti</value>
   </data>
   <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Aggiorna (web)</value>
+    <value>Aggiorna</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
     <value>Apri _sito web</value>
@@ -1192,7 +1192,7 @@
     <value>Apri HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
-    <value>_Archivio</value>
+    <value>Archivia</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
     <value>Rimuovi dall'archivio</value>
@@ -1201,7 +1201,7 @@
     <value>Elimina</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>Duplica</value>
+    <value>Clona</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
     <value>Intero mazzo</value>
@@ -1489,7 +1489,7 @@
     <value>Sposta selezionati</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Elimina selezionati</value>
+    <value>Elimina selezionato</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
     <value>Mazzo</value>
@@ -1573,7 +1573,7 @@
     <value>Tasso di vittoria</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>Giocata</value>
+    <value>Giocato</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
     <value>Giocate (%)</value>
@@ -1585,7 +1585,7 @@
     <value>Avversari</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
-    <value>Momenti salienti</value>
+    <value>Evidenziamenti</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
     <value>Totale</value>
@@ -1711,7 +1711,7 @@
     <value>Moneta:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Region" xml:space="preserve">
-    <value>Regione:</value>
+    <value>Zona:</value>
   </data>
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
     <value>Nome avversario...</value>
@@ -1759,7 +1759,7 @@
     <value>Ricaricamento automatico</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>Reimposta</value>
+    <value>Reset</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>Filtri</value>
@@ -1870,13 +1870,13 @@
     <value>Goblin vs Gnomi</value>
   </data>
   <data name="Enum_ArenaRewardPacks_TheGrandTournament" xml:space="preserve">
-    <value>Il Gran Torneo</value>
+    <value>Gran Torneo</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhispersOfTheOldGods" xml:space="preserve">
     <value>Sussurri degli Dei Antichi</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Classica</value>
+    <value>Classiche</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternativa</value>
@@ -1894,13 +1894,13 @@
     <value>Predefinito</value>
   </data>
   <data name="Enum_DeckLayout_Layout2" xml:space="preserve">
-    <value>Alternativo</value>
+    <value>Alternativa</value>
   </data>
   <data name="Enum_DeckLayout_Legacy" xml:space="preserve">
     <value>Vecchio stile</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>Tutte</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
     <value>Selezionate</value>
@@ -1924,7 +1924,7 @@
     <value>Mai</value>
   </data>
   <data name="Enum_Format_All" xml:space="preserve">
-    <value>Tutti</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_Format_Standard" xml:space="preserve">
     <value>Standard</value>
@@ -1933,7 +1933,7 @@
     <value>Selvaggio</value>
   </data>
   <data name="Enum_GameMode_All" xml:space="preserve">
-    <value>Tutti</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
     <value>Classificata</value>
@@ -2023,7 +2023,7 @@
     <value>Scuro</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
-    <value>Tutte</value>
+    <value>Tutto</value>
   </data>
   <data name="Enum_Region_Unknown" xml:space="preserve">
     <value>Sconosciuto</value>
@@ -2107,7 +2107,7 @@
     <value>No</value>
   </data>
   <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>Tutti</value>
+    <value>Tutto</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Colori di classe:</value>
@@ -2311,13 +2311,13 @@
     <value>Installazione...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Cronometro</value>
+    <value>Timer</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Statistiche</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Mazzo dell'avversario</value>
+    <value>Mazzo avversario</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Sposta nella finestra principale</value>
@@ -2344,7 +2344,7 @@
     <value>Nota per questa partita</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Imposta</value>
+    <value>Espansione</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>Salva con INVIO</value>
@@ -2410,7 +2410,7 @@
     <value>Aggiungi partita</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="AddGameDialog_Title_AddNew" xml:space="preserve">
     <value>Aggiungi una nuova partita</value>
@@ -2470,7 +2470,7 @@
     <value>Crea mazzo</value>
   </data>
   <data name="DeckTypeDialog_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="DiscardGameDialog_Title" xml:space="preserve">
     <value>Eliminare la partita?</value>
@@ -2497,7 +2497,7 @@
     <value>Elimina</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Multi_Title" xml:space="preserve">
     <value>Elimina partite</value>
@@ -2557,7 +2557,7 @@
     <value>Carica</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
     <value>Si è verificato un problema durante l'aggiornamento del file log.config</value>
@@ -2596,7 +2596,7 @@
     <value>Ordinamento del mazzo: Arena</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Filtro</value>
+    <value>Filtra</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Su</value>
@@ -2674,7 +2674,7 @@
     <value>Salva solo</value>
   </data>
   <data name="ImportingChoiceDialog_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="MainWindow_Import_Dialog_NoDeckFound_Title" xml:space="preserve">
     <value>Nessun mazzo trovato</value>
@@ -2833,7 +2833,7 @@
     <value>Importa</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
     <value>Schermata</value>
@@ -2977,7 +2977,7 @@
     <value>Sconfitte:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Percentuale di Vittorie</value>
+    <value>Tasso di vittoria</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
@@ -3103,7 +3103,7 @@
     <value>Copia</value>
   </data>
   <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Annulla</value>
+    <value>Cancella</value>
   </data>
   <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
     <value>Si è verificato un errore durante la copia dei nomi delle carte negli appunti.</value>
@@ -3241,7 +3241,7 @@
     <value>Avvedere nuovamente richiederà tutti i nuovi replay retroattivamente.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Disconnetti</value>
+    <value>Esci</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
     <value>Il modo più semplice per trovare i migliori mazzi per te!</value>
@@ -3355,7 +3355,7 @@
     <value>Riduci a icona nell'area di notifica</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>Nulla</value>
+    <value>Nessuno</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
@@ -3814,7 +3814,7 @@
     <value>Caverna dei Lamenti</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Retaggio</value>
+    <value>Vecchio stile</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Guida Mulligan</value>
@@ -3916,7 +3916,7 @@
     <value>Rotta per la Città Sommersa</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_SunkenCity" xml:space="preserve">
-    <value>Voyage to the Sunken City</value>
+    <value>Rotta per la Città Sommersa</value>
   </data>
   <data name="Enum_DeckPanel_CardsTop" xml:space="preserve">
     <value>Carta in cima</value>
@@ -4138,7 +4138,7 @@
     <value>Il posizionamento finale che l'eroe raggiunge in media, regolato per i tipi di servitori disponibili</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Title" xml:space="preserve">
-    <value>Tasso di Scelta</value>
+    <value>Percentuale di scelta</value>
   </data>
   <data name="BattlegroundsHeroPicking_Header_PickRateTooltip_Desc" xml:space="preserve">
     <value>Percentuale delle volte in cui questo eroe viene scelto all'inizio di una partita quando presentato tra le opzioni</value>
@@ -4408,7 +4408,7 @@
     <value>Totem</value>
   </data>
   <data name="Race_All" xml:space="preserve">
-    <value>Tutti</value>
+    <value>Tutto</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
     <value>Altro</value>
@@ -4903,7 +4903,7 @@
     <value>Prova gratuitamente Arenasmith per un numero limitato di draft! Poi, te ne offriremo altre periodicamente.</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>Qualcosa è andato storto :(</value>
+    <value>Something went wrong :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>Carte da cercare</value>
@@ -4933,7 +4933,7 @@
     <value>Abilita Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Mostra le statistiche di scelta degli Eroi</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Mostra i punteggi di Arenasmith</value>
@@ -4954,7 +4954,7 @@
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
-    <value>Caricamento…</value>
+    <value>Loading…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
     <value>Preparazione delle valutazioni del draft…</value>
@@ -4984,13 +4984,13 @@
     <value>Abbonati subito a Premium per avere accesso ad Arenasmith per questo e i futuri draft.</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>Hai l'abbonamento?</value>
+    <value>Subscribed?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>Accedi</value>
+    <value>Sign In</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>Ricarica</value>
+    <value>Refresh</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
     <value>Grazie per l'abbonamento a Premium!</value>
@@ -5221,7 +5221,7 @@
     <value>Scopri di più</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Passa il cursore per maggiori dettagli</value>
+    <value>Hover for more details</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Accedi a HSReplay.net per usare la Guida al Mulligan direttamente nell'overlay!</value>
