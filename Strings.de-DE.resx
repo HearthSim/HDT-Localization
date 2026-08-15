@@ -1273,7 +1273,7 @@
     <value>Durchschnitt:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
     <value>Gesamt:</value>
@@ -1336,7 +1336,7 @@
     <value>Gold</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
     <value>Packungen</value>
@@ -3499,7 +3499,7 @@
     <value>Vor {0} Zug/Zügen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowser" xml:space="preserve">
-    <value>Show minion browser</value>
+    <value>Minion-Browser anzeigen</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTabsBrowser" xml:space="preserve">
     <value>Show top tabs browser</value>
@@ -4066,10 +4066,10 @@
     <value>Deck hat mehr als 40 Karten.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan20" xml:space="preserve">
-    <value>Deck has less than 20 cards.</value>
+    <value>Deck hat weniger als 20 Karten.</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MoreThan20" xml:space="preserve">
-    <value>Deck has more than 20 cards.</value>
+    <value>Deck hat mehr als 20 Karten.</value>
   </data>
   <data name="NewUserOnboarding_WelcomeBackTo" xml:space="preserve">
     <value>Willkommen zurück bei</value>
@@ -4414,7 +4414,7 @@
     <value>Sonstige</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
-    <value>No Type</value>
+    <value>Kein Typ</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands</value>
@@ -4567,13 +4567,13 @@
     <value>Wird geladen...</value>
   </data>
   <data name="Enum_ArenaRewardPacks_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Wurbelfitz’ Werkstatt</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop:</value>
+    <value>Wurbelfitz’ Werkstatt:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_WhizbangsWorkshop" xml:space="preserve">
-    <value>Whizbang's Workshop</value>
+    <value>Wurbelfitz’ Werkstatt</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_CheckBox_AutoShow" xml:space="preserve">
     <value>Mulligan-Overlay am Anfang der Partie anzeigen</value>
@@ -4648,16 +4648,16 @@
     <value>Tourist Only</value>
   </data>
   <data name="Enum_DeckEditorWarnings_MissingTourist" xml:space="preserve">
-    <value>Deck is missing Tourist card.</value>
+    <value>Dem Deck fehlt eine Touristenkarte.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowTavernTier7" xml:space="preserve">
     <value>Gasthausstufe 7 immer anzeigen</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>HIDE TRINKET STATS</value>
+    <value>SCHMUCKSTÜCK-STATISTIKEN AUSBLENDEN</value>
   </data>
   <data name="BattlegroundsTrinketPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>SHOW TRINKET STATS</value>
+    <value>SCHMUCKSTÜCK-STATISTIKEN ZEIGEN</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTrinketPickingStats" xml:space="preserve">
     <value>Statistiken zur Schmuckstückauswahl anzeigen</value>
@@ -4825,43 +4825,43 @@
     <value>Synergien im Deck anzeigen</value>
   </data>
   <data name="Race_Demon_Uppercase" xml:space="preserve">
-    <value>DEMON</value>
+    <value>DÄMON</value>
   </data>
   <data name="Race_Mechanical_Uppercase" xml:space="preserve">
     <value>MECH</value>
   </data>
   <data name="Race_Beast_Uppercase" xml:space="preserve">
-    <value>BEAST</value>
+    <value>WILDTIER</value>
   </data>
   <data name="Race_Dragon_Uppercase" xml:space="preserve">
-    <value>DRAGON</value>
+    <value>DRACHE</value>
   </data>
   <data name="Race_Murloc_Uppercase" xml:space="preserve">
     <value>MURLOC</value>
   </data>
   <data name="Race_Pirate_Uppercase" xml:space="preserve">
-    <value>PIRATE</value>
+    <value>PIRAT</value>
   </data>
   <data name="Race_Elemental_Uppercase" xml:space="preserve">
-    <value>ELEMENTAL</value>
+    <value>ELEMENTAR</value>
   </data>
   <data name="Race_Quilboar_Uppercase" xml:space="preserve">
-    <value>QUILBOAR</value>
+    <value>STACHELEBER</value>
   </data>
   <data name="Race_Naga_Uppercase" xml:space="preserve">
     <value>NAGA</value>
   </data>
   <data name="Race_Undead_Uppercase" xml:space="preserve">
-    <value>UNDEAD</value>
+    <value>UNTOT</value>
   </data>
   <data name="Race_Totem_Uppercase" xml:space="preserve">
     <value>TOTEM</value>
   </data>
   <data name="Race_All_Uppercase" xml:space="preserve">
-    <value>ALL</value>
+    <value>ALLE</value>
   </data>
   <data name="Race_NoType_Uppercase" xml:space="preserve">
-    <value>NO TYPE</value>
+    <value>KEIN TYP</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
     <value>ZAUBER</value>
@@ -5056,10 +5056,10 @@
     <value>Crowd's Favor</value>
   </data>
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
-    <value>Dust</value>
+    <value>Staub</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTag" xml:space="preserve">
-    <value>Sale!</value>
+    <value>Angebot!</value>
   </data>
   <data name="BattlegroundsPreLobby_SaleTooltip_Title" xml:space="preserve">
     <value>Limited Time Offer!</value>
@@ -5098,7 +5098,7 @@
     <value>Tavern Pinning</value>
   </data>
   <data name="BattlegroundsTavernPinning_Tier7Tag" xml:space="preserve">
-    <value>Tier7 Feature</value>
+    <value>Tier7-Feature</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide" xml:space="preserve">
     <value>Quick Guide</value>
