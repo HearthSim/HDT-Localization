@@ -3466,10 +3466,10 @@
     <value>เลือกหนึ่งอย่าง</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>จบเทิร์น</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>เริ่มการต่อสู้</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
     <value>คืนชีพ</value>
@@ -3487,13 +3487,13 @@
     <value>ปลุกใจ</value>
   </data>
   <data name="GameTag_BGActivate" xml:space="preserve">
-    <value>Activate</value>
+    <value>เปิดใช้</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
     <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>แก้แค้น</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} turn(s) ago</value>
@@ -4864,10 +4864,10 @@
     <value>NO TYPE</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>เวทมนตร์</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>บั๊ดดี้</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
     <value>Played Dragons</value>
