@@ -3486,6 +3486,12 @@
   <data name="GameTag_BGRally" xml:space="preserve">
     <value>Conclamar</value>
   </data>
+  <data name="GameTag_BGActivate" xml:space="preserve">
+    <value>Ativar</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
+    <value>Lockbox</value>
+  </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
     <value>Vingar</value>
   </data>
@@ -4741,7 +4747,7 @@
     <value>Ouro Extra no Próximo Turno</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>Feitiços Buff Extra</value>
+    <value>Tavern Spell Bonus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>Todos os Guias de Composição</value>

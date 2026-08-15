@@ -3457,37 +3457,43 @@
     <value>Agonia</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>Jad</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>Okrzyk bojowy</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>Wybierz jedno</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>Koniec tury</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>Początek walki</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>Odrodzenie</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>Magnetyzm</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>Zaklęcie</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>Towarzysz</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value>Zbiórka</value>
+  </data>
+  <data name="GameTag_BGActivate" xml:space="preserve">
+    <value>Aktywacja</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
+    <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>Pomsta</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} tur(y) temu</value>
@@ -4741,7 +4747,7 @@
     <value>Extra Gold Next Turn</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>Spells Extra Buff</value>
+    <value>Tavern Spell Bonus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
@@ -4858,10 +4864,10 @@
     <value>NO TYPE</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>ZAKLĘCIE</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>KUMPEL</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
     <value>Played Dragons</value>
@@ -5437,7 +5443,7 @@
     <value>Excavate</value>
   </data>
   <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>Odrodzenie</value>
   </data>
   <data name="TheOutfinder_Keyword_adjacent_buff" xml:space="preserve">
     <value>Buff Adjacent</value>
@@ -5446,7 +5452,7 @@
     <value>Freeze</value>
   </data>
   <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>Magnetyzm</value>
   </data>
   <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
     <value>Outcast</value>

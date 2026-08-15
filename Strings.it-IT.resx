@@ -3457,37 +3457,43 @@
     <value>Rantolo di Morte</value>
   </data>
   <data name="GameTag_Venomous" xml:space="preserve">
-    <value>Venomous</value>
+    <value>Fiele</value>
   </data>
   <data name="GameTag_Battlecry" xml:space="preserve">
-    <value>Battlecry</value>
+    <value>Grido di Battaglia</value>
   </data>
   <data name="GameTag_ChooseOne" xml:space="preserve">
-    <value>Choose One</value>
+    <value>Scegline una</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>Fine Turno</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>Inizio Combattimento</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>Rinascita</value>
   </data>
   <data name="GameTag_Modular" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>Magnetismo</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
     <value>Magia</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>Amico</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value>Raduno</value>
+  </data>
+  <data name="GameTag_BGActivate" xml:space="preserve">
+    <value>Attivazione</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
+    <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>Vendetta</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} turno(i) fa</value>
@@ -4741,7 +4747,7 @@
     <value>Extra Gold Next Turn</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>Spells Extra Buff</value>
+    <value>Tavern Spell Bonus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
@@ -4858,10 +4864,10 @@
     <value>NO TYPE</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>MAGIA</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>AMICO</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
     <value>Played Dragons</value>
@@ -5437,7 +5443,7 @@
     <value>Excavate</value>
   </data>
   <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
-    <value>Reborn</value>
+    <value>Rinascita</value>
   </data>
   <data name="TheOutfinder_Keyword_adjacent_buff" xml:space="preserve">
     <value>Buff Adjacent</value>
@@ -5446,7 +5452,7 @@
     <value>Freeze</value>
   </data>
   <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
-    <value>Magnetic</value>
+    <value>Magnetismo</value>
   </data>
   <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
     <value>Outcast</value>

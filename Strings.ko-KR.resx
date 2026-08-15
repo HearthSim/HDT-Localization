@@ -3486,6 +3486,12 @@
   <data name="GameTag_BGRally" xml:space="preserve">
     <value>집결</value>
   </data>
+  <data name="GameTag_BGActivate" xml:space="preserve">
+    <value>사용</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
+    <value>Lockbox</value>
+  </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
     <value>복수</value>
   </data>
@@ -4741,7 +4747,7 @@
     <value>다음 턴 추가 골드</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>주문 추가 버프</value>
+    <value>Tavern Spell Bonus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>모든 조합 가이드</value>

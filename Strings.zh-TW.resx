@@ -3469,7 +3469,7 @@
     <value>回合結束時</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>戰鬥開始</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
     <value>重生</value>
@@ -3481,13 +3481,19 @@
     <value>法術</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
-    <value>Buddy</value>
+    <value>夥伴</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value>奮戰</value>
+  </data>
+  <data name="GameTag_BGActivate" xml:space="preserve">
+    <value>啟動</value>
+  </data>
+  <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
+    <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>報復</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} 回合前</value>
@@ -4741,7 +4747,7 @@
     <value>Extra Gold Next Turn</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>Spells Extra Buff</value>
+    <value>Tavern Spell Bonus</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
@@ -4858,10 +4864,10 @@
     <value>NO TYPE</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>法術</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>夥伴</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
     <value>Played Dragons</value>
