@@ -514,10 +514,10 @@
     <value>記牌器</value>
   </data>
   <data name="Options_Tracker_General_Header" xml:space="preserve">
-    <value>通用</value>
+    <value>一般</value>
   </data>
   <data name="Options_Tracker_Stats_Header" xml:space="preserve">
-    <value>統計</value>
+    <value>狀態</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
     <value>重播</value>
@@ -982,7 +982,7 @@
     <value>插件資料夾</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>開啟</value>
+    <value>啟用</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
     <value>已關閉</value>
@@ -1003,7 +1003,7 @@
     <value>休閒</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
-    <value>競技場</value>
+    <value>競技場(_A)</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
     <value>英雄大亂鬥</value>
@@ -1090,7 +1090,7 @@
     <value>排名</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Arena" xml:space="preserve">
-    <value>競技場</value>
+    <value>競技場(_A)</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
     <value>英雄大亂鬥</value>
@@ -1207,7 +1207,7 @@
     <value>完整套牌</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>已選版本</value>
+    <value>已選擇版本</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>連結到網頁(_L)</value>
@@ -1339,7 +1339,7 @@
     <value>魔塵</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Packs" xml:space="preserve">
-    <value>卡包</value>
+    <value>卡包:</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Cards" xml:space="preserve">
     <value>卡片</value>
@@ -1411,7 +1411,7 @@
     <value>各職業平均勝場</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Wins" xml:space="preserve">
-    <value>勝場</value>
+    <value>勝</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
     <value>精彩重播</value>
@@ -1522,7 +1522,7 @@
     <value>硬幣</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
-    <value>開始時間</value>
+    <value>開始日期</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
     <value>持續時間</value>
@@ -1555,7 +1555,7 @@
     <value>移動</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
-    <value>刪除</value>
+    <value>刪除已選擇</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
     <value>你 \ VS</value>
@@ -1639,7 +1639,7 @@
     <value>可輸入值 例如50+125</value>
   </data>
   <data name="ArenaRewards_Label_Packs" xml:space="preserve">
-    <value>卡包</value>
+    <value>卡包:</value>
   </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>卡片</value>
@@ -1744,7 +1744,7 @@
     <value>進階圖表</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed" xml:space="preserve">
-    <value>我的套牌</value>
+    <value>建立</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Summary" xml:space="preserve">
     <value>總結</value>
@@ -1759,7 +1759,7 @@
     <value>自動刷新</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>復原</value>
+    <value>回到原位</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>過濾</value>
@@ -1942,7 +1942,7 @@
     <value>休閒</value>
   </data>
   <data name="Enum_GameMode_Arena" xml:space="preserve">
-    <value>競技場</value>
+    <value>競技場(_A)</value>
   </data>
   <data name="Enum_GameMode_Brawl" xml:space="preserve">
     <value>英雄大亂鬥</value>
@@ -2290,7 +2290,7 @@
     <value>全部</value>
   </data>
   <data name="Enum_DeckType_Arena" xml:space="preserve">
-    <value>競技場</value>
+    <value>競技場(_A)</value>
   </data>
   <data name="Enum_DeckType_Standard" xml:space="preserve">
     <value>標準</value>
@@ -2314,7 +2314,7 @@
     <value>計時器</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>統計</value>
+    <value>狀態</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>對手套牌</value>
@@ -2350,7 +2350,7 @@
     <value>ENTER儲存</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>顯示對方套牌</value>
+    <value>顯示對手的套牌</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
     <value>隱藏對手套牌</value>
@@ -2380,7 +2380,7 @@
     <value>伺服器:</value>
   </data>
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
-    <value>排名</value>
+    <value>排名:</value>
   </data>
   <data name="AddGameDialog_Label_LegendRank" xml:space="preserve">
     <value>傳說排名:</value>
@@ -2458,10 +2458,10 @@
     <value>選擇套牌種類</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>我的套牌</value>
+    <value>建立</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
-    <value>競技場</value>
+    <value>競技場(_A)</value>
   </data>
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
     <value>英雄大亂鬥</value>
@@ -2494,7 +2494,7 @@
     <value>你確定?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
-    <value>刪除</value>
+    <value>刪除已選擇</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
     <value>取消</value>
@@ -2527,7 +2527,7 @@
     <value>打開資料夾</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Saved" xml:space="preserve">
-    <value>玲文為</value>
+    <value>另存為</value>
   </data>
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
     <value>上傳到</value>
@@ -2650,7 +2650,7 @@
     <value>套牌名稱</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
-    <value>勝利</value>
+    <value>勝</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
     <value>有許多翻譯仍缺少或正在進行中，如果你想幫忙的話可以點擊這裡</value>
@@ -2689,7 +2689,7 @@
     <value>貼上一個套牌或網址在HDT時</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>手冊</value>
+    <value>手動</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>僅此儲存</value>
@@ -2869,7 +2869,7 @@
     <value>上傳成功</value>
   </data>
   <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>開啟資料夾</value>
+    <value>打開資料夾</value>
   </data>
   <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
     <value>歷史版本</value>
@@ -2887,13 +2887,13 @@
     <value>卡片資料庫</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>搜尋...</value>
+    <value>搜尋…</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
     <value>搜尋卡片文字</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
-    <value>過濾器</value>
+    <value>過濾</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
     <value>套牌少於30張卡片</value>
@@ -2992,7 +2992,7 @@
     <value>進行幾場對戰！</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>讀取中...</value>
+    <value>讀取中…</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>對決</value>
@@ -3061,7 +3061,7 @@
     <value>你已有所需所有的卡片</value>
   </data>
   <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>存檔</value>
+    <value>儲存</value>
   </data>
   <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
     <value>含套牌版本</value>
@@ -3580,7 +3580,7 @@
     <value>白銀</value>
   </data>
   <data name="Enum_League_Gold" xml:space="preserve">
-    <value>黃金</value>
+    <value>金幣</value>
   </data>
   <data name="Enum_League_Platinum" xml:space="preserve">
     <value>白金</value>
@@ -3661,13 +3661,13 @@
     <value>致命</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>贏</value>
+    <value>勝利</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
     <value>平手</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>輸</value>
+    <value>失敗</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>鮑伯的夥伴</value>
@@ -3760,7 +3760,7 @@
     <value>回合</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>回合</value>
+    <value>回合數</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>使用高解析度的卡片圖片</value>
@@ -3814,7 +3814,7 @@
     <value>哀嚎洞穴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>傳承</value>
+    <value>傳統</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 選牌攻略</value>
@@ -3976,7 +3976,7 @@
     <value>英雄</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
-    <value>天梯分数</value>
+    <value>天梯分數</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
     <value>No games played this session.</value>
@@ -4021,7 +4021,7 @@
     <value>Latest 8 games will appear here.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>復原</value>
+    <value>回到原位</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>最終場面</value>
@@ -4903,7 +4903,7 @@
     <value>在次數有限的選牌中免費體驗 Arenasmith！我們之後還會定期為你送上更多驚喜。</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>發生錯誤 :(</value>
+    <value>Something went wrong :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>要搜尋的卡牌</value>
@@ -4933,7 +4933,7 @@
     <value>啟用 Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>顯示英雄選擇統計數據</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>顯示 Arenasmith 分數</value>
@@ -4954,7 +4954,7 @@
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
-    <value>正在載入…</value>
+    <value>Loading…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
     <value>正在準備選牌評等…</value>
@@ -4972,7 +4972,7 @@
     <value>Arenasmith 已更新，可為你出的卡牌和英雄進行評等。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>重設倒數：</value>
+    <value>Resets In</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
     <value>已為此選牌啟用 Arenasmith 試用版。</value>
@@ -4984,13 +4984,13 @@
     <value>立即加入尊榮會員，即可使用 Arenasmith 進行此次和未來的選牌。</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>已訂閱？</value>
+    <value>Subscribed?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>登入</value>
+    <value>Sign In</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>重新整理</value>
+    <value>Refresh</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
     <value>感謝你訂閱尊榮會員！</value>
@@ -5134,7 +5134,7 @@
     <value>● Or pin entire minion types below</value>
   </data>
   <data name="BattlegroundsTavernPinning_Clear" xml:space="preserve">
-    <value>清除</value>
+    <value>清空</value>
   </data>
   <data name="BattlegroundsTavernPinning_NoPins" xml:space="preserve">
     <value>No cards pinned</value>
@@ -5221,7 +5221,7 @@
     <value>了解更多</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>滑鼠游標移到此處查看詳細資訊</value>
+    <value>Hover for more details</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>登入 HSReplay.net 即可在內嵌中直接取得起手留牌指南！</value>
