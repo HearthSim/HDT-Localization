@@ -3466,10 +3466,10 @@
     <value>1枚選んでくれ</value>
   </data>
   <data name="GameTag_EndOfTurn" xml:space="preserve">
-    <value>End Of Turn</value>
+    <value>ターン終了時</value>
   </data>
   <data name="GameTag_StartOfCombat" xml:space="preserve">
-    <value>Start Of Combat</value>
+    <value>戦闘開始時</value>
   </data>
   <data name="GameTag_Reborn" xml:space="preserve">
     <value>蘇り</value>
@@ -3484,16 +3484,16 @@
     <value>バディ</value>
   </data>
   <data name="GameTag_BGRally" xml:space="preserve">
-    <value>Rally</value>
+    <value>勝鬨</value>
   </data>
   <data name="GameTag_BGActivate" xml:space="preserve">
-    <value>Activate</value>
+    <value>起動</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
     <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
-    <value>Avenge</value>
+    <value>仇討</value>
   </data>
   <data name="Overlay_Battlegrounds_Turns" xml:space="preserve">
     <value>{0} ターン前</value>
@@ -4864,10 +4864,10 @@
     <value>NO TYPE</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
-    <value>SPELL</value>
+    <value>呪文</value>
   </data>
   <data name="GameTag_BGBuddy_Uppercase" xml:space="preserve">
-    <value>BUDDY</value>
+    <value>バディ</value>
   </data>
   <data name="Counter_PlayedDragons" xml:space="preserve">
     <value>Played Dragons</value>
