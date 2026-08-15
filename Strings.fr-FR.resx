@@ -550,7 +550,7 @@
     <value>Nom de la case à cocher / description...</value>
   </data>
   <data name="Options_Search_SearchButton" xml:space="preserve">
-    <value>Rechercher</value>
+    <value>Recherche</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Joueur</value>
@@ -604,7 +604,7 @@
     <value>Cacher les secrets</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Infobulles des cartes</value>
+    <value>Infobulle des cartes</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Uniquement pour les secrets</value>
@@ -895,7 +895,7 @@
     <value>Action</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>Effacer la sélection</value>
+    <value>Supprimer la sélection</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>Nouveau</value>
@@ -1396,7 +1396,7 @@
     <value>Rediffusion</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>Commentaire</value>
+    <value>Remarque</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
     <value>Graphiques</value>
@@ -1489,7 +1489,7 @@
     <value>Déplacer la sélection</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Effacer la sélection</value>
+    <value>Supprimer la sélection</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
     <value>Deck</value>
@@ -1522,7 +1522,7 @@
     <value>Pièce</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Started" xml:space="preserve">
-    <value>Démarré</value>
+    <value>Début</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
     <value>Durée</value>
@@ -1534,10 +1534,10 @@
     <value>Rediffusion</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Commentaire</value>
+    <value>Remarque</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Rejouer</value>
+    <value>Rediffusion</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Deck adverse</value>
@@ -1573,7 +1573,7 @@
     <value>Taux de victoires</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>Joués</value>
+    <value>Jouées</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
     <value>Joués (%)</value>
@@ -1660,7 +1660,7 @@
     <value>Dorée</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>Aucune</value>
+    <value>Aucun</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
     <value>Deck actif uniquement</value>
@@ -1750,7 +1750,7 @@
     <value>Résumé</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Matches" xml:space="preserve">
-    <value>Matchs</value>
+    <value>Parties</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Charts" xml:space="preserve">
     <value>Graphiques</value>
@@ -1795,7 +1795,7 @@
     <value>Aucun nouveau deck trouvé.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>Démarrer le lanceur / Hearthstone</value>
+    <value>Démarrer lanceur / Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>En attente de Hearthstone...</value>
@@ -1888,7 +1888,7 @@
     <value>Dernière partie</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>Aucune</value>
+    <value>Aucun</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Par défaut</value>
@@ -1900,7 +1900,7 @@
     <value>Hérité</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>Toutes</value>
+    <value>Tous</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
     <value>Sélectionnée</value>
@@ -1948,7 +1948,7 @@
     <value>Bras de fer</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Partie amicale</value>
+    <value>Parties amicales</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
     <value>Entraînement</value>
@@ -2023,7 +2023,7 @@
     <value>Foncé</value>
   </data>
   <data name="Enum_Region_All" xml:space="preserve">
-    <value>Toutes</value>
+    <value>Tous</value>
   </data>
   <data name="Enum_Region_Unknown" xml:space="preserve">
     <value>Inconnue</value>
@@ -2083,7 +2083,7 @@
     <value>Aujourd'hui</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>Cette semaine</value>
+    <value>Semaine en cours</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
     <value>Saison actuelle</value>
@@ -2344,7 +2344,7 @@
     <value>Notes pour cette partie</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Définir</value>
+    <value>Ensemble</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>Enregistrer avec ENTRÉE</value>
@@ -2407,7 +2407,7 @@
     <value>Joueur :</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>Ajouter la partie</value>
+    <value>Ajouter une partie</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>Annuler</value>
@@ -2548,7 +2548,7 @@
     <value>« Téléverser » enverra automatiquement l'image sur imgur.com</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_Save" xml:space="preserve">
-    <value>Sauvegarder</value>
+    <value>Enregistrer</value>
   </data>
   <data name="MessageDialogs_ScrenshotAction_Button_SaveUpload" xml:space="preserve">
     <value>Sauvegarder et téléverser</value>
@@ -2596,7 +2596,7 @@
     <value>Tri de decks : arène</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Filtre</value>
+    <value>Filtrer</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Vers le haut</value>
@@ -3241,7 +3241,7 @@
     <value>Vous reconnecter réclamera vos nouvelles rediffusions rétroactivement.</value>
   </data>
   <data name="Options_HSReplay_Account_Logout" xml:space="preserve">
-    <value>Se déconnecter</value>
+    <value>Déconnexion</value>
   </data>
   <data name="Options_HSReplay_Collection_HeaderText" xml:space="preserve">
     <value>Le moyen le plus simple pour trouver les meilleurs decks !</value>
@@ -3298,7 +3298,7 @@
     <value>Connexion réussie</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Se connecter</value>
+    <value>Connexion</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Méta</value>
@@ -3490,7 +3490,7 @@
     <value>Activation</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
-    <value>Coffre</value>
+    <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
     <value>Vengeance</value>
@@ -3814,7 +3814,7 @@
     <value>Cavernes des Lamentations</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Héritage</value>
+    <value>Hérité</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Guide du Mulligan</value>
@@ -3838,7 +3838,7 @@
     <value>Ignorer</value>
   </data>
   <data name="LinkOpponentDeck_Clear" xml:space="preserve">
-    <value>Effacer</value>
+    <value>Vider</value>
   </data>
   <data name="LinkOpponentDeck_NoValidDeckOnClipboardMessage" xml:space="preserve">
     <value>Aucun code de deck valide trouvé dans le presse-papiers</value>
@@ -4189,7 +4189,7 @@
     <value>Overlay Champs de Bataille Tier7</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Loading" xml:space="preserve">
-    <value>Chargement…</value>
+    <value>Chargement...</value>
   </data>
   <data name="BattlegroundsPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
     <value>Survolez pour plus de détails</value>
