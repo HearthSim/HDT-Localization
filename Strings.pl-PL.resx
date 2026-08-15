@@ -895,7 +895,7 @@
     <value>Czynność</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>Usuń zaznaczony skrót</value>
+    <value>Usuń zaznaczone</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>Nowy</value>
@@ -982,10 +982,10 @@
     <value>Folder dodatków</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>Włączony</value>
+    <value>Włączone</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
-    <value>Wyłączony</value>
+    <value>Wyłączone</value>
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
     <value>Stworzony przez</value>
@@ -1096,7 +1096,7 @@
     <value>Karczemna Bójka</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Casual" xml:space="preserve">
-    <value>Gra nierankingowa</value>
+    <value>Nierankingowa</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
     <value>Gry ze znajomymi</value>
@@ -1108,7 +1108,7 @@
     <value>Obserwator</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Inne</value>
+    <value>Inne źródło</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Wyświetl</value>
@@ -1192,16 +1192,16 @@
     <value>Otwórz HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
-    <value>_Zarchiwizuj</value>
+    <value>_Spakuj</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
-    <value>Zdezarchiwizuj</value>
+    <value>Rozpakuj</value>
   </data>
   <data name="DeckPicker_ContextMenu_Delete" xml:space="preserve">
     <value>Usuń</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>Skopiuj</value>
+    <value>Sklonuj</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
     <value>Całą talię</value>
@@ -1285,7 +1285,7 @@
     <value>Pakiety</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Total" xml:space="preserve">
-    <value>Wszystkie:</value>
+    <value>Całość:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Average" xml:space="preserve">
     <value>Średnio:</value>
@@ -1306,7 +1306,7 @@
     <value>Karty</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Total" xml:space="preserve">
-    <value>Wszystkie:</value>
+    <value>Całość:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Cards_Average" xml:space="preserve">
     <value>Średnio:</value>
@@ -1396,7 +1396,7 @@
     <value>Powtórka</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>Notatka</value>
+    <value>Uwaga</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
     <value>Wykresy</value>
@@ -1534,7 +1534,7 @@
     <value>Powtórka</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Notatka</value>
+    <value>Uwaga</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
     <value>Powtórka</value>
@@ -1549,7 +1549,7 @@
     <value>Edytuj</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>Notatka</value>
+    <value>Uwaga</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>Przenieś</value>
@@ -1561,16 +1561,16 @@
     <value>TY \ VS</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
-    <value>Podsumowanie</value>
+    <value>Wszystkie areny</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Charts" xml:space="preserve">
-    <value>Zwycięstwa</value>
+    <value>Wykresy</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Winrate" xml:space="preserve">
-    <value>Zwycięstwa</value>
+    <value>Ogólny współczynnik zwycięstw</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Winrate" xml:space="preserve">
-    <value>Współczynnik zwycięstw (%)</value>
+    <value>Ogólny współczynnik zwycięstw</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
     <value>Zagrano</value>
@@ -1582,13 +1582,13 @@
     <value>Przeciwnicy</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Opponents" xml:space="preserve">
-    <value>Przeciwnicy (%)</value>
+    <value>Przeciwnicy</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
     <value>Wyróżnienia</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
-    <value>Podsumowanie</value>
+    <value>Wszystkie areny</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_HighestRank" xml:space="preserve">
     <value>Najwyższa ranga:</value>
@@ -1660,7 +1660,7 @@
     <value>Złota</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>Brak</value>
+    <value>-</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
     <value>Tylko aktywna talia</value>
@@ -1759,7 +1759,7 @@
     <value>Automatyczne odświeżanie</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>Resetuj</value>
+    <value>Zresetuj</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>Filtry</value>
@@ -1795,7 +1795,7 @@
     <value>Nie znaleziono talii.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>Uruchom Launcher / Hearthstone</value>
+    <value>Uruchom Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>Czekanie na Hearthstone...</value>
@@ -1861,10 +1861,10 @@
     <value>Ręczny</value>
   </data>
   <data name="Enum_ArenaRewardPacks_None" xml:space="preserve">
-    <value>Brak</value>
+    <value>-</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Classic" xml:space="preserve">
-    <value>Klasyczny</value>
+    <value>Klasyczne</value>
   </data>
   <data name="Enum_ArenaRewardPacks_GoblinsVsGnomes" xml:space="preserve">
     <value>Gobliny vs Gnomy</value>
@@ -1876,7 +1876,7 @@
     <value>Przedwieczni Bogowie</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>Klasyczny</value>
+    <value>Klasyczne</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>Alternatywny</value>
@@ -1888,7 +1888,7 @@
     <value>Ostatnio Grano</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>Żaden</value>
+    <value>-</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Domyślny</value>
@@ -1936,10 +1936,10 @@
     <value>Wszystkie</value>
   </data>
   <data name="Enum_GameMode_Ranked" xml:space="preserve">
-    <value>Rankingowy</value>
+    <value>Ranking</value>
   </data>
   <data name="Enum_GameMode_Casual" xml:space="preserve">
-    <value>Zwykły</value>
+    <value>Nierankingowa</value>
   </data>
   <data name="Enum_GameMode_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -1948,7 +1948,7 @@
     <value>Karczemna Bójka</value>
   </data>
   <data name="Enum_GameMode_Friendly" xml:space="preserve">
-    <value>Gra ze znajomym</value>
+    <value>Gry ze znajomymi</value>
   </data>
   <data name="Enum_GameMode_Practice" xml:space="preserve">
     <value>Trening</value>
@@ -1957,7 +1957,7 @@
     <value>Obserwator</value>
   </data>
   <data name="Enum_GameMode_None" xml:space="preserve">
-    <value>Żaden</value>
+    <value>-</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
     <value>Wszystkie</value>
@@ -1972,7 +1972,7 @@
     <value>Remis</value>
   </data>
   <data name="Enum_GameResult_None" xml:space="preserve">
-    <value>Żaden</value>
+    <value>-</value>
   </data>
   <data name="Enum_HeroClass_All" xml:space="preserve">
     <value>Wszystkie</value>
@@ -2095,7 +2095,7 @@
     <value>Własny sezon</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_AllTime" xml:space="preserve">
-    <value>Cały</value>
+    <value>Całość</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Custom" xml:space="preserve">
     <value>Własny</value>
@@ -2119,7 +2119,7 @@
     <value>Automatycznie zapisuje po zamknięciu okna</value>
   </data>
   <data name="DeckPanel_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importuj</value>
   </data>
   <data name="Help_Label_Faq" xml:space="preserve">
     <value>Najczęściej zadawane pytania - FAQ</value>
@@ -2248,7 +2248,7 @@
     <value>Aktywna Talia:</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None" xml:space="preserve">
-    <value>Żadna</value>
+    <value>-</value>
   </data>
   <data name="DeckPicker_ActiveDeck_Label_None_Tooltip" xml:space="preserve">
     <value>Kliknij "Używaj" na talii aby aktywować</value>
@@ -2272,7 +2272,7 @@
     <value>Ostatni raz grano</value>
   </data>
   <data name="DeckPicker_Deck_Archived_Tooltip" xml:space="preserve">
-    <value>Zarchiwizowany</value>
+    <value>Zarchiwizowane</value>
   </data>
   <data name="DeckPicker_Deck_Standard_Tooltip" xml:space="preserve">
     <value>Ta talia może być użyta tylko w Standardzie.</value>
@@ -2314,7 +2314,7 @@
     <value>Zegar</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
-    <value>Stats</value>
+    <value>Statystyki</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>Talia przeciwnika</value>
@@ -2344,7 +2344,7 @@
     <value>Notatka dla tej gry</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Zmień</value>
+    <value>Set</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>Wciśnij ENTER aby zapisać</value>
@@ -2458,7 +2458,7 @@
     <value>Wybierz typ talii</value>
   </data>
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
-    <value>Stworzona talia</value>
+    <value>Stworzone talie</value>
   </data>
   <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
     <value>Arena</value>
@@ -2596,7 +2596,7 @@
     <value>Sortowanie talii: Arena</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Filtr</value>
+    <value>Filtruj</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Góra</value>
@@ -2689,7 +2689,7 @@
     <value>Zasady zachowania programu podczas wklejania (ctrl-v) linku albo talii do programu.</value>
   </data>
   <data name="Enum_ImportingChoice_Manual" xml:space="preserve">
-    <value>Ręcznie</value>
+    <value>Ręczny</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
     <value>Tylko zapisz</value>
@@ -2830,7 +2830,7 @@
     <value>Pokaż wszystkie wspierane strony</value>
   </data>
   <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importuj</value>
   </data>
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
@@ -2932,7 +2932,7 @@
     <value>Skopiowano!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Eksport</value>
+    <value>Eksportuj</value>
   </data>
   <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
     <value>Edytor talii</value>
@@ -2977,7 +2977,7 @@
     <value>Przegrane:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Współczynnik zwycięstw</value>
+    <value>Ogólny współczynnik zwycięstw</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
@@ -3298,7 +3298,7 @@
     <value>Pomyślnie zalogowano</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Zaloguj</value>
+    <value>Login</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
@@ -3355,7 +3355,7 @@
     <value>Zamknij do zasobnika (obok zegara systemowego)</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>Żaden</value>
+    <value>-</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Podświetl</value>
@@ -3607,7 +3607,7 @@
     <value>Wszystkie Ligi + Historyczne</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Header" xml:space="preserve">
-    <value>Ustawki</value>
+    <value>Ustawka</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_BobsBuddy" xml:space="preserve">
     <value>Przyjaciel Boba</value>
@@ -3775,10 +3775,10 @@
     <value>Podpowiedzi na karcie</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>Klasyczny</value>
+    <value>Klasyczne</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>Klasyczny</value>
+    <value>Klasyczne</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Zahartowani przez Pustkowia".</value>
@@ -4000,16 +4000,16 @@
     <value>Aktualny</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
-    <value>4.</value>
+    <value>5.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_6" xml:space="preserve">
-    <value>6.</value>
+    <value>5.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_7" xml:space="preserve">
-    <value>7.</value>
+    <value>5.</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_8" xml:space="preserve">
-    <value>8.</value>
+    <value>5.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Label_Scaling" xml:space="preserve">
     <value>Skalowanie</value>
@@ -4411,7 +4411,7 @@
     <value>Wszystkie</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
-    <value>Inne</value>
+    <value>Inne źródło</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
     <value>No Type</value>
@@ -4933,7 +4933,7 @@
     <value>Włącz Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>Pokaż statystyki wybierania bohaterów</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Pokaż wyniki Arenasmith</value>
@@ -4972,7 +4972,7 @@
     <value>Funkcja Arenasmith jest aktualna i gotowa do oceny oferowanych kart i bohaterów.</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>Reset za</value>
+    <value>Resets In</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
     <value>Twój okres próbny Arenasmith jest aktywny dla tego doboru kart.</value>
@@ -4984,7 +4984,7 @@
     <value>Dołącz do Premium, aby uzyskać dostęp do Arenasmith dla tego i przyszłych doborów kart.</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>Subskrybowano?</value>
+    <value>Subscribed?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
     <value>Zaloguj się</value>
@@ -5221,7 +5221,7 @@
     <value>Dowiedz się więcej</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>Najedź, aby uzyskać więcej szczegółów</value>
+    <value>Hover for more details</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>Zaloguj się do HSReplay.net, aby skorzystać z Mulligan Guide bezpośrednio w nakładce!</value>
