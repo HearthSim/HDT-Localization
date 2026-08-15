@@ -628,7 +628,7 @@
     <value>ゴールド獲得状況を常に表示(メニュー)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>マウス オーバーでカードのフレーバー テキストを表示する(ボード/手札) </value>
+    <value>マウス オーバーでカードのフレーバー テキストを表示する(ボード/手札)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
     <value>Show the order cards entered the board</value>
@@ -739,7 +739,7 @@
     <value>残っていないカードを削除</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_IncludeCreated" xml:space="preserve">
-    <value>作成されたカードを含む (例えば、コイン) </value>
+    <value>作成されたカードを含む (例えば、コイン)</value>
   </data>
   <data name="Options_Overlay_Streaming_Label_Note" xml:space="preserve">
     <value>注意：これらの設定は必要ない場合があり、通常は別のウィンドウなしで直接オーバーレイをキャプチャできます。</value>
@@ -2713,7 +2713,7 @@
     <value>グレーアウトした秘策を削除します。</value>
   </data>
   <data name="ConfigWarning_Header" xml:space="preserve">
-    <value>警告 </value>
+    <value>警告</value>
   </data>
   <data name="ConfigWarning_Button_ReEnable" xml:space="preserve">
     <value>オンに戻す</value>
@@ -2734,7 +2734,7 @@
     <value>闘技場デッキの自動インポートは現在無効です。.\n\nHDTの機能を最大限生かすためこの設定を有効にすることをお勧めします。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoDeckDetection" xml:space="preserve">
-    <value>自動的にデッキを選択(推奨) </value>
+    <value>自動的にデッキを選択(推奨)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarkTooltips_Tooltip" xml:space="preserve">
     <value>情報が利用可能な場合作成/マリガンされたカードが表示されます。</value>
