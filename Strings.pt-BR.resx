@@ -604,7 +604,7 @@
     <value>Ocultar segredos</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardTooltips" xml:space="preserve">
-    <value>Mostrar descrição das cartas</value>
+    <value>Dicas de contexto nas cartas</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_SecretsOnly" xml:space="preserve">
     <value>Apenas para segredos</value>
@@ -895,7 +895,7 @@
     <value>Ação</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>Eliminar selecionado</value>
+    <value>Deletar selecionado</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>Novo</value>
@@ -1108,7 +1108,7 @@
     <value>Espectador</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
-    <value>Outro</value>
+    <value>_Outros</value>
   </data>
   <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
     <value>Mostrar</value>
@@ -1171,7 +1171,7 @@
     <value>Editar _etiquetas</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
-    <value>_Definir etiquetas</value>
+    <value>_Ajuste rápido de tag</value>
   </data>
   <data name="DeckPicker_ContextMenu_MoveToArena" xml:space="preserve">
     <value>Mover para arena</value>
@@ -1192,7 +1192,7 @@
     <value>Abrir HearthStats</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
-    <value>_Arquivar</value>
+    <value>_Arquivado</value>
   </data>
   <data name="DeckPicker_ContextMenu_Unarchive" xml:space="preserve">
     <value>Desarquivar</value>
@@ -1201,13 +1201,13 @@
     <value>Deletar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>Clonar</value>
+    <value>_Clonar</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
-    <value>Baralho inteiro</value>
+    <value>Deck completo</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
-    <value>Selecionar versão</value>
+    <value>Versão selecionada</value>
   </data>
   <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
     <value>Ligar UR_L</value>
@@ -1474,7 +1474,7 @@
     <value>Nenhum</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchup" xml:space="preserve">
-    <value>Pior Partida:</value>
+    <value>Pior partida:</value>
   </data>
   <data name="Stats_Constructed_DeckHightlights_Label_WorstMatchupFallback" xml:space="preserve">
     <value>Nenhum</value>
@@ -1489,10 +1489,10 @@
     <value>Mover selecionados</value>
   </data>
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
-    <value>Eliminar selecionados</value>
+    <value>Deletar selecionado</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Deck</value>
+    <value>_Deck</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>Classe</value>
@@ -1531,13 +1531,13 @@
     <value>Região</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
-    <value>Repetição</value>
+    <value>Replay</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
     <value>Nota</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
-    <value>Repetição</value>
+    <value>Replay</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_OpponentDeck" xml:space="preserve">
     <value>Baralho do adv.</value>
@@ -1555,7 +1555,7 @@
     <value>Mover</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Delete" xml:space="preserve">
-    <value>Remover</value>
+    <value>Deletar</value>
   </data>
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
     <value>Vc\VS</value>
@@ -1654,13 +1654,13 @@
     <value>Mostrar automaticamente</value>
   </data>
   <data name="ArenaRewards_Label_Save" xml:space="preserve">
-    <value>Gravar</value>
+    <value>Salvar</value>
   </data>
   <data name="ArenaRewards_Card_Label_Golden" xml:space="preserve">
     <value>Dourado</value>
   </data>
   <data name="ArenaRewards_Card_Text_Watermark" xml:space="preserve">
-    <value>Nenhuma</value>
+    <value>Nenhum</value>
   </data>
   <data name="Stats_Constructed_Filters_CheckBox_ActiveOnly" xml:space="preserve">
     <value>Apenas baralho ativo</value>
@@ -1759,7 +1759,7 @@
     <value>Atualizar automaticamente</value>
   </data>
   <data name="Stats_Overview_Filters_Label_Reset" xml:space="preserve">
-    <value>Limpar</value>
+    <value>Redefinir</value>
   </data>
   <data name="Stats_Overview_Label_Filters" xml:space="preserve">
     <value>Filtros</value>
@@ -1774,7 +1774,7 @@
     <value>Ativar importação automática</value>
   </data>
   <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
-    <value>Baralho</value>
+    <value>_Deck</value>
   </data>
   <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
     <value>Salvar para</value>
@@ -1795,7 +1795,7 @@
     <value>Não foram encontrados novos decks.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>Iniciar Cliente / Hearthstone</value>
+    <value>Iniciar Cliente/ Hearthstone</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>Esperando por Hearthstone...</value>
@@ -1888,7 +1888,7 @@
     <value>Última Partida</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>Não mostrar</value>
+    <value>Nenhum</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>Padrão</value>
@@ -1960,7 +1960,7 @@
     <value>Nenhum</value>
   </data>
   <data name="Enum_GameResult_All" xml:space="preserve">
-    <value>Tudo</value>
+    <value>Todos</value>
   </data>
   <data name="Enum_GameResult_Win" xml:space="preserve">
     <value>Vitória</value>
@@ -2083,7 +2083,7 @@
     <value>Hoje</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
-    <value>Esta semana</value>
+    <value>Nesta semana</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_CurrentSeason" xml:space="preserve">
     <value>Temporada atual</value>
@@ -2317,7 +2317,7 @@
     <value>Estatísticas</value>
   </data>
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
-    <value>Deck do oponente</value>
+    <value>Baralho do Oponente</value>
   </data>
   <data name="StatsWindow_Button_MoveToMainWindow" xml:space="preserve">
     <value>Mover para janela principal</value>
@@ -2344,7 +2344,7 @@
     <value>Notas para este jogo</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>Definir</value>
+    <value>Conjunto</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>Salvar com ENTER</value>
@@ -2488,13 +2488,13 @@
     <value>Mover para outro baralho</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>Eliminar jogo</value>
+    <value>Remover jogo</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>Tem certeza?</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Delete" xml:space="preserve">
-    <value>Eliminar</value>
+    <value>Deletar</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Button_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -2596,7 +2596,7 @@
     <value>Ordenar baralho: Arena</value>
   </data>
   <data name="SortFilter_Label_Filter" xml:space="preserve">
-    <value>Filtro</value>
+    <value>Filtrar</value>
   </data>
   <data name="SortFilter_Filter_Button_Up" xml:space="preserve">
     <value>Cima</value>
@@ -2623,10 +2623,10 @@
     <value>Filtrar operação:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>E</value>
+    <value>e</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
-    <value>Ou</value>
+    <value>ou</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
     <value>Incluir baralho "Padrao" no "Livre"</value>
@@ -2881,7 +2881,7 @@
     <value>Histórico de versões</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
-    <value>Baralho</value>
+    <value>_Deck</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
     <value>Banco de dados das cartas</value>
@@ -2977,7 +2977,7 @@
     <value>Derrotas:</value>
   </data>
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Média de vitórias</value>
+    <value>Índice de vitórias</value>
   </data>
   <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
     <value>vs.</value>
@@ -3163,7 +3163,7 @@
     <value>Desafio na Masmorra</value>
   </data>
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
-    <value>Importar automaticamente novos baralhos</value>
+    <value>Importar automaticamente novos decks</value>
   </data>
   <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
     <value>Modelo de nome dos baralhos da masmorra</value>
@@ -3298,7 +3298,7 @@
     <value>Logado com sucesso</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Login" xml:space="preserve">
-    <value>Logar</value>
+    <value>Entrar</value>
   </data>
   <data name="MainWindow_Menu_HSReplay_Meta" xml:space="preserve">
     <value>Meta</value>
@@ -3814,7 +3814,7 @@
     <value>Caverna Ululante</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>Legado</value>
+    <value>Antigo</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Guia de Mulligan</value>
@@ -4408,10 +4408,10 @@
     <value>Totem</value>
   </data>
   <data name="Race_All" xml:space="preserve">
-    <value>Tudo</value>
+    <value>Todos</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
-    <value>Outro</value>
+    <value>_Outros</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
     <value>Sem Tipo</value>
@@ -4492,7 +4492,7 @@
     <value>Reseta em</value>
   </data>
   <data name="BattlegroundsPreLobby_Authenticated_Join" xml:space="preserve">
-    <value>Junte-se ao Tier7 para ter acesso ilimitado.</value>
+    <value>Junte-se ao Tier7 para uso ilimitado.</value>
   </data>
   <data name="ConstructedMulliganGuide_VisibilityToggle_Hide" xml:space="preserve">
     <value>OCULTAR GUIA DE MULLIGAN</value>
@@ -4894,7 +4894,7 @@
     <value>Aprimora ou é aprimorada por cartas do seu deck</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
-    <value>Taxa de Vitória</value>
+    <value>Índice de vitórias</value>
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
     <value>Escolhido</value>
