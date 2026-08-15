@@ -1276,10 +1276,10 @@
     <value>ฝุ่น</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Total" xml:space="preserve">
-    <value>ทั้งหมด:</value>
+    <value>Total:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Dust_Average" xml:space="preserve">
-    <value>เฉลี่ย:</value>
+    <value>Average:</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs" xml:space="preserve">
     <value>Packs</value>
@@ -3478,7 +3478,7 @@
     <value>แม่เหล็ก</value>
   </data>
   <data name="GameTag_BGSpell" xml:space="preserve">
-    <value>เวทมนตร์</value>
+    <value>Spell</value>
   </data>
   <data name="GameTag_BGBuddy" xml:space="preserve">
     <value>คู่หู</value>
@@ -3490,7 +3490,7 @@
     <value>เปิดใช้</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Lockbox" xml:space="preserve">
-    <value>กล่องล็อค</value>
+    <value>Lockbox</value>
   </data>
   <data name="GameTag_BGAvenge" xml:space="preserve">
     <value>แก้แค้น</value>
@@ -3814,7 +3814,7 @@
     <value>Wailing Caverns</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>ชุดเก่า</value>
+    <value>Legacy</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - Mulligan Guide</value>
@@ -4375,22 +4375,22 @@
     <value>Caverns of Time</value>
   </data>
   <data name="Race_Demon" xml:space="preserve">
-    <value>ปีศาจ</value>
+    <value>Demon</value>
   </data>
   <data name="Race_Mechanical" xml:space="preserve">
     <value>เครื่องจักร</value>
   </data>
   <data name="Race_Beast" xml:space="preserve">
-    <value>สัตว์</value>
+    <value>Beast</value>
   </data>
   <data name="Race_Dragon" xml:space="preserve">
-    <value>มังกร</value>
+    <value>Dragon</value>
   </data>
   <data name="Race_Murloc" xml:space="preserve">
-    <value>เมอร์ล็อค</value>
+    <value>Murloc</value>
   </data>
   <data name="Race_Pirate" xml:space="preserve">
-    <value>โจรสลัด</value>
+    <value>Pirate</value>
   </data>
   <data name="Race_Elemental" xml:space="preserve">
     <value>วิญญาณธาตุ</value>
@@ -4405,13 +4405,13 @@
     <value>อันเดด</value>
   </data>
   <data name="Race_Totem" xml:space="preserve">
-    <value>โทเท็ม</value>
+    <value>Totem</value>
   </data>
   <data name="Race_All" xml:space="preserve">
-    <value>ทุกอย่าง</value>
+    <value>All</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
-    <value>อื่นๆ</value>
+    <value>Other</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
     <value>No Type</value>
@@ -4894,7 +4894,7 @@
     <value>ช่วยเสริม หรือได้รับการเสริมจากการ์ดในเด็คของคุณ</value>
   </data>
   <data name="ArenaPick_SingleHero_WinRate" xml:space="preserve">
-    <value>อัตราการชนะ</value>
+    <value>Winrate</value>
   </data>
   <data name="ArenaPick_SingleHero_PickRate" xml:space="preserve">
     <value>เลือกแล้ว</value>
@@ -4903,7 +4903,7 @@
     <value>ลอง Arenasmith ได้ฟรีในจำนวนดราฟต์ที่จำกัด! จากนั้นเราจะมอบสิทธิ์เพิ่มเติมให้คุณเป็นระยะ ๆ</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>เกิดข้อผิดพลาด :(</value>
+    <value>Something went wrong :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>การ์ดที่ควรพิจารณา</value>
@@ -4924,7 +4924,7 @@
     <value>การ์ดแนะนำให้ทิ้ง</value>
   </data>
   <data name="Options_Overlay_Arena_Header" xml:space="preserve">
-    <value>อารีนา</value>
+    <value>Arena</value>
   </data>
   <data name="Options_Overlay_Arena_Label_Arenasmith" xml:space="preserve">
     <value>Arenasmith</value>
@@ -4933,7 +4933,7 @@
     <value>เปิดใช้งาน Arenasmith</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>แสดงสถิติการเลือกฮีโร่</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>แสดงคะแนนจาก Arenasmith</value>
@@ -4954,7 +4954,7 @@
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
-    <value>กำลังโหลด...</value>
+    <value>Loading…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
     <value>กำลังเตรียมคะแนนดราฟต์…</value>
@@ -4972,7 +4972,7 @@
     <value>Arenasmith เป็นปัจจุบันและพร้อมให้คะแนนการ์ดและฮีโร่ที่เสนอแล้ว</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>รีเซ็ตใน</value>
+    <value>Resets In</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
     <value>การทดลองใช้ Arenasmith ของคุณใช้งานได้สำหรับดราฟต์นี้</value>
@@ -4984,13 +4984,13 @@
     <value>เข้าร่วม Premium ตอนนี้เพื่อใช้ Arenasmith สำหรับดราฟต์นี้และในอนาคต</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>สมัครสมาชิกแล้ว?</value>
+    <value>Subscribed?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>ลงชื่อเข้าใช้</value>
+    <value>Sign In</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
-    <value>รีเฟรช</value>
+    <value>Refresh</value>
   </data>
   <data name="ArenaPreDraft_Panel_ThanksForSubscribing" xml:space="preserve">
     <value>ขอบคุณที่สมัครสมาชิก Premium!</value>
