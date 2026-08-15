@@ -982,7 +982,7 @@
     <value>플러그인 폴더</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Enabled" xml:space="preserve">
-    <value>사용 중</value>
+    <value>활성화</value>
   </data>
   <data name="Options_Tracker_Plugins_Switch_Disabled" xml:space="preserve">
     <value>비활성화</value>
@@ -1168,7 +1168,7 @@
     <value>메모 편집(_N)</value>
   </data>
   <data name="DeckPicker_ContextMenu_Tags" xml:space="preserve">
-    <value>태그 수정(_T)</value>
+    <value>태그 편집(_T)</value>
   </data>
   <data name="DeckPicker_ContextMenu_QuickSetTags" xml:space="preserve">
     <value>빠른 태그 설정(_Q)</value>
@@ -1396,7 +1396,7 @@
     <value>리플레이</value>
   </data>
   <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>메모</value>
+    <value>경고</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
     <value>차트</value>
@@ -1411,7 +1411,7 @@
     <value>직업 당 평균 승 수</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Wins" xml:space="preserve">
-    <value>승 수</value>
+    <value>승리</value>
   </data>
   <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
     <value>하이라이트</value>
@@ -1525,7 +1525,7 @@
     <value>시작 시간</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
-    <value>시간</value>
+    <value>총 시간</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
     <value>지역</value>
@@ -1534,7 +1534,7 @@
     <value>리플레이</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>메모</value>
+    <value>경고</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
     <value>리플레이</value>
@@ -1549,7 +1549,7 @@
     <value>편집</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>메모</value>
+    <value>경고</value>
   </data>
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>이동</value>
@@ -1573,7 +1573,7 @@
     <value>승률</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>플레이 수</value>
+    <value>플레이 한 직업</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
     <value>플레이 수 (%)</value>
@@ -1795,7 +1795,7 @@
     <value>새 덱을 찾지 못했습니다.</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>런쳐 / 하스스톤 실행</value>
+    <value>런쳐 / 하스스톤 시작</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>하스스톤 기다리는 중...</value>
@@ -1876,7 +1876,7 @@
     <value>고대 신의 속삭임</value>
   </data>
   <data name="Enum_ClassColorScheme_Classic" xml:space="preserve">
-    <value>클래식</value>
+    <value>오리지널</value>
   </data>
   <data name="Enum_ClassColorScheme_Alternative" xml:space="preserve">
     <value>제 2안</value>
@@ -1888,7 +1888,7 @@
     <value>최근 플레이 날짜</value>
   </data>
   <data name="Enum_DeckDateType_None" xml:space="preserve">
-    <value>표시하지 않음</value>
+    <value>없음</value>
   </data>
   <data name="Enum_DeckLayout_Layout1" xml:space="preserve">
     <value>기본</value>
@@ -1900,7 +1900,7 @@
     <value>구버전</value>
   </data>
   <data name="Enum_DisplayedStats_All" xml:space="preserve">
-    <value>전체 버전</value>
+    <value>전체</value>
   </data>
   <data name="Enum_DisplayedStats_Selected" xml:space="preserve">
     <value>선택된 버전</value>
@@ -2344,7 +2344,7 @@
     <value>이 게임에 대한 메모</value>
   </data>
   <data name="NoteWindow_Button_Set" xml:space="preserve">
-    <value>설정</value>
+    <value>카드 팩</value>
   </data>
   <data name="NoteWindow_CheckBox_Save" xml:space="preserve">
     <value>엔터 키로 저장</value>
@@ -2623,10 +2623,10 @@
     <value>필터 동작 방식:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>모두 만족</value>
+    <value>그리고</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
-    <value>일부 만족</value>
+    <value>또는</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
     <value>'야생'에서 '정규' 덱 포함</value>
@@ -2635,7 +2635,7 @@
     <value>승률</value>
   </data>
   <data name="Enum_DeckPanel_Cards" xml:space="preserve">
-    <value>카드 목록</value>
+    <value>카드</value>
   </data>
   <data name="Enum_DeckPanel_CardCounter" xml:space="preserve">
     <value>카드 카운터</value>
@@ -2650,7 +2650,7 @@
     <value>덱 이름</value>
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
-    <value>승 수</value>
+    <value>승리</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
     <value>많은 수의 번역이 없거나 작업 중입니다. 만약 도움을 주시고 싶으시다면, 다음에서 할 수 있습니다:</value>
@@ -2839,7 +2839,7 @@
     <value>스크린샷</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>카드만 표시</value>
+    <value>카드만</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
     <value>덱 이름:</value>
@@ -2875,10 +2875,10 @@
     <value>버전 기록</value>
   </data>
   <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>버전 이력</value>
+    <value>버전 기록</value>
   </data>
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>버전 이력</value>
+    <value>버전 기록</value>
   </data>
   <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
     <value>덱</value>
@@ -2887,7 +2887,7 @@
     <value>카드 목록</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>찾기...</value>
+    <value>검색...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
     <value>카드 설명 검색 포함</value>
@@ -2929,7 +2929,7 @@
     <value>코드 복사</value>
   </data>
   <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>복사됨!</value>
+    <value>복사 완료!</value>
   </data>
   <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
     <value>내보내기</value>
@@ -3760,7 +3760,7 @@
     <value>턴</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turns" xml:space="preserve">
-    <value>턴</value>
+    <value>턴 수</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UseHighResolutionImages" xml:space="preserve">
     <value>고해상도 카드 이미지 사용하기</value>
@@ -3775,10 +3775,10 @@
     <value>카드 툴팁</value>
   </data>
   <data name="Enum_Format_Classic" xml:space="preserve">
-    <value>클래식</value>
+    <value>오리지널</value>
   </data>
   <data name="Enum_DeckType_Classic" xml:space="preserve">
-    <value>클래식</value>
+    <value>오리지널</value>
   </data>
   <data name="DeckSetIcons_Tooltip_TheBarrens" xml:space="preserve">
     <value>덱에 불모의 땅 확장팩 카드가 포함되어 있습니다.</value>
@@ -3814,7 +3814,7 @@
     <value>통곡의 동굴</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Legacy" xml:space="preserve">
-    <value>고전</value>
+    <value>구버전</value>
   </data>
   <data name="Toast_Mulligan_HSReplaynet" xml:space="preserve">
     <value>HSReplay.net - 멀리건 가이드</value>
@@ -4021,7 +4021,7 @@
     <value>최근 8번의 게임이 여기에 표시됩니다.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
-    <value>초기화</value>
+    <value>재설정</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
     <value>최종 덱</value>
@@ -4408,7 +4408,7 @@
     <value>토템</value>
   </data>
   <data name="Race_All" xml:space="preserve">
-    <value>모두</value>
+    <value>전체</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
     <value>기타</value>
@@ -4933,7 +4933,7 @@
     <value>Arenasmith 활성화</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>영웅 선택 통계 표시</value>
+    <value>영웅 선택 통계 보기</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Arenasmith 점수 표시</value>
