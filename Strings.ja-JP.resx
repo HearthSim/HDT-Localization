@@ -895,7 +895,7 @@
     <value>アクション</value>
   </data>
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
-    <value>選択箇所を削除</value>
+    <value>選択項目の削除</value>
   </data>
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>新機能</value>
@@ -1099,7 +1099,7 @@
     <value>カジュアル</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_Friendly" xml:space="preserve">
-    <value>フレンド</value>
+    <value>フレンド対戦</value>
   </data>
   <data name="Options_Tracker_Stats_CheckBox_AdventurePractive" xml:space="preserve">
     <value>アドベンチャー/練習</value>
@@ -1189,7 +1189,7 @@
     <value>オープン ウェブサイト</value>
   </data>
   <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>オープン HearthStats</value>
+    <value>HearthStatsを開く</value>
   </data>
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>アーカイブ</value>
@@ -1201,7 +1201,7 @@
     <value>削除</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone" xml:space="preserve">
-    <value>クローン</value>
+    <value>複製</value>
   </data>
   <data name="DeckPicker_ContextMenu_Clone_Deck" xml:space="preserve">
     <value>全体のデッキ</value>
@@ -1573,7 +1573,7 @@
     <value>勝率</value>
   </data>
   <data name="Stats_Constructed_Summary_Label_Played" xml:space="preserve">
-    <value>使用</value>
+    <value>プレイ</value>
   </data>
   <data name="Stats_Constructed_Summary_ChartTitle_Played" xml:space="preserve">
     <value>使用率 (%)</value>
@@ -1696,7 +1696,7 @@
     <value>から</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>フォーマット:</value>
+    <value>形式:</value>
   </data>
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
     <value>結果:</value>
@@ -1750,7 +1750,7 @@
     <value>概要</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Matches" xml:space="preserve">
-    <value>対戦</value>
+    <value>一致</value>
   </data>
   <data name="Stats_Overview_Tree_Label_Constructed_Charts" xml:space="preserve">
     <value>グラフ</value>
@@ -1795,7 +1795,7 @@
     <value>新しいデッキが見つかりませんでした。</value>
   </data>
   <data name="Importing_Constructed_Button_StartHearthstone" xml:space="preserve">
-    <value>ランチャを起動/ハースストーン</value>
+    <value>ランチャーを起動/ハースストーン</value>
   </data>
   <data name="Importing_Constructed_Button_Waiting" xml:space="preserve">
     <value>ハースストーンを待っています</value>
@@ -2080,7 +2080,7 @@
     <value>全期間</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_Today" xml:space="preserve">
-    <value>今日</value>
+    <value>本日</value>
   </data>
   <data name="Enum_DisplayedTimeFrame_ThisWeek" xml:space="preserve">
     <value>この 1 週間</value>
@@ -2350,7 +2350,7 @@
     <value>エンターキーで保存</value>
   </data>
   <data name="NoteWindow_Button_ShowOppDeck" xml:space="preserve">
-    <value>対戦相手のデッキを表示</value>
+    <value>相手のデッキを表示</value>
   </data>
   <data name="NoteWindow_Button_HideOppDeck" xml:space="preserve">
     <value>対戦相手のデッキを隠す</value>
@@ -2407,7 +2407,7 @@
     <value>プレーヤー:</value>
   </data>
   <data name="AddGameDialog_Button_AddGame" xml:space="preserve">
-    <value>ゲームに追加</value>
+    <value>ゲームを追加</value>
   </data>
   <data name="AddGameDialog_Button_Cancel" xml:space="preserve">
     <value>キャンセル</value>
@@ -2488,7 +2488,7 @@
     <value>他のデッキに移動</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Title" xml:space="preserve">
-    <value>ゲームを削除する</value>
+    <value>ゲームを削除</value>
   </data>
   <data name="MessageDialogs_DeleteGameStats_Label_Sure" xml:space="preserve">
     <value>本当に？</value>
@@ -2623,10 +2623,10 @@
     <value>フィルター操作:</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_And" xml:space="preserve">
-    <value>かつ</value>
+    <value>そして</value>
   </data>
   <data name="SortFilter_Filter_SwitchLabel_Or" xml:space="preserve">
-    <value>または</value>
+    <value>また</value>
   </data>
   <data name="SortFilter_Filter_CheckBoxIncludeStandard" xml:space="preserve">
     <value>'ワイルド' で 'スタンダード' のデッキを含む</value>
@@ -2692,7 +2692,7 @@
     <value>手動</value>
   </data>
   <data name="Enum_ImportingChoice_SaveLocal" xml:space="preserve">
-    <value>保存のみ</value>
+    <value>保存</value>
   </data>
   <data name="Enum_ImportingChoice_ExportToHs" xml:space="preserve">
     <value>ハースストーンで作成</value>
@@ -2839,7 +2839,7 @@
     <value>スクリーンショット</value>
   </data>
   <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>カードのみ</value>
+    <value>カード</value>
   </data>
   <data name="DeckScreenshot_Label_Title" xml:space="preserve">
     <value>タイトル</value>
@@ -2992,7 +2992,7 @@
     <value>いくつかのゲームをプレイ</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>読み込み中...</value>
+    <value>読み込んでいます...</value>
   </data>
   <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
     <value>マッチアップ</value>
@@ -4408,7 +4408,7 @@
     <value>トーテム</value>
   </data>
   <data name="Race_All" xml:space="preserve">
-    <value>全て</value>
+    <value>すべて</value>
   </data>
   <data name="Race_Other" xml:space="preserve">
     <value>その他</value>
@@ -4903,7 +4903,7 @@
     <value>Arenasmithを限定数のドラフトで無料体験できます！その後も定期的に追加でプレゼントします。</value>
   </data>
   <data name="ArenaPick_Message_Error" xml:space="preserve">
-    <value>問題が発生しました</value>
+    <value>Something went wrong :(</value>
   </data>
   <data name="ArenaPick_ClassTopCards" xml:space="preserve">
     <value>狙い目カード</value>
@@ -4933,7 +4933,7 @@
     <value>Arenasmithを有効化</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowHeroPickingStats" xml:space="preserve">
-    <value>ヒーロー選択統計を表示</value>
+    <value>Show Hero picking stats</value>
   </data>
   <data name="Options_Overlay_Arena_CheckBox_ShowScore" xml:space="preserve">
     <value>Arenasmithスコアを表示</value>
@@ -4954,7 +4954,7 @@
     <value>Arenasmith</value>
   </data>
   <data name="ArenaPreDraft_Panel_Loading" xml:space="preserve">
-    <value>読み込み中…</value>
+    <value>Loading…</value>
   </data>
   <data name="ArenaPreDraft_Panel_Preparing" xml:space="preserve">
     <value>ドラフト評価を準備中…</value>
@@ -4972,7 +4972,7 @@
     <value>Arenasmithは最新の状態です。カードとヒーローを評価できます。</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialsResetsIn" xml:space="preserve">
-    <value>リセットまであと</value>
+    <value>Resets In</value>
   </data>
   <data name="ArenaPreDraft_Panel_TrialActive" xml:space="preserve">
     <value>このドラフトではArenasmith無料体験が有効です。</value>
@@ -4984,10 +4984,10 @@
     <value>今すぐプレミアム加入して、今回と今後のドラフトでArenasmithを使いましょう。</value>
   </data>
   <data name="ArenaPreDraft_Panel_AlreadySubscribed" xml:space="preserve">
-    <value>すでに加入済み？</value>
+    <value>Subscribed?</value>
   </data>
   <data name="ArenaPreDraft_Panel_SignInToSubscription" xml:space="preserve">
-    <value>サインイン</value>
+    <value>Sign In</value>
   </data>
   <data name="ArenaPreDraft_Panel_RefreshSubscription" xml:space="preserve">
     <value>更新</value>
@@ -5134,7 +5134,7 @@
     <value>● Or pin entire minion types below</value>
   </data>
   <data name="BattlegroundsTavernPinning_Clear" xml:space="preserve">
-    <value>消去</value>
+    <value>クリア</value>
   </data>
   <data name="BattlegroundsTavernPinning_NoPins" xml:space="preserve">
     <value>No cards pinned</value>
@@ -5221,7 +5221,7 @@
     <value>詳細を見る</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover" xml:space="preserve">
-    <value>ホバーして詳細を表示</value>
+    <value>Hover for more details</value>
   </data>
   <data name="ConstructedPreLobby_InteractivePanel_Anonymous_Hover_Details" xml:space="preserve">
     <value>HSReplay.netにサインインして、オーバーレイで直接マリガンガイドを利用しましょう！</value>
