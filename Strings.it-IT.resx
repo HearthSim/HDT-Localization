@@ -2944,22 +2944,22 @@
     <value>Mazzi / I miei giochi / Overlay</value>
   </data>
   <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>giorno fa</value>
+    <value>{0} giorno fa</value>
   </data>
   <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>giorni fa</value>
+    <value>{0} giorni fa</value>
   </data>
   <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>ora fa</value>
+    <value>{0} ora fa</value>
   </data>
   <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>ore fa</value>
+    <value>{0} ore fa</value>
   </data>
   <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>minuto fa</value>
+    <value>{0} minuto fa</value>
   </data>
   <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>minuti fa</value>
+    <value>{0} minuti fa</value>
   </data>
   <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
     <value>Statistiche globali - HSReplay.net</value>
