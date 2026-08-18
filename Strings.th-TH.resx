@@ -355,7 +355,7 @@
     <value>Errors</value>
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
-    <value>Update Notes</value>
+    <value>บันทึกการอัพเดต</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
     <value>Deck Importing</value>
@@ -367,19 +367,19 @@
     <value>Stats</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>A new update is available</value>
+    <value>มีการอัพเดตใหม่พร้อมใช้งาน</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>Click here to update now</value>
+    <value>คลิกที่นี่เพื่ออัพเดตทันที</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>กำลังดาวน์โหลดการอัพเดต…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>กำลังติดตั้งการอัพเดต…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>อัปเดตเป็นเวอร์ชันล่าสุดล้มเหลว</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
     <value>Download on HSReplay.net</value>
@@ -544,7 +544,7 @@
     <value>Appearance</value>
   </data>
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
-    <value>Settings</value>
+    <value>การตั้งค่า</value>
   </data>
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Checkbox name/description...</value>
@@ -1033,7 +1033,7 @@
     <value>Log in with your Battle.net credentials on HSReplay.net to claim your existing replays. This will open your web browser.</value>
   </data>
   <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Submit anonymous data</value>
+    <value>ส่งข้อมูลแบบไม่ระบุตัวตน</value>
   </data>
   <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
     <value>This only tracks very basic information to help us improve HDT, like app and match starts.</value>
@@ -1045,13 +1045,13 @@
     <value>Save data in AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>เริ่มพร้อม Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
-    <value>Start minimized</value>
+    <value>เริ่มต้นแบบย่อหน้าต่าง</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_MinimizeToTray" xml:space="preserve">
-    <value>Minimize to tray</value>
+    <value>ย่อลงถาดระบบ</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Splashscreen" xml:space="preserve">
     <value>Show the loading splash screen</value>
@@ -1063,10 +1063,10 @@
     <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>ตรวจสอบการอัพเดต</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_BetaUpdates" xml:space="preserve">
-    <value>Check for BETA updates</value>
+    <value>ตรวจสอบการอัพเดต BETA</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_AdvancedWindowSearch" xml:space="preserve">
     <value>Advanced window search</value>
@@ -2248,7 +2248,7 @@
     <value>Version:</value>
   </data>
   <data name="Help_Button_Updatenotes" xml:space="preserve">
-    <value>Show update notes</value>
+    <value>แสดงบันทึกการอัพเดต</value>
   </data>
   <data name="DeckPicker_Label_ActiveDeck" xml:space="preserve">
     <value>Active deck:</value>
@@ -2452,7 +2452,7 @@
     <value>Send Report</value>
   </data>
   <data name="CrashDialog_Button_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>ปิด</value>
   </data>
   <data name="CrashDialog_TextBox_Info_Watermark" xml:space="preserve">
     <value>Additional information (optional)</value>
@@ -2569,7 +2569,7 @@
     <value>Cancel</value>
   </data>
   <data name="MessageDialogs_LogConfig_Title" xml:space="preserve">
-    <value>There was a problem updating the log.config</value>
+    <value>เกิดปัญหาในการอัพเดต log.config</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description1" xml:space="preserve">
     <value>New log.config settings are required for HDT to function correctly.</value>
@@ -2578,7 +2578,7 @@
     <value>Show instructions</value>
   </data>
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
-    <value>close</value>
+    <value>ปิด</value>
   </data>
   <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
     <value>Try starting HDT as administrator.</value>
@@ -2593,7 +2593,7 @@
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
-    <value>Continue...</value>
+    <value>ดำเนินการต่อ...</value>
   </data>
   <data name="SortFilter_Label_Constructed" xml:space="preserve">
     <value>Deck sorting: All/Constructed</value>
@@ -3238,7 +3238,7 @@
     <value>Find out more</value>
   </data>
   <data name="Options_HSReplay_Account_AccountSettings" xml:space="preserve">
-    <value>Account Settings</value>
+    <value>การตั้งค่าบัญชี</value>
   </data>
   <data name="Options_HSReplay_Account_Logout_Confirmation" xml:space="preserve">
     <value>Are you sure you want to logout?</value>
@@ -3268,7 +3268,7 @@
     <value>Collection update queued...</value>
   </data>
   <data name="Options_HSReplay_Collection_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>อัพเดตล่าสุด</value>
   </data>
   <data name="Options_HSReplay_Collection_OneMoreStep" xml:space="preserve">
     <value>One more step to upload your collection:</value>
@@ -3361,7 +3361,7 @@
     <value>Deck code</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_CloseToTray" xml:space="preserve">
-    <value>Close to tray</value>
+    <value>ปิดลงถาดระบบ</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
     <value>None</value>
@@ -3631,7 +3631,7 @@
     <value>Show results during shopping phase</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>ต้องอัพเดต: v{0}</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
@@ -4780,7 +4780,7 @@
     <value>Created by</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
-    <value>Last updated</value>
+    <value>อัพเดตล่าสุด</value>
   </data>
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>Hero guides are available once the game has started.</value>
