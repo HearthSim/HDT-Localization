@@ -564,6 +564,9 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>HSがフォアグラウンドの場合のみ</value>
   </data>
+  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
+    <value>Anomaly</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>カードのヒント</value>
   </data>
@@ -746,6 +749,9 @@
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>キャプチャ用オーバーレイ ウィンドウを表示</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
+    <value>Show capturable Anomaly window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>クロマキーと互換性のない不透明度のトランジションを無効にする（推奨）</value>
@@ -2312,6 +2318,9 @@
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>タイマー</value>
+  </data>
+  <data name="AnomalyWindow_Title" xml:space="preserve">
+    <value>Anomaly</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>統計情報</value>
