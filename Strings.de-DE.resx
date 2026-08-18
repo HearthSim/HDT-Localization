@@ -466,7 +466,7 @@
     <value>Nur wenn HS im Vordergrund</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>Anomaly</value>
+    <value>Anomalie</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Kartentooltips</value>
@@ -2077,10 +2077,10 @@
     <value>Installiere...</value>
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Timer</value>
+    <value>Stoppuhr</value>
   </data>
   <data name="AnomalyWindow_Title" xml:space="preserve">
-    <value>Anomaly</value>
+    <value>Anomalie</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Statistiken</value>
@@ -4006,7 +4006,7 @@
     <value>Wird geladen…</value>
   </data>
   <data name="BattlegroundsOverlayMessage_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Etwas ist schiefgegangen :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund läuft</value>
@@ -4309,7 +4309,7 @@
     <value>Mulligan Stats vs. {0}, On Coin</value>
   </data>
   <data name="ConstructedMulliganGuide_Message_Error" xml:space="preserve">
-    <value>Something went wrong :(</value>
+    <value>Etwas ist schiefgegangen :(</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionsAvailable" xml:space="preserve">
     <value>Verfügbare Dienertypen anzeigen</value>
@@ -4513,10 +4513,10 @@
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
-    <value>Tier7 Version</value>
+    <value>Tier7-Version</value>
   </data>
   <data name="Battlegrounds_CompGuides_Free_Mode" xml:space="preserve">
-    <value>Free Version</value>
+    <value>Kostenlose Version</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
     <value>Show Example Boards</value>
@@ -4525,13 +4525,13 @@
     <value>Protoss Minions Cost Reduction</value>
   </data>
   <data name="Battlegrounds_Guides_WaitingHeroPick" xml:space="preserve">
-    <value>Waiting for Hero Pick</value>
+    <value>Warte auf Heldenauswahl</value>
   </data>
   <data name="Battlegrounds_Guides_NoGuideAvailable" xml:space="preserve">
     <value>No Guide Available</value>
   </data>
   <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
-    <value>Favorable Minions</value>
+    <value>Passende Diener</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
     <value>Diener und Ratgeber anzeigen</value>
@@ -4609,10 +4609,10 @@
     <value>Erfüllen</value>
   </data>
   <data name="Options_Overlay_Player_CheckBox_Max_Resources_Widget" xml:space="preserve">
-    <value>Show maximum Health, Mana, and Hand Size</value>
+    <value>Maximale Leben, Mana und Handgröße anzeigen</value>
   </data>
   <data name="Counter_CardsPlayedThisTurn" xml:space="preserve">
-    <value>Cards Played This Turn</value>
+    <value>In diesem Zug gespielte Karten</value>
   </data>
   <data name="ArenaPick_SingleCard_HasRelatedCards" xml:space="preserve">
     <value>Hat verwandte Karten</value>
@@ -4837,10 +4837,10 @@
     <value>Ever accidentally rolled past that minion you were looking for?</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuideTavern" xml:space="preserve">
-    <value>In the Tavern</value>
+    <value>In der Taverne</value>
   </data>
   <data name="BattlegroundsTavernPinning_GotIt" xml:space="preserve">
-    <value>Got it</value>
+    <value>Verstanden</value>
   </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_ImageManual" xml:space="preserve">
     <value>Manual Pin</value>
@@ -4897,7 +4897,7 @@
     <value>Unable to load comp guides. The guides could not be loaded due to a network issue. Please try again later.</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_Retry" xml:space="preserve">
-    <value>Retry</value>
+    <value>Erneut versuchen</value>
   </data>
   <data name="Battlegrounds_CompGuides_Error_RetryFailed" xml:space="preserve">
     <value>Still unable load comp guides. Some connections may be slow or blocked depending on your network or ISP.</value>
@@ -4933,7 +4933,7 @@
     <value>Mulligan-Gewinnrate</value>
   </data>
   <data name="Counter_Herald" xml:space="preserve">
-    <value>Herald</value>
+    <value>Ankündigen</value>
   </data>
   <data name="Counter_DeathwingDiscount" xml:space="preserve">
     <value>Deathwing Discount</value>
@@ -5116,25 +5116,25 @@
     <value>Keep Rate going second: {0}%</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
-    <value>Place</value>
+    <value>Platzierung</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
-    <value>Enable The OutFinder</value>
+    <value>Den OutFinder aktivieren</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInDeck" xml:space="preserve">
-    <value>Show in deck</value>
+    <value>In Deck anzeigen</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_ShowInHand" xml:space="preserve">
-    <value>Show in hand</value>
+    <value>In der Hand anzeigen</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UsePercentages" xml:space="preserve">
     <value>Use percentages</value>
   </data>
   <data name="TheOutfinder_Label_Title" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>Der OutFinder</value>
   </data>
   <data name="TheOutfinder_Label_FreeVersion" xml:space="preserve">
-    <value>Free Version</value>
+    <value>Kostenlose Version</value>
   </data>
   <data name="TheOutfinder_Label_Filters" xml:space="preserve">
     <value>Filter</value>
@@ -5149,7 +5149,7 @@
     <value>Leben</value>
   </data>
   <data name="TheOutfinder_Label_Median" xml:space="preserve">
-    <value>median</value>
+    <value>Median</value>
   </data>
   <data name="TheOutfinder_Label_PoolOfCards" xml:space="preserve">
     <value>Pool of {0} cards</value>
@@ -5158,19 +5158,19 @@
     <value>{0} Pool: {1} cards</value>
   </data>
   <data name="TheOutfinder_Label_DefaultHeader" xml:space="preserve">
-    <value>Related Cards</value>
+    <value>Verwandte Karten</value>
   </data>
   <data name="TheOutfinder_Label_RightClickHint" xml:space="preserve">
     <value>Right-click to see all options</value>
   </data>
   <data name="TheOutfinder_Keyword_starship_piece" xml:space="preserve">
-    <value>Starship Piece</value>
+    <value>Raumschiffteil</value>
   </data>
   <data name="TheOutfinder_Keyword_silence" xml:space="preserve">
-    <value>Silence</value>
+    <value>Schweigen</value>
   </data>
   <data name="TheOutfinder_Keyword_excavate" xml:space="preserve">
-    <value>Excavate</value>
+    <value>Ausgraben</value>
   </data>
   <data name="TheOutfinder_Keyword_reborn" xml:space="preserve">
     <value>Wiederkehr</value>
@@ -5179,46 +5179,46 @@
     <value>Buff Adjacent</value>
   </data>
   <data name="TheOutfinder_Keyword_freeze" xml:space="preserve">
-    <value>Freeze</value>
+    <value>Einfrieren</value>
   </data>
   <data name="TheOutfinder_Keyword_magnetic" xml:space="preserve">
     <value>Magnetisch</value>
   </data>
   <data name="TheOutfinder_Keyword_outcast" xml:space="preserve">
-    <value>Outcast</value>
+    <value>Außenseiter</value>
   </data>
   <data name="TheOutfinder_Keyword_lifesteal" xml:space="preserve">
-    <value>Lifesteal</value>
+    <value>Lebensentzug</value>
   </data>
   <data name="TheOutfinder_Keyword_poisonous" xml:space="preserve">
     <value>Giftig</value>
   </data>
   <data name="TheOutfinder_Keyword_rush" xml:space="preserve">
-    <value>Rush</value>
+    <value>Eifer</value>
   </data>
   <data name="TheOutfinder_Keyword_discover" xml:space="preserve">
-    <value>Discover</value>
+    <value>Entdecken</value>
   </data>
   <data name="TheOutfinder_Keyword_taunt" xml:space="preserve">
     <value>Spott</value>
   </data>
   <data name="TheOutfinder_Keyword_spellpower" xml:space="preserve">
-    <value>Spell Damage +</value>
+    <value>Zauberschaden +</value>
   </data>
   <data name="TheOutfinder_Keyword_divine_shield" xml:space="preserve">
     <value>Gottesschild</value>
   </data>
   <data name="TheOutfinder_Keyword_charge" xml:space="preserve">
-    <value>Charge</value>
+    <value>Ansturm</value>
   </data>
   <data name="TheOutfinder_Keyword_stealth" xml:space="preserve">
-    <value>Stealth</value>
+    <value>Verstohlenheit</value>
   </data>
   <data name="TheOutfinder_Keyword_overload" xml:space="preserve">
     <value>Überladung</value>
   </data>
   <data name="TheOutfinder_Keyword_secret" xml:space="preserve">
-    <value>Secret</value>
+    <value>Geheimnis</value>
   </data>
   <data name="TheOutfinder_Keyword_card_draw" xml:space="preserve">
     <value>Card Draw</value>
@@ -5227,13 +5227,13 @@
     <value>Face Damage</value>
   </data>
   <data name="TheOutfinder_Keyword_heal" xml:space="preserve">
-    <value>Heal</value>
+    <value>Heilen</value>
   </data>
   <data name="TheOutfinder_Keyword_invoke_galakrond" xml:space="preserve">
-    <value>Invoke</value>
+    <value>Ermächtigen</value>
   </data>
   <data name="TheOutfinder_Keyword_herald" xml:space="preserve">
-    <value>Herald</value>
+    <value>Ankündigen</value>
   </data>
   <data name="TheOutfinder_Keyword_imbue" xml:space="preserve">
     <value>Erfüllen</value>
@@ -5251,7 +5251,7 @@
     <value>Armor Gain</value>
   </data>
   <data name="Counter_PlayedMinionTypes" xml:space="preserve">
-    <value>Minion Types Played</value>
+    <value>Gespielte Dienertypen</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
     <value>Show pools as a card list (uses less data)</value>
@@ -5260,16 +5260,16 @@
     <value>Mulligan-Guide-Overlay</value>
   </data>
   <data name="ConstructedTrialsExhausted_Title" xml:space="preserve">
-    <value>That was your last free game</value>
+    <value>Das war deine letzte kostenlose Partie</value>
   </data>
   <data name="ConstructedTrialsExhausted_Description" xml:space="preserve">
     <value>You have used all of your free Premium games, so it will not be available in your next game. Subscribe to HSReplay.net Premium to keep using it in every game.</value>
   </data>
   <data name="Options_Overlay_TheOutFinder_Header" xml:space="preserve">
-    <value>The OutFinder</value>
+    <value>Der OutFinder</value>
   </data>
   <data name="Options_Overlay_Counters_Header" xml:space="preserve">
-    <value>Counters</value>
+    <value>Zähler</value>
   </data>
   <data name="OptionsCounters_Description" xml:space="preserve">
     <value>Choose which counters are shown. "Auto" uses the built-in rules, which show a counter only when it is relevant.</value>
@@ -5290,25 +5290,25 @@
     <value>Automatisch</value>
   </data>
   <data name="OptionsCounters_Mode_Disabled" xml:space="preserve">
-    <value>Never show</value>
+    <value>Nie anzeigen</value>
   </data>
   <data name="OptionsCounters_Mode_Enabled" xml:space="preserve">
-    <value>Always show</value>
+    <value>Immer anzeigen</value>
   </data>
   <data name="OptionsCounters_ResetAll" xml:space="preserve">
-    <value>Reset all to Auto</value>
+    <value>Alle auf Auto zurücksetzen</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Zähler filtern...</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
-    <value>No counters match your filter.</value>
+    <value>Keine Zähler entsprechen deinem Filter.</value>
   </data>
   <data name="OptionsCounters_OpponentUnsupportedTooltip" xml:space="preserve">
     <value>Opponent counters are not shown in Battlegrounds.</value>
   </data>
   <data name="Counter_PlayedSpellsForNagas" xml:space="preserve">
-    <value>Played Spells (Nagas)</value>
+    <value>Gespielte Zauber (Nagas)</value>
   </data>
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
@@ -5317,12 +5317,12 @@
     <value>Show Maximum Gold</value>
   </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
-    <value>Summoned Beasts</value>
+    <value>Beschworene Bestien</value>
   </data>
   <data name="Counter_AmountHealedThisGame" xml:space="preserve">
-    <value>Amount Healed</value>
+    <value>Geheilte Menge</value>
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
-    <value>Corpses</value>
+    <value>Leichen</value>
   </data>
 </root>
