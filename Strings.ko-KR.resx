@@ -564,6 +564,9 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>하스스톤 창이 활성화된 경우에만</value>
   </data>
+  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
+    <value>Anomaly</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>카드 툴팁</value>
   </data>
@@ -746,6 +749,9 @@
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>캡처 가능한 별도의 오버레이 창 보기</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
+    <value>Show capturable Anomaly window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>크로마 키와 호환되지 않는 투명도 전환 방지 (권장)</value>
@@ -2312,6 +2318,9 @@
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>타이머</value>
+  </data>
+  <data name="AnomalyWindow_Title" xml:space="preserve">
+    <value>Anomaly</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>통계</value>
