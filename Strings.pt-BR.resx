@@ -4782,6 +4782,9 @@
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Última atualização há</value>
   </data>
+  <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
+    <value>Hero guides are available once the game has started.</value>
+  </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>Comp Guia</value>
   </data>
@@ -4792,7 +4795,7 @@
     <value>Assine o Tier7 para ver os melhores tabuleiros com os cards principais nesta tela!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
-    <value>Assine o Tier7 para filtrar a lista de guias por lacaios e ver os níveis de cada comp diretamente nessa tela!</value>
+    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
     <value>Versão Tier7</value>
@@ -4820,6 +4823,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>Mostrar Guias de Herói e Composição</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
+    <value>Show Minions and Guides Browser between games</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Tipo de Card</value>
