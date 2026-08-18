@@ -564,6 +564,9 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Uniquement si HS est à l'avant-plan</value>
   </data>
+  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
+    <value>Anomaly</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Infobulle des cartes</value>
   </data>
@@ -746,6 +749,9 @@
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>Afficher une fenêtre d'overlay capturable séparée</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
+    <value>Show capturable Anomaly window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Empêcher les transitions d'opacité incompatibles avec l'incrustation par chroma key (recommandé)</value>
@@ -2312,6 +2318,9 @@
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>Minuterie</value>
+  </data>
+  <data name="AnomalyWindow_Title" xml:space="preserve">
+    <value>Anomaly</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Statistiques</value>
