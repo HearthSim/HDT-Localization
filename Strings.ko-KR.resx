@@ -3753,6 +3753,9 @@
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>오버레이 기본값으로 재설정</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Desc" xml:space="preserve">
+    <value>Position of Battlegrounds Session will be reset to default. Are you sure?</value>
+  </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetSession_Title" xml:space="preserve">
     <value>세션 초기화하기</value>
   </data>
