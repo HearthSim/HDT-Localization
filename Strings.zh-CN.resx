@@ -564,6 +564,9 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>只在炉石传说窗口活跃时</value>
   </data>
+  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
+    <value>Anomaly</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>显示卡牌信息</value>
   </data>
@@ -746,6 +749,9 @@
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>显示可捕捉的独立内嵌浮窗窗口</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
+    <value>Show capturable Anomaly window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止透明度过渡，避免与色度键不兼容（推荐）</value>
@@ -2312,6 +2318,9 @@
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>计时器</value>
+  </data>
+  <data name="AnomalyWindow_Title" xml:space="preserve">
+    <value>Anomaly</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>数据</value>
@@ -4773,6 +4782,12 @@
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>最后更新</value>
   </data>
+  <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
+    <value>Hero guides are available once the game has started.</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
+    <value>META SNAPSHOT</value>
+  </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>流派指南</value>
   </data>
@@ -4783,7 +4798,7 @@
     <value>订阅Tier7，即可在此屏幕上看到包含核心卡的顶级棋盘阵容！</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
-    <value>订阅Tier7，即可按随从类型过滤流派指南列表，并在此屏幕上查看每个流派的梯队水平！</value>
+    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
     <value>Tier7 版本</value>
@@ -4811,6 +4826,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>显示英雄和流派指南</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
+    <value>Show Minions and Guides Browser between games</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>卡牌类型</value>

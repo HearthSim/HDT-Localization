@@ -564,6 +564,9 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Когда HS на переднем плане</value>
   </data>
+  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
+    <value>Anomaly</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Описание карт</value>
   </data>
@@ -746,6 +749,9 @@
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>Показать отдельное окно интерфейса для захвата</value>
+  </data>
+  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
+    <value>Show capturable Anomaly window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Отключить переходы прозрачности, несовместимые с хромакеем (рекомендуется)</value>
@@ -2312,6 +2318,9 @@
   </data>
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>Таймер</value>
+  </data>
+  <data name="AnomalyWindow_Title" xml:space="preserve">
+    <value>Anomaly</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Статистика</value>
@@ -4773,6 +4782,12 @@
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Последняя синхронизация</value>
   </data>
+  <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
+    <value>Hero guides are available once the game has started.</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
+    <value>META SNAPSHOT</value>
+  </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>Comp Guides</value>
   </data>
@@ -4783,7 +4798,7 @@
     <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right on this screen!</value>
+    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
     <value>Tier7 Version</value>
@@ -4811,6 +4826,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowGuides" xml:space="preserve">
     <value>Show Hero and Comp Guides</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
+    <value>Show Minions and Guides Browser between games</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
