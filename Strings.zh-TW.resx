@@ -379,7 +379,7 @@
     <value>正在安裝更新…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>更新至最新版本失敗</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
     <value>Download on HSReplay.net</value>
@@ -4603,7 +4603,7 @@
     <value>Available Minions</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>手下類型</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
     <value>Tavern Tier {0}</value>
