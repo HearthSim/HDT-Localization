@@ -373,13 +373,13 @@
     <value>Klinknij tutaj aby zaktualizować</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Downloading" xml:space="preserve">
-    <value>Downloading Update…</value>
+    <value>Pobieranie aktualizacji…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_Installing" xml:space="preserve">
-    <value>Installing Update…</value>
+    <value>Instalowanie aktualizacji…</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed" xml:space="preserve">
-    <value>Updating to latest version failed</value>
+    <value>Aktualizacja do najnowszej wersji nie powiodła się</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_UpdateFailed_Download" xml:space="preserve">
     <value>Download on HSReplay.net</value>
@@ -1045,7 +1045,7 @@
     <value>Zapisz dane aplikacji w AppData</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Uruchamiaj przy starcie systemu Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Uruchom od razu jako zminimalizowany program</value>
