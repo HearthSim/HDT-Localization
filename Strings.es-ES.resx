@@ -805,7 +805,7 @@
     <value>Taberna</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Amistoso</value>
+    <value>Friendly Challenge</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Aventura / práctica</value>
@@ -3385,16 +3385,16 @@
     <value>Mostrar combate previo (1 jugador por ver)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Letal</value>
+    <value>LETHAL</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Victoria</value>
+    <value>WIN</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Empate</value>
+    <value>TIE</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Derrota</value>
+    <value>LOSS</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>El amigo de Bob</value>
