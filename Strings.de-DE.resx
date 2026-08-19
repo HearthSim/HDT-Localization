@@ -511,7 +511,7 @@
     <value>Decks nach einem Spiel nicht zurücksetzen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_FlavorText" xml:space="preserve">
-    <value>Zeige Flavortext bei Mausberührung (Board/Hand)</value>
+    <value>Flavortext bei Mausberührung anzeigen (Spielfeld/Hand)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
     <value>Show the order cards entered the board</value>
@@ -685,7 +685,7 @@
     <value>Arenadecks nach Abschluss archivieren</value>
   </data>
   <data name="Options_Tracker_General_ComboBox_DeckDateType" xml:space="preserve">
-    <value>Datum Auf Decks Anzeigen:</value>
+    <value>Datum auf Decks anzeigen:</value>
   </data>
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format:</value>
@@ -805,7 +805,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Spiel gegen Freunde</value>
+    <value>Friendly Challenge</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Abenteuer/Üben</value>
@@ -2344,10 +2344,10 @@
     <value>Wenn das nicht hilft, klicke auf "Zeige Anleitung", um dir anzusehen wie du manuell updaten kannst.</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
-    <value>Unable to connect to Hearthstone</value>
+    <value>Verbindung zu Hearthstone nicht möglich</value>
   </data>
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
-    <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
+    <value>Bizze starte Battle.net und Hearthstone ohne Administrator-Berechtigungen neu.</value>
   </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Weiter...</value>
@@ -3253,7 +3253,7 @@
     <value>Zugzähler anzeigen</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
-    <value>Show hero pick stats notification in Battlegrounds</value>
+    <value>Benachrichtigung mit Heldenstatistiken in Schlachtfeld anzeigen</value>
   </data>
   <data name="Overlay_Battlegrounds_Turn_Counter" xml:space="preserve">
     <value>{0}. Zug</value>
@@ -3373,28 +3373,28 @@
     <value>Vorherigen Kampf anzeigen</value>
   </data>
   <data name="BobsBuddyStatusMessage_CurrentCombatPartial" xml:space="preserve">
-    <value>Current Combat (1 Player Not Seen)</value>
+    <value>Aktueller Kampf (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowCurrentCombatPartial" xml:space="preserve">
-    <value>Show Current Combat (1 Player Not Seen)</value>
+    <value>Aktuellen Kampf anzeigen (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BobsBuddyStatusMessage_PreviousCombatPartial" xml:space="preserve">
-    <value>Previous Combat (1 Player Not Seen)</value>
+    <value>Vorheriger Kampf (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowPreviousCombatPartial" xml:space="preserve">
-    <value>Show Previous Combat (1 Player Not Seen)</value>
+    <value>Vorherigen Kampf anzeigen (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Tödlich</value>
+    <value>LETHAL</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Sieg</value>
+    <value>WIN</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Unentschieden</value>
+    <value>TIE</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Niederlage</value>
+    <value>LOSS</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3436,7 +3436,7 @@
     <value>Durchschnittlichen Schaden immer anzeigen</value>
   </data>
   <data name="BobsBuddyPanel_Label_AVG" xml:space="preserve">
-    <value>AVG DMG</value>
+    <value>Ø-SCHADEN</value>
   </data>
   <data name="AverageDamage_Info_Title" xml:space="preserve">
     <value>Durchschnittlicher Schaden</value>
@@ -3478,7 +3478,7 @@
     <value>Dunkelmond-Wahnsinn</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Experience_Counter" xml:space="preserve">
-    <value>Show experience progress</value>
+    <value>Erfahrungsfortschritt anzeigen</value>
   </data>
   <data name="Overlay_Battlegrounds_Dead_For_Turn" xml:space="preserve">
     <value>Zug</value>
@@ -3490,7 +3490,7 @@
     <value>Hochauflösende Kartengrafiken verwenden</value>
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
-    <value>Card Image Scaling</value>
+    <value>Skalierung von Kartengrafiken</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
     <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
@@ -3667,7 +3667,7 @@
     <value>Composition</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
-    <value>First Place</value>
+    <value>Erster Platz</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
     <value>⌀-Plazierung</value>
@@ -3676,7 +3676,7 @@
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Letzten Spiele</value>
+    <value>Letzte Partien</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Enable session recap overlay</value>
@@ -4012,7 +4012,7 @@
     <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund läuft</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMenuOverlayInBackground" xml:space="preserve">
-    <value>Show menu overlay while Hearthstone is in the background</value>
+    <value>Menü-Overlay anzeigen, während Hearthstone im Hintergrund ist</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_ShowInBackground" xml:space="preserve">
     <value>Gameplay-Overlay anzeigen, während Hearthstone im Hintergrund läuft</value>
@@ -4234,10 +4234,10 @@
     <value>Abschlusskampf</value>
   </data>
   <data name="BobsBuddyStatusMessage_ShowFinalCombatPartial" xml:space="preserve">
-    <value>Show Final Combat (1 Player Not Seen)</value>
+    <value>Abschlusskampf anzeigen (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BobsBuddyStatusMessage_FinalCombatPartial" xml:space="preserve">
-    <value>Final Combat (1 Player Not Seen)</value>
+    <value>Abschlusskampf anzeigen (1 Spieler nicht gesehen)</value>
   </data>
   <data name="BattlegroundsPreLobby_TrialsRemaining_Tooltip" xml:space="preserve">
     <value>Probiere das Tier7-Overlay für eine begrenzte Anzahl an Partien kostenlos aus, und du wirst von Zeit zu Zeit mehr erhalten.</value>
@@ -4429,7 +4429,7 @@
     <value>Show card ages</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_CardMarks" xml:space="preserve">
-    <value>Show card marks</value>
+    <value>Kartenmarkierungen anzeigen</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_PossibleSecrets" xml:space="preserve">
     <value>Show possible secrets</value>
@@ -4474,7 +4474,7 @@
     <value>All Comp Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>So wird gespielt</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
     <value>Core Cards</value>
@@ -4543,7 +4543,7 @@
     <value>Show Minions and Guides Browser between games</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
-    <value>Card Types</value>
+    <value>Kartentypen</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_Minions" xml:space="preserve">
     <value>Diener</value>
@@ -5314,7 +5314,7 @@
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>Show Maximum Gold</value>
+    <value>Maximales Gold anzeigen</value>
   </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
     <value>Beschworene Bestien</value>
