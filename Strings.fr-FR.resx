@@ -805,7 +805,7 @@
     <value>Bras de fer</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Parties amicales</value>
+    <value>Friendly Challenge</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Aventure / entraînement</value>
@@ -3385,16 +3385,16 @@
     <value>Afficher le combat précédent (1 joueur non vu)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>Létal</value>
+    <value>LETHAL</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>Victoire</value>
+    <value>WIN</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>Égalité</value>
+    <value>TIE</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>Défaite</value>
+    <value>LOSS</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Le pote de Bob</value>
