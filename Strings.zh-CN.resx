@@ -805,7 +805,7 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>好友对战</value>
+    <value>Friendly Challenge</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>冒险模式/练习模式</value>
@@ -3385,16 +3385,16 @@
     <value>显示上一场战斗（1名玩家未出现）</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>出局</value>
+    <value>LETHAL</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>胜利</value>
+    <value>WIN</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>平局</value>
+    <value>TIE</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>失败</value>
+    <value>LOSS</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>鲍勃之友</value>
