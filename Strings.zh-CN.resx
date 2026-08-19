@@ -604,7 +604,7 @@
     <value>显示可捕捉的独立内嵌浮窗窗口</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
-    <value>Show capturable Anomaly window</value>
+    <value>显示可捕捉的畸变窗口</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止透明度过渡，避免与色度键不兼容（推荐）</value>
@@ -4468,7 +4468,7 @@
     <value>下回合额外的铸币</value>
   </data>
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
-    <value>Tavern Spell Bonus</value>
+    <value>酒馆法术加成</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>所有流派指南</value>
@@ -4495,10 +4495,10 @@
     <value>最后更新</value>
   </data>
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
-    <value>Hero guides are available once the game has started.</value>
+    <value>英雄指南在游戏开始后可用。</value>
   </data>
   <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
-    <value>META SNAPSHOT</value>
+    <value>环境快照</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>流派指南</value>
@@ -4510,7 +4510,7 @@
     <value>订阅Tier7，即可在此屏幕上看到包含核心卡的顶级棋盘阵容！</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
+    <value>订阅Tier7，即可按随从类型过滤流派指南列表，并在游戏时查看每个流派的梯队水平！</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Mode" xml:space="preserve">
     <value>Tier7 版本</value>
@@ -4540,7 +4540,7 @@
     <value>显示英雄和流派指南</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
-    <value>Show Minions and Guides Browser between games</value>
+    <value>在对局之间显示随从和指南浏览器</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>卡牌类型</value>
@@ -4909,7 +4909,7 @@
     <value>我们找不到当前酒馆环境的任何流派指南。请在我们获得更多数据后再回来查看。</value>
   </data>
   <data name="Battlegrounds_CompGuides_Loading_Message" xml:space="preserve">
-    <value>Loading comp guides...</value>
+    <value>正在加载流派指南……</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_AcrossTheTimeways" xml:space="preserve">
     <value>穿越时间流：</value>
@@ -5317,10 +5317,10 @@
     <value>显示最大铸币</value>
   </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
-    <value>Summoned Beasts</value>
+    <value>已召唤的野兽数量</value>
   </data>
   <data name="Counter_AmountHealedThisGame" xml:space="preserve">
-    <value>Amount Healed</value>
+    <value>治疗量</value>
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>残骸</value>
