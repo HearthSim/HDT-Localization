@@ -4497,8 +4497,11 @@
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>Hero guides are available once the game has started.</value>
   </data>
-  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
-    <value>META SNAPSHOT</value>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
+    <value>Meta Snapshot</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
+    <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>Comp Guides</value>
