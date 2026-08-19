@@ -3970,7 +3970,7 @@
     <value>Tier7 启示</value>
   </data>
   <data name="BattlegroundsInspiration_Description" xml:space="preserve">
-    <value>第一名棋盘</value>
+    <value>1st Place Lineups</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
     <value>来自等级积分前{0}%的对局</value>
@@ -4497,17 +4497,20 @@
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>英雄指南在游戏开始后可用。</value>
   </data>
-  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
-    <value>环境快照</value>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
+    <value>Meta Snapshot</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
+    <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>流派指南</value>
   </data>
   <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>显示样板棋盘</value>
+    <value>Show Example Lineups</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>订阅Tier7，即可在此屏幕上看到包含核心卡的顶级棋盘阵容！</value>
+    <value>Subscribe to Tier7 to see 1st place lineups with the core cards right on this screen!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>订阅Tier7，即可按随从类型过滤流派指南列表，并在游戏时查看每个流派的梯队水平！</value>
@@ -4519,7 +4522,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>显示示例棋盘</value>
+    <value>Show Example Lineups</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
