@@ -805,7 +805,7 @@
     <value>酒場の喧嘩</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>フレンド対戦</value>
+    <value>Friendly Challenge</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>アドベンチャー/練習</value>
@@ -3385,16 +3385,16 @@
     <value>Show Previous Combat (1 Player Not Seen)</value>
   </data>
   <data name="BobsBuddyPanel_Label_Lethal" xml:space="preserve">
-    <value>リーサル</value>
+    <value>LETHAL</value>
   </data>
   <data name="BobsBuddyPanel_Label_Win" xml:space="preserve">
-    <value>勝利</value>
+    <value>WIN</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>引き分け</value>
+    <value>TIE</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>敗北</value>
+    <value>LOSS</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>ボブの相棒</value>
