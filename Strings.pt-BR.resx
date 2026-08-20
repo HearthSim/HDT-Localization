@@ -3970,7 +3970,7 @@
     <value>Tier 7 Inspiração</value>
   </data>
   <data name="BattlegroundsInspiration_Description" xml:space="preserve">
-    <value>Primeiros Lugares</value>
+    <value>1st Place Lineups</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
     <value>Partidas do Top {0}% MMR</value>
@@ -4497,17 +4497,17 @@
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>Hero guides are available once the game has started.</value>
   </data>
-  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
-    <value>META SNAPSHOT</value>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
+    <value>Meta Snapshot</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
+    <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>Comp Guia</value>
   </data>
-  <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Mostrar Exemplos de Tabuleiros</value>
-  </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Assine o Tier7 para ver os melhores tabuleiros com os cards principais nesta tela!</value>
+    <value>Subscribe to Tier7 to see 1st place lineups with the core cards right on this screen!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
@@ -4519,7 +4519,7 @@
     <value>Versão Gratuita</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Mostrar Exemplos de Tabuleiros</value>
+    <value>Show Example Lineups</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Redução de Custo dos Protoss</value>

@@ -805,7 +805,7 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly Challenge</value>
+    <value>好友挑战</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>冒险模式/练习模式</value>
@@ -3748,7 +3748,7 @@
     <value>重置</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>最终阵容</value>
+    <value>最终战队</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>重置内嵌窗口位置</value>
@@ -3970,7 +3970,7 @@
     <value>Tier7 启示</value>
   </data>
   <data name="BattlegroundsInspiration_Description" xml:space="preserve">
-    <value>第一名棋盘</value>
+    <value>第一名战队</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
     <value>来自等级积分前{0}%的对局</value>
@@ -3982,7 +3982,7 @@
     <value>显示任务选择统计</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowCompStats" xml:space="preserve">
-    <value>显示阵容统计（在对局回顾中）</value>
+    <value>显示流派统计（在对局回顾中）</value>
   </data>
   <data name="Enum_HeroClass_Deathknight" xml:space="preserve">
     <value>死亡骑士</value>
@@ -4497,17 +4497,17 @@
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>英雄指南在游戏开始后可用。</value>
   </data>
-  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
     <value>环境快照</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
+    <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>流派指南</value>
   </data>
-  <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>显示样板棋盘</value>
-  </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>订阅Tier7，即可在此屏幕上看到包含核心卡的顶级棋盘阵容！</value>
+    <value>订阅Tier7，即可在此屏幕上看到包含核心卡的第一名战队！</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>订阅Tier7，即可按随从类型过滤流派指南列表，并在游戏时查看每个流派的梯队水平！</value>
@@ -4519,7 +4519,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>显示示例棋盘</value>
+    <value>显示示例战队</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
@@ -4873,7 +4873,7 @@
     <value>流派关键卡牌</value>
   </data>
   <data name="BattlegroundsTavernPinning_KeyPieces_Explain" xml:space="preserve">
-    <value>自动标记当前对局可用流派的关键随从。这些卡牌基于我们阵容指南中的“启动核心”和“成型核心”部分。</value>
+    <value>自动标记当前对局可用流派的关键随从。这些卡牌基于我们流派指南中的“启动核心”和“成型核心”部分。</value>
   </data>
   <data name="BattlegroundsTavernPinning_PopupMessage" xml:space="preserve">
     <value>在新对局开始时启用关键流派随从标记？</value>

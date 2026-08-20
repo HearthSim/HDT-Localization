@@ -514,7 +514,7 @@
     <value>Flavortext bei Mausberührung anzeigen (Spielfeld/Hand)</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder" xml:space="preserve">
-    <value>Show the order cards entered the board</value>
+    <value>Reihenfolge anzeigen, in der Karten das Spielbrett betraten</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus" xml:space="preserve">
     <value>Batteriestatus anzeigen</value>
@@ -805,7 +805,7 @@
     <value>Kartenchaos</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly Challenge</value>
+    <value>Spiel gegen Freunde</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>Abenteuer/Üben</value>
@@ -2503,7 +2503,7 @@
     <value>Erscheint nur wenn der Cursor über einer Karte kurze Zeit nicht bewegt wird.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BoardEntryOrder_Tooltip" xml:space="preserve">
-    <value>Draws a small number under each minion and weapon. Traditional Hearthstone only.</value>
+    <value>Zeichnet eine kleine Zahl unter jeden Diener und jeder Waffe. Nur im traditionellen Hearthstone.</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_BatteryStatus_Tooltip" xml:space="preserve">
     <value>Funktioniert nur bei Mobilgeräten (Laptop, Tablet, ...).</value>
@@ -3391,10 +3391,10 @@
     <value>SIEG</value>
   </data>
   <data name="BobsBuddyPanel_Label_Tie" xml:space="preserve">
-    <value>UNENTSCH.</value>
+    <value>REMIS</value>
   </data>
   <data name="BobsBuddyPanel_Label_Loss" xml:space="preserve">
-    <value>NIEDERLAGE</value>
+    <value>NIEDERL.</value>
   </data>
   <data name="BobsBuddyPanel_Info_Title" xml:space="preserve">
     <value>Bob's Buddy</value>
@@ -3748,7 +3748,7 @@
     <value>Zurücksetzen</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>Finales Spielbrett</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>Reset overlay to default</value>
@@ -3970,7 +3970,7 @@
     <value>Tier7 Inspiration</value>
   </data>
   <data name="BattlegroundsInspiration_Description" xml:space="preserve">
-    <value>1st Place Boards</value>
+    <value>1.-platziere Aufstellungen</value>
   </data>
   <data name="BattlegroundsInspiration_Description_MMR" xml:space="preserve">
     <value>Games from Top {0}% MMR</value>
@@ -4477,7 +4477,7 @@
     <value>So wird gespielt</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>Essenzielle Karten</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
     <value>Addon Cards</value>
@@ -4497,17 +4497,17 @@
   <data name="Battlegrounds_GuidesTabs_Heroes_Disabled_Tooltip" xml:space="preserve">
     <value>Hero guides are available once the game has started.</value>
   </data>
-  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Uppercase" xml:space="preserve">
-    <value>META SNAPSHOT</value>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
+    <value>Meta Snapshot</value>
+  </data>
+  <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
+    <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>Comp Guides</value>
   </data>
-  <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Show Example Boards</value>
-  </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to see top 1 boards with the core cards right on this screen!</value>
+    <value>Abonniere Tier7 um 1.-platzierte Aufstellungen mit den essenziellen Karten hier zu sehen!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
@@ -4519,7 +4519,7 @@
     <value>Kostenlose Version</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Boards</value>
+    <value>Beispiel-Aufstellungen anzeigen</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Protoss Minions Cost Reduction</value>
