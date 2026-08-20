@@ -805,7 +805,7 @@
     <value>乱斗模式</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_Friendly" xml:space="preserve">
-    <value>Friendly Challenge</value>
+    <value>好友挑战</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_AdventurePractice" xml:space="preserve">
     <value>冒险模式/练习模式</value>
@@ -4506,9 +4506,6 @@
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
     <value>流派指南</value>
   </data>
-  <data name="Battlegrounds_CompGuide_InspirationButton" xml:space="preserve">
-    <value>Show Example Lineups</value>
-  </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
     <value>订阅Tier7，即可在此屏幕上看到包含核心卡的顶级棋盘阵容！</value>
   </data>
@@ -4522,7 +4519,7 @@
     <value>免费版本</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>显示样板棋盘</value>
+    <value>显示示例棋盘</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>星灵随从减少费用</value>
