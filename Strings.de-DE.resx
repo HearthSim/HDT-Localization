@@ -256,7 +256,7 @@
     <value>Leer...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Optionen</value>
+    <value>Einstellungen</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Hilfe</value>
@@ -265,7 +265,7 @@
     <value>Spenden</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Optionen</value>
+    <value>Einstellungen</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Hilfe</value>
@@ -1945,10 +1945,10 @@
     <value>Ein/Aus:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Optionen hierfür finden sich in</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>Optionen &gt; Overlay &gt; Allgemein / Spieler / Gegner</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Bewegen / Größe ändern:</value>
@@ -1957,7 +1957,7 @@
     <value>Das Overlay kann entsperrt werden über</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>Optionen &gt; Overlay &gt; Allgemein &gt; Entsperren</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(Button ganz unten)</value>
