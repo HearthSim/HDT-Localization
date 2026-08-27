@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>덱 없음 모드</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>자동으로 덱 선택</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>직업 카드 먼저</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>보이기</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>종료</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>덱에 얼어붙은 왕좌의 기사들 확장팩 카드가 포함되어 있습니다.</value>
