@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Mode sans deck</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Sélectionner automatiquement le deck</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Cartes de classe en premier</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Afficher</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Quitter</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Le deck contient des cartes de l'extension Chevaliers du Trône de glace.</value>
