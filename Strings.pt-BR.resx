@@ -256,7 +256,7 @@
     <value>Vazio...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Opções</value>
+    <value>Preferências</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Ajuda</value>
@@ -265,7 +265,7 @@
     <value>Doar</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Opções</value>
+    <value>Preferências</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Ajuda</value>
@@ -1945,10 +1945,10 @@
     <value>Ligado/desligado:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Opções para isso podem ser encontradas em</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>Opções → Sobreposição → Geral / jogador / adversário</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Movendo/Redimensionando:</value>
@@ -1957,7 +1957,7 @@
     <value>A sobreposição pode ser desbloqueada via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>Opções → Sobreposição → Geral → ajustar sobreposição</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(botão no fundo)</value>
