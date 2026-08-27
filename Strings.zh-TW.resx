@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>無套牌模式</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>自動選擇套牌</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>職業卡片優先</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>顯示</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>離開</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>套牌包含《冰封王座》的卡片。</value>
