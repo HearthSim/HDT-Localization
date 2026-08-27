@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Без колоды</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Авто-выбор колоды</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Классовые карты в начале</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Развернуть</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Закрыть</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Колода содержит карты дополнения "Рыцари Ледяного Трона".</value>
