@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Modo sin mazo</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Selección automática de mazo</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Cartas de clase primero</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Mostrar</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Salir</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Ajustes</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Este mazo contiene cartas de la expansión Caballeros del Trono Helado.</value>
