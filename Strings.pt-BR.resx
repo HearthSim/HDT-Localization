@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Modo sem deck</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Seleção automática</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Cards de classe primeiro</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Mostrar</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Sair</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Preferências</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Baralho contém cartas da expansão Cavaleiros do Trono de Gelo.</value>
