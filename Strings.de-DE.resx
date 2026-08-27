@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Kein-Deck Modus</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Deck automatisch wählen</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Klassenkarten zuerst</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Anzeigen</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Beenden</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
