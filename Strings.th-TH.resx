@@ -256,7 +256,7 @@
     <value>Empty...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Options</value>
+    <value>การตั้งค่า</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Help</value>
@@ -265,7 +265,7 @@
     <value>Donate</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Options</value>
+    <value>การตั้งค่า</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Help</value>
@@ -1945,10 +1945,10 @@
     <value>On/off:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Options for this can be found under</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general / player / opponent</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Moving/resizing:</value>
@@ -1957,7 +1957,7 @@
     <value>The overlay can be unlocked via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; general &gt; unlock</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(button at the bottom).</value>
