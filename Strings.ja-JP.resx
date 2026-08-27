@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>デッキ未選択モード</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>デッキを自動選択</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>クラスカードを先頭</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>表示</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>終了</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Quit</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>凍てつく玉座の騎士団の拡張のカードを含む</value>
