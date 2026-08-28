@@ -400,7 +400,7 @@
     <value>高级选项</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>内嵌</value>
+    <value>内嵌浮窗</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>通用</value>
@@ -1945,10 +1945,10 @@
     <value>开/关：</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Settings for this can be found under</value>
+    <value>这个设置可以在此找到</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>settings &gt; overlay &gt; general / player / opponent</value>
+    <value>设置&gt;内嵌浮窗&gt;通用/玩家/对手</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>移动/缩放：</value>
@@ -1957,7 +1957,7 @@
     <value>内嵌位置和大小的调整在</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>settings &gt; overlay &gt; general &gt; unlock</value>
+    <value>设置&gt;内嵌浮窗&gt;通用&gt;取消界面锁定</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>（按钮在最下部）。</value>
@@ -2830,7 +2830,7 @@
     <value>设置</value>
   </data>
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
-    <value>Quit</value>
+    <value>退出</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>包含“冰封王座的骑士”系列的卡牌。</value>
