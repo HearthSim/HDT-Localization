@@ -256,7 +256,7 @@
     <value>Vide...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Options</value>
+    <value>Paramètres</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Aide</value>
@@ -265,7 +265,7 @@
     <value>Faire un don</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Options</value>
+    <value>Paramètres</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Aide</value>
@@ -397,7 +397,7 @@
     <value>Recherche</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Options avancées</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Overlay</value>
@@ -1945,10 +1945,10 @@
     <value>Activé/désactivé :</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Les options associées peuvent être trouvées sous</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; général / joueur / adversaire</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Déplacement/redimensionnement :</value>
@@ -1957,7 +1957,7 @@
     <value>L'overlay peut être déverrouillé via</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>options &gt; overlay &gt; général &gt; déverrouiller</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(bouton en bas).</value>
@@ -2820,16 +2820,16 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Mode sans deck</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Sélectionner automatiquement le deck</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Cartes de classe en premier</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Afficher</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Quitter</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">

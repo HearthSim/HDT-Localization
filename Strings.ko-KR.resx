@@ -256,7 +256,7 @@
     <value>없음...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>옵션</value>
+    <value>설정</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>도움말</value>
@@ -265,7 +265,7 @@
     <value>기부</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>옵션</value>
+    <value>설정</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>도움말</value>
@@ -397,7 +397,7 @@
     <value>검색</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>고급 옵션</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>오버레이</value>
@@ -1945,10 +1945,10 @@
     <value>켜기/끄기:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>이에 대한 옵션은 다음에서 확인할 수 있습니다:</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>옵션 &gt; 오버레이 &gt; 일반 / 플레이어 / 상대</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>이동/크기 조절:</value>
@@ -1957,7 +1957,7 @@
     <value>오버레이는 다음에서 잠금 해제할 수 있습니다:</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>옵션 &gt; 오버레이 &gt; 일반 &gt; 잠금 해제</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(아래쪽 버튼)</value>
@@ -2820,16 +2820,16 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>덱 없음 모드</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>자동으로 덱 선택</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>직업 카드 먼저</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>보이기</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>종료</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">

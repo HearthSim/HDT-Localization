@@ -256,7 +256,7 @@
     <value>空……</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>选项</value>
+    <value>设置</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>帮助</value>
@@ -265,7 +265,7 @@
     <value>捐助</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>选项</value>
+    <value>设置</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>帮助</value>
@@ -397,10 +397,10 @@
     <value>搜索</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>高级选项</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>内嵌</value>
+    <value>内嵌浮窗</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>通用</value>
@@ -1945,10 +1945,10 @@
     <value>开/关：</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>开启或关闭的设置在</value>
+    <value>这个设置可以在此找到</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>选项&gt;内嵌&gt;通用/玩家/对手</value>
+    <value>设置&gt;内嵌浮窗&gt;通用/玩家/对手</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>移动/缩放：</value>
@@ -1957,7 +1957,7 @@
     <value>内嵌位置和大小的调整在</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>选项&gt;内嵌&gt;通用&gt;取消界面锁定</value>
+    <value>设置&gt;内嵌浮窗&gt;通用&gt;取消界面锁定</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>（按钮在最下部）。</value>
@@ -2820,16 +2820,16 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>无套牌模式</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>自动选择</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>职业卡优先</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>显示</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>退出</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">

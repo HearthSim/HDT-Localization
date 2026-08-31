@@ -397,7 +397,7 @@
     <value>Поиск</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Расширенные настройки</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Интерфейс</value>
@@ -1945,10 +1945,10 @@
     <value>Вкл./откл.:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Соответствующие параметры можно найти в разделе</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>Настройки → Интерфейс → Общие / Игрок / Противник</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Перемещение/размер:</value>
@@ -1957,7 +1957,7 @@
     <value>Интерфейс можно разблокировать в разделе</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>Настройки → Интерфейс → Общие</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(кнопка в нижней части).</value>
@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Без колоды</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Авто-выбор колоды</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Классовые карты в начале</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Развернуть</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Закрыть</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Выйти</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Колода содержит карты дополнения "Рыцари Ледяного Трона".</value>

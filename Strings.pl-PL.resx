@@ -397,7 +397,7 @@
     <value>Wyszukaj</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Ustawienia zaawansowane</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Wygląd</value>
@@ -1945,10 +1945,10 @@
     <value>Włącz/Wyłącz:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Te opcje mogą zostać znalezione w</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>"Ustawienia &gt; Wygląd &gt; Ogólne / Gracz / Przeciwnik"</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Przesuwanie i Zmiana rozmiaru:</value>
@@ -1957,7 +1957,7 @@
     <value>Interfejs może zostać odblokowany w</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>"Ustawienia &gt; Wygląd &gt; Ogólne &gt; Odblokuj Interfejs"</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(przycisk na dole).</value>
@@ -2820,17 +2820,17 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Tryb bez talii</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Automatyczne wybieranie talii (zalecane)</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Karty klasowe zawsze pierwsze</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Pokaż</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Zamknij</value>
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
+    <value>Wyjdź</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Rycerze Mroźnego Tronu".</value>

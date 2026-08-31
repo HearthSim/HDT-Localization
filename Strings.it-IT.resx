@@ -256,7 +256,7 @@
     <value>Vuoto...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Opzioni</value>
+    <value>Impostazioni</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Aiuto</value>
@@ -265,7 +265,7 @@
     <value>Donazioni</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Opzioni</value>
+    <value>Impostazioni</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Aiuto</value>
@@ -397,7 +397,7 @@
     <value>Cerca</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Opzioni avanzate</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Overlay</value>
@@ -1945,10 +1945,10 @@
     <value>On/Off:</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>Opzioni per questo possono essere trovate sotto</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>opzioni &gt; sovrapposizione &gt; generale / giocatore / avversario</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>Spostamento/ridimensionamento:</value>
@@ -1957,7 +1957,7 @@
     <value>La sovrapposizione può essere sbloccata tramite</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>opzioni &gt; sovrapposizione &gt; generale &gt; sblocco</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(pulsante in basso).</value>
@@ -2820,16 +2820,16 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>Modalità senza mazzo</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Selezione automatica mazzo</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>Prima le carte di classe</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>Mostra</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Esci</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">

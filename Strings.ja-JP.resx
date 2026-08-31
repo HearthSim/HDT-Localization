@@ -256,7 +256,7 @@
     <value>なし…</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>オプション</value>
+    <value>設定</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>ヘルプ</value>
@@ -265,7 +265,7 @@
     <value>寄付</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>オプション</value>
+    <value>設定</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>ヘルプ</value>
@@ -397,7 +397,7 @@
     <value>検索</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>高度なオプション</value>
+    <value>Show Advanced</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>オーバーレイ</value>
@@ -1945,10 +1945,10 @@
     <value>オン/オフ</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_Text" xml:space="preserve">
-    <value>このオプションは、下で見つけることができます。</value>
+    <value>Settings for this can be found under</value>
   </data>
   <data name="Help_Overlay_Customization_OnOff_OptionPath" xml:space="preserve">
-    <value>オプション &gt; オーバーレイ &gt; 一般/プレーヤー/相手</value>
+    <value>settings &gt; overlay &gt; general / player / opponent</value>
   </data>
   <data name="Help_Overlay_Customization_Label_Unlock" xml:space="preserve">
     <value>移動/サイズ変更します。</value>
@@ -1957,7 +1957,7 @@
     <value>オーバーレイを介してロックを解除できます。</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_OptionPath" xml:space="preserve">
-    <value>オプション &gt; オーバーレイ &gt; 一般 &gt; のロックを解除</value>
+    <value>settings &gt; overlay &gt; general &gt; unlock</value>
   </data>
   <data name="Help_Overlay_Customization_Unlock_Text2" xml:space="preserve">
     <value>(下部にあるボタン)。</value>
@@ -2820,16 +2820,16 @@
   <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
     <value>デッキ未選択モード</value>
   </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>デッキを自動選択</value>
-  </data>
   <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
     <value>クラスカードを先頭</value>
   </data>
   <data name="TrayIcon_MenuItemShow" xml:space="preserve">
     <value>表示</value>
   </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
+  <data name="TrayIcon_MenuItemSettings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>終了</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
