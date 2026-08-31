@@ -5325,4 +5325,13 @@
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Leichen</value>
   </data>
+  <data name="Startup_Error_Title" xml:space="preserve">
+    <value>Error starting Hearthstone Deck Tracker</value>
+  </data>
+  <data name="Startup_Error_LogFileAccess" xml:space="preserve">
+    <value>Hearthstone Deck Tracker could not access its log file. Make sure no other application is using it.</value>
+  </data>
+  <data name="Startup_Error_AlreadyRunning" xml:space="preserve">
+    <value>Hearthstone Deck Tracker is already running, but it is not responding. Please close it using the task manager and try again.</value>
+  </data>
 </root>
