@@ -618,9 +618,6 @@
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Mostrar instrucciones de configuración para capturar el overlay</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>Idioma:</value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>Tema:</value>
   </data>
@@ -672,14 +669,11 @@
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>"USAR" mazos automáticamente (Desactiva los botones en los mazos)</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Mostrar consejos de la carta (esta ventana)</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Mostrar curva de maná</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Usar mayúsculas para nombres de mazos</value>
+    <value>Show deck names in upper case</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archivar mazos de Arena cuando han terminado</value>
@@ -813,12 +807,6 @@
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>Espectador</value>
   </data>
-  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Compartir datos anónimos</value>
-  </data>
-  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>Esto sólo rastrea información muy básica para ayudarnos a mejorar HDT, como aplicación e inicios de partidas.</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Guardar configuración en AppData</value>
   </data>
@@ -926,9 +914,6 @@
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Mostrar estadísticas de mazos en ventana separada</value>
-  </data>
-  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Analíticas</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Buscar...</value>
@@ -2418,12 +2403,6 @@
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Victorias</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Muchas traducciones aun no existen o están en proceso. Si quieres ayudar, puedes hacerlo aquí:</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Abrir ubicación del repositorio en el navegador</value>
-  </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Mazo encontrado!</value>
   </data>
@@ -3025,7 +3004,7 @@
     <value>¿Problemas para iniciar sesión? Contáctenos:</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>X</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
     <value>E-Mail</value>
@@ -3453,12 +3432,6 @@
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Duels</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
-  </data>
-  <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>Duels deck name template</value>
   </data>
@@ -3491,9 +3464,6 @@
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>Card Image Scaling</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>This window only. Separate settings for the overlay and deck windows can be found under 'Overlay &gt; General' and 'Overlay &gt; Windows'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>Card Tooltips</value>
@@ -5324,5 +5294,29 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
+  </data>
+  <data name="Startup_Error_Title" xml:space="preserve">
+    <value>Error al iniciar Hearthstone Deck Tracker</value>
+  </data>
+  <data name="Startup_Error_LogFileAccess" xml:space="preserve">
+    <value>Hearthstone Deck Tracker no pudo acceder a su archivo de registro. Asegúrate de que ninguna otra aplicación lo esté usando.</value>
+  </data>
+  <data name="Startup_Error_AlreadyRunning" xml:space="preserve">
+    <value>Hearthstone Deck Tracker ya se está ejecutando, pero no responde. Ciérralo con el administrador de tareas e inténtalo de nuevo.</value>
+  </data>
+  <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
+    <value>Main Window</value>
+  </data>
+  <data name="Options_Tracker_System_Header" xml:space="preserve">
+    <value>Sistema</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
+    <value>Enviar información básica e informes de errores para ayudar a mejorar HDT</value>
+  </data>
+  <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
+    <value>¡Ayuda a traducir!</value>
+  </data>
+  <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
+    <value>Idioma de la aplicación:</value>
   </data>
 </root>

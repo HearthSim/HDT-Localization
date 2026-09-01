@@ -618,9 +618,6 @@
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>显示捕捉内嵌浮窗的设置说明</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>语言：</value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>主题：</value>
   </data>
@@ -672,14 +669,11 @@
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>自动选择“未使用”的套牌（可以禁用）</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>显示卡牌信息*（主窗口内）</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>显示法力值曲线</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>套牌名称使用大写字母*</value>
+    <value>Show deck names in upper case</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>竞技模式结束后自动将套牌归档</value>
@@ -813,12 +807,6 @@
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>观众模式</value>
   </data>
-  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>提交匿名数据</value>
-  </data>
-  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>该项仅记录用于改善HDT的基础信息，如app信息和对战匹配的信息。</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>保存设置到AppData</value>
   </data>
@@ -926,9 +914,6 @@
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>在单独的窗口中显示统计结果</value>
-  </data>
-  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>分析</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>搜索……</value>
@@ -2418,12 +2403,6 @@
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>胜</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>有些语言仍然缺失或在翻译完善中。如果你想要提供帮助，可以点这里：</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>用浏览器打开翻译代码库</value>
-  </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>套牌已找到！</value>
   </data>
@@ -3025,7 +3004,7 @@
     <value>登录遇到问题？请联系我们：</value>
   </data>
   <data name="OAuthLogin_Twitter" xml:space="preserve">
-    <value>Twitter</value>
+    <value>X</value>
   </data>
   <data name="OAuthLogin_Email" xml:space="preserve">
     <value>电子邮件</value>
@@ -3453,12 +3432,6 @@
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>对决模式</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>对决模式</value>
-  </data>
-  <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>对决模式</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>对决模式套牌名称模板</value>
   </data>
@@ -3491,9 +3464,6 @@
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>卡图缩放</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>只控制主窗口内套牌的卡牌信息图显示。此选项不同于“内嵌&gt;通用”和“内嵌&gt;窗口”控制的内嵌式套牌和窗口式套牌。</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>卡牌信息图</value>
@@ -5324,5 +5294,29 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>残骸</value>
+  </data>
+  <data name="Startup_Error_Title" xml:space="preserve">
+    <value>启动 Hearthstone Deck Tracker 时出错</value>
+  </data>
+  <data name="Startup_Error_LogFileAccess" xml:space="preserve">
+    <value>Hearthstone Deck Tracker 无法访问其日志文件。请确保没有其他程序正在使用它。</value>
+  </data>
+  <data name="Startup_Error_AlreadyRunning" xml:space="preserve">
+    <value>Hearthstone Deck Tracker 已在运行，但没有响应。请使用任务管理器将其关闭后重试。</value>
+  </data>
+  <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
+    <value>Main Window</value>
+  </data>
+  <data name="Options_Tracker_System_Header" xml:space="preserve">
+    <value>系统</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
+    <value>发送基本信息和崩溃报告以帮助改进 HDT</value>
+  </data>
+  <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
+    <value>协助翻译！</value>
+  </data>
+  <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
+    <value>应用语言：</value>
   </data>
 </root>
