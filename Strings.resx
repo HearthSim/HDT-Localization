@@ -618,9 +618,6 @@
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Show setup instructions for capturing the overlay</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>Language:</value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>Theme:</value>
   </data>
@@ -2405,12 +2402,6 @@
   </data>
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Wins</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Many translations are still missing or are work-in-progress. If you would like to help out, you can do so here:</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Open localization repo in browser</value>
   </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Deck found!</value>
@@ -5321,5 +5312,11 @@
   </data>
   <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
     <value>Send basic information and crash reports to help improve HDT</value>
+  </data>
+  <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
+    <value>Help translate!</value>
+  </data>
+  <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
+    <value>App Language:</value>
   </data>
 </root>
