@@ -618,9 +618,6 @@
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Pokaż instrukcje konfiguracji przechwytywania overlaya</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>Język:</value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>Skórka:</value>
   </data>
@@ -672,14 +669,11 @@
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>Automatycznie używaj talii (Wyłącza przyciski na talii)</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Pokaż podpowiedzi karty (to okno)</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Pokaż panel z mechanikami kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Używaj dużych liter w nazwie talii</value>
+    <value>Show deck names in upper case</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Zarchiwizuj talię po skończeniu areny</value>
@@ -813,12 +807,6 @@
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>Obserwator</value>
   </data>
-  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Wysyłaj anonimowe dane</value>
-  </data>
-  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>Zbierane są tylko podstawowe informacje pomagające ulepszyć program, np. statystyki aplikacji i gry, błędy, logi tworzone przez aplikację.</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Zapisz ustawienia w AppData</value>
   </data>
@@ -926,9 +914,6 @@
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Pokaż statystyki talii w osobnym oknie</value>
-  </data>
-  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Analityka</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Szukaj...</value>
@@ -2418,12 +2403,6 @@
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Wygrane</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Wielu języków wciąż brakuje albo są w przygotowaniu. Jeśli chciałbyś pomóc to możesz to zrobić tutaj:</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Otwórz repozytorium w przeglądarce</value>
-  </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Znaleziono talię!</value>
   </data>
@@ -3453,12 +3432,6 @@
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Starcia</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Starcia</value>
-  </data>
-  <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Starcia</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>Format nazwy talii do Starcia</value>
   </data>
@@ -3491,9 +3464,6 @@
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>Skalowanie Obrazu Karty</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>Tylko w tym oknie. Osobne ustawienia dla okien talii i nakładki można znaleźć w 'Wygląd &gt; Ogólne' i 'Wygląd &gt; Okno'</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>Podpowiedzi na karcie</value>
@@ -5339,5 +5309,17 @@
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>System</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
+    <value>Send basic information and crash reports to help improve HDT</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
+    <value>Help translate!</value>
+  </data>
+  <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
+    <value>App Language:</value>
   </data>
 </root>
