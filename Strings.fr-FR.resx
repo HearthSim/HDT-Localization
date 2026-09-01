@@ -618,9 +618,6 @@
   <data name="Options_Overlay_Streaming_Hyperlink_Wiki" xml:space="preserve">
     <value>Afficher les instructions de configuration pour capturer l'overlay</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_Language" xml:space="preserve">
-    <value>Langue :</value>
-  </data>
   <data name="Options_Tracker_Appearance_Label_Theme" xml:space="preserve">
     <value>Thème :</value>
   </data>
@@ -672,14 +669,11 @@
   <data name="Options_Tracker_General_CheckBox_AutoUse" xml:space="preserve">
     <value>« Utiliser » automatiquement les decks (désactive le bouton sur les decks)</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_MainWindow" xml:space="preserve">
-    <value>Afficher les infobulles de la carte (cette fenêtre)</value>
-  </data>
   <data name="Options_Tracker_General_CheckBox_ManaCurve" xml:space="preserve">
     <value>Afficher la courbe de mana</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Utiliser des noms de decks en majuscules</value>
+    <value>Show deck names in upper case</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archiver les decks d'arène quand la série est terminée</value>
@@ -813,12 +807,6 @@
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>Mode spectateur</value>
   </data>
-  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Soumettre des données anonymes</value>
-  </data>
-  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>N'enregistre que des informations très basiques afin de nous aider à améliorer HDT, comme les lancements d'application ou de parties.</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Sauver la configuration dans AppData</value>
   </data>
@@ -926,9 +914,6 @@
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Afficher les statistiques des decks dans une fenêtre séparée</value>
-  </data>
-  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Analytique</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Rechercher...</value>
@@ -2418,12 +2403,6 @@
   <data name="Enum_DeckPanel_Wins" xml:space="preserve">
     <value>Victoires</value>
   </data>
-  <data name="Options_Tracker_Appearance_Label_LanguageNote" xml:space="preserve">
-    <value>Beaucoup de traductions manquent ou sont en chantier. Si vous voulez aider, vous pouvez le faire ici :</value>
-  </data>
-  <data name="Options_Tracker_Appearance_Hyperlink_LanguageNote" xml:space="preserve">
-    <value>Ouvrir le dépôt de localisation dans le navigateur</value>
-  </data>
   <data name="ImportingChoiceDialog_Title" xml:space="preserve">
     <value>Deck trouvé !</value>
   </data>
@@ -3453,12 +3432,6 @@
   <data name="Enum_GameMode_Duels" xml:space="preserve">
     <value>Duels</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
-  </data>
-  <data name="Options_Tracker_Stats_CheckBox_Duels" xml:space="preserve">
-    <value>Duels</value>
-  </data>
   <data name="Options_Tracker_Importing_Label_PVPDRTemplates" xml:space="preserve">
     <value>Modèle de nom de deck de duels</value>
   </data>
@@ -3491,9 +3464,6 @@
   </data>
   <data name="Options_Overlay_General_Label_Tooltip_Size" xml:space="preserve">
     <value>Mise à l'échelle de l'image de la carte</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_CardTooltips_Tooltip" xml:space="preserve">
-    <value>Cette fenêtre uniquement. Les paramètres séparés pour les fenêtres d'overlay et de deck peuvent être trouvés dans 'Overlay &gt; Général' et 'Overlay &gt; Fenêtres' respectivement</value>
   </data>
   <data name="Options_Tracker_General_Label_CardTooltips" xml:space="preserve">
     <value>Infobulles de carte</value>
@@ -5339,5 +5309,17 @@
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>System</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
+    <value>Send basic information and crash reports to help improve HDT</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
+    <value>Help translate!</value>
+  </data>
+  <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
+    <value>App Language:</value>
   </data>
 </root>
