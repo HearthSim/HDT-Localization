@@ -810,12 +810,6 @@
   <data name="Options_Tracker_Replays_CheckBox_Spectator" xml:space="preserve">
     <value>Spectator</value>
   </data>
-  <data name="Options_Tracker_Settings_Label_SubmitData" xml:space="preserve">
-    <value>Submit anonymous data</value>
-  </data>
-  <data name="Options_Tracker_Settings_Analytics_Description" xml:space="preserve">
-    <value>This only tracks very basic information to help us improve HDT, like app and match starts.</value>
-  </data>
   <data name="Options_Tracker_Settings_CheckBox_SaveConfigAppData" xml:space="preserve">
     <value>Save config in AppData</value>
   </data>
@@ -923,9 +917,6 @@
   </data>
   <data name="Options_Tracker_Stats_CheckBox_StatsWindow" xml:space="preserve">
     <value>Show deck stats in separate window</value>
-  </data>
-  <data name="Options_Tracker_Settings_Label_Analytics" xml:space="preserve">
-    <value>Analytics</value>
   </data>
   <data name="DeckPicker_Text_Search_Watermark" xml:space="preserve">
     <value>Search...</value>
@@ -5327,5 +5318,8 @@
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>System</value>
+  </data>
+  <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
+    <value>Send basic information and crash reports to help improve HDT</value>
   </data>
 </root>
