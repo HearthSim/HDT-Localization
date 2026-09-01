@@ -5296,30 +5296,27 @@
     <value>Corpses</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
-    <value>Error starting Hearthstone Deck Tracker</value>
+    <value>Erreur lors du démarrage de Hearthstone Deck Tracker</value>
   </data>
   <data name="Startup_Error_LogFileAccess" xml:space="preserve">
-    <value>Hearthstone Deck Tracker could not access its log file. Make sure no other application is using it.</value>
+    <value>Hearthstone Deck Tracker n'a pas pu accéder à son fichier journal. Assurez-vous qu'aucune autre application ne l'utilise.</value>
   </data>
   <data name="Startup_Error_AlreadyRunning" xml:space="preserve">
-    <value>Hearthstone Deck Tracker is already running, but it is not responding. Please close it using the task manager and try again.</value>
+    <value>Hearthstone Deck Tracker est déjà en cours d'exécution, mais ne répond pas. Veuillez le fermer à l'aide du gestionnaire des tâches et réessayer.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
     <value>Main Window</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
-    <value>System</value>
+    <value>Système</value>
   </data>
   <data name="Options_Tracker_System_Label_Analytics" xml:space="preserve">
-    <value>Send basic information and crash reports to help improve HDT</value>
-  </data>
-  <data name="Options_Tracker_System_Label_Language" xml:space="preserve">
-    <value>Language</value>
+    <value>Envoyer des informations de base et des rapports de plantage pour aider à améliorer HDT</value>
   </data>
   <data name="Options_Tracker_System_Hyperlink_Translate" xml:space="preserve">
-    <value>Help translate!</value>
+    <value>Aide-nous à traduire !</value>
   </data>
   <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
-    <value>App Language:</value>
+    <value>Langue de l'application :</value>
   </data>
 </root>
