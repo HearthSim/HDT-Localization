@@ -2334,6 +2334,12 @@
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>请重启战网和炉石传说（不要以管理员身份运行）。</value>
   </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
+    <value>显示说明</value>
+  </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>更多……</value>
   </data>
