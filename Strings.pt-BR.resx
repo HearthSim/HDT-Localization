@@ -2334,6 +2334,12 @@
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Por favor, reinicie a Battle.net e o Hearthstone sem privilégios de administrador.</value>
   </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
+    <value>Mostrar instruções</value>
+  </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Continuar...</value>
   </data>
