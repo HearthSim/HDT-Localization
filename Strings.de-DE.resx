@@ -2334,6 +2334,12 @@
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Bitte starte Battle.net und Hearthstone ohne Administrator-Berechtigungen neu.</value>
   </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
+    <value>Anleitung anzeigen</value>
+  </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
+    <value>Schließen</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Weiter...</value>
   </data>
@@ -5318,5 +5324,8 @@
   </data>
   <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
     <value>App-Sprache:</value>
+  </data>
+  <data name="Race_Aberration" xml:space="preserve">
+    <value>Aberration</value>
   </data>
 </root>

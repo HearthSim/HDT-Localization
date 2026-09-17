@@ -2334,6 +2334,12 @@
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Battle.net과 하스스톤을 관리자 권한 없이 다시 시작해 주세요.</value>
   </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
+    <value>안내 보기</value>
+  </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>그 외...</value>
   </data>
@@ -5318,5 +5324,8 @@
   </data>
   <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
     <value>앱 언어:</value>
+  </data>
+  <data name="Race_Aberration" xml:space="preserve">
+    <value>Aberration</value>
   </data>
 </root>

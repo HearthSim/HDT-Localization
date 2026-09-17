@@ -2334,6 +2334,12 @@
   <data name="MessageDialogs_Permissions_Description" xml:space="preserve">
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
   </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
+    <value>顯示說明</value>
+  </data>
+  <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>繼續…</value>
   </data>
@@ -5318,5 +5324,8 @@
   </data>
   <data name="Options_Tracker_System_Label_AppLanguage" xml:space="preserve">
     <value>應用程式語言：</value>
+  </data>
+  <data name="Race_Aberration" xml:space="preserve">
+    <value>Aberration</value>
   </data>
 </root>
