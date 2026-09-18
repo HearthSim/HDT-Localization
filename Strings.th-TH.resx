@@ -5338,15 +5338,15 @@
     <value>การ์ดที่เกี่ยวข้อง</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>เลือกว่าจะแสดงการ์ดใดในรายการการ์ดที่เกี่ยวข้องของคู่ต่อสู้ "อัตโนมัติ" จะใช้กฎในตัว ซึ่งจะแสดงการ์ดเฉพาะเมื่อมีแนวโน้มว่าจะสำคัญ "แสดงเสมอ" จะแสดงการ์ดแม้ว่าคู่ต่อสู้ยังไม่ได้เล่นการ์ดนั้น สำหรับการ์ดที่คุณสงสัยว่าพวกเขาถืออยู่ "ไม่แสดงเลย" จะซ่อนการ์ดจากรายการ ตัวเลือกนี้ใช้ได้เฉพาะเมื่อเปิดใช้งานการ์ดที่เกี่ยวข้องของคู่ต่อสู้ในตัวเลือกคู่ต่อสู้เท่านั้น</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>กรองการ์ด...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>ไม่มีการ์ดที่ตรงกับตัวกรองของคุณ</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>ที่ปรับแต่งแล้วเท่านั้น</value>
   </data>
 </root>
