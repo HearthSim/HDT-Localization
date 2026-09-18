@@ -673,7 +673,7 @@
     <value>マナカーブを表示します。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>デッキ名を大文字で表示</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>闘技場が終わった時デッキをアーカイブ</value>
@@ -5311,7 +5311,7 @@
     <value>Hearthstone Deck Tracker はすでに実行中ですが、応答していません。タスクマネージャーで終了してから再試行してください。</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>メインウィンドウ</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>システム</value>
@@ -5326,9 +5326,9 @@
     <value>アプリの言語：</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>異形</value>
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
-    <value>ABERRATION</value>
+    <value>異形</value>
   </data>
 </root>
