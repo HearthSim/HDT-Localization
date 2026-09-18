@@ -5338,15 +5338,15 @@
     <value>관련된 카드</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>상대의 관련 카드 목록에 표시할 카드를 선택합니다. "자동"은 내장 규칙을 사용하여 중요할 가능성이 있는 카드만 표시합니다. "항상 표시"는 상대가 아직 사용하지 않은 카드라도 표시하므로, 상대가 들고 있다고 의심되는 카드에 유용합니다. "표시 안 함"은 목록에서 해당 카드를 숨깁니다. 이 설정은 상대 옵션에서 상대 관련 카드가 활성화된 경우에만 적용됩니다.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>카드 필터링...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>필터와 일치하는 카드가 없습니다.</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>사용자화된 항목만</value>
   </data>
 </root>
