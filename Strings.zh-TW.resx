@@ -5335,18 +5335,18 @@
     <value>變異怪</value>
   </data>
   <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
-    <value>Related Cards</value>
+    <value>相關卡牌</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>選擇哪些卡片會列在對手的相關卡片中。「自動」會使用內建規則，只在卡片可能有影響時才列出。「一律顯示」即使對手尚未使用該卡也會列出，適用於你懷疑對手手上握有的卡片。「永不顯示」則會將其從列表中隱藏。此設定僅在對手選項中啟用對手相關卡片時生效。</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>篩選卡片...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>沒有符合篩選條件的卡片。</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>僅顯示已自訂</value>
   </data>
 </root>
