@@ -673,7 +673,7 @@
     <value>Показывать кривую маны</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Отображать названия колод заглавными буквами</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>После завершения Арены архивировать колоду</value>
@@ -5311,7 +5311,7 @@
     <value>Hearthstone Deck Tracker уже запущен, но не отвечает. Пожалуйста, закройте его через диспетчер задач и повторите попытку.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Главное окно</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Система</value>
@@ -5326,9 +5326,9 @@
     <value>Язык приложения:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Аберрация</value>
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
-    <value>ABERRATION</value>
+    <value>АБЕРРАЦИЯ</value>
   </data>
 </root>
