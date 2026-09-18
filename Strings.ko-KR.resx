@@ -673,7 +673,7 @@
     <value>마나 커브 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>덱 이름을 대문자로 표시</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>투기장이 끝날 때 덱을 보관 처리</value>
@@ -5311,7 +5311,7 @@
     <value>하스스톤 덱 트래커가 이미 실행 중이지만 응답하지 않습니다. 작업 관리자를 사용하여 종료한 후 다시 시도하세요.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>메인 창</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>시스템</value>
@@ -5326,9 +5326,9 @@
     <value>앱 언어:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>돌연변이</value>
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
-    <value>ABERRATION</value>
+    <value>돌연변이</value>
   </data>
 </root>
