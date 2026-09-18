@@ -5335,18 +5335,18 @@
     <value>異形</value>
   </data>
   <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
-    <value>Related Cards</value>
+    <value>関連カード</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>対戦相手の関連カードにリストされるカードを選択します。「自動」は組み込みのルールを使用し、関連する可能性が高い場合のみカードを表示します。「常に表示」は、対戦相手がまだプレイしていなくても、相手が持っていると思われるカードを表示します。「表示しない」はリストから非表示にします。これは対戦相手のオプションで対戦相手の関連カードが有効になっている場合のみ適用されます。</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>カードを検索...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>フィルターに一致するカードがありません。</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>カスタマイズ済みのみ</value>
   </data>
 </root>
