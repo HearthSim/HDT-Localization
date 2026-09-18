@@ -673,7 +673,7 @@
     <value>Show mana curve</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>แสดงชื่อเด็คเป็นตัวพิมพ์ใหญ่</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archive Arena decks when run is over</value>
@@ -2335,7 +2335,7 @@
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
   </data>
   <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
-    <value>Show instructions</value>
+    <value>แสดงคำแนะนำ</value>
   </data>
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>ปิด</value>
@@ -5311,7 +5311,7 @@
     <value>Hearthstone Deck Tracker กำลังทำงานอยู่แล้ว แต่ไม่ตอบสนอง กรุณาปิดโปรแกรมผ่านทาง task manager แล้วลองอีกครั้ง</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>หน้าต่างหลัก</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>ระบบ</value>
@@ -5326,9 +5326,9 @@
     <value>ภาษาของแอป:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>อสูรวิปริต</value>
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
-    <value>ABERRATION</value>
+    <value>อสูรวิปริต</value>
   </data>
 </root>
