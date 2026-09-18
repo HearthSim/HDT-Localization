@@ -5338,15 +5338,15 @@
     <value>相关卡牌</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>选择在对手的“相关卡牌”下列出哪些卡牌。“自动”使用内置规则，仅在卡牌可能产生影响时才列出。“总是显示”即使对手尚未打出该卡牌也会列出，适用于你怀疑对手持有的卡牌。“从不显示”将其从列表中隐藏。此设置仅在对手选项中启用对手相关卡牌时生效。</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>筛选卡牌...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>没有符合过滤规则的卡牌。</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>仅限自定义</value>
   </data>
 </root>
