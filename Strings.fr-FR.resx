@@ -5338,15 +5338,15 @@
     <value>Cartes associées</value>
   </data>
   <data name="OptionsRelatedCards_Description" xml:space="preserve">
-    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+    <value>Choisissez quelles cartes apparaissent dans les Cartes liées de l'adversaire. « Auto » utilise les règles intégrées, qui n'affichent une carte que lorsqu'elle est susceptible d'avoir de l'importance. « Toujours afficher » liste une carte même si l'adversaire ne l'a pas encore jouée, pour les cartes que vous soupçonnez qu'il détient. « Ne jamais afficher » la masque de la liste. Ceci ne s'applique que lorsque les cartes liées de l'adversaire sont activées dans les options Adversaire.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards...</value>
+    <value>Filtrer les cartes...</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
-    <value>No cards match your filter.</value>
+    <value>Aucune carte ne correspond à votre filtre.</value>
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
-    <value>Customized only</value>
+    <value>Personnalisées uniquement</value>
   </data>
 </root>
