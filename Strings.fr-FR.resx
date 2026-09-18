@@ -673,7 +673,7 @@
     <value>Afficher la courbe de mana</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Afficher les noms de decks en majuscules</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archiver les decks d'arène quand la série est terminée</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Afficher le lien vers le Meta Snapshot entre les parties</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker est déjà en cours d'exécution, mais ne répond pas. Veuillez le fermer à l'aide du gestionnaire des tâches et réessayer.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Fenêtre principale</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Système</value>
@@ -5327,5 +5330,23 @@
   </data>
   <data name="Race_Aberration" xml:space="preserve">
     <value>Aberration</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRATION</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Cartes associées</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Choisissez quelles cartes apparaissent dans les Cartes liées de l'adversaire. « Auto » utilise les règles intégrées, qui n'affichent une carte que lorsqu'elle est susceptible d'avoir de l'importance. « Toujours afficher » liste une carte même si l'adversaire ne l'a pas encore jouée, pour les cartes que vous soupçonnez qu'il détient. « Ne jamais afficher » la masque de la liste. Ceci ne s'applique que lorsque les cartes liées de l'adversaire sont activées dans les options Adversaire.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filtrer les cartes...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Aucune carte ne correspond à votre filtre.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Personnalisées uniquement</value>
   </data>
 </root>

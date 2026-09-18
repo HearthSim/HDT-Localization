@@ -673,7 +673,7 @@
     <value>Mostrar curva de maná</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Mostrar nombres de mazos en mayúsculas</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archivar mazos de Arena cuando han terminado</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Mostrar enlace al Resumen del meta entre partidas</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker ya se está ejecutando, pero no responde. Ciérralo con el administrador de tareas e inténtalo de nuevo.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Ventana principal</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Sistema</value>
@@ -5326,6 +5329,24 @@
     <value>Idioma de la aplicación:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Aberración</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRACIÓN</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Cartas relacionadas</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filter cards...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>No cards match your filter.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Customized only</value>
   </data>
 </root>

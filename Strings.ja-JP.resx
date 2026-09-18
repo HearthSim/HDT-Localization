@@ -673,7 +673,7 @@
     <value>マナカーブを表示します。</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>デッキ名を大文字で表示</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>闘技場が終わった時デッキをアーカイブ</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>ゲームの合間にMeta Snapshotへのリンクを表示</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker はすでに実行中ですが、応答していません。タスクマネージャーで終了してから再試行してください。</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>メインウィンドウ</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>システム</value>
@@ -5326,6 +5329,24 @@
     <value>アプリの言語：</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>異形</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>異形</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>関連カード</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>対戦相手の関連カードにリストされるカードを選択します。「自動」は組み込みのルールを使用し、関連する可能性が高い場合のみカードを表示します。「常に表示」は、対戦相手がまだプレイしていなくても、相手が持っていると思われるカードを表示します。「表示しない」はリストから非表示にします。これは対戦相手のオプションで対戦相手の関連カードが有効になっている場合のみ適用されます。</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>カードを検索...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>フィルターに一致するカードがありません。</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>カスタマイズ済みのみ</value>
   </data>
 </root>

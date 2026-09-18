@@ -673,7 +673,7 @@
     <value>Show mana curve</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>แสดงชื่อเด็คเป็นตัวพิมพ์ใหญ่</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archive Arena decks when run is over</value>
@@ -2335,7 +2335,7 @@
     <value>Please restart Battle.net and Hearthstone without administrator privileges.</value>
   </data>
   <data name="MessageDialogs_UnevenPermissions_Button_Instructions" xml:space="preserve">
-    <value>Show instructions</value>
+    <value>แสดงคำแนะนำ</value>
   </data>
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>ปิด</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>แสดงลิงก์ไปยัง Meta Snapshot ระหว่างเกม</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker กำลังทำงานอยู่แล้ว แต่ไม่ตอบสนอง กรุณาปิดโปรแกรมผ่านทาง task manager แล้วลองอีกครั้ง</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>หน้าต่างหลัก</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>ระบบ</value>
@@ -5326,6 +5329,24 @@
     <value>ภาษาของแอป:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>อสูรวิปริต</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>อสูรวิปริต</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>การ์ดที่เกี่ยวข้อง</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Choose which cards are listed under the opponent's Related Cards. "Auto" uses the built-in rules, which only list a card when it is likely to matter. "Always show" lists a card even if the opponent has not played it yet, for cards you suspect they hold. "Never show" hides it from the list. This only applies while opponent related cards are enabled in the Opponent options.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filter cards...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>No cards match your filter.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Customized only</value>
   </data>
 </root>

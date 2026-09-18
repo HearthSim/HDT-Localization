@@ -673,7 +673,7 @@
     <value>Pokaż panel z mechanikami kart</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Wyświetlaj nazwy talii wielkimi literami</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Zarchiwizuj talię po skończeniu areny</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Pokazuj odnośnik do Meta Snapshot między grami</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker jest już uruchomiony, ale nie odpowiada. Zamknij go za pomocą menedżera zadań i spróbuj ponownie.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Okno główne</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>System</value>
@@ -5326,6 +5329,24 @@
     <value>Język aplikacji:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Aberracja</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRACJA</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Powiązane karty</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Wybierz, które karty pojawiają się na liście Powiązanych kart przeciwnika. „Auto” korzysta z wbudowanych reguł, które pokazują kartę tylko wtedy, gdy prawdopodobnie ma znaczenie. „Zawsze pokazuj” wyświetla kartę, nawet jeśli przeciwnik jeszcze jej nie zagrał — dla kart, które według ciebie ma w ręce. „Nigdy nie pokazuj” ukrywa ją z listy. Działa to tylko wtedy, gdy powiązane karty przeciwnika są włączone w opcjach Przeciwnika.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filtruj karty...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Żadne karty nie pasują do filtra.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Tylko dostosowane</value>
   </data>
 </root>

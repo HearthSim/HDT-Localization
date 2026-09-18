@@ -673,7 +673,7 @@
     <value>Показывать кривую маны</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Отображать названия колод заглавными буквами</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>После завершения Арены архивировать колоду</value>
@@ -4518,6 +4518,9 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Показывать ссылку на Meta Snapshot между партиями</value>
+  </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
   </data>
@@ -5311,7 +5314,7 @@
     <value>Hearthstone Deck Tracker уже запущен, но не отвечает. Пожалуйста, закройте его через диспетчер задач и повторите попытку.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Главное окно</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Система</value>
@@ -5326,6 +5329,24 @@
     <value>Язык приложения:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Аберрация</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>АБЕРРАЦИЯ</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Связанные карты</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Выберите, какие карты будут показаны в списке связанных карт противника. «Авто» использует встроенные правила, которые показывают карту только тогда, когда она, вероятно, будет важна. «Всегда показывать» отображает карту, даже если противник ещё её не разыграл — для карт, которые, по вашему мнению, у него на руке. «Никогда не показывать» скрывает её из списка. Это применяется только при включённых связанных картах противника в настройках противника.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Фильтр карт...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Нет карт, соответствующих фильтру.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Только настроенные</value>
   </data>
 </root>
