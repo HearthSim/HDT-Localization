@@ -673,7 +673,7 @@
     <value>顯示水晶消耗曲線</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>以大寫顯示套牌名稱</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>每當競技場打完時存檔</value>
@@ -5311,7 +5311,7 @@
     <value>爐石戰記記牌器已在執行中，但沒有回應。請使用工作管理員關閉它後再試一次。</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>主視窗</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>系統</value>
@@ -5326,9 +5326,9 @@
     <value>應用程式語言：</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>變異怪</value>
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
-    <value>ABERRATION</value>
+    <value>變異怪</value>
   </data>
 </root>
