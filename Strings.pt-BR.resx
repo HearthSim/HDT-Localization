@@ -466,7 +466,7 @@
     <value>Apenas se o HS estiver em primeiro plano</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>Anomaly</value>
+    <value>Anomalia</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Dicas de contexto nas cartas</value>
@@ -673,7 +673,7 @@
     <value>Mostrar curva de mana</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Exibir nomes dos decks em maiúsculas</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Arquivar deck quando a arena terminar</value>
@@ -2065,7 +2065,7 @@
     <value>Contador</value>
   </data>
   <data name="AnomalyWindow_Title" xml:space="preserve">
-    <value>Anomaly</value>
+    <value>Anomalia</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Estatísticas</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>Deidade</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>Todos os Guias de Composição</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Exibir link para o Panorama do Meta entre partidas</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Tipo de Card</value>
@@ -5299,7 +5305,7 @@
     <value>Amount Healed</value>
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
-    <value>Corpses</value>
+    <value>Cadáveres</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
     <value>Erro ao iniciar o Hearthstone Deck Tracker</value>
@@ -5311,7 +5317,7 @@
     <value>O Hearthstone Deck Tracker já está em execução, mas não está respondendo. Feche-o usando o Gerenciador de Tarefas e tente novamente.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Janela principal</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Sistema</value>
@@ -5326,6 +5332,24 @@
     <value>Idioma do app:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Aberração</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRAÇÃO</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Cards Relacionados</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Escolha quais cartas são listadas em Cartas Relacionadas do oponente. "Automático" usa as regras internas, que listam uma carta apenas quando ela provavelmente importa. "Sempre mostrar" lista uma carta mesmo que o oponente ainda não a tenha jogado, para cartas que você suspeita que ele tenha na mão. "Nunca mostrar" oculta a carta da lista. Isso só se aplica enquanto as cartas relacionadas do oponente estiverem habilitadas nas opções de Oponente.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filtrar cartas...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Nenhuma carta encontrada para este filtro.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Apenas personalizadas</value>
   </data>
 </root>

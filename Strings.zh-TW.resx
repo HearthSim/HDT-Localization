@@ -673,7 +673,7 @@
     <value>顯示水晶消耗曲線</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>以大寫顯示套牌名稱</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>每當競技場打完時存檔</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>神</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>在對戰之間顯示Meta Snapshot連結</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
@@ -5311,7 +5317,7 @@
     <value>爐石戰記記牌器已在執行中，但沒有回應。請使用工作管理員關閉它後再試一次。</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>主視窗</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>系統</value>
@@ -5326,6 +5332,24 @@
     <value>應用程式語言：</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>變異怪</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>變異怪</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>相關卡牌</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>選擇哪些卡片會列在對手的相關卡片中。「自動」會使用內建規則，只在卡片可能有影響時才列出。「一律顯示」即使對手尚未使用該卡也會列出，適用於你懷疑對手手上握有的卡片。「永不顯示」則會將其從列表中隱藏。此設定僅在對手選項中啟用對手相關卡片時生效。</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>篩選卡片...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>沒有符合篩選條件的卡片。</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>僅顯示已自訂</value>
   </data>
 </root>

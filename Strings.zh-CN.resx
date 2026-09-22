@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>酒馆法术加成</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>神明</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>所有流派指南</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>在对局之间显示随从和指南浏览器</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>在对局间显示环境快照链接</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>卡牌类型</value>
@@ -5327,5 +5333,23 @@
   </data>
   <data name="Race_Aberration" xml:space="preserve">
     <value>畸变怪</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>畸变怪</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>相关卡牌</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>选择在对手的“相关卡牌”下列出哪些卡牌。“自动”使用内置规则，仅在卡牌可能产生影响时才列出。“总是显示”即使对手尚未打出该卡牌也会列出，适用于你怀疑对手持有的卡牌。“从不显示”将其从列表中隐藏。此设置仅在对手选项中启用对手相关卡牌时生效。</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>筛选卡牌...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>没有符合过滤规则的卡牌。</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>仅限自定义</value>
   </data>
 </root>

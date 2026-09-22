@@ -673,7 +673,7 @@
     <value>Mostrar curva de maná</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Mostrar nombres de mazos en mayúsculas</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archivar mazos de Arena cuando han terminado</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>Deidad</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Mostrar enlace al Resumen del meta entre partidas</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
@@ -5311,7 +5317,7 @@
     <value>Hearthstone Deck Tracker ya se está ejecutando, pero no responde. Ciérralo con el administrador de tareas e inténtalo de nuevo.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Ventana principal</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Sistema</value>
@@ -5326,6 +5332,24 @@
     <value>Idioma de la aplicación:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Aberración</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRACIÓN</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Cartas relacionadas</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Elige qué cartas aparecen en las Cartas relacionadas del oponente. "Automático" usa las reglas integradas, que solo muestran una carta cuando es probable que importe. "Mostrar siempre" muestra una carta aunque el oponente aún no la haya jugado, para cartas que sospechas que tiene en mano. "No mostrar nunca" la oculta de la lista. Esto solo aplica cuando las cartas relacionadas del oponente están activadas en las opciones del Oponente.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filtrar cartas...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Ninguna carta coincide con tu filtro.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Solo personalizadas</value>
   </data>
 </root>

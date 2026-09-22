@@ -397,7 +397,7 @@
     <value>Suche</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Show Advanced</value>
+    <value>Erweitert anzeigen</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
     <value>Overlay</value>
@@ -3217,7 +3217,7 @@
     <value>Vor {0} Zug/Zügen</value>
   </data>
   <data name="DeckSetIcons_Tooltip_YOTD" xml:space="preserve">
-    <value>Deck contains cards from the Galakrond's Awakening adventure.</value>
+    <value>Deck enthält Karten des Abenteuers 'Galakronds Erwachen'.</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_YOTD" xml:space="preserve">
     <value>Galakronds Erwachen</value>
@@ -3427,7 +3427,7 @@
     <value>Durchschnittlicher Schaden</value>
   </data>
   <data name="AverageDamage_Info_Description" xml:space="preserve">
-    <value>These panels show the middle 80th percentile of possible damage outcomes.</value>
+    <value>Diese Panele zeigen die mittleren 80 Prozent der möglichen Schadensergebnisse.</value>
   </data>
   <data name="Overlay_Battlegrounds_Not_Fought_Opponent" xml:space="preserve">
     <value>Du hast noch nicht gegen diesen Gegner gekämpft</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>Gottheit</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Link zum Meta-Snapshot zwischen Partien anzeigen</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Kartentypen</value>
@@ -5311,7 +5317,7 @@
     <value>Der Hearthstone Deck Tracker läuft bereits, reagiert aber nicht. Bitte schließe ihn über den Task-Manager und versuche es erneut.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Hauptfenster</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>System</value>
@@ -5326,6 +5332,24 @@
     <value>App-Sprache:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Abscheulichkeit</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABSCHEULICHKEIT</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Verwandte Karten</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Wähle, welche Karten unter den zugehörigen Karten des Gegners aufgelistet werden. "Auto" verwendet die integrierten Regeln, die eine Karte nur dann anzeigen, wenn sie wahrscheinlich relevant ist. "Immer anzeigen" listet eine Karte auf, auch wenn der Gegner sie noch nicht gespielt hat – für Karten, von denen du vermutest, dass er sie auf der Hand hält. "Nie anzeigen" blendet sie aus der Liste aus. Dies gilt nur, solange die zugehörigen Karten des Gegners in den Gegner-Optionen aktiviert sind.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Karten filtern ...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Keine Karten entsprechen deinem Filter.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Nur angepasste</value>
   </data>
 </root>

@@ -673,7 +673,7 @@
     <value>마나 커브 보기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>덱 이름을 대문자로 표시</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>투기장이 끝날 때 덱을 보관 처리</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>신</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>모든 조합 가이드</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>게임 사이에 메타 스냅샷 링크 표시</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>카드 종류</value>
@@ -5311,7 +5317,7 @@
     <value>하스스톤 덱 트래커가 이미 실행 중이지만 응답하지 않습니다. 작업 관리자를 사용하여 종료한 후 다시 시도하세요.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>메인 창</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>시스템</value>
@@ -5326,6 +5332,24 @@
     <value>앱 언어:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>돌연변이</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>돌연변이</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>관련된 카드</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>상대의 관련 카드 목록에 표시할 카드를 선택합니다. "자동"은 내장 규칙을 사용하여 중요할 가능성이 있는 카드만 표시합니다. "항상 표시"는 상대가 아직 사용하지 않은 카드라도 표시하므로, 상대가 들고 있다고 의심되는 카드에 유용합니다. "표시 안 함"은 목록에서 해당 카드를 숨깁니다. 이 설정은 상대 옵션에서 상대 관련 카드가 활성화된 경우에만 적용됩니다.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>카드 필터링...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>필터와 일치하는 카드가 없습니다.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>사용자화된 항목만</value>
   </data>
 </root>

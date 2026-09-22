@@ -673,7 +673,7 @@
     <value>Mostra bilanciamento del mana</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_UpperCaseDeckNames" xml:space="preserve">
-    <value>Show deck names in upper case</value>
+    <value>Mostra i nomi dei mazzi in maiuscolo</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Archivia mazzi Arena alla scadenza</value>
@@ -4446,6 +4446,9 @@
   <data name="Counter_TavernSpellsBuff" xml:space="preserve">
     <value>Tavern Spell Bonus</value>
   </data>
+  <data name="Counter_Deity" xml:space="preserve">
+    <value>Divinità</value>
+  </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
     <value>All Comp Guides</value>
   </data>
@@ -4517,6 +4520,9 @@
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMinionBrowserBetweenGames" xml:space="preserve">
     <value>Show Minions and Guides Browser between games</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_ShowMetaSnapshot" xml:space="preserve">
+    <value>Mostra il collegamento al Meta Snapshot tra una partita e l'altra</value>
   </data>
   <data name="Battlegrounds_Browser_Filter_CardTypes" xml:space="preserve">
     <value>Card Types</value>
@@ -5311,7 +5317,7 @@
     <value>Hearthstone Deck Tracker è già in esecuzione, ma non risponde. Chiudilo usando il task manager e riprova.</value>
   </data>
   <data name="Options_Tracker_MainWindow_Header" xml:space="preserve">
-    <value>Main Window</value>
+    <value>Finestra principale</value>
   </data>
   <data name="Options_Tracker_System_Header" xml:space="preserve">
     <value>Sistema</value>
@@ -5326,6 +5332,24 @@
     <value>Lingua dell'app:</value>
   </data>
   <data name="Race_Aberration" xml:space="preserve">
-    <value>Aberration</value>
+    <value>Aberrazione</value>
+  </data>
+  <data name="Race_Aberration_Uppercase" xml:space="preserve">
+    <value>ABERRAZIONE</value>
+  </data>
+  <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
+    <value>Carte correlate</value>
+  </data>
+  <data name="OptionsRelatedCards_Description" xml:space="preserve">
+    <value>Scegli quali carte vengono elencate tra le Carte Correlate dell'avversario. "Auto" usa le regole integrate, che elencano una carta solo quando è probabilmente rilevante. "Mostra sempre" elenca una carta anche se l'avversario non l'ha ancora giocata, per le carte che sospetti abbia in mano. "Non mostrare mai" la nasconde dall'elenco. Questo si applica solo quando le carte correlate dell'avversario sono abilitate nelle opzioni Avversario.</value>
+  </data>
+  <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
+    <value>Filtra carte...</value>
+  </data>
+  <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
+    <value>Nessuna carta corrisponde al tuo filtro.</value>
+  </data>
+  <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
+    <value>Solo personalizzate</value>
   </data>
 </root>
