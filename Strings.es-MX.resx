@@ -4114,7 +4114,7 @@
     <value>Otro</value>
   </data>
   <data name="Race_NoType" xml:space="preserve">
-    <value>No Type</value>
+    <value>Neutral</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
     <value>Showdown in the Badlands</value>
@@ -4573,7 +4573,7 @@
     <value>ALL</value>
   </data>
   <data name="Race_NoType_Uppercase" xml:space="preserve">
-    <value>NO TYPE</value>
+    <value>NEUTRAL</value>
   </data>
   <data name="GameTag_BGSpell_Uppercase" xml:space="preserve">
     <value>HECHIZO</value>
@@ -4785,11 +4785,11 @@
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
     <value>Black Friday arrives to the Tavern! Unlock Premium + Tier7 at {0}% OFF for a limited time!</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
-    <value>Use Hardware Acceleration when available</value>
+  <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff" xml:space="preserve">
+    <value>Desactivar aceleración por hardware forzada</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
-    <value>Disable this setting if you are encountering Out Of Memory crashes</value>
+  <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff_Tooltip" xml:space="preserve">
+    <value>Activa esta opción si experimentas bloqueos por falta de memoria</value>
   </data>
   <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
     <value>{0} Group</value>
