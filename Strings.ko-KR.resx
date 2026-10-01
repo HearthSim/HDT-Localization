@@ -4786,10 +4786,10 @@
     <value>선술집에 블랙 프라이데이가 도착했습니다! 한정 기간내에 프리미엄 + Tier7을 {0}% 할인된 가격으로 이용하세요!</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff" xml:space="preserve">
-    <value>Force Hardware Acceleration off</value>
+    <value>하드웨어 가속 강제 끄기</value>
   </data>
   <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff_Tooltip" xml:space="preserve">
-    <value>Enable this setting if you are encountering Out Of Memory crashes</value>
+    <value>메모리 부족 오류가 발생할 경우 활성화</value>
   </data>
   <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
     <value>{0} 그룹</value>
