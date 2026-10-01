@@ -4785,11 +4785,11 @@
   <data name="PreLobbySale_Blackfriday_Description" xml:space="preserve">
     <value>黑色星期五来袭酒馆！解锁会员 + Tier7 ，限时享受{0}%折扣！</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration" xml:space="preserve">
-    <value>可用时使用硬件加速</value>
+  <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff" xml:space="preserve">
+    <value>Force Hardware Acceleration off</value>
   </data>
-  <data name="Options_Tracker_General_CheckBox_HardwareAcceleration_Tooltip" xml:space="preserve">
-    <value>若遇到内存不足导致崩溃时请禁用此设置</value>
+  <data name="Options_Tracker_General_CheckBox_ForceHardwareAccelerationOff_Tooltip" xml:space="preserve">
+    <value>Enable this setting if you are encountering Out Of Memory crashes</value>
   </data>
   <data name="Arena_Legendary_Group_Cards" xml:space="preserve">
     <value>{0}传说团队</value>
