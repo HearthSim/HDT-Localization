@@ -466,7 +466,7 @@
     <value>Nur wenn HS im Vordergrund</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>Schlachtfeld-Mechanik (Anomalie/Gottheit)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Kartentooltips</value>
@@ -604,7 +604,7 @@
     <value>Separates aufnehmbares Overlay-Fenster anzeigen</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>Erfassbares Fenster für Schlachtfeld-Mechanik (Anomalie/Gottheit) anzeigen</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Transparenzanimation verhindern, die mit Chroma Keying inkompatibel sind (empfohlen)</value>
@@ -2065,7 +2065,7 @@
     <value>Stoppuhr</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>Schlachtfeld-Mechanik</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>Anomalie</value>
