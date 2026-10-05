@@ -466,7 +466,7 @@
     <value>Only if HS in foreground</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>กลไก Battlegrounds (Anomaly/Deity)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Card tooltips</value>
@@ -604,7 +604,7 @@
     <value>แสดงหน้าต่าง overlay แยกที่จับภาพได้</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>แสดงหน้าต่างกลไก Battlegrounds (Anomaly/Deity) ที่จับภาพได้</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>ป้องกันการเปลี่ยนความทึบแสงที่ไม่รองรับกับการทำ chroma key (แนะนำ)</value>
@@ -2065,7 +2065,7 @@
     <value>Timer</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>กลไก Battlegrounds</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>ความผิดปกติ</value>
