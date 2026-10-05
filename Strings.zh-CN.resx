@@ -466,7 +466,7 @@
     <value>只在炉石传说窗口活跃时</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>酒馆战棋机制（畸变/神明）</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>显示卡牌信息</value>
@@ -604,7 +604,7 @@
     <value>显示可捕捉的独立内嵌浮窗窗口</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>显示可截取的酒馆战棋机制（畸变/神明）窗口</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止透明度过渡，避免与色度键不兼容（推荐）</value>
@@ -2065,7 +2065,7 @@
     <value>计时器</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>酒馆战棋机制</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>畸变</value>
