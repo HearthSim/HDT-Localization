@@ -466,7 +466,7 @@
     <value>하스스톤 창이 활성화된 경우에만</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>전장 메커니즘 (변칙/신령)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>카드 툴팁</value>
@@ -604,7 +604,7 @@
     <value>캡처 가능한 별도의 오버레이 창 보기</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>캡처 가능한 전장 메커니즘 (변칙/신령) 창 표시</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>크로마 키와 호환되지 않는 투명도 전환 방지 (권장)</value>
@@ -2065,7 +2065,7 @@
     <value>타이머</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>전장 메커니즘</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>변형물</value>
