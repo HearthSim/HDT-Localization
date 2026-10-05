@@ -465,8 +465,8 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>Tylko gdy Hearthstone jest aktywny</value>
   </data>
-  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>Anomaly</value>
+  <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
+    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Opis kart</value>
@@ -603,8 +603,8 @@
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>Pokaż osobne okno overlaya do przechwytywania</value>
   </data>
-  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
-    <value>Show capturable Anomaly window</value>
+  <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
+    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Zapobiegaj przejściom przezroczystości niekompatybilnym z kluczowaniem koloru (zalecane)</value>
@@ -2064,8 +2064,14 @@
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>Zegar</value>
   </data>
-  <data name="AnomalyWindow_Title" xml:space="preserve">
-    <value>Anomaly</value>
+  <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
+    <value>Battlegrounds Mechanic</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
+    <value>Anomalia</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Deity" xml:space="preserve">
+    <value>Bóstwo</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>Stats</value>
@@ -2182,7 +2188,7 @@
     <value>Hearthstone Deck Tracker się rozjebał :(.</value>
   </data>
   <data name="CrashDialog_Label_Special_UnsignedBlocked" xml:space="preserve">
-    <value>Windows blocked a file Hearthstone Deck Tracker needs to run. Please ensure you're using an official version of Hearthstone Deck Tracker downloaded from HSReplay.net.</value>
+    <value>System Windows zablokował plik potrzebny do uruchomienia Hearthstone Deck Trackera. Upewnij się, że korzystasz z oficjalnej wersji Hearthstone Deck Trackera pobranej z HSReplay.net.</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Błąd:</value>
