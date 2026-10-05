@@ -466,7 +466,7 @@
     <value>Tylko gdy Hearthstone jest aktywny</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>Mechanika Ustawek (Anomalia/Bóstwo)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Opis kart</value>
@@ -604,7 +604,7 @@
     <value>Pokaż osobne okno overlaya do przechwytywania</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>Pokaż przechwytywalne okno mechaniki Ustawek (Anomalia/Bóstwo)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Zapobiegaj przejściom przezroczystości niekompatybilnym z kluczowaniem koloru (zalecane)</value>
@@ -2065,7 +2065,7 @@
     <value>Zegar</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>Mechanika Ustawek</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>Anomalia</value>
