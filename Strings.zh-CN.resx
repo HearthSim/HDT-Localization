@@ -465,8 +465,8 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>只在炉石传说窗口活跃时</value>
   </data>
-  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>畸变</value>
+  <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
+    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>显示卡牌信息</value>
@@ -603,8 +603,8 @@
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>显示可捕捉的独立内嵌浮窗窗口</value>
   </data>
-  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
-    <value>显示可捕捉的畸变窗口</value>
+  <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
+    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止透明度过渡，避免与色度键不兼容（推荐）</value>
@@ -2064,8 +2064,14 @@
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>计时器</value>
   </data>
-  <data name="AnomalyWindow_Title" xml:space="preserve">
+  <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
+    <value>Battlegrounds Mechanic</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>畸变</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Deity" xml:space="preserve">
+    <value>神明</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>数据</value>
@@ -2182,7 +2188,7 @@
     <value>HDT程序崩溃啦 :(</value>
   </data>
   <data name="CrashDialog_Label_Special_UnsignedBlocked" xml:space="preserve">
-    <value>Windows blocked a file Hearthstone Deck Tracker needs to run. Please ensure you're using an official version of Hearthstone Deck Tracker downloaded from HSReplay.net.</value>
+    <value>Windows阻止了Hearthstone Deck Tracker运行所需的文件。请确保您使用的是从HSReplay.net下载的Hearthstone Deck Tracker官方版本。</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>错误：</value>
