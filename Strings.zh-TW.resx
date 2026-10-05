@@ -466,7 +466,7 @@
     <value>當爐石在當前畫面時</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>英雄戰場機制（異常／神祇）</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡片提示</value>
@@ -604,7 +604,7 @@
     <value>顯示可擷取的獨立 overlay 視窗</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>顯示可擷取的英雄戰場機制（異常／神祇）視窗</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止與色度鍵去背不相容的不透明度轉場效果（建議）</value>
@@ -2065,7 +2065,7 @@
     <value>計時器</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>英雄戰場機制</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>異變</value>
