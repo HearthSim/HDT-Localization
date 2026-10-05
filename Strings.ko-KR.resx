@@ -465,8 +465,8 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>하스스톤 창이 활성화된 경우에만</value>
   </data>
-  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>변형물</value>
+  <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
+    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>카드 툴팁</value>
@@ -603,8 +603,8 @@
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>캡처 가능한 별도의 오버레이 창 보기</value>
   </data>
-  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
-    <value>Show capturable Anomaly window</value>
+  <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
+    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>크로마 키와 호환되지 않는 투명도 전환 방지 (권장)</value>
@@ -2064,8 +2064,14 @@
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>타이머</value>
   </data>
-  <data name="AnomalyWindow_Title" xml:space="preserve">
+  <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
+    <value>Battlegrounds Mechanic</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>변형물</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Deity" xml:space="preserve">
+    <value>신</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>통계</value>
@@ -2180,6 +2186,9 @@
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
     <value>Hearthstone Deck Tracker에 충돌이 발생하였습니다 :(.</value>
+  </data>
+  <data name="CrashDialog_Label_Special_UnsignedBlocked" xml:space="preserve">
+    <value>Windows가 Hearthstone Deck Tracker 실행에 필요한 파일을 차단했습니다. HSReplay.net에서 다운로드한 공식 버전의 Hearthstone Deck Tracker를 사용하고 있는지 확인하세요.</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>오류:</value>

@@ -465,8 +465,8 @@
   <data name="Options_DeckWindows_CheckBox_HsForeground" xml:space="preserve">
     <value>當爐石在當前畫面時</value>
   </data>
-  <data name="Options_DeckWindows_CheckBox_Anomaly" xml:space="preserve">
-    <value>異象</value>
+  <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
+    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>卡片提示</value>
@@ -603,8 +603,8 @@
   <data name="Options_Overlay_Streaming_CheckBox_Show" xml:space="preserve">
     <value>顯示可擷取的獨立 overlay 視窗</value>
   </data>
-  <data name="Options_Overlay_Streaming_CheckBox_AnomalyWindow" xml:space="preserve">
-    <value>Show capturable Anomaly window</value>
+  <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
+    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>防止與色度鍵去背不相容的不透明度轉場效果（建議）</value>
@@ -2064,8 +2064,14 @@
   <data name="TimerWindow_Title" xml:space="preserve">
     <value>計時器</value>
   </data>
-  <data name="AnomalyWindow_Title" xml:space="preserve">
-    <value>異象</value>
+  <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
+    <value>Battlegrounds Mechanic</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
+    <value>異變</value>
+  </data>
+  <data name="BattlegroundsMechanicWindow_Title_Deity" xml:space="preserve">
+    <value>神</value>
   </data>
   <data name="StatsWindow_Title" xml:space="preserve">
     <value>統計</value>
@@ -2180,6 +2186,9 @@
   </data>
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
     <value>HDT崩潰啦 :(.</value>
+  </data>
+  <data name="CrashDialog_Label_Special_UnsignedBlocked" xml:space="preserve">
+    <value>Windows 封鎖了 Hearthstone Deck Tracker 執行所需的檔案。請確認您使用的是從 HSReplay.net 下載的官方版本 Hearthstone Deck Tracker。</value>
   </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>錯誤:</value>
