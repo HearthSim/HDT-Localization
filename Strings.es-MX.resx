@@ -2181,6 +2181,9 @@
   <data name="CrashDialog_Label_Crashed" xml:space="preserve">
     <value>Hdt se ha colgado :(</value>
   </data>
+  <data name="CrashDialog_Label_Special_UnsignedBlocked" xml:space="preserve">
+    <value>Windows blocked a file Hearthstone Deck Tracker needs to run. Please ensure you're using an official version of Hearthstone Deck Tracker downloaded from HSReplay.net.</value>
+  </data>
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Error:</value>
   </data>
