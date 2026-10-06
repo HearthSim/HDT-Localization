@@ -466,7 +466,7 @@
     <value>Apenas se o HS estiver em primeiro plano</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_BattlegroundsMechanic" xml:space="preserve">
-    <value>Battlegrounds Mechanic (Anomaly/Deity)</value>
+    <value>Mecânica dos Campos de Batalha (Anomalia/Divindade)</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_CardTooltips" xml:space="preserve">
     <value>Dicas de contexto nas cartas</value>
@@ -604,7 +604,7 @@
     <value>Mostrar janela de overlay capturável separada</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_BattlegroundsMechanicWindow" xml:space="preserve">
-    <value>Show capturable Battlegrounds Mechanic (Anomaly/Deity) window</value>
+    <value>Exibir janela capturável da Mecânica dos Campos de Batalha (Anomalia/Divindade)</value>
   </data>
   <data name="Options_Overlay_Streaming_CheckBox_DisableTransitions" xml:space="preserve">
     <value>Impedir transições de opacidade incompatíveis com chroma key (recomendado)</value>
@@ -2065,7 +2065,7 @@
     <value>Contador</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title" xml:space="preserve">
-    <value>Battlegrounds Mechanic</value>
+    <value>Mecânica dos Campos de Batalha</value>
   </data>
   <data name="BattlegroundsMechanicWindow_Title_Anomaly" xml:space="preserve">
     <value>Anomalia</value>
@@ -5360,5 +5360,11 @@
   </data>
   <data name="OptionsRelatedCards_CustomizedOnly" xml:space="preserve">
     <value>Apenas personalizadas</value>
+  </data>
+  <data name="Counter_SummonedDeathrattleMinions" xml:space="preserve">
+    <value>Lacaios com Sussurros Mortais Invocados</value>
+  </data>
+  <data name="Counter_BloodRunesPlayed" xml:space="preserve">
+    <value>Runas de Sangue Jogadas</value>
   </data>
 </root>
