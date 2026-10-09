@@ -4015,10 +4015,10 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>MOSTRAR OVERLAY DO HERÓI</value>
+    <value>MOSTRAR DADOS DE HERÓI</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>OCULTAR OVERLAY DO HERÓI</value>
+    <value>OCULTAR DADOS DE HERÓI</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
     <value>Cards não suportados encontrados</value>
@@ -4519,7 +4519,7 @@
     <value>Nenhum Guia Disponível</value>
   </data>
   <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
-    <value>Lacaios Favoráveis</value>
+    <value>Tipos de Lacaio Favoráveis</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
     <value>Mostrar Navegador de Lacaios e Guias</value>

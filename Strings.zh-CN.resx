@@ -4015,10 +4015,10 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>显示英雄内嵌</value>
+    <value>显示英雄统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>隐藏英雄内嵌</value>
+    <value>隐藏英雄统计</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
     <value>包含不支持的卡牌</value>
@@ -4519,7 +4519,7 @@
     <value>没有可用指南</value>
   </data>
   <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
-    <value>喜爱的随从</value>
+    <value>有利的随从类型</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
     <value>显示随从和指南浏览器</value>

@@ -4015,10 +4015,10 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>ПОКАЗЫВАТЬ ИНТЕРФЕЙС ГЕРОЯ</value>
+    <value>ПОКАЗАТЬ СТАТИСТИКУ ГЕРОЕВ</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>СКРЫТЬ ИНТЕРФЕЙС ГЕРОЯ</value>
+    <value>СКРЫТЬ СТАТИСТИКУ ГЕРОЕВ</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
     <value>Найдены неподдерживаемые карты</value>
@@ -4519,7 +4519,7 @@
     <value>No Guide Available</value>
   </data>
   <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
-    <value>Favorable Minions</value>
+    <value>Выгодные типы существ</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
     <value>Show Minions and Guides Browser</value>
