@@ -4464,6 +4464,9 @@
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>플레이 방법</value>
   </data>
+  <data name="Battlegrounds_CompGuide_TierAdjustedFrom" xml:space="preserve">
+    <value>Tier adjusted from {0} for this match.</value>
+  </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
     <value>핵심 카드</value>
   </data>
