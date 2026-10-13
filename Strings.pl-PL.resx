@@ -2350,16 +2350,16 @@
     <value>Zamknij</value>
   </data>
   <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
-    <value>Could not log in to HSReplay.net</value>
+    <value>Nie udało się zalogować w HSReplay.net</value>
   </data>
   <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
-    <value>HDT was unable to open any of the ports required to log in. Please try restarting your PC.</value>
+    <value>HDT nie mógł otworzyć żadnego z portów wymaganych do logowania. Spróbuj ponownie uruchomić komputer.</value>
   </data>
   <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
-    <value>The login was cancelled or did not complete. Please try again.</value>
+    <value>Logowanie zostało anulowane lub nie zostało ukończone. Spróbuj ponownie.</value>
   </data>
   <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
-    <value>The server did not respond as expected. Please make sure you're using the latest version of Hearthstone Deck Tracker and try again in a bit.</value>
+    <value>Serwer nie odpowiedział zgodnie z oczekiwaniami. Upewnij się, że korzystasz z najnowszej wersji Hearthstone Deck Tracker i spróbuj ponownie za chwilę.</value>
   </data>
   <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
     <value>Spróbuj ponownie</value>
