@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>閉じる</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>HSReplay.netにログインできませんでした</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDTはログインに必要なポートを開くことができませんでした。PCを再起動してみてください。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>ログインがキャンセルされたか、完了しませんでした。もう一度お試しください。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>サーバーから予期した応答がありませんでした。Hearthstone Deck Trackerの最新バージョンを使用していることを確認し、しばらくしてからもう一度お試しください。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>再試行</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>続き.</value>
   </data>

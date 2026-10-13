@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>закрыть</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>Не удалось войти на HSReplay.net</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDT не удалось открыть ни один из портов, необходимых для входа. Попробуйте перезагрузить компьютер.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>Вход был отменён или не завершён. Повторите попытку.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>Сервер ответил неожиданным образом. Убедитесь, что вы используете последнюю версию Hearthstone Deck Tracker, и попробуйте снова чуть позже.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>Повторите попытку</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Продолжить...</value>
   </data>

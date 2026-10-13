@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>Schließen</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>Anmeldung bei HSReplay.net fehlgeschlagen</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDT konnte keinen der zur Anmeldung erforderlichen Ports öffnen. Bitte versuche, deinen PC neu zu starten.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>Die Anmeldung wurde abgebrochen oder nicht abgeschlossen. Bitte versuche es erneut.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>Der Server hat nicht wie erwartet geantwortet. Bitte stelle sicher, dass du die neueste Version von Hearthstone Deck Tracker verwendest, und versuche es in Kürze erneut.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>Erneut versuchen</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>Schließen</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Weiter...</value>
   </data>

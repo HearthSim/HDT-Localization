@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>关闭</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>无法登录到HSReplay.net</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDT无法打开登录所需的任何端口。请尝试重启你的电脑。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>登录已取消或未完成。请重试。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>服务器未按预期响应。请确保你使用的是最新版本的Hearthstone Deck Tracker，稍后再试。</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>再试一次</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>更多……</value>
   </data>
