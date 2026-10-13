@@ -4015,10 +4015,10 @@
     <value>Tier7</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Show" xml:space="preserve">
-    <value>显示英雄内嵌</value>
+    <value>显示英雄统计</value>
   </data>
   <data name="BattlegroundsHeroPicking_VisibilityToggle_Hide" xml:space="preserve">
-    <value>隐藏英雄内嵌</value>
+    <value>隐藏英雄统计</value>
   </data>
   <data name="BobsBuddyStatusMessage_UnsupportedCards" xml:space="preserve">
     <value>包含不支持的卡牌</value>
@@ -4464,6 +4464,9 @@
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>玩法说明</value>
   </data>
+  <data name="Battlegrounds_CompGuide_TierAdjustedFrom" xml:space="preserve">
+    <value>本场比赛的等级由 {0} 调整。</value>
+  </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
     <value>核心卡牌</value>
   </data>
@@ -4519,7 +4522,7 @@
     <value>没有可用指南</value>
   </data>
   <data name="Battlegrounds_Guides_FavorableMinions" xml:space="preserve">
-    <value>喜爱的随从</value>
+    <value>有利的随从类型</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowBrowser" xml:space="preserve">
     <value>显示随从和指南浏览器</value>
@@ -5029,7 +5032,7 @@
     <value>当第二张也在时，顶级玩家会 {1}%更多的保留 {0}</value>
   </data>
   <data name="MulliganGV2_IconTooltip_Title" xml:space="preserve">
-    <value>卡片交互： {0}{1}%</value>
+    <value>卡牌交互： {0}{1}%</value>
   </data>
   <data name="Options_Overlay_Mulligan_Header" xml:space="preserve">
     <value>留牌</value>
@@ -5245,7 +5248,7 @@
     <value>打出的随从类型数量</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_UseCardTiles" xml:space="preserve">
-    <value>以卡片列表显示卡池（使用较少的数据）</value>
+    <value>以卡牌列表显示卡池（使用较少的数据）</value>
   </data>
   <data name="ConstructedTrialsExhausted_Header" xml:space="preserve">
     <value>留牌指南游戏内嵌浮窗</value>
