@@ -3361,13 +3361,13 @@
     <value>在购买阶段中显示结果</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>HDT v{0} required.</value>
+    <value>需要 HDT v{0}。</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>HDT v{0} required: {1}</value>
+    <value>需要 HDT v{0}：{1}</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>Update Now</value>
+    <value>立即更新</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>无法获得精确结果</value>
