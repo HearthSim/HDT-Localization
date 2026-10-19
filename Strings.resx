@@ -3361,7 +3361,13 @@
     <value>Show results during shopping phase</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Update Required: v{0}</value>
+    <value>HDT v{0} required.</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
+    <value>HDT v{0} required: {1}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
+    <value>Update Now</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
