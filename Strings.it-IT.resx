@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>chiudi</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>Impossibile accedere a HSReplay.net</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDT non è riuscito ad aprire nessuna delle porte necessarie per l'accesso. Prova a riavviare il PC.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>L'accesso è stato annullato o non è stato completato. Riprova.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>Il server non ha risposto come previsto. Assicurati di utilizzare l'ultima versione di Hearthstone Deck Tracker e riprova tra poco.</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>Riprova</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>Continua...</value>
   </data>
@@ -3343,7 +3361,13 @@
     <value>Mostra risultati durante la fase di shopping</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>Aggiornamento richiesto: v{0}</value>
+    <value>Richiesta HDT v{0}.</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
+    <value>Richiesta HDT v{0}: {1}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
+    <value>Aggiorna ora</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Impossibile ottenere risultati accurati</value>

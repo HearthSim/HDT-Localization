@@ -2349,6 +2349,24 @@
   <data name="MessageDialogs_UnevenPermissions_Button_Close" xml:space="preserve">
     <value>ปิด</value>
   </data>
+  <data name="MessageDialogs_LoginFailed_Title" xml:space="preserve">
+    <value>ไม่สามารถเข้าสู่ระบบ HSReplay.net ได้</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_CallbackListener" xml:space="preserve">
+    <value>HDT ไม่สามารถเปิดพอร์ตใด ๆ ที่จำเป็นสำหรับการเข้าสู่ระบบได้ กรุณาลองรีสตาร์ท PC ของคุณ</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Cancelled" xml:space="preserve">
+    <value>การเข้าสู่ระบบถูกยกเลิกหรือไม่เสร็จสมบูรณ์ กรุณาลองอีกครั้ง</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Description_Server" xml:space="preserve">
+    <value>เซิร์ฟเวอร์ไม่ตอบสนองตามที่คาดไว้ กรุณาตรวจสอบว่าคุณกำลังใช้ Hearthstone Deck Tracker เวอร์ชันล่าสุด แล้วลองอีกครั้งในอีกสักครู่</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_TryAgain" xml:space="preserve">
+    <value>ลองใหม่อีกครั้ง</value>
+  </data>
+  <data name="MessageDialogs_LoginFailed_Button_Close" xml:space="preserve">
+    <value>ปิด</value>
+  </data>
   <data name="UpdateNotes_Label_Continue" xml:space="preserve">
     <value>ดำเนินการต่อ...</value>
   </data>
@@ -3343,7 +3361,13 @@
     <value>Show results during shopping phase</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>ต้องอัพเดต: v{0}</value>
+    <value>ต้องใช้ HDT v{0}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
+    <value>ต้องใช้ HDT v{0}: {1}</value>
+  </data>
+  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
+    <value>อัพเดตตอนนี้</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>
