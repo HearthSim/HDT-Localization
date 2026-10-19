@@ -3361,13 +3361,13 @@
     <value>雇用フェーズ中に結果を表示</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
-    <value>HDT v{0} required.</value>
+    <value>HDT v{0}が必要です。</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>HDT v{0} required: {1}</value>
+    <value>HDT v{0}が必要です: {1}</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>Update Now</value>
+    <value>今すぐ更新</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>正確な結果を取得できませんでした</value>
