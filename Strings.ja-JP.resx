@@ -3664,16 +3664,16 @@
     <value>On Top</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>除外されたミニオン</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
-    <value>Composition Stats</value>
+    <value>構成統計</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
-    <value>Failed to load compositions</value>
+    <value>構成の読み込みに失敗しました</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
-    <value>Composition</value>
+    <value>構成</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
     <value>１位</value>
@@ -3751,7 +3751,7 @@
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>最新8試合がここに表示されます。</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>リセット</value>
@@ -3784,13 +3784,13 @@
     <value>Session Recap</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>次の試合を待っています</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show session recap between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>ミニオンなし</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>デッキのカードが40枚未満です。</value>
@@ -4324,10 +4324,10 @@
     <value>Show available minion types</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>使用可能なミニオン</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>ミニオンの種類</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
     <value>Tavern Tier {0}</value>
@@ -5134,7 +5134,7 @@
     <value>Keep Rate going second: {0}%</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
-    <value>Place</value>
+    <value>順位</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
     <value>Enable The OutFinder</value>
