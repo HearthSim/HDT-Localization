@@ -4875,9 +4875,6 @@
   <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
     <value>●随从浏览器</value>
   </data>
-  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
-    <value>●流派指南</value>
-  </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
     <value>●或者标记此种族的所有随从</value>
   </data>
@@ -5331,9 +5328,6 @@
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>有新版本的 Hearthstone Deck Tracker ({0}) 。在您更新之前，结果可能不准确。</value>
   </data>
-  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>显示最大铸币</value>
-  </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
     <value>已召唤的野兽数量</value>
   </data>
@@ -5342,6 +5336,9 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>残骸</value>
+  </data>
+  <data name="OptionsCounters_MaxGold" xml:space="preserve">
+    <value>Maximum Gold</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
     <value>启动 Hearthstone Deck Tracker 时出错</value>
