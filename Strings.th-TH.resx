@@ -3664,28 +3664,28 @@
     <value>On Top</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Banned" xml:space="preserve">
-    <value>Banned Minions</value>
+    <value>มินเนี่ยนที่ถูกแบน</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
-    <value>Composition Stats</value>
+    <value>สถิติคอมโพสิชัน</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
-    <value>Failed to load compositions</value>
+    <value>ไม่สามารถโหลดคอมโพสิชันได้</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
-    <value>Composition</value>
+    <value>คอมโพสิชัน</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
-    <value>First Place</value>
+    <value>อันดับที่หนึ่ง</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_AveragePlace" xml:space="preserve">
-    <value>Avg Place</value>
+    <value>อันดับเฉลี่ย</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Latest_Games" xml:space="preserve">
-    <value>Latest Games</value>
+    <value>เกมล่าสุด</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecap" xml:space="preserve">
     <value>Enable session recap overlay</value>
@@ -3706,13 +3706,13 @@
     <value>Reset Session</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Hero" xml:space="preserve">
-    <value>Hero</value>
+    <value>ฮีโร่</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_MMR" xml:space="preserve">
     <value>MMR</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState1" xml:space="preserve">
-    <value>No games played this session.</value>
+    <value>ยังไม่มีเกมในเซสชันนี้</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_1" xml:space="preserve">
     <value>{0}st</value>
@@ -3727,10 +3727,10 @@
     <value>{0}th</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Start" xml:space="preserve">
-    <value>Start</value>
+    <value>เริ่มต้น</value>
   </data>
   <data name="Battlegrounds_Session_MMR_Label_Current" xml:space="preserve">
-    <value>Current</value>
+    <value>ปัจจุบัน</value>
   </data>
   <data name="Battlegrounds_Game_Ordinal_4" xml:space="preserve">
     <value>{0}th</value>
@@ -3751,13 +3751,13 @@
     <value>Resetting the session will clear the Latest Games list and set the Start MMR to match your current MMR.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>8 เกมล่าสุดจะปรากฏที่นี่</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board" xml:space="preserve">
-    <value>Final Board</value>
+    <value>กระดานสุดท้าย</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_ResetPos_Title" xml:space="preserve">
     <value>Reset overlay to default</value>
@@ -3784,13 +3784,13 @@
     <value>Session Recap</value>
   </data>
   <data name="Battlegrounds_Session_Text_WaitingNextGame" xml:space="preserve">
-    <value>Waiting for next game</value>
+    <value>กำลังรอเกมถัดไป</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowSessionRecapBetweenGames" xml:space="preserve">
     <value>Show session recap between games</value>
   </data>
   <data name="Battlegrounds_Session_Game_Tooltip_Final_Board_Empty" xml:space="preserve">
-    <value>No minion played</value>
+    <value>ไม่มีมินเนี่ยนที่เล่น</value>
   </data>
   <data name="Enum_DeckEditorWarnings_LessThan40" xml:space="preserve">
     <value>Deck has less than 40 cards.</value>
@@ -4324,10 +4324,10 @@
     <value>Show available minion types</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_Available" xml:space="preserve">
-    <value>Available Minions</value>
+    <value>มินเนี่ยนที่มีให้เล่น</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_Minions_MinionTypes" xml:space="preserve">
-    <value>Minion Types</value>
+    <value>ประเภทมินเนี่ยน</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
     <value>Tavern Tier {0}</value>
@@ -4875,9 +4875,6 @@
   <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
     <value>● The Minion Browser</value>
   </data>
-  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
-    <value>● Comp Guides</value>
-  </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
     <value>● Or pin entire minion types below</value>
   </data>
@@ -5134,7 +5131,7 @@
     <value>Keep Rate going second: {0}%</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
-    <value>Place</value>
+    <value>อันดับ</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
     <value>Enable The OutFinder</value>
@@ -5331,9 +5328,6 @@
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
   </data>
-  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>Show Maximum Gold</value>
-  </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
     <value>Summoned Beasts</value>
   </data>
@@ -5342,6 +5336,9 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
+  </data>
+  <data name="OptionsCounters_MaxGold" xml:space="preserve">
+    <value>Maximum Gold</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
     <value>เกิดข้อผิดพลาดในการเริ่ม Hearthstone Deck Tracker</value>

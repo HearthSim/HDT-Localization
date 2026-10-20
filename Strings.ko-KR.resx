@@ -4875,9 +4875,6 @@
   <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
     <value>● 하수인 탐색기</value>
   </data>
-  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
-    <value>● 조합 가이드</value>
-  </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
     <value>● 혹은 아래 하수인 종류 전부 핀하기</value>
   </data>
@@ -5134,7 +5131,7 @@
     <value>Keep Rate going second: {0}%</value>
   </data>
   <data name="Battlegrounds_Session_Games_Label_Place" xml:space="preserve">
-    <value>Place</value>
+    <value>순위</value>
   </data>
   <data name="OptionsTheOutfinder_CheckBox_Enable" xml:space="preserve">
     <value>Enable The OutFinder</value>
@@ -5331,9 +5328,6 @@
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
   </data>
-  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>Show Maximum Gold</value>
-  </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
     <value>Summoned Beasts</value>
   </data>
@@ -5342,6 +5336,9 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Corpses</value>
+  </data>
+  <data name="OptionsCounters_MaxGold" xml:space="preserve">
+    <value>Maximum Gold</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
     <value>하스스톤 덱 트래커 시작 오류</value>

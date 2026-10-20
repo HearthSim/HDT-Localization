@@ -3667,13 +3667,13 @@
     <value>Gebannte Diener</value>
   </data>
   <data name="Battlegrounds_Session_Header_Label_CompStats" xml:space="preserve">
-    <value>Composition Stats</value>
+    <value>Kompositionsstatistiken</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_ErrorMessage" xml:space="preserve">
-    <value>Failed to load compositions</value>
+    <value>Kompositionen konnten nicht geladen werden</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_Composition" xml:space="preserve">
-    <value>Composition</value>
+    <value>Komposition</value>
   </data>
   <data name="Battlegrounds_Session_CompStats_Label_FirstPlace" xml:space="preserve">
     <value>Erster Platz</value>
@@ -3751,7 +3751,7 @@
     <value>Das Zurücksetzen der Sitzung wird die Liste der letzten Partien leeren und das Start-MMR auf dein aktuelles MMR setzen.</value>
   </data>
   <data name="Battlegrounds_Session_Games_Text_EmptyState2" xml:space="preserve">
-    <value>Latest 8 games will appear here.</value>
+    <value>Die letzten 8 Partien werden hier angezeigt.</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_Dialog_Confirmation_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
@@ -4875,9 +4875,6 @@
   <data name="BattlegroundsTavernPinning_QuickGuide_Browser" xml:space="preserve">
     <value>● The Minion Browser</value>
   </data>
-  <data name="BattlegroundsTavernPinning_QuickGuide_Comp" xml:space="preserve">
-    <value>● Comp Guides</value>
-  </data>
   <data name="BattlegroundsTavernPinning_QuickGuide_Tribe" xml:space="preserve">
     <value>● Or pin entire minion types below</value>
   </data>
@@ -5331,9 +5328,6 @@
   <data name="BobsBuddyWarningTooltip_UpdateAvailable" xml:space="preserve">
     <value>A newer version of Hearthstone Deck Tracker ({0}) is available. Results may be less accurate until you update.</value>
   </data>
-  <data name="Options_Overlay_Battlegrounds_CheckBox_MaxResourcesWidget" xml:space="preserve">
-    <value>Maximales Gold anzeigen</value>
-  </data>
   <data name="Counter_SummonedBeasts" xml:space="preserve">
     <value>Beschworene Bestien</value>
   </data>
@@ -5342,6 +5336,9 @@
   </data>
   <data name="OptionsCounters_Corpses" xml:space="preserve">
     <value>Leichen</value>
+  </data>
+  <data name="OptionsCounters_MaxGold" xml:space="preserve">
+    <value>Maximum Gold</value>
   </data>
   <data name="Startup_Error_Title" xml:space="preserve">
     <value>Fehler beim Starten des Hearthstone Deck Tracker</value>
