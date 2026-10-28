@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>搜尋</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>Search…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>玩家</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>開機時啟動</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>Autostart</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>自動後最小化</value>
   </data>
@@ -832,13 +839,13 @@
     <value>開啟時啟動爐石戰記</value>
   </data>
   <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
-    <value>Startup and background</value>
+    <value>啟動與背景</value>
   </data>
   <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
-    <value>Background behavior:</value>
+    <value>背景行為：</value>
   </data>
   <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
-    <value>Keep running in background</value>
+    <value>在背景持續執行</value>
   </data>
   <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
     <value>自訂</value>
@@ -2904,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>內容創作</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>Streaming</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Overlay 擷取</value>
   </data>
@@ -3035,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>收藏</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>Sync Collection</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>登入至HSReplay.net</value>
@@ -5335,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Filter counters…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5398,7 +5413,7 @@
     <value>選擇哪些卡片會列在對手的相關卡片中。「自動」會使用內建規則，只在卡片可能有影響時才列出。「一律顯示」即使對手尚未使用該卡也會列出，適用於你懷疑對手手上握有的卡片。「永不顯示」則會將其從列表中隱藏。此設定僅在對手選項中啟用對手相關卡片時生效。</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>篩選卡片...</value>
+    <value>Filter cards…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>沒有符合篩選條件的卡片。</value>
