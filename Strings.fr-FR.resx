@@ -454,7 +454,7 @@
     <value>Rechercher</value>
   </data>
   <data name="Options_Search_Placeholder" xml:space="preserve">
-    <value>Search…</value>
+    <value>Chercher…</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Joueur</value>
@@ -820,7 +820,7 @@
     <value>Démarrer avec Windows</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
-    <value>Autostart</value>
+    <value>démarrage automatique, autostart, démarrer avec windows</value>
     <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
@@ -3048,7 +3048,7 @@
     <value>Collection</value>
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
-    <value>Sync Collection</value>
+    <value>synchroniser collection, collection, synchronisation</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -5350,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters…</value>
+    <value>Filtrer les contres…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5413,7 +5413,7 @@
     <value>Choisissez quelles cartes apparaissent dans les Cartes liées de l'adversaire. « Auto » utilise les règles intégrées, qui n'affichent une carte que lorsqu'elle est susceptible d'avoir de l'importance. « Toujours afficher » liste une carte même si l'adversaire ne l'a pas encore jouée, pour les cartes que vous soupçonnez qu'il détient. « Ne jamais afficher » la masque de la liste. Ceci ne s'applique que lorsque les cartes liées de l'adversaire sont activées dans les options Adversaire.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filter cards…</value>
+    <value>Filtrer les cartes…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>Aucune carte ne correspond à votre filtre.</value>
