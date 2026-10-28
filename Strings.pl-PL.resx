@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Wyszukaj</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>Search…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Gracz</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>Uruchamiaj przy starcie systemu Windows</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>Autostart</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Uruchom od razu jako zminimalizowany program</value>
   </data>
@@ -832,13 +839,13 @@
     <value>Launch Hearthstone on start</value>
   </data>
   <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
-    <value>Startup and background</value>
+    <value>Uruchamianie i działanie w tle</value>
   </data>
   <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
-    <value>Background behavior:</value>
+    <value>Działanie w tle:</value>
   </data>
   <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
-    <value>Keep running in background</value>
+    <value>Pozostaw działającą w tle</value>
   </data>
   <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
     <value>Własny</value>
@@ -2904,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>Tworzenie treści</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>Streaming</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Przechwytywanie overlaya</value>
   </data>
@@ -3035,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Kolekcja</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>Sync Collection</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Zaloguj w HSReplay.net</value>
@@ -5335,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Filter counters…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5398,7 +5413,7 @@
     <value>Wybierz, które karty pojawiają się na liście Powiązanych kart przeciwnika. „Auto” korzysta z wbudowanych reguł, które pokazują kartę tylko wtedy, gdy prawdopodobnie ma znaczenie. „Zawsze pokazuj” wyświetla kartę, nawet jeśli przeciwnik jeszcze jej nie zagrał — dla kart, które według ciebie ma w ręce. „Nigdy nie pokazuj” ukrywa ją z listy. Działa to tylko wtedy, gdy powiązane karty przeciwnika są włączone w opcjach Przeciwnika.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filtruj karty...</value>
+    <value>Filter cards…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>Żadne karty nie pasują do filtra.</value>
