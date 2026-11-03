@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Поиск</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>Поиск…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Игрок</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>Автозапуск с Windows</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>автозапуск, автостарт, запуск с Windows</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Запускать в свернутом виде</value>
   </data>
@@ -830,6 +837,18 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
     <value>Открывать Hearhstone при запуске</value>
+  </data>
+  <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
+    <value>Запуск и фоновый режим</value>
+  </data>
+  <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
+    <value>Поведение в фоновом режиме:</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
+    <value>Продолжать работу в фоновом режиме</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
+    <value>Вручную</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Проверка обновлений</value>
@@ -2892,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>Создание контента</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>Трансляция</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Захват интерфейса</value>
   </data>
@@ -3023,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Коллекция</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>Синхронизировать коллекцию</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Войти на HSReplay.net</value>
@@ -4492,25 +4519,25 @@
     <value>Божество</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>Все гайды по составам</value>
   </data>
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>Как играть</value>
   </data>
   <data name="Battlegrounds_CompGuide_TierAdjustedFrom" xml:space="preserve">
     <value>Уровень изменен с {0} для этого матча.</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>Основные карты</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>Дополнительные карты</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>Когда собирать</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>Обычные активаторы</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>Создатель</value>
@@ -4531,7 +4558,7 @@
     <value>Comp Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to see 1st place lineups with the core cards right on this screen!</value>
+    <value>Подпишитесь на Tier7, чтобы прямо на этом экране увидеть составы с основными картами, занявшие 1-е место!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
@@ -4543,7 +4570,7 @@
     <value>Free Version</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Lineups</value>
+    <value>Показать примеры составов</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Protoss Minions Cost Reduction</value>
@@ -5323,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Фильтр счетчиков…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5386,7 +5413,7 @@
     <value>Выберите, какие карты будут показаны в списке связанных карт противника. «Авто» использует встроенные правила, которые показывают карту только тогда, когда она, вероятно, будет важна. «Всегда показывать» отображает карту, даже если противник ещё её не разыграл — для карт, которые, по вашему мнению, у него на руке. «Никогда не показывать» скрывает её из списка. Это применяется только при включённых связанных картах противника в настройках противника.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Фильтр карт...</value>
+    <value>Фильтр карт…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>Нет карт, соответствующих фильтру.</value>

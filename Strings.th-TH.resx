@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Search</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>ค้นหา…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Player</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>เริ่มพร้อม Windows</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>เริ่มอัตโนมัติ, autostart, เปิดอัตโนมัติ, startup</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>เริ่มต้นแบบย่อหน้าต่าง</value>
   </data>
@@ -830,6 +837,18 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
     <value>Launch Hearthstone on start</value>
+  </data>
+  <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
+    <value>การเริ่มต้นและการทำงานเบื้องหลัง</value>
+  </data>
+  <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
+    <value>พฤติกรรมการทำงานเบื้องหลัง:</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
+    <value>ทำงานต่อในเบื้องหลัง</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
+    <value>กำหนดเอง</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>ตรวจสอบการอัพเดต</value>
@@ -2892,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>การสร้างคอนเทนต์</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>สตรีม, streaming, สตรีมมิ่ง, twitch</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>การจับภาพ Overlay</value>
   </data>
@@ -3023,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Collection</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>ซิงค์คอลเลกชัน, sync, คอลเลกชัน, collection, ซิงค์</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Login to HSReplay.net</value>
@@ -4492,28 +4519,28 @@
     <value>เทพ</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>คู่มือ Comp ทั้งหมด</value>
   </data>
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>วิธีเล่น</value>
   </data>
   <data name="Battlegrounds_CompGuide_TierAdjustedFrom" xml:space="preserve">
     <value>ปรับระดับจาก {0} สำหรับแมตช์นี้</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>การ์ดชุดหลัก</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>การ์ดเสริม</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>เมื่อไหร่ควรทุ่มสุดตัว</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>ตัวเสริมที่พบบ่อย</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Created by</value>
+    <value>สร้างขึ้นโดย</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>อัพเดตล่าสุด</value>
@@ -4531,7 +4558,7 @@
     <value>Comp Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to see 1st place lineups with the core cards right on this screen!</value>
+    <value>สมัคร Tier7 เพื่อดูไลน์อัปอันดับ 1 พร้อมการ์ดชุดหลักได้บนหน้าจอนี้เลย!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
@@ -4543,7 +4570,7 @@
     <value>Free Version</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Lineups</value>
+    <value>แสดงไลน์อัปตัวอย่าง</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Protoss Minions Cost Reduction</value>
@@ -5323,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>กรองเคาน์เตอร์…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5386,7 +5413,7 @@
     <value>เลือกว่าจะแสดงการ์ดใดในรายการการ์ดที่เกี่ยวข้องของคู่ต่อสู้ "อัตโนมัติ" จะใช้กฎในตัว ซึ่งจะแสดงการ์ดเฉพาะเมื่อมีแนวโน้มว่าจะสำคัญ "แสดงเสมอ" จะแสดงการ์ดแม้ว่าคู่ต่อสู้ยังไม่ได้เล่นการ์ดนั้น สำหรับการ์ดที่คุณสงสัยว่าพวกเขาถืออยู่ "ไม่แสดงเลย" จะซ่อนการ์ดจากรายการ ตัวเลือกนี้ใช้ได้เฉพาะเมื่อเปิดใช้งานการ์ดที่เกี่ยวข้องของคู่ต่อสู้ในตัวเลือกคู่ต่อสู้เท่านั้น</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>กรองการ์ด...</value>
+    <value>กรองการ์ด…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>ไม่มีการ์ดที่ตรงกับตัวกรองของคุณ</value>

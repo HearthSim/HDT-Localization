@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Wyszukaj</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>Szukaj…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Gracz</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>Uruchamiaj przy starcie systemu Windows</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>autostart, uruchamianie, start z systemem</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Uruchom od razu jako zminimalizowany program</value>
   </data>
@@ -830,6 +837,18 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
     <value>Launch Hearthstone on start</value>
+  </data>
+  <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
+    <value>Uruchamianie i działanie w tle</value>
+  </data>
+  <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
+    <value>Działanie w tle:</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
+    <value>Pozostaw działającą w tle</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
+    <value>Własny</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Sprawdzaj czy są dostępne aktualizacje</value>
@@ -2892,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>Tworzenie treści</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>Streamowanie</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Przechwytywanie overlaya</value>
   </data>
@@ -3023,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Kolekcja</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>synchronizacja kolekcji, kolekcja, synchronizuj</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Zaloguj w HSReplay.net</value>
@@ -4492,25 +4519,25 @@
     <value>Bóstwo</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>Wszystkie poradniki kompozycji</value>
   </data>
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
-    <value>How to Play</value>
+    <value>Jak grać</value>
   </data>
   <data name="Battlegrounds_CompGuide_TierAdjustedFrom" xml:space="preserve">
     <value>Poziom dostosowany z {0} dla tego meczu.</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards" xml:space="preserve">
-    <value>Core Cards</value>
+    <value>Bazowe karty</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>Karty dodatkowe</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>Kiedy się zaangażować</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>Typowe umożliwiacze</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>Stworzony przez</value>
@@ -4531,7 +4558,7 @@
     <value>Comp Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
-    <value>Subscribe to Tier7 to see 1st place lineups with the core cards right on this screen!</value>
+    <value>Subskrybuj Tier7, aby zobaczyć kompozycje z 1. miejsca wraz z bazowymi kartami bezpośrednio na tym ekranie!</value>
   </data>
   <data name="Battlegrounds_CompGuides_Tier7_Tooltip" xml:space="preserve">
     <value>Subscribe to Tier7 to filter the guide list by minion types and see the tiers for each comp right here while playing!</value>
@@ -4543,7 +4570,7 @@
     <value>Free Version</value>
   </data>
   <data name="Battlegrounds_CompGuide_Inspiration_Button" xml:space="preserve">
-    <value>Show Example Lineups</value>
+    <value>Pokaż przykładowe kompozycje</value>
   </data>
   <data name="Counter_ProtossMinionCostReduction" xml:space="preserve">
     <value>Protoss Minions Cost Reduction</value>
@@ -5323,7 +5350,7 @@
     <value>Reset all to Auto</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Filter counters...</value>
+    <value>Filtruj kontry…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>No counters match your filter.</value>
@@ -5386,7 +5413,7 @@
     <value>Wybierz, które karty pojawiają się na liście Powiązanych kart przeciwnika. „Auto” korzysta z wbudowanych reguł, które pokazują kartę tylko wtedy, gdy prawdopodobnie ma znaczenie. „Zawsze pokazuj” wyświetla kartę, nawet jeśli przeciwnik jeszcze jej nie zagrał — dla kart, które według ciebie ma w ręce. „Nigdy nie pokazuj” ukrywa ją z listy. Działa to tylko wtedy, gdy powiązane karty przeciwnika są włączone w opcjach Przeciwnika.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Filtruj karty...</value>
+    <value>Filtruj karty…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>Żadne karty nie pasują do filtra.</value>

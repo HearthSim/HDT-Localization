@@ -453,6 +453,9 @@
   <data name="Options_Search_SearchButton" xml:space="preserve">
     <value>Suche</value>
   </data>
+  <data name="Options_Search_Placeholder" xml:space="preserve">
+    <value>Suche…</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Spieler</value>
   </data>
@@ -816,6 +819,10 @@
   <data name="Options_Tracker_Settings_CheckBox_StartWithWindows" xml:space="preserve">
     <value>Mit Windows starten</value>
   </data>
+  <data name="Options_Tracker_Settings_CheckBox_StartWithWindows_SearchKeywords" xml:space="preserve">
+    <value>Autostart, automatisch starten, mit Windows starten</value>
+    <comment>Comma-separated alternative terms that find this setting in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Tracker_Settings_CheckBox_StartMinimized" xml:space="preserve">
     <value>Minimiert starten</value>
   </data>
@@ -830,6 +837,18 @@
   </data>
   <data name="Options_Tracker_Settings_CheckBox_StartHearthstone" xml:space="preserve">
     <value>Hearthstone beim Start ausführen</value>
+  </data>
+  <data name="Options_Tracker_System_Label_StartupAndBackground" xml:space="preserve">
+    <value>Start und Hintergrund</value>
+  </data>
+  <data name="Options_Tracker_System_Label_BackgroundBehavior" xml:space="preserve">
+    <value>Hintergrundverhalten:</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_KeepRunning" xml:space="preserve">
+    <value>Im Hintergrund weiterlaufen</value>
+  </data>
+  <data name="Enum_BackgroundBehavior_Custom" xml:space="preserve">
+    <value>Benutzerdefiniert</value>
   </data>
   <data name="Options_Tracker_Settings_CheckBox_Updates" xml:space="preserve">
     <value>Auf Aktualisierungen prüfen</value>
@@ -2892,6 +2911,10 @@
   <data name="Options_Streaming_Header" xml:space="preserve">
     <value>Content Creation</value>
   </data>
+  <data name="Options_Streaming_Header_SearchKeywords" xml:space="preserve">
+    <value>Streamen</value>
+    <comment>Comma-separated alternative terms that find these options pages in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Overlay-Erfassung</value>
   </data>
@@ -3023,6 +3046,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header" xml:space="preserve">
     <value>Sammlung</value>
+  </data>
+  <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
+    <value>Sammlung synchronisieren, Sammlung, Kartensammlung</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Bei HSReplay.net anmelden</value>
@@ -4150,16 +4177,16 @@
     <value>Neutral</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>Showdown im Ödland</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Badlands" xml:space="preserve">
     <value>Deck contains cards from the Showdown in the Badlands expansion.</value>
   </data>
   <data name="Enum_ArenaRewardPacks_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands</value>
+    <value>Showdown im Ödland</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_Badlands" xml:space="preserve">
-    <value>Showdown in the Badlands:</value>
+    <value>Showdown im Ödland:</value>
   </data>
   <data name="Counter_Excavate_Tier0" xml:space="preserve">
     <value>Gewöhnlich</value>
@@ -4252,7 +4279,7 @@
     <value>Probiere das Tier7-Overlay für eine begrenzte Anzahl an Partien kostenlos aus, und du wirst von Zeit zu Zeit mehr erhalten.</value>
   </data>
   <data name="Toast_Mulligan_NotOnWebsite" xml:space="preserve">
-    <value>Not on website</value>
+    <value>Nicht auf Webseite</value>
   </data>
   <data name="Options_Overlay_MulliganGuide_Group_Label" xml:space="preserve">
     <value>Mulligan-Guide</value>
@@ -4330,16 +4357,16 @@
     <value>Dienertypen</value>
   </data>
   <data name="BattlegroundsMinions_TavernTier" xml:space="preserve">
-    <value>Tavern Tier {0}</value>
+    <value>Gasthausstufe {0}</value>
   </data>
   <data name="BattlegroundsMinions_TavernTierMinionType" xml:space="preserve">
-    <value>Tavern Tier {0} - {1}</value>
+    <value>Gasthausstufe {0} - {1}</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_IslandVacation" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>Gefahr im Paradies</value>
   </data>
   <data name="Enum_ArenaRewardPacks_PerilsInParadise" xml:space="preserve">
-    <value>Perils in Paradise</value>
+    <value>Gefahr im Paradies</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_GreatDarkBeyond" xml:space="preserve">
     <value>Great Dark Beyond</value>
@@ -4348,25 +4375,25 @@
     <value>Great Dark Beyond</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>Der Smaragdgrüne Traum</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream</value>
+    <value>Der Smaragdgrüne Traum</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EmeraldDream" xml:space="preserve">
-    <value>Into the Emerald Dream:</value>
+    <value>Der Smaragdgrüne Traum:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_TheLostCity" xml:space="preserve">
     <value>Die Verlorene Stadt Un'goro</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>Flucht aus der Violetten Festung</value>
   </data>
   <data name="Stats_Arena_Rewards_Label_Packs_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>Flucht aus der Violetten Festung</value>
   </data>
   <data name="Enum_ArenaRewardPacks_EscapeFromVioletHold" xml:space="preserve">
-    <value>Escape from Violet Hold</value>
+    <value>Flucht aus der Violetten Festung</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_BlackEmpire" xml:space="preserve">
     <value>Herrschaft des Schwarzen Imperiums</value>
@@ -4492,7 +4519,7 @@
     <value>Gottheit</value>
   </data>
   <data name="Battlegrounds_CompGuide_Back_Button" xml:space="preserve">
-    <value>All Comp Guides</value>
+    <value>Alle Comp-Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_HowToPlay" xml:space="preserve">
     <value>So wird gespielt</value>
@@ -4504,13 +4531,13 @@
     <value>Essenzielle Karten</value>
   </data>
   <data name="Battlegrounds_CompGuide_AddonCards" xml:space="preserve">
-    <value>Addon Cards</value>
+    <value>Zusatzkarten</value>
   </data>
   <data name="Battlegrounds_CompGuide_WhenToCommit" xml:space="preserve">
-    <value>When to Commit</value>
+    <value>Wann festlegen</value>
   </data>
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
-    <value>Common Enablers</value>
+    <value>Häufige Enabler</value>
   </data>
   <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
     <value>Erstellt von</value>
@@ -4522,13 +4549,13 @@
     <value>Hero guides are available once the game has started.</value>
   </data>
   <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Button" xml:space="preserve">
-    <value>Meta Snapshot</value>
+    <value>Meta-Snapshot</value>
   </data>
   <data name="Battlegrounds_GuidesTabs_MetaSnapshot_Description" xml:space="preserve">
     <value>Check out the current Battlegrounds meta snapshot on HSReplay.net:</value>
   </data>
   <data name="Battlegrounds_CompGuides_Title" xml:space="preserve">
-    <value>Comp Guides</value>
+    <value>Comp-Guides</value>
   </data>
   <data name="Battlegrounds_CompGuide_CoreCards_Tier7_Tooltip" xml:space="preserve">
     <value>Abonniere Tier7 um 1.-platzierte Aufstellungen mit den essenziellen Karten hier zu sehen!</value>
@@ -5323,7 +5350,7 @@
     <value>Alle auf Auto zurücksetzen</value>
   </data>
   <data name="OptionsCounters_Filter_Placeholder" xml:space="preserve">
-    <value>Zähler filtern...</value>
+    <value>Konter filtern…</value>
   </data>
   <data name="OptionsCounters_NoResults" xml:space="preserve">
     <value>Keine Zähler entsprechen deinem Filter.</value>
@@ -5386,7 +5413,7 @@
     <value>Wähle, welche Karten unter den zugehörigen Karten des Gegners aufgelistet werden. "Auto" verwendet die integrierten Regeln, die eine Karte nur dann anzeigen, wenn sie wahrscheinlich relevant ist. "Immer anzeigen" listet eine Karte auf, auch wenn der Gegner sie noch nicht gespielt hat – für Karten, von denen du vermutest, dass er sie auf der Hand hält. "Nie anzeigen" blendet sie aus der Liste aus. Dies gilt nur, solange die zugehörigen Karten des Gegners in den Gegner-Optionen aktiviert sind.</value>
   </data>
   <data name="OptionsRelatedCards_Filter_Placeholder" xml:space="preserve">
-    <value>Karten filtern ...</value>
+    <value>Karten filtern…</value>
   </data>
   <data name="OptionsRelatedCards_NoResults" xml:space="preserve">
     <value>Keine Karten entsprechen deinem Filter.</value>
