@@ -3081,6 +3081,10 @@
     <value>Синхронизировать коллекцию</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>Login, Logout</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Войти на HSReplay.net</value>
   </data>
@@ -4569,8 +4573,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Обычные активаторы</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Создатель</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>Written by</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Последняя синхронизация</value>
