@@ -3081,10 +3081,6 @@
     <value>ซิงค์คอลเลกชัน, sync, คอลเลกชัน, collection, ซิงค์</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
-  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
-    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
-  </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>Login to HSReplay.net</value>
   </data>
