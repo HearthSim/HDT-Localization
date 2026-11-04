@@ -2383,11 +2383,8 @@
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
     <value>fermer</value>
   </data>
-  <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>Essayez de démarrer HDT comme administrateur.</value>
-  </data>
-  <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>Si cela n'aide pas, cliquez sur « Afficher les instructions » pour voir comment le mettre à jour manuellement.</value>
+  <data name="MessageDialogs_LogConfig_Instructions" xml:space="preserve">
+    <value>Click "Show instructions" to see how to update it manually.</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
     <value>Unable to connect to Hearthstone</value>
