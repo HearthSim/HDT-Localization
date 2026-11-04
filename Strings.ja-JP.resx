@@ -457,7 +457,7 @@
     <value>検索…</value>
   </data>
   <data name="Options_Search_NoResults" xml:space="preserve">
-    <value>No settings match your search.</value>
+    <value>検索に一致する設定はありません。</value>
   </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>プレーヤー</value>
@@ -787,31 +787,31 @@
     <value>作成者:</value>
   </data>
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
-    <value>No plugins installed.</value>
+    <value>インストール済みのプラグインはありません。</value>
   </data>
   <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
     <value>警告:</value>
   </data>
   <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>Plugins may change or break the behavior of HDT or Hearthstone and can affect your entire PC as long as they are installed. Only install plugins from sources you fully trust.</value>
+    <value>プラグインはHDTやHearthstoneの動作を変更または破損させる可能性があり、インストールされている間はPC全体に影響を及ぼすおそれがあります。完全に信頼できるソースのプラグインのみをインストールしてください。</value>
   </data>
   <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT is running as administrator, so plugins also run as administrator and have full control over your entire PC, including all files, settings and other programs. We strongly recommend against using HDT in this way and will stop supporting this in a future version.</value>
+    <value>HDTは管理者として実行されているため、プラグインも管理者として実行され、すべてのファイル、設定、その他のプログラムを含むPC全体を完全に制御できます。このような方法でのHDTの使用は強くお勧めしません。今後のバージョンではサポートを終了する予定です。</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
-    <value>Run "{0}"?</value>
+    <value>「{0}」を実行しますか？</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Desc" xml:space="preserve">
-    <value>Plugins can run any code on your PC and may change or break HDT and Hearthstone. Only install plugins from sources you fully trust.</value>
+    <value>プラグインはPC上で任意のコードを実行でき、HDTやHearthstoneを変更または破損させる可能性があります。完全に信頼できるソースのプラグインのみをインストールしてください。</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Desc_Admin" xml:space="preserve">
-    <value>HDT is running as administrator, so this plugin will also be installed with administrator permissions. This is dangerous, and we strongly recommend against using HDT in this way.</value>
+    <value>HDTは管理者として実行されているため、このプラグインも管理者権限でインストールされます。これは危険であり、このような方法でのHDTの使用は強くお勧めしません。</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Admin_Acknowledge" xml:space="preserve">
-    <value>I understand that this plugin will have full control over my PC, including all files, settings, and other programs</value>
+    <value>このプラグインが、すべてのファイル、設定、その他のプログラムを含む私のPCを完全に制御できることを理解しています</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Button_Install" xml:space="preserve">
-    <value>Install Plugin</value>
+    <value>プラグインをインストール</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Button_Cancel" xml:space="preserve">
     <value>キャンセル</value>
@@ -5438,6 +5438,94 @@
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
     <value>異形</value>
+  </data>
+  <data name="Race_Beast_Battlegrounds" xml:space="preserve">
+    <value>獣</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Demon_Battlegrounds" xml:space="preserve">
+    <value>悪魔</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Dragon_Battlegrounds" xml:space="preserve">
+    <value>ドラゴン</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Elemental_Battlegrounds" xml:space="preserve">
+    <value>エレメンタル</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Mechanical_Battlegrounds" xml:space="preserve">
+    <value>メカ</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Murloc_Battlegrounds" xml:space="preserve">
+    <value>マーロック</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Naga_Battlegrounds" xml:space="preserve">
+    <value>ナーガ</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Pirate_Battlegrounds" xml:space="preserve">
+    <value>海賊</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Quilboar_Battlegrounds" xml:space="preserve">
+    <value>キルボア</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Undead_Battlegrounds" xml:space="preserve">
+    <value>アンデッド</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Aberration_Battlegrounds" xml:space="preserve">
+    <value>異形</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Beast_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>BEASTS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Demon_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>DEMONS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Dragon_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>DRAGONS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Elemental_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>ELEMENTALS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Mechanical_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>MECHS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Murloc_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>MURLOCS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Naga_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>NAGA</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Pirate_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>PIRATES</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Quilboar_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>QUILBOAR</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Undead_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>UNDEAD</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Aberration_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>ABERRATIONS</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
   </data>
   <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
     <value>関連カード</value>
