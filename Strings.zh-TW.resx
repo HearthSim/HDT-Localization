@@ -2383,11 +2383,8 @@
   <data name="MessageDialogs_LogConfig_Button_Close" xml:space="preserve">
     <value>關閉</value>
   </data>
-  <data name="MessageDialogs_LogConfig_Description2" xml:space="preserve">
-    <value>請嘗試用系統管理員啟動HDT</value>
-  </data>
-  <data name="MessageDialogs_LogConfig_Description3" xml:space="preserve">
-    <value>如果這無法幫助你，請點擊"顯示說明"並教你如何手動更新</value>
+  <data name="MessageDialogs_LogConfig_Instructions" xml:space="preserve">
+    <value>點擊「顯示說明」以了解如何手動更新。</value>
   </data>
   <data name="MessageDialogs_Permissions_Title" xml:space="preserve">
     <value>無法連線至爐石戰記</value>
