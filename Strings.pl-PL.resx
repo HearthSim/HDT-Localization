@@ -456,6 +456,9 @@
   <data name="Options_Search_Placeholder" xml:space="preserve">
     <value>Szukaj…</value>
   </data>
+  <data name="Options_Search_NoResults" xml:space="preserve">
+    <value>No settings match your search.</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>Gracz</value>
   </data>
@@ -782,6 +785,36 @@
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
     <value>Stworzony przez</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
+    <value>No plugins installed.</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
+    <value>Ostrzeżenie:</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
+    <value>Plugins may change or break the behavior of HDT or Hearthstone and can affect your entire PC as long as they are installed. Only install plugins from sources you fully trust.</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
+    <value>HDT is running as administrator, so plugins also run as administrator and have full control over your entire PC, including all files, settings and other programs. We strongly recommend against using HDT in this way and will stop supporting this in a future version.</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
+    <value>Run "{0}"?</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Desc" xml:space="preserve">
+    <value>Plugins can run any code on your PC and may change or break HDT and Hearthstone. Only install plugins from sources you fully trust.</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Desc_Admin" xml:space="preserve">
+    <value>HDT is running as administrator, so this plugin will also be installed with administrator permissions. This is dangerous, and we strongly recommend against using HDT in this way.</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Admin_Acknowledge" xml:space="preserve">
+    <value>I understand that this plugin will have full control over my PC, including all files, settings, and other programs</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Button_Install" xml:space="preserve">
+    <value>Install Plugin</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Button_Cancel" xml:space="preserve">
+    <value>Anuluj</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>Pokaż powiadomienie o udostępnionej powtórce</value>
