@@ -456,6 +456,9 @@
   <data name="Options_Search_Placeholder" xml:space="preserve">
     <value>搜索...</value>
   </data>
+  <data name="Options_Search_NoResults" xml:space="preserve">
+    <value>没有与搜索匹配的设置。</value>
+  </data>
   <data name="Options_DeckWindows_CheckBox_Player" xml:space="preserve">
     <value>玩家卡牌</value>
   </data>
@@ -782,6 +785,36 @@
   </data>
   <data name="Options_Tracker_Plugins_Label_CreatedBy" xml:space="preserve">
     <value>创建者：</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
+    <value>未安装任何插件。</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
+    <value>警告：</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
+    <value>插件可能会改变或破坏HDT或炉石传说的运行，并且只要处于安装状态，就可能影响你的整台电脑。请仅安装来自你完全信任来源的插件。</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
+    <value>HDT正以管理员身份运行，因此插件也会以管理员身份运行，并可完全控制你的整台电脑，包括所有文件、设置和其他程序。我们强烈建议不要以这种方式使用HDT，并将在未来版本中停止支持此方式。</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
+    <value>运行"{0}"？</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Desc" xml:space="preserve">
+    <value>插件可以在你的电脑上运行任意代码，并可能改变或破坏HDT和炉石传说。请仅安装来自你完全信任来源的插件。</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Desc_Admin" xml:space="preserve">
+    <value>HDT正以管理员身份运行，因此该插件也将以管理员权限安装。这很危险，我们强烈建议不要以这种方式使用HDT。</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Admin_Acknowledge" xml:space="preserve">
+    <value>我了解该插件将可完全控制我的电脑，包括所有文件、设置和其他程序</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Button_Install" xml:space="preserve">
+    <value>安装插件</value>
+  </data>
+  <data name="Options_Tracker_Plugins_Dialog_Install_Button_Cancel" xml:space="preserve">
+    <value>取消</value>
   </data>
   <data name="Options_Tracker_Replays_CheckBox_ShareNotification" xml:space="preserve">
     <value>显示分享提示</value>
@@ -5405,6 +5438,94 @@
   </data>
   <data name="Race_Aberration_Uppercase" xml:space="preserve">
     <value>畸变怪</value>
+  </data>
+  <data name="Race_Beast_Battlegrounds" xml:space="preserve">
+    <value>野兽流</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Demon_Battlegrounds" xml:space="preserve">
+    <value>恶魔流</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Dragon_Battlegrounds" xml:space="preserve">
+    <value>巨龙流</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Elemental_Battlegrounds" xml:space="preserve">
+    <value>元素</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Mechanical_Battlegrounds" xml:space="preserve">
+    <value>机械流</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Murloc_Battlegrounds" xml:space="preserve">
+    <value>鱼人流</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Naga_Battlegrounds" xml:space="preserve">
+    <value>纳迦</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Pirate_Battlegrounds" xml:space="preserve">
+    <value>海盗</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Quilboar_Battlegrounds" xml:space="preserve">
+    <value>野猪人</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Undead_Battlegrounds" xml:space="preserve">
+    <value>亡灵</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Aberration_Battlegrounds" xml:space="preserve">
+    <value>畸变怪</value>
+    <comment>Plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Beast_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>野兽</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Demon_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>恶魔</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Dragon_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>龙</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Elemental_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>元素</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Mechanical_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>机械</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Murloc_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>鱼人</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Naga_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>纳迦</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Pirate_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>海盗</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Quilboar_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>野猪人</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Undead_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>亡灵</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
+  </data>
+  <data name="Race_Aberration_Battlegrounds_Uppercase" xml:space="preserve">
+    <value>畸变怪</value>
+    <comment>Uppercase plural Battlegrounds minion type, as used for the tribes in a lobby. Use the Battlegrounds plural from the Hearthstone glossary, not the singular minion type.</comment>
   </data>
   <data name="Options_Overlay_RelatedCards_Header" xml:space="preserve">
     <value>相关卡牌</value>
