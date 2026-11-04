@@ -3081,10 +3081,6 @@
     <value>컬렉션 동기화, 내 컬렉션, 수집</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
-  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
-    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
-  </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
     <value>HSReplay.net에 로그인</value>
   </data>
