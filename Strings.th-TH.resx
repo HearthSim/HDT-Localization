@@ -2894,16 +2894,16 @@
     <value>ออก</value>
   </data>
   <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
-    <value>Check for Updates</value>
+    <value>ตรวจหาอัปเดต</value>
   </data>
   <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
-    <value>Install Update Now</value>
+    <value>ติดตั้งอัปเดตเดี๋ยวนี้</value>
   </data>
   <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
-    <value>Update Available!</value>
+    <value>มีอัปเดตใหม่!</value>
   </data>
   <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
-    <value>Hearthstone Deck Tracker is now running in your tray and will keep itself updated. Click the icon to access settings or stats.</value>
+    <value>Hearthstone Deck Tracker กำลังทำงานอยู่ในถาดระบบของคุณและจะอัปเดตตัวเองโดยอัตโนมัติ คลิกไอคอนเพื่อเข้าถึงการตั้งค่าหรือสถิติ</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
@@ -3094,7 +3094,7 @@
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
+    <value>เข้าสู่ระบบ, ออกจากระบบ, login, logout</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3890,7 +3890,7 @@
     <value>Let's Go</value>
   </data>
   <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
-    <value>The Deck Tracker now lives in your system tray. Whenever you play Hearthstone, it will appear automatically. If you ever need to access settings or stats, click the icon or use the shortcut on your Desktop.</value>
+    <value>ตอนนี้ Deck Tracker อยู่ในถาดระบบของคุณแล้ว เมื่อใดที่คุณเล่น Hearthstone มันจะปรากฏขึ้นโดยอัตโนมัติ หากคุณต้องการเข้าถึงการตั้งค่าหรือสถิติ ให้คลิกที่ไอคอนหรือใช้ทางลัดบนเดสก์ท็อปของคุณ</value>
   </data>
   <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
     <value>Got it! (close to tray)</value>
