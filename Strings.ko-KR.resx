@@ -2893,6 +2893,15 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>종료</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>Check for Updates</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>Install Update Now</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>Update Available!</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>덱에 얼어붙은 왕좌의 기사들 확장팩 카드가 포함되어 있습니다.</value>
   </data>
