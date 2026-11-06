@@ -2902,6 +2902,9 @@
   <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
     <value>Update Available!</value>
   </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Tracker is now running in your tray and will keep itself updated. Click the icon to access settings or stats.</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>套牌包含《冰封王座》的卡片。</value>
   </data>
@@ -3885,6 +3888,12 @@
   </data>
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>開始吧</value>
+  </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>The Deck Tracker now lives in your system tray. Whenever you play Hearthstone, it will appear automatically. If you ever need to access settings or stats, click the icon or use the shortcut on your Desktop.</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>Got it! (close to tray)</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
