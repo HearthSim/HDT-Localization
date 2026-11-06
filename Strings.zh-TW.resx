@@ -2894,16 +2894,16 @@
     <value>退出</value>
   </data>
   <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
-    <value>Check for Updates</value>
+    <value>檢查更新</value>
   </data>
   <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
-    <value>Install Update Now</value>
+    <value>立即安裝更新</value>
   </data>
   <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
-    <value>Update Available!</value>
+    <value>有可用更新！</value>
   </data>
   <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
-    <value>Hearthstone Deck Tracker is now running in your tray and will keep itself updated. Click the icon to access settings or stats.</value>
+    <value>Hearthstone Deck Tracker 現已在系統匣中執行，並會自動保持更新。點擊圖示即可存取設定或數據。</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>套牌包含《冰封王座》的卡片。</value>
@@ -3094,7 +3094,7 @@
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
+    <value>登入, 登出, Login, Logout</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3890,7 +3890,7 @@
     <value>開始吧</value>
   </data>
   <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
-    <value>The Deck Tracker now lives in your system tray. Whenever you play Hearthstone, it will appear automatically. If you ever need to access settings or stats, click the icon or use the shortcut on your Desktop.</value>
+    <value>Deck Tracker 現已常駐於你的系統匣中。每當你遊玩《爐石戰記》時，它會自動出現。若你需要存取設定或數據，請點擊圖示或使用桌面上的捷徑。</value>
   </data>
   <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
     <value>Got it! (close to tray)</value>
