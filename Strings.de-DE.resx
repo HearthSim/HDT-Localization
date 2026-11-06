@@ -2894,16 +2894,16 @@
     <value>Beenden</value>
   </data>
   <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
-    <value>Check for Updates</value>
+    <value>Auf Aktualisierungen prüfen</value>
   </data>
   <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
-    <value>Install Update Now</value>
+    <value>Update jetzt installieren</value>
   </data>
   <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
-    <value>Update Available!</value>
+    <value>Update verfügbar!</value>
   </data>
   <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
-    <value>Hearthstone Deck Tracker is now running in your tray and will keep itself updated. Click the icon to access settings or stats.</value>
+    <value>Hearthstone Deck Tracker läuft jetzt in deiner Taskleiste und hält sich selbst aktuell. Klicke auf das Symbol, um auf Einstellungen oder Statistiken zuzugreifen.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
@@ -3094,7 +3094,7 @@
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
+    <value>Anmelden, Abmelden, Login, Logout</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3890,7 +3890,7 @@
     <value>Lass uns loslegen</value>
   </data>
   <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
-    <value>The Deck Tracker now lives in your system tray. Whenever you play Hearthstone, it will appear automatically. If you ever need to access settings or stats, click the icon or use the shortcut on your Desktop.</value>
+    <value>Der Deck Tracker befindet sich jetzt in deiner Taskleiste. Immer wenn du Hearthstone spielst, erscheint er automatisch. Wenn du auf Einstellungen oder Statistiken zugreifen möchtest, klicke auf das Symbol oder nutze die Verknüpfung auf deinem Desktop.</value>
   </data>
   <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
     <value>Verstanden! (zur Taskleiste schließen)</value>
