@@ -2893,6 +2893,18 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Esci</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>Controlla aggiornamenti</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>Installa aggiornamento ora</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>Aggiornamento disponibile!</value>
+  </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Tracker è ora in esecuzione nella barra delle applicazioni e si aggiornerà automaticamente. Clicca sull'icona per accedere alle impostazioni o alle statistiche.</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Il mazzo contiene carte dell'espansione I Cavalieri del Trono di Ghiaccio.</value>
   </data>
@@ -3079,6 +3091,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
     <value>Sincronizza collezione</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>Login, Logout, Accesso, Disconnessione, Account</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3873,6 +3889,12 @@
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Andiamo</value>
   </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>Il Deck Tracker ora risiede nella barra delle applicazioni. Ogni volta che giochi a Hearthstone, apparirà automaticamente. Se hai bisogno di accedere alle impostazioni o alle statistiche, clicca sull'icona o usa il collegamento sul Desktop.</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>Ho capito! (riduci ad icona)</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Il mazzo contiene carte dall'espansione Murder at Castle Nathria.</value>
   </data>
@@ -4569,8 +4591,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Enabler comuni</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Creato da</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>Scritto da</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Ultimo aggiornamento</value>

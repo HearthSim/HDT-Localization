@@ -2893,6 +2893,18 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Beenden</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>Auf Aktualisierungen prüfen</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>Update jetzt installieren</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>Update verfügbar!</value>
+  </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Tracker läuft jetzt in deiner Taskleiste und hält sich selbst aktuell. Klicke auf das Symbol, um auf Einstellungen oder Statistiken zuzugreifen.</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Deck enthält Karten der Erweiterung 'Ritter des Frostthrons'.</value>
   </data>
@@ -3079,6 +3091,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
     <value>Sammlung synchronisieren, Sammlung, Kartensammlung</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>Anmelden, Abmelden, Login, Logout</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3873,6 +3889,12 @@
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Lass uns loslegen</value>
   </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>Der Deck Tracker befindet sich jetzt in deiner Taskleiste. Immer wenn du Hearthstone spielst, erscheint er automatisch. Wenn du auf Einstellungen oder Statistiken zugreifen möchtest, klicke auf das Symbol oder nutze die Verknüpfung auf deinem Desktop.</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>Verstanden! (zur Taskleiste schließen)</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
   </data>
@@ -4569,8 +4591,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Häufige Enabler</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Erstellt von</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>Geschrieben von</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Zuletzt aktualisiert</value>

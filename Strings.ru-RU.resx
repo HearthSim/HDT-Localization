@@ -2893,6 +2893,18 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Выйти</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>Проверка обновлений</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>Установить обновление</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>Доступно обновление!</value>
+  </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Tracker теперь работает в области уведомлений и обновляется автоматически. Нажмите на значок, чтобы открыть настройки или статистику.</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Колода содержит карты дополнения "Рыцари Ледяного Трона".</value>
   </data>
@@ -3079,6 +3091,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
     <value>Синхронизировать коллекцию</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>Вход, Выход, Логин, Логаут, Аккаунт</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3873,6 +3889,12 @@
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Let's Go</value>
   </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>Hearthstone Deck Tracker теперь находится в области уведомлений. Как только вы запустите Hearthstone, он появится автоматически. Если вам нужно открыть настройки или статистику, нажмите на значок или воспользуйтесь ярлыком на рабочем столе.</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>Понятно! (свернуть в трей)</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Колода содержит карты дополнения "Убийство в замке Нафрия".</value>
   </data>
@@ -4569,8 +4591,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Обычные активаторы</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Создатель</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>Автор</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Последняя синхронизация</value>

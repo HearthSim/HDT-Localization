@@ -2893,6 +2893,18 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>Wyjdź</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>Sprawdź aktualizacje</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>Zainstaluj aktualizację teraz</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>Dostępna aktualizacja!</value>
+  </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Tracker działa teraz w zasobniku systemowym i będzie się automatycznie aktualizować. Kliknij ikonę, aby uzyskać dostęp do ustawień lub statystyk.</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Rycerze Mroźnego Tronu".</value>
   </data>
@@ -3079,6 +3091,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
     <value>synchronizacja kolekcji, kolekcja, synchronizuj</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>Logowanie, Wylogowanie, Konto</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3873,6 +3889,12 @@
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Do dzieła</value>
   </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>Deck Tracker znajduje się teraz w zasobniku systemowym. Zawsze gdy zagrasz w Hearthstone, pojawi się automatycznie. Jeśli zechcesz uzyskać dostęp do ustawień lub statystyk, kliknij ikonę lub użyj skrótu na pulpicie.</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>Got it! (close to tray)</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Talia zawiera karty z dodatku "Morderca w Zamku Nathria".</value>
   </data>
@@ -4569,8 +4591,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>Typowe umożliwiacze</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>Stworzony przez</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>Autor</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>Ostatnio zaktualizowano</value>

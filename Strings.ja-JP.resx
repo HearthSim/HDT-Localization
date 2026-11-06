@@ -2893,6 +2893,18 @@
   <data name="TrayIcon_MenuItemQuit" xml:space="preserve">
     <value>終了</value>
   </data>
+  <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
+    <value>更新を確認する</value>
+  </data>
+  <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
+    <value>今すぐ更新をインストール</value>
+  </data>
+  <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
+    <value>アップデートが利用可能です！</value>
+  </data>
+  <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
+    <value>Hearthstone Deck Trackerはトレイで実行中になり、自動的に更新されます。アイコンをクリックすると設定や統計にアクセスできます。</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>凍てつく玉座の騎士団の拡張のカードを含む</value>
   </data>
@@ -3079,6 +3091,10 @@
   </data>
   <data name="Options_HSReplay_Collection_Header_SearchKeywords" xml:space="preserve">
     <value>コレクションを同期する</value>
+    <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
+  </data>
+  <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
+    <value>ログイン, ログアウト, login, logout, サインイン, サインアウト</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3873,6 +3889,12 @@
   <data name="NewUserOnboarding_Continue" xml:space="preserve">
     <value>Let's Go</value>
   </data>
+  <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
+    <value>Deck Trackerはシステムトレイに常駐するようになりました。Hearthstoneをプレイすると自動的に表示されます。設定や統計にアクセスしたい場合は、アイコンをクリックするか、デスクトップのショートカットを使用してください。</value>
+  </data>
+  <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
+    <value>分かりました！（トレイに最小化）</value>
+  </data>
   <data name="DeckSetIcons_Tooltip_Nathria" xml:space="preserve">
     <value>Deck contains cards from the Murder at Castle Nathria expansion.</value>
   </data>
@@ -4569,8 +4591,8 @@
   <data name="Battlegrounds_CompGuide_CommonEnablers" xml:space="preserve">
     <value>主なイネーブラー</value>
   </data>
-  <data name="Battlegrounds_CompGuide_CreatedBy" xml:space="preserve">
-    <value>作成者:</value>
+  <data name="Battlegrounds_Guides_WrittenBy" xml:space="preserve">
+    <value>作成者</value>
   </data>
   <data name="Battlegrounds_CompGuide_LastUpdated" xml:space="preserve">
     <value>最終更新日</value>
