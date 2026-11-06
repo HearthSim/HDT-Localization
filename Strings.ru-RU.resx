@@ -2894,16 +2894,16 @@
     <value>Выйти</value>
   </data>
   <data name="TrayIcon_MenuItemCheckForUpdates" xml:space="preserve">
-    <value>Check for Updates</value>
+    <value>Проверка обновлений</value>
   </data>
   <data name="TrayIcon_MenuItemInstallUpdate" xml:space="preserve">
-    <value>Install Update Now</value>
+    <value>Установить обновление</value>
   </data>
   <data name="TrayIcon_UpdateAvailable" xml:space="preserve">
-    <value>Update Available!</value>
+    <value>Доступно обновление!</value>
   </data>
   <data name="TrayIcon_Notification_MinimizedToTray" xml:space="preserve">
-    <value>Hearthstone Deck Tracker is now running in your tray and will keep itself updated. Click the icon to access settings or stats.</value>
+    <value>Hearthstone Deck Tracker теперь работает в области уведомлений и обновляется автоматически. Нажмите на значок, чтобы открыть настройки или статистику.</value>
   </data>
   <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
     <value>Колода содержит карты дополнения "Рыцари Ледяного Трона".</value>
@@ -3094,7 +3094,7 @@
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="Options_HSReplay_Account_Header_SearchKeywords" xml:space="preserve">
-    <value>Login, Logout</value>
+    <value>Вход, Выход, Логин, Логаут, Аккаунт</value>
     <comment>Comma-separated alternative terms that find this options page in the options search. Not shown in the UI. Use the terms a user would type, no literal translation needed.</comment>
   </data>
   <data name="OAuthLogin_Login" xml:space="preserve">
@@ -3890,7 +3890,7 @@
     <value>Let's Go</value>
   </data>
   <data name="NewUserOnboarding_BackgroundMode" xml:space="preserve">
-    <value>The Deck Tracker now lives in your system tray. Whenever you play Hearthstone, it will appear automatically. If you ever need to access settings or stats, click the icon or use the shortcut on your Desktop.</value>
+    <value>Hearthstone Deck Tracker теперь находится в области уведомлений. Как только вы запустите Hearthstone, он появится автоматически. Если вам нужно открыть настройки или статистику, нажмите на значок или воспользуйтесь ярлыком на рабочем столе.</value>
   </data>
   <data name="NewUserOnboarding_GotItCloseToTray" xml:space="preserve">
     <value>Понятно! (свернуть в трей)</value>
