@@ -5567,4 +5567,13 @@
   <data name="Counter_BloodRunesPlayed" xml:space="preserve">
     <value>Разыграно рун крови</value>
   </data>
+  <data name="TheOutfinder_Label_AssembleMiddlePool" xml:space="preserve">
+    <value>{0} Middle Card Pool: {1} cards</value>
+  </data>
+  <data name="TheOutfinder_Label_AssembleMiddleHint" xml:space="preserve">
+    <value>Click a middle card to see the options offered with it</value>
+  </data>
+  <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
+    <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
 </root>
