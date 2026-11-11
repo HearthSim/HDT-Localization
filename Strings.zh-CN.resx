@@ -5567,4 +5567,13 @@
   <data name="Counter_BloodRunesPlayed" xml:space="preserve">
     <value>已使用的鲜血符文</value>
   </data>
+  <data name="TheOutfinder_Label_AssembleMiddlePool" xml:space="preserve">
+    <value>{0}中间卡池：{1}张卡牌</value>
+  </data>
+  <data name="TheOutfinder_Label_AssembleMiddleHint" xml:space="preserve">
+    <value>点击中间的卡牌，查看与其一同出现的选项</value>
+  </data>
+  <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
+    <value>选项：{0}张卡牌。将鼠标悬停在其中一张上，即可查看它能拼装出的随从</value>
+  </data>
 </root>
