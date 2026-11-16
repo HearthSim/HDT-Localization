@@ -2006,7 +2006,7 @@
     <value>回饋BUG/需要的功能</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
-    <value>1) Check out the &lt;0&gt;issues on GitHub&lt;/0&gt;. If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue &lt;1&gt;click here&lt;/1&gt;.</value>
+    <value>1) 查看 &lt;0&gt;GitHub 上的 issues&lt;/0&gt;。如果該主題還沒有相關問題，歡迎建立一個新的問題，甚至自己修復並建立 pull request。若想了解在問題中可包含哪些資訊，請 &lt;1&gt;點此&lt;/1&gt;。</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>或</value>
@@ -2018,10 +2018,10 @@
     <value>GitHub計畫</value>
   </data>
   <data name="Help_Github_Text_Project" xml:space="preserve">
-    <value>The project can be found &lt;0&gt;here&lt;/0&gt;.</value>
+    <value>可在 &lt;0&gt;此處&lt;/0&gt; 找到此專案。</value>
   </data>
   <data name="Help_Github_Text_Readme" xml:space="preserve">
-    <value>The &lt;0&gt;readme&lt;/0&gt; contains a brief overview of all the features.</value>
+    <value>&lt;0&gt;readme&lt;/0&gt; 包含所有功能的簡短概述。</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>版本:</value>
@@ -2994,7 +2994,7 @@
     <value>登入啟用HSReplay.net的所有功能</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
-    <value>Replays are uploaded to &lt;0&gt;{0}&lt;/0&gt;.</value>
+    <value>重播將會上傳至 &lt;0&gt;{0}&lt;/0&gt;。</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>登錄為</value>
@@ -3419,7 +3419,7 @@
     <value>需要 HDT v{0}。</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
-    <value>HDT v{0} required: &lt;0&gt;Update Now&lt;/0&gt;</value>
+    <value>需要 HDT v{0}：&lt;0&gt;立即更新&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>無法取得準確結果</value>
