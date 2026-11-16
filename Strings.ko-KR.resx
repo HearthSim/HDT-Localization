@@ -2006,7 +2006,7 @@
     <value>버그 보고 / 기능 요청</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
-    <value>1) Check out the &lt;0&gt;issues on GitHub&lt;/0&gt;. If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue &lt;1&gt;click here&lt;/1&gt;.</value>
+    <value>1) &lt;0&gt;GitHub의 이슈&lt;/0&gt;를 확인하세요. 해당 주제에 관한 이슈가 없으면 자유롭게 새 이슈를 열거나 직접 문제를 해결하고 pull request를 만드세요. 이슈에 포함할 수 있는 내용에 대한 자세한 정보는 &lt;1&gt;여기를 클릭&lt;/1&gt;하세요.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>또는</value>
@@ -2018,10 +2018,10 @@
     <value>GitHub 프로젝트</value>
   </data>
   <data name="Help_Github_Text_Project" xml:space="preserve">
-    <value>The project can be found &lt;0&gt;here&lt;/0&gt;.</value>
+    <value>프로젝트는 &lt;0&gt;여기&lt;/0&gt;에서 확인하실 수 있습니다.</value>
   </data>
   <data name="Help_Github_Text_Readme" xml:space="preserve">
-    <value>The &lt;0&gt;readme&lt;/0&gt; contains a brief overview of all the features.</value>
+    <value>&lt;0&gt;readme&lt;/0&gt;에 모든 기능에 대한 간단한 개요가 있습니다.</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>버전:</value>
@@ -2994,7 +2994,7 @@
     <value>로그인 하여 HSReplay.net 기능 활성화.</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
-    <value>Replays are uploaded to &lt;0&gt;{0}&lt;/0&gt;.</value>
+    <value>리플레이가 &lt;0&gt;{0}&lt;/0&gt;에 업로드됩니다.</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>로그인됨</value>
@@ -3419,7 +3419,7 @@
     <value>HDT v{0} 필요.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
-    <value>HDT v{0} required: &lt;0&gt;Update Now&lt;/0&gt;</value>
+    <value>HDT v{0} 필요: &lt;0&gt;지금 업데이트&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>정확한 결과를 가져올 수 없습니다</value>
