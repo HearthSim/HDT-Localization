@@ -2005,17 +2005,8 @@
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
     <value>バグ/機能追加希望の報告</value>
   </data>
-  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) チェック アウト、</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>GitHub 上での問題。</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>トピックがなくても気軽に新しくトピックを作成したり、修正のプルリクエストを作成してください。それに詳細な情報については</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>ここをクリックします。</value>
+  <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
+    <value>1) &lt;0&gt;GitHubのissue&lt;/0&gt;をチェックしてください。該当するトピックのissueがない場合は、気軽に新しく作成したり、自分で修正してプルリクエストを作成したりしてください。issueに記載すべき内容の詳細については&lt;1&gt;こちらをクリック&lt;/1&gt;してください。</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>または</value>
@@ -2026,20 +2017,11 @@
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub のプロジェクト</value>
   </data>
-  <data name="Help_Github_Text1" xml:space="preserve">
-    <value>プロジェクトを見つけることができます。</value>
+  <data name="Help_Github_Text_Project" xml:space="preserve">
+    <value>プロジェクトは&lt;0&gt;こちら&lt;/0&gt;で見つけることができます。</value>
   </data>
-  <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>ここに。</value>
-  </data>
-  <data name="Help_Github_Text2" xml:space="preserve">
-    <value>、</value>
-  </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
-  </data>
-  <data name="Help_Github_Text3" xml:space="preserve">
-    <value>すべての機能の簡単な概要が含まれています。</value>
+  <data name="Help_Github_Text_Readme" xml:space="preserve">
+    <value>&lt;0&gt;readme&lt;/0&gt;にはすべての機能の簡単な概要が記載されています。</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>バージョン：</value>
@@ -3011,8 +2993,8 @@
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>ログインしてすべてのHSReplay.netの機能を有効化する。</value>
   </data>
-  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>リプレイはアップロードされます:</value>
+  <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
+    <value>リプレイは&lt;0&gt;{0}&lt;/0&gt;にアップロードされます。</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>ログイン中:</value>
@@ -3436,11 +3418,8 @@
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>HDT v{0}が必要です。</value>
   </data>
-  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>HDT v{0}が必要です: {1}</value>
-  </data>
-  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>今すぐ更新</value>
+  <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
+    <value>HDT v{0}が必要です: &lt;0&gt;今すぐアップデート&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>正確な結果を取得できませんでした</value>

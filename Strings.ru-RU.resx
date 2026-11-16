@@ -2005,17 +2005,8 @@
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
     <value>Сообщайте об ошибках / предлагайте новые возможности</value>
   </data>
-  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Проверьте список</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>запросов на GitHub</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>. Если вы не смогли найти похожую проблему, не стесняйтесь, открывайте новую. Можете даже сами исправить и выслать патч на рассмотрение. Если вы не знаете, что нужно указывать при описании проблемы, посмотрите</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>здесь.</value>
+  <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
+    <value>1) Ознакомьтесь с &lt;0&gt;проблемами на GitHub&lt;/0&gt;. Если вы не смогли найти похожую проблему, не стесняйтесь, открывайте новую. Можете даже сами исправить и выслать патч на рассмотрение. Если вы не знаете, что нужно указывать при описании проблемы, &lt;1&gt;нажмите здесь&lt;/1&gt;.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>либо</value>
@@ -2026,20 +2017,11 @@
   <data name="Help_Label_Github" xml:space="preserve">
     <value>Проект на GitHub</value>
   </data>
-  <data name="Help_Github_Text1" xml:space="preserve">
-    <value>Проект доступен по</value>
+  <data name="Help_Github_Text_Project" xml:space="preserve">
+    <value>Проект доступен &lt;0&gt;здесь&lt;/0&gt;.</value>
   </data>
-  <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>этой ссылке.</value>
-  </data>
-  <data name="Help_Github_Text2" xml:space="preserve">
-    <value>Страница</value>
-  </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
-  </data>
-  <data name="Help_Github_Text3" xml:space="preserve">
-    <value>содержит краткий обзор всех возможностей.</value>
+  <data name="Help_Github_Text_Readme" xml:space="preserve">
+    <value>Файл &lt;0&gt;readme&lt;/0&gt; содержит краткий обзор всех возможностей.</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>Версия:</value>
@@ -3011,8 +2993,8 @@
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Войдите, чтобы включить все функции HSReplay.net</value>
   </data>
-  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Повторы отправлены на</value>
+  <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
+    <value>Повторы отправляются на &lt;0&gt;{0}&lt;/0&gt;.</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Вы вошли как</value>
@@ -3436,11 +3418,8 @@
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Требуется HDT v{0}.</value>
   </data>
-  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>Требуется HDT v{0}: {1}</value>
-  </data>
-  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>Обновить сейчас</value>
+  <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
+    <value>Требуется HDT v{0}: &lt;0&gt;Обновить сейчас&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Не удалось получить точные результаты</value>

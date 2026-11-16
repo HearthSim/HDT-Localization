@@ -2005,17 +2005,8 @@
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
     <value>Reporting bugs / requesting features</value>
   </data>
-  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Check out the</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>issues on GitHub.</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>click here.</value>
+  <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
+    <value>1) ดู&lt;0&gt;ปัญหาบน GitHub&lt;/0&gt; หากยังไม่มีการรายงานปัญหาในหัวข้อนั้น คุณสามารถเปิดรายงานใหม่ได้ และ/หรือแก้ไขด้วยตัวเองแล้วสร้าง pull request สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่ควรใส่ในรายงานปัญหา &lt;1&gt;คลิกที่นี่&lt;/1&gt;</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>or</value>
@@ -2026,20 +2017,11 @@
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub Project</value>
   </data>
-  <data name="Help_Github_Text1" xml:space="preserve">
-    <value>The project can be found</value>
+  <data name="Help_Github_Text_Project" xml:space="preserve">
+    <value>สามารถพบโปรเจกต์ได้&lt;0&gt;ที่นี่&lt;/0&gt;</value>
   </data>
-  <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>here.</value>
-  </data>
-  <data name="Help_Github_Text2" xml:space="preserve">
-    <value>The</value>
-  </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
-  </data>
-  <data name="Help_Github_Text3" xml:space="preserve">
-    <value>contains a brief overview of all the features.</value>
+  <data name="Help_Github_Text_Readme" xml:space="preserve">
+    <value>&lt;0&gt;readme&lt;/0&gt; มีภาพรวมสั้นๆ ของฟีเจอร์ทั้งหมด</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>Version:</value>
@@ -3011,8 +2993,8 @@
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Login to enable all HSReplay.net features.</value>
   </data>
-  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>Replays are uploaded to</value>
+  <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
+    <value>รีเพลย์ถูกอัปโหลดไปยัง &lt;0&gt;{0}&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Logged in as</value>
@@ -3436,11 +3418,8 @@
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>ต้องใช้ HDT v{0}</value>
   </data>
-  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>ต้องใช้ HDT v{0}: {1}</value>
-  </data>
-  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>อัพเดตตอนนี้</value>
+  <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
+    <value>ต้องใช้ HDT v{0}: &lt;0&gt;อัปเดตตอนนี้&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Could not get accurate results</value>

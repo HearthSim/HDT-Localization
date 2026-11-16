@@ -2005,17 +2005,8 @@
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
     <value>回饋BUG/需要的功能</value>
   </data>
-  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1)回饋</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>在GitHub上的問題</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>如果你沒有任何問題，你可以建立一個新的請求或錯誤修復。包含你想知道更進一步的資訊。</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>點擊這裡</value>
+  <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
+    <value>1) 查看 &lt;0&gt;GitHub 上的 issues&lt;/0&gt;。如果該主題還沒有相關問題，歡迎建立一個新的問題，甚至自己修復並建立 pull request。若想了解在問題中可包含哪些資訊，請 &lt;1&gt;點此&lt;/1&gt;。</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>或</value>
@@ -2026,20 +2017,11 @@
   <data name="Help_Label_Github" xml:space="preserve">
     <value>GitHub計畫</value>
   </data>
-  <data name="Help_Github_Text1" xml:space="preserve">
-    <value>可點此找到此計畫</value>
+  <data name="Help_Github_Text_Project" xml:space="preserve">
+    <value>可在 &lt;0&gt;此處&lt;/0&gt; 找到此專案。</value>
   </data>
-  <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>這裡</value>
-  </data>
-  <data name="Help_Github_Text2" xml:space="preserve">
-    <value>那個</value>
-  </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>說明</value>
-  </data>
-  <data name="Help_Github_Text3" xml:space="preserve">
-    <value>包含所有功能的簡單敘述</value>
+  <data name="Help_Github_Text_Readme" xml:space="preserve">
+    <value>&lt;0&gt;readme&lt;/0&gt; 包含所有功能的簡短概述。</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>版本:</value>
@@ -3011,8 +2993,8 @@
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>登入啟用HSReplay.net的所有功能</value>
   </data>
-  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>重播將會上傳至</value>
+  <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
+    <value>重播將會上傳至 &lt;0&gt;{0}&lt;/0&gt;。</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>登錄為</value>
@@ -3436,11 +3418,8 @@
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>需要 HDT v{0}。</value>
   </data>
-  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>需要 HDT v{0}：{1}</value>
-  </data>
-  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>立即更新</value>
+  <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
+    <value>需要 HDT v{0}：&lt;0&gt;立即更新&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>無法取得準確結果</value>
