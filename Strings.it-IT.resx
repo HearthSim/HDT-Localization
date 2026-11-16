@@ -2005,17 +2005,8 @@
   <data name="Help_Label_BugsFeatures" xml:space="preserve">
     <value>Segnalazione bugs / richiesta nuove funzionalità</value>
   </data>
-  <data name="Help_BugsFeatures_Option1_Text1" xml:space="preserve">
-    <value>1) Dai un'occhiata a</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github1" xml:space="preserve">
-    <value>problemi su GitHub.</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Text2" xml:space="preserve">
-    <value>Se non vi è alcuna segnalazione riguardo l'argomento sentiti libero di aprirne una nuova e/o provare a risolverlo da te e creare una richiesta di pull. Per ulteriori informazioni su ciò che vorresti includere nella segnalazione</value>
-  </data>
-  <data name="Help_BugsFeatures_Option1_Hyperlink_Github2" xml:space="preserve">
-    <value>clicca qui.</value>
+  <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
+    <value>1) Check out the &lt;0&gt;issues on GitHub&lt;/0&gt;. If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue &lt;1&gt;click here&lt;/1&gt;.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>o</value>
@@ -2026,20 +2017,11 @@
   <data name="Help_Label_Github" xml:space="preserve">
     <value>Progetto GitHub</value>
   </data>
-  <data name="Help_Github_Text1" xml:space="preserve">
-    <value>Il progetto può essere trovato</value>
+  <data name="Help_Github_Text_Project" xml:space="preserve">
+    <value>The project can be found &lt;0&gt;here&lt;/0&gt;.</value>
   </data>
-  <data name="Help_Github_Hyperlink1" xml:space="preserve">
-    <value>qui.</value>
-  </data>
-  <data name="Help_Github_Text2" xml:space="preserve">
-    <value>Il</value>
-  </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>leggimi</value>
-  </data>
-  <data name="Help_Github_Text3" xml:space="preserve">
-    <value>contiene una breve panoramica di tutte le funzionalità.</value>
+  <data name="Help_Github_Text_Readme" xml:space="preserve">
+    <value>The &lt;0&gt;readme&lt;/0&gt; contains a brief overview of all the features.</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>Versione:</value>
@@ -3011,8 +2993,8 @@
   <data name="Options_HSReplay_Account_LoginPrompt2" xml:space="preserve">
     <value>Accedi per abilitare tutte le funzioni di HSReplay.net.</value>
   </data>
-  <data name="Options_HSReplay_Account_ReplayInfo" xml:space="preserve">
-    <value>I Replay sono caricati in</value>
+  <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
+    <value>Replays are uploaded to &lt;0&gt;{0}&lt;/0&gt;.</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Accesso eseguito come</value>
@@ -3436,11 +3418,8 @@
   <data name="BobsBuddyStatusMessage_UpdateRequired" xml:space="preserve">
     <value>Richiesta HDT v{0}.</value>
   </data>
-  <data name="BobsBuddyStatusMessage_UpdateRequiredUpdateNow" xml:space="preserve">
-    <value>Richiesta HDT v{0}: {1}</value>
-  </data>
-  <data name="BobsBuddyStatusMessage_UpdateNow" xml:space="preserve">
-    <value>Aggiorna ora</value>
+  <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
+    <value>HDT v{0} required: &lt;0&gt;Update Now&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Impossibile ottenere risultati accurati</value>
