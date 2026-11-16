@@ -2006,7 +2006,7 @@
     <value>Сообщайте об ошибках / предлагайте новые возможности</value>
   </data>
   <data name="Help_BugsFeatures_Option1_Text" xml:space="preserve">
-    <value>1) Check out the &lt;0&gt;issues on GitHub&lt;/0&gt;. If there's no issue on the topic feel free to open a new one and/or even fix it yourself and create a pull request. For some further information on what you might want to include in the issue &lt;1&gt;click here&lt;/1&gt;.</value>
+    <value>1) Ознакомьтесь с &lt;0&gt;проблемами на GitHub&lt;/0&gt;. Если вы не смогли найти похожую проблему, не стесняйтесь, открывайте новую. Можете даже сами исправить и выслать патч на рассмотрение. Если вы не знаете, что нужно указывать при описании проблемы, &lt;1&gt;нажмите здесь&lt;/1&gt;.</value>
   </data>
   <data name="Help_BugsFeatures_Text_Or" xml:space="preserve">
     <value>либо</value>
@@ -2018,10 +2018,10 @@
     <value>Проект на GitHub</value>
   </data>
   <data name="Help_Github_Text_Project" xml:space="preserve">
-    <value>The project can be found &lt;0&gt;here&lt;/0&gt;.</value>
+    <value>Проект доступен &lt;0&gt;здесь&lt;/0&gt;.</value>
   </data>
   <data name="Help_Github_Text_Readme" xml:space="preserve">
-    <value>The &lt;0&gt;readme&lt;/0&gt; contains a brief overview of all the features.</value>
+    <value>Файл &lt;0&gt;readme&lt;/0&gt; содержит краткий обзор всех возможностей.</value>
   </data>
   <data name="Help_Label_Version" xml:space="preserve">
     <value>Версия:</value>
@@ -2994,7 +2994,7 @@
     <value>Войдите, чтобы включить все функции HSReplay.net</value>
   </data>
   <data name="Options_HSReplay_Account_ReplayInfo_Username" xml:space="preserve">
-    <value>Replays are uploaded to &lt;0&gt;{0}&lt;/0&gt;.</value>
+    <value>Повторы отправляются на &lt;0&gt;{0}&lt;/0&gt;.</value>
   </data>
   <data name="Options_HSReplay_Account_LoggedInAs" xml:space="preserve">
     <value>Вы вошли как</value>
@@ -3419,7 +3419,7 @@
     <value>Требуется HDT v{0}.</value>
   </data>
   <data name="BobsBuddyStatusMessage_UpdateRequired_UpdateNowLink" xml:space="preserve">
-    <value>HDT v{0} required: &lt;0&gt;Update Now&lt;/0&gt;</value>
+    <value>Требуется HDT v{0}: &lt;0&gt;Обновить сейчас&lt;/0&gt;</value>
   </data>
   <data name="BobsBuddyStatusMessage_NotEnoughData" xml:space="preserve">
     <value>Не удалось получить точные результаты</value>
