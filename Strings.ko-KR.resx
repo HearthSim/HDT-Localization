@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>설치된 플러그인이 없습니다.</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>경고:</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>플러그인은 HDT 또는 하스스톤의 동작을 변경하거나 손상시킬 수 있으며, 설치되어 있는 동안 PC 전체에 영향을 미칠 수 있습니다. 완전히 신뢰할 수 있는 출처의 플러그인만 설치하세요.</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT가 관리자 권한으로 실행 중이므로 플러그인도 관리자 권한으로 실행되며, 모든 파일, 설정, 다른 프로그램을 포함한 PC 전체를 완전히 제어할 수 있습니다. 이러한 방식으로 HDT를 사용하지 않는 것을 강력히 권장하며, 향후 버전에서는 이 기능 지원을 중단할 예정입니다.</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;Deprecation Notice:&lt;/b&gt; Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn more&lt;/0&gt; about why we're making that change.</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>"{0}"을 실행하시겠습니까?</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>내 카드에 가장 적합한 덱을 찾으세요!</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn More&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>로그인 하여 내 리플레이 보기와 HSReplay.net 기능 활성화.</value>
