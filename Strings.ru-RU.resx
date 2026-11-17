@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>Плагины не установлены.</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>Предупреждение:</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>Плагины могут изменить или нарушить работу HDT или Hearthstone и способны повлиять на весь ваш компьютер, пока они установлены. Устанавливайте плагины только из источников, которым вы полностью доверяете.</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT запущен от имени администратора, поэтому плагины также работают с правами администратора и получают полный контроль над всем вашим компьютером, включая все файлы, настройки и другие программы. Мы настоятельно не рекомендуем использовать HDT таким образом и прекратим поддержку этого в будущих версиях.</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;Deprecation Notice:&lt;/b&gt; Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn more&lt;/0&gt; about why we're making that change.</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>Запустить «{0}»?</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Показать лучшие колоды с учетом коллекции!</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn More&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Войдите, чтобы привязать свои повторы и включить все функции HSReplay.net</value>
