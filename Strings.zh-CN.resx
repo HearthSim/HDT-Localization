@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>未安装任何插件。</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>警告：</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>插件可能会改变或破坏HDT或炉石传说的运行，并且只要处于安装状态，就可能影响你的整台电脑。请仅安装来自你完全信任来源的插件。</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT正以管理员身份运行，因此插件也会以管理员身份运行，并可完全控制你的整台电脑，包括所有文件、设置和其他程序。我们强烈建议不要以这种方式使用HDT，并将在未来版本中停止支持此方式。</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;弃用通知：&lt;/b&gt;插件将于2026年11月30日起在Hearthstone Deck Tracker中停止工作。&lt;0&gt;了解更多&lt;/0&gt;关于我们做出此项变更的原因。</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>运行"{0}"？</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>寻找最适合你的收藏的套牌！</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>插件将于2026年11月30日起在Hearthstone Deck Tracker中停止工作。&lt;0&gt;了解更多&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>登录以关联回放数据并启用HSReplay.net的全部功能。</value>

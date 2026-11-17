@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>Aucun plugin installé.</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>Avertissement :</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>Les plugins peuvent modifier ou perturber le comportement de HDT ou de Hearthstone et peuvent affecter l'ensemble de votre PC tant qu'ils sont installés. N'installez que des plugins provenant de sources auxquelles vous faites entièrement confiance.</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT est exécuté en tant qu'administrateur, les plugins le sont donc également et ont un contrôle total sur l'ensemble de votre PC, y compris tous vos fichiers, paramètres et autres programmes. Nous déconseillons fortement d'utiliser HDT de cette manière et cesserons de la prendre en charge dans une future version.</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;Avis d'obsolescence :&lt;/b&gt; les plugins cesseront de fonctionner dans Hearthstone Deck Tracker le 30 novembre 2026. &lt;0&gt;En savoir plus&lt;/0&gt; sur les raisons de ce changement.</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>Exécuter « {0} » ?</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Trouvez les meilleurs decks pour votre collection !</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>Les plugins cesseront de fonctionner dans Hearthstone Deck Tracker le 30 novembre 2026. &lt;0&gt;En savoir plus&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Connectez-vous pour accéder à vos rediffusions et activer toutes les fonctions de HSReplay.net.</value>

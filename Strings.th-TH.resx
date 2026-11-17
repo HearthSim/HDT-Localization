@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>ยังไม่ได้ติดตั้งปลั๊กอิน</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>คำเตือน:</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>ปลั๊กอินอาจเปลี่ยนแปลงหรือทำให้การทำงานของ HDT หรือ Hearthstone เสียหาย และอาจส่งผลต่อ PC ทั้งเครื่องของคุณตราบใดที่ยังติดตั้งอยู่ ติดตั้งปลั๊กอินจากแหล่งที่คุณไว้วางใจอย่างเต็มที่เท่านั้น</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT กำลังทำงานในฐานะผู้ดูแลระบบ ดังนั้นปลั๊กอินจะทำงานในฐานะผู้ดูแลระบบด้วยและมีสิทธิ์ควบคุม PC ทั้งเครื่องของคุณอย่างสมบูรณ์ รวมถึงไฟล์ การตั้งค่า และโปรแกรมอื่นๆ ทั้งหมด เราขอแนะนำอย่างยิ่งว่าไม่ควรใช้ HDT ในลักษณะนี้ และจะหยุดสนับสนุนวิธีนี้ในเวอร์ชันถัดไป</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;ประกาศการเลิกใช้งาน:&lt;/b&gt; ปลั๊กอินจะหยุดทำงานใน Hearthstone Deck Tracker ในวันที่ 30 พฤศจิกายน 2026 &lt;0&gt;เรียนรู้เพิ่มเติม&lt;/0&gt; เกี่ยวกับเหตุผลที่เราทำการเปลี่ยนแปลงนี้</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>รัน "{0}" หรือไม่?</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Find the best decks for your collection!</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>ปลั๊กอินจะหยุดทำงานใน Hearthstone Deck Tracker ในวันที่ 30 พฤศจิกายน 2026 &lt;0&gt;เรียนรู้เพิ่มเติม&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Login to claim your replays and enable all HSReplay.net features.</value>
