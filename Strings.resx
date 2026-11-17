@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>No plugins installed.</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>Warning:</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>Plugins may change or break the behavior of HDT or Hearthstone and can affect your entire PC as long as they are installed. Only install plugins from sources you fully trust.</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT is running as administrator, so plugins also run as administrator and have full control over your entire PC, including all files, settings and other programs. We strongly recommend against using HDT in this way and will stop supporting this in a future version.</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;Deprecation Notice:&lt;/b&gt; Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn more&lt;/0&gt; about why we're making that change.</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>Run "{0}"?</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>Find the best decks for your collection!</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn More&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>Login to claim your replays and enable all HSReplay.net features.</value>
