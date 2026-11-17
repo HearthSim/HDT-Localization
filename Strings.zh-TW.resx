@@ -789,14 +789,8 @@
   <data name="Options_Tracker_Plugins_Empty" xml:space="preserve">
     <value>未安裝任何插件。</value>
   </data>
-  <data name="Options_Tracker_Plugins_Warning_Prefix" xml:space="preserve">
-    <value>警告:</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning" xml:space="preserve">
-    <value>插件可能會改變或破壞 HDT 或《爐石戰記》的運作，且只要安裝就會影響到你的整台電腦。請僅安裝來自你完全信任來源的插件。</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Warning_Admin" xml:space="preserve">
-    <value>HDT 正以系統管理員身分執行，因此插件也會以系統管理員身分執行，並對你的整台電腦擁有完整控制權，包括所有檔案、設定和其他程式。我們強烈建議不要以這種方式使用 HDT，並將在未來版本中停止支援此做法。</value>
+  <data name="Options_Tracker_Plugins_Deprecation" xml:space="preserve">
+    <value>&lt;b&gt;Deprecation Notice:&lt;/b&gt; Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn more&lt;/0&gt; about why we're making that change.</value>
   </data>
   <data name="Options_Tracker_Plugins_Dialog_Install_Title" xml:space="preserve">
     <value>要執行「{0}」嗎？</value>
@@ -2986,6 +2980,9 @@
   </data>
   <data name="Banner_CollectionSyncing_Subtitle" xml:space="preserve">
     <value>在你的收藏中尋找最佳套牌</value>
+  </data>
+  <data name="Banner_PluginsDeprecation" xml:space="preserve">
+    <value>Plugins will stop working in Hearthstone Deck Tracker on November 30th, 2026. &lt;0&gt;Learn More&lt;/0&gt;</value>
   </data>
   <data name="Options_HSReplay_Account_LoginPrompt1" xml:space="preserve">
     <value>登入並啟用重播與HSReplay.net的所有功能</value>
