@@ -3317,13 +3317,13 @@
     <value>Show turn counter</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
-    <value>Show tavern tier and main minion type next to the leaderboard</value>
+    <value>แสดงระดับโรงเตี๊ยมและประเภทมินเนี่ยนหลักข้างกระดานผู้นำ</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
-    <value>Always show for every player</value>
+    <value>แสดงสำหรับผู้เล่นทุกคนเสมอ</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
-    <value>Use old-style minion type icons</value>
+    <value>ใช้ไอคอนประเภทมินเนี่ยนแบบเก่า</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
@@ -5562,15 +5562,15 @@
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
-    <value>Trigger a mouse click at the start of matches to squelch the other player</value>
+    <value>คลิกเมาส์อัตโนมัติเมื่อเริ่มแมตช์เพื่อปิดการโต้ตอบกับผู้เล่นอีกฝ่าย</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
-    <value>At the first turn of a match against another player, HDT right-clicks the opponent's hero and clicks the squelch option, then puts your mouse back. It only clicks while Hearthstone is the active window.</value>
+    <value>ในเทิร์นแรกของแมตช์ที่แข่งกับผู้เล่นอีกคน HDT จะคลิกขวาที่ฮีโร่ของคู่ต่อสู้แล้วคลิกตัวเลือกปิดการโต้ตอบ จากนั้นจึงนำเมาส์กลับที่เดิม โดยจะคลิกเฉพาะเมื่อ Hearthstone เป็นหน้าต่างที่กำลังใช้งานอยู่เท่านั้น</value>
   </data>
   <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
-    <value>Autosquelch</value>
+    <value>ปิดเสียงอิโมทอัตโนมัติ</value>
   </data>
   <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
-    <value>Autosquelch is now built into HDT and the plugin has been disabled. You can turn it off in Options &gt; Overlay &gt; General (enable Advanced options to see it).</value>
+    <value>ตอนนี้ฟีเจอร์ปิดการโต้ตอบอัตโนมัติรวมอยู่ใน HDT แล้ว และปลั๊กอินนี้ถูกปิดใช้งานแล้ว คุณสามารถปิดฟีเจอร์นี้ได้ที่ Options &gt; Overlay &gt; General (เปิดใช้งาน Advanced options เพื่อแสดงตัวเลือกนี้)</value>
   </data>
 </root>
