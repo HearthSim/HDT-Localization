@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Show turn counter</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>リーダーボードの横に酒場のグレードとメインのミニオンの種類を表示</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>常にすべてのプレイヤーに表示</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>旧スタイルのミニオンの種類アイコンを使用</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>対戦開始時にマウスクリックを実行して相手プレイヤーを黙らせる</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>他のプレイヤーとの対戦の最初のターンで、HDTが相手のヒーローを右クリックして黙らせるオプションをクリックし、その後マウスを元の位置に戻します。Hearthstoneがアクティブウィンドウのときのみクリックが実行されます。</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>自動で黙らせる</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>自動黙らせ機能がHDTに組み込まれ、プラグインは無効になりました。オプション &gt; オーバーレイ &gt; 一般（詳細オプションを有効にすると表示されます）でオフにできます。</value>
   </data>
 </root>

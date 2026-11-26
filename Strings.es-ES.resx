@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Show turn counter</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Mostrar el nivel de taberna y el tipo de esbirro principal junto a la clasificación</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Mostrar siempre para cada jugador</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Usar los iconos de tipo de esbirro antiguos</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Hacer clic con el ratón al inicio de las partidas para silenciar al otro jugador</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>En el primer turno de una partida contra otro jugador, HDT hace clic derecho en el héroe del oponente y selecciona la opción de silenciar, y luego devuelve el ratón a su posición. Solo hace clic mientras Hearthstone es la ventana activa.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Silenciado automático</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>El silenciado automático ya está integrado en HDT y el plugin se ha desactivado. Puedes desactivarlo en Opciones &gt; Overlay &gt; General (activa las opciones avanzadas para verlo).</value>
   </data>
 </root>

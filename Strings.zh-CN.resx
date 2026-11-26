@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>显示回合计数器</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>在排行榜旁显示酒馆等级和主要随从类型</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>始终为每位玩家显示</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>使用旧版随从类型图标</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>在酒馆战棋中显示英雄选择统计通知</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>选项：{0}张卡牌。将鼠标悬停在其中一张上，即可查看它能拼装出的随从</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>在对局开始时触发一次鼠标点击，以无视对手</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>在与其他玩家对局的第一个回合，HDT会右键点击对手的英雄并点击无视选项，然后将鼠标移回原位。仅在炉石传说为活动窗口时才会进行点击。</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>自动无视</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>自动无视现已内置于HDT中，相关插件已被禁用。你可以在选项 &gt; 内嵌浮窗 &gt; 常规中将其关闭（需启用高级选项才能看到）。</value>
   </data>
 </root>

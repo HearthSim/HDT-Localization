@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Mostrar contador de turnos</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Mostrar o grau da taverna e o tipo de lacaio principal ao lado do placar</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Sempre mostrar para todos os jogadores</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Usar ícones de tipo de lacaio no estilo antigo</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Exibir notificação com dados de escolha do herói nos Campos de Batalha</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Aciona um clique do mouse no início das partidas para silenciar o outro jogador</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>No primeiro turno de uma partida contra outro jogador, o HDT clica com o botão direito no herói do oponente e clica na opção de silenciar, depois devolve o mouse à posição anterior. Ele só clica enquanto o Hearthstone é a janela ativa.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Silenciamento automático</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>O silenciamento automático agora é integrado ao HDT e o plugin foi desativado. Você pode desligá-lo em Opções &gt; Overlay &gt; Geral (ative as opções avançadas para vê-lo).</value>
   </data>
 </root>

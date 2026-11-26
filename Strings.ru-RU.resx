@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Show turn counter</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Показывать уровень таверны и основной тип существ рядом с таблицей лидеров</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Всегда показывать для каждого игрока</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Использовать старые значки типов существ</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Автоматически нажимать левой кнопкой мыши в начале матча, чтобы отключить сообщения другого игрока</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>На первом ходу матча против другого игрока HDT нажимает правой кнопкой мыши на Герое противника, выбирает опцию «Отключить сообщения» и возвращает курсор на место. Нажатия происходят, только когда Hearthstone является активным окном.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Автоотключение сообщений</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>Автоотключение сообщений теперь встроено в HDT, и плагин отключён. Вы можете выключить его в «Настройки &gt; Интерфейс &gt; Общие» (включите расширенные настройки, чтобы увидеть эту опцию).</value>
   </data>
 </root>

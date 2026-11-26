@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Zugzähler anzeigen</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Gasthausstufe und Haupt-Dienertyp neben der Bestenliste anzeigen</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Immer für jeden Spieler anzeigen</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Alte Dienertyp-Symbole verwenden</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Benachrichtigung mit Heldenstatistiken in Schlachtfeld anzeigen</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Löst zu Beginn eines Matches einen Mausklick aus, um beim anderen Spieler Emotes aus zu schalten</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>In der ersten Runde eines Matches gegen einen anderen Spieler klickt HDT mit der rechten Maustaste auf den Helden des Gegners, wählt die Option „Emotes aus“ und setzt deine Maus anschließend zurück. Es wird nur geklickt, während Hearthstone das aktive Fenster ist.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Auto-Squelch</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>Auto-Squelch ist jetzt in HDT integriert und das Plugin wurde deaktiviert. Du kannst es unter Optionen &gt; Overlay &gt; Allgemein ausschalten (aktiviere die erweiterten Optionen, um es zu sehen).</value>
   </data>
 </root>

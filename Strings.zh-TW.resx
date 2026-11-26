@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>顯示回合計數器</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>在排行榜旁顯示旅店等級與主要手下類型</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>總是為每位玩家顯示</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>使用舊版手下類型圖示</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>在對戰開始時自動觸發一次滑鼠點擊，以對另一位玩家進行消音</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>在與其他玩家對戰的第一回合，HDT會對對手的英雄按下滑鼠右鍵並點擊消音選項，然後將你的滑鼠移回原位。只有當《爐石戰記》為使用中的視窗時才會進行點擊。</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>自動消音</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>自動消音現已內建於HDT，此外掛程式已被停用。你可以在「選項」&gt;「覆蓋介面」&gt;「一般」中關閉此功能（需啟用進階選項才能看到）。</value>
   </data>
 </root>

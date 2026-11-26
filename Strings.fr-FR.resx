@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Afficher le compteur de tour</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Afficher le niveau de taverne et le type de serviteur principal à côté du classement</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Toujours afficher pour chaque joueur</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Utiliser les anciennes icônes de type de serviteur</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Déclencher un clic de souris au début des parties pour couper les emotes de l'autre joueur</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>Au premier tour d'une partie contre un autre joueur, HDT fait un clic droit sur le héros de l'adversaire et clique sur l'option pour couper les emotes, puis replace votre souris. Il ne clique que lorsque Hearthstone est la fenêtre active.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Coupure automatique des emotes</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>La coupure automatique des emotes est désormais intégrée à HDT et le plugin a été désactivé. Vous pouvez la désactiver dans Options &gt; Overlay &gt; Général (activez les options avancées pour la voir).</value>
   </data>
 </root>

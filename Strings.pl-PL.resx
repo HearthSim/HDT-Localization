@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Show turn counter</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Pokazuj poziom Karczmy i główny rodzaj stronnika obok tabeli wyników</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Zawsze pokazuj dla każdego gracza</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Używaj ikon rodzaju stronnika w starym stylu</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Wykonaj kliknięcie myszą na początku meczu, aby wyciszyć (Wycisz) drugiego gracza</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>W pierwszej turze meczu z innym graczem HDT klika prawym przyciskiem myszy bohatera przeciwnika i wybiera opcję wyciszenia (Wycisz), a następnie przywraca pozycję kursora. Klika tylko wtedy, gdy Hearthstone jest aktywnym oknem.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Autowyciszanie</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>Autosquelch jest teraz wbudowany w HDT, a wtyczka została wyłączona. Możesz go wyłączyć w Opcje &gt; Nakładka &gt; Ogólne (włącz opcje zaawansowane, aby go zobaczyć).</value>
   </data>
 </root>

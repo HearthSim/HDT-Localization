@@ -3316,6 +3316,15 @@
   <data name="Options_Overlay_Battlegrounds_CheckBox_ShowTurnCounter" xml:space="preserve">
     <value>Show turn counter</value>
   </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
+    <value>Mostra livello Locanda e tipo di servitore principale accanto alla classifica</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
+    <value>Mostra sempre per ogni giocatore</value>
+  </data>
+  <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
+    <value>Usa le icone dei tipi di servitore vecchio stile</value>
+  </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
   </data>
@@ -5551,5 +5560,17 @@
   </data>
   <data name="TheOutfinder_Label_AssembleOptions" xml:space="preserve">
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
+    <value>Attiva un clic del mouse all'inizio delle partite per silenziare l'altro giocatore</value>
+  </data>
+  <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
+    <value>Al primo turno di una partita contro un altro giocatore, HDT fa clic destro sull'eroe dell'avversario e seleziona l'opzione silenzia, poi riporta il mouse nella posizione originale. Il clic avviene solo mentre Hearthstone è la finestra attiva.</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
+    <value>Silenziamento automatico</value>
+  </data>
+  <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
+    <value>Il silenziamento automatico è ora integrato in HDT e il plugin è stato disattivato. Puoi disattivarlo in Opzioni &gt; Overlay &gt; Generale (attiva le opzioni avanzate per vederlo).</value>
   </data>
 </root>
