@@ -3317,13 +3317,13 @@
     <value>Show turn counter</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_LeaderboardTierAndTribe" xml:space="preserve">
-    <value>Show tavern tier and main minion type next to the leaderboard</value>
+    <value>Mostra livello Locanda e tipo di servitore principale accanto alla classifica</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_AlwaysShowLeaderboardTierAndTribe" xml:space="preserve">
-    <value>Always show for every player</value>
+    <value>Mostra sempre per ogni giocatore</value>
   </data>
   <data name="Options_Overlay_Battlegrounds_CheckBox_LegacyTribeIcons" xml:space="preserve">
-    <value>Use old-style minion type icons</value>
+    <value>Usa le icone dei tipi di servitore vecchio stile</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_Battlegrounds_Hero" xml:space="preserve">
     <value>Show hero pick stats notification in Battlegrounds</value>
@@ -5562,15 +5562,15 @@
     <value>Options: {0} cards. Hover one to see the minions it can make</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Autosquelch" xml:space="preserve">
-    <value>Trigger a mouse click at the start of matches to squelch the other player</value>
+    <value>Attiva un clic del mouse all'inizio delle partite per silenziare l'altro giocatore</value>
   </data>
   <data name="Options_Overlay_General_CheckBox_Autosquelch_Tooltip" xml:space="preserve">
-    <value>At the first turn of a match against another player, HDT right-clicks the opponent's hero and clicks the squelch option, then puts your mouse back. It only clicks while Hearthstone is the active window.</value>
+    <value>Al primo turno di una partita contro un altro giocatore, HDT fa clic destro sull'eroe dell'avversario e seleziona l'opzione silenzia, poi riporta il mouse nella posizione originale. Il clic avviene solo mentre Hearthstone è la finestra attiva.</value>
   </data>
   <data name="MessageDialogs_AutosquelchMigrated_Title" xml:space="preserve">
-    <value>Autosquelch</value>
+    <value>Silenziamento automatico</value>
   </data>
   <data name="MessageDialogs_AutosquelchMigrated_Text" xml:space="preserve">
-    <value>Autosquelch is now built into HDT and the plugin has been disabled. You can turn it off in Options &gt; Overlay &gt; General (enable Advanced options to see it).</value>
+    <value>Il silenziamento automatico è ora integrato in HDT e il plugin è stato disattivato. Puoi disattivarlo in Opzioni &gt; Overlay &gt; Generale (attiva le opzioni avanzate per vederlo).</value>
   </data>
 </root>
